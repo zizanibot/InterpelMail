@@ -42,6 +42,21 @@ document.addEventListener('DOMContentLoaded', async function() {
     document.getElementById('send-email').addEventListener('click', sendEmail);
 });
 
+async function findAdresses() {
+    const address = document.getElementById('adress').value.trim();
+    console.log(address);
+
+    try {
+            const geocodeUrl = `https://api-adresse.data.gouv.fr/search/?q=${encodeURIComponent(address)}&limit=5`;
+            const geocodeResponse = await fetch(geocodeUrl);
+            const geocodeData = await geocodeResponse.json();
+
+            console.log(geocodeData);
+    } catch (error) {
+        console.error('Error:', error);
+    }
+}
+
 async function findDeputyFromAddress() {
     const address = document.getElementById('adress').value.trim();
     const deputyInfo = document.getElementById('deputy-info');
@@ -61,7 +76,7 @@ async function findDeputyFromAddress() {
     sendButton.style.display = 'none';
 
     try {
-        const geocodeUrl = `https://api-adresse.data.gouv.fr/search/?q=${encodeURIComponent(address)}&limit=1`;
+        const geocodeUrl = `https://api-adresse.data.gouv.fr/search/?q=${encodeURIComponent(address)}&limit=5`;
         const geocodeResponse = await fetch(geocodeUrl);
         const geocodeData = await geocodeResponse.json();
 
