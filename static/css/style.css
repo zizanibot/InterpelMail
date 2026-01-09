@@ -30,3 +30,19 @@ button:hover {
 #find-deputy:hover {
     background: #218838;
 }
+
+nav {
+    margin-bottom: 30px;
+    padding: 15px 0;
+    border-bottom: 2px solid #ddd;
+}
+
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #0066cc;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
