@@ -27,7 +27,7 @@ UPDATE_URL_DOWNLOAD_ACTEUR_ORGANE = __load_env(
     "AMO10_deputes_actifs_mandats_actifs_organes.json.zip") # URL to update acteur et organe
 UPDATE_PROGRESS_SECOND = int(__load_env("UPDATE_DOWNLOAD_PROGRESS_SECOND", "2")) # Download progress update in second, if 0 is disabled
 
-DATA_FOLDER = Path(__load_env("DATA_FOLDER", "../data"))  # Path to "organe" folder
+DATA_FOLDER = Path(__load_env("DATA_FOLDER", "data"))  # Path to "data" folder
 
 # Logs
 LOG_PATH = __load_env("LOG_PATH", "interpelmail_update.log")  # Path to the log file

@@ -2,6 +2,7 @@ aiohttp
 python-dotenv
 typing-extensions
 pyyaml
+types-PyYAML
 pytest
 pytest-asyncio
 pytest-cov

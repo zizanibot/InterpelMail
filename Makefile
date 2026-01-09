@@ -1,18 +1,23 @@
 PYTHON=python
+BASE_FOLDER=scripts
 ifeq ($(OS),Windows_NT)
-  VENV=.venv
+  VENV=$(BASE_FOLDER)\.venv
   BIN=$(VENV)\Scripts
   PIP=$(BIN)\pip
   PYTEST=$(BIN)\pytest
   MYPY=$(BIN)\mypy
   VENV_PYTHON = $(BIN)\$(PYTHON)
+  REQ = $(BASE_FOLDER)\requirements.txt
+  MAIN = $(BASE_FOLDER)\main.py
 else
-  VENV=venv
+  VENV=$(BASE_FOLDER)/venv
   BIN=$(VENV)/bin
   PIP=$(BIN)/pip
   PYTEST=$(BIN)/pytest
   MYPY=$(BIN)/mypy
   VENV_PYTHON = $(BIN)/$(PYTHON)
+  REQ = $(BASE_FOLDER)/requirements.txt
+  MAIN = $(BASE_FOLDER)/main.py
 endif
 
 # install
@@ -21,11 +26,11 @@ install_venv:
 	$(VENV_PYTHON) -m pip install --upgrade pip
 
 install: install_venv
-	$(PIP) install --upgrade -r ./requirements.txt
+	$(PIP) install --upgrade -r $(REQ)
 
 # run
 run:
-	$(VENV_PYTHON) main.py
+	$(VENV_PYTHON) $(MAIN)
 
 # unit testing
 test:
@@ -33,7 +38,7 @@ test:
 
 # type annotations
 mypy:
-	$(MYPY) . --strict
+	$(MYPY) $(BASE_FOLDER) --strict
 
 # unit testing + type checking
 check: test mypy
