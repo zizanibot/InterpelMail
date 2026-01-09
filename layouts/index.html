@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Site.Title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
     <!-- Turf.js for geospatial operations -->
     <script src="https://cdn.jsdelivr.net/npm/@turf/turf@7/turf.min.js"></script>
 </head>
@@ -37,6 +37,6 @@
         };
     </script>
 
-    <script src="/js/main.js"></script>
+    <script src="{{ "js/main.js" | relURL }}"></script>
 </body>
 </html>
