@@ -1,7 +1,3 @@
-baseURL = 'https://zizanibot.github.io/InterpelMail/'
+baseURL = '/'
 languageCode = 'fr'
 title = 'InterpelMail'
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
