@@ -4,7 +4,7 @@ let selectedDeputy = null;
 document.addEventListener('DOMContentLoaded', async function() {
 
     try {
-        const response = await fetch('/geojson/circonscriptions-legislatives-p20.geojson');
+        const response = await fetch('geojson/circonscriptions-legislatives-p20.geojson');
         circonscriptionsData = await response.json();
         console.log('Circonscriptions loaded:', circonscriptionsData.features.length);
     } catch (error) {
