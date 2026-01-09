@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <!-- Turf.js for geospatial operations -->
+    <script src="https://cdn.jsdelivr.net/npm/@turf/turf@7/turf.min.js"></script>
+</head>
+<body>
+    <div id="campaign-info"><h1>Interpelle tes élu·es:</h1></div>
+    
+    <div>
+        <select id="campaign">
+            <option value="">-- Sélectionne une campagne --</option>
+            {{ range $key, $campaign := .Site.Data.campaigns }}
+            <option value="{{ $key }}">{{ $campaign.title }} -- {{ $campaign.date }}</option>
+            {{ end }}
+        </select>
+    </div>
+
+    
+    <div>
+        <input type="text" id="adress" placeholder="Entre ici l'adresse de ton domicile" maxlength="50">
+        <button id="find-deputy" type="button">Trouver mon député</button>
+    </div>
+    
+    <div id="deputy-info"></div>
+    <button id="send-email" style="display:none;">L'interpeller</button>
+    <div id="desc"></div>
+
+    <script>
+        window.siteData = {
+            campaigns: {{ .Site.Data.campaigns | jsonify | safeJS }},
+            deputies: {{ .Site.Data.deputies | jsonify | safeJS }}
+        };
+    </script>
+
+    <script src="/js/main.js"></script>
+</body>
+</html>

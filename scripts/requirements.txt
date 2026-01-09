@@ -1,0 +1,11 @@
+aiohttp
+python-dotenv
+typing-extensions
+pyyaml
+pytest
+pytest-asyncio
+pytest-cov
+mypy
+aiofiles
+types-aiofiles
+attrs
