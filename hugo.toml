@@ -1,3 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'fr'
 title = 'InterpelMail'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
