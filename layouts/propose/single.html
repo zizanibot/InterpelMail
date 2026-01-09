@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+    {{ partial "nav.html" . }}
+    
+    <main>
+        <h1>{{ .Title }}</h1>
+        
+        <p>
+            Tu as une idée de campagne ? Propose-la ici ! Si la proposition est complète, elle sera disponible publiquement pour approbation dans les 
+            <a href="https://github.com/zizanibot/InterpelMail/issues">issues</a> du projet.
+        </p>
+
+
+        <form id="campaign-form">
+            <div>
+                <label for="title">Titre de la campagne :</label>
+                <input type="text" id="title" name="title" required maxlength="100" placeholder="Ex: Transition énergétique">
+            </div>
+
+            <div>
+                <label for="subject">Résumé :</label>
+                <input type="text" id="subject" name="subject" required maxlength="200" placeholder="Ex: Accélérons l'isolation des passoires thermique !">
+            </div>
+
+            <div>
+                <label for="desc">Description (max 5000 caractères) :</label>
+                <textarea id="desc" name="desc" required maxlength="5000" rows="10" placeholder="Ex: Depuis 2015, la part des logements concidérés comme passoires thermiques..."></textarea>
+                <small><span id="char-count-desc">0</span> / 5000 caractères</small>
+            </div>
+
+            <div>
+                <label for="body">Message type (max 5000 caractères) :</label>
+                <textarea id="body" name="body" required maxlength="5000" rows="10" placeholder="Madame, Monsieur le Député,
+
+Je vous écris concernant..."></textarea>
+                <small><span id="char-count-body">0</span> / 5000 caractères</small>
+            </div>
+
+            <div>
+                <label for="contact">Contact (cette information restera privée) :</label>
+                <input type="text" id="contact" name="contact" required maxlength="200" placeholder="Un moyen de te contacter">
+            </div>
+
+            <!-- Honeypot -->
+            <input type="text" id="website" name="website" style="display:none;" tabindex="-1" autocomplete="off">
+
+            <button type="submit">Soumettre la proposition</button>
+            <div id="form-message"></div>
+        </form>
+    </main>
+
+    <script src="{{ "js/propose.js" | relURL }}"></script>
+</body>
+</html>
