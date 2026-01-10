@@ -46,7 +46,7 @@ ${proposeData.title}:
 
         return new Response(JSON.stringify({ 
             success: true, 
-            issueUrl: issue.html_url 
+            url: issue.html_url 
         }), {
             status: 200,
             headers: { 
