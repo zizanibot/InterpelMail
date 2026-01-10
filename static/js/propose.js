@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: document.getElementById('title').value,
             subject: document.getElementById('subject').value,
             desc: document.getElementById('desc').value,
-            body: document.getElementById('contact').value
+            body: document.getElementById('body').value
         };
 
         try {
@@ -37,10 +37,19 @@ document.addEventListener('DOMContentLoaded', function() {
             });
 
             const result = await response.json();
-
             if (response.ok) {
                 message.innerHTML = `Proposition soumise avec succès ! <a href="${result.url}" target="_blank">Voir la proposition</a>`;
                 message.style.color = 'green';
+
+                const contact = confirm(
+                    'Souhaites-tu me partager tes coordonnées en privé afin d\'échanger sur la campagne ?\n\n' +
+                    'Cela ouvrira ton client email pour m\'envoyer un message privé.'
+                );
+
+                if (contact) {
+                    const emailBody = `Bonjour,\n\nConcernant mon message public :\n${result.url}\n\nVoici mes coordonnées :\n[Ajoute tes informations de contact ici]`;
+                    window.location.href = `mailto:${context.env.EMAIL}?subject=${encodeURIComponent('[InterpelMail] Contact privé - ' + proposeData.subject)}&body=${encodeURIComponent(emailBody)}`;
+                }
             } else {
                 throw new Error(result.error);
             }
