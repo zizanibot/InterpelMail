@@ -6,7 +6,7 @@ export async function onRequestPost(context) {
         const repo = 'InterpelMail';
 
         // Validation
-        if (!proposeData.title || !proposeData.subject || !proposeData.description || !proposeData.body) {
+        if (!proposeData.title || !proposeData.subject || !proposeData.desc || !proposeData.body) {
             return new Response('Missing fields', { status: 400 });
         }
 
