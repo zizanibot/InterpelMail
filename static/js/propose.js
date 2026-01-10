@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 if (contact) {
                     const emailBody = `Bonjour,\n\nConcernant mon message public :\n${result.url}\n\nVoici mes coordonnées :\n[Ajoute tes informations de contact ici]`;
-                    window.location.href = `mailto:${context.env.EMAIL}?subject=${encodeURIComponent('[InterpelMail] Contact privé - ' + proposeData.subject)}&body=${encodeURIComponent(emailBody)}`;
+                    window.location.href = `mailto:interpelmail@gmail.com?subject=${encodeURIComponent('[InterpelMail] Contact privé - ' + proposeData.subject)}&body=${encodeURIComponent(emailBody)}`;
                 }
             } else {
                 throw new Error(result.error);
