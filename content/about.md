@@ -20,7 +20,7 @@ Il permet d'envoyer rapidement un email à ta.on député.e sur des sujets d'int
 
 - **Personnalise ton messages** : Les emails identiques en masse sont souvent ignorés ou filtrés
 - **Reste respectueux** : Exprime tes opinions de manière constructive
-- **Sois patient** : Les députés reçoivent beaucoup d'emails et ne peuvent pas tous répondre
+- **Sois patient** : Les députés reçoivent beaucoup d'emails et ne peuvent pas répondre à tous.tes
 
 **Ne pas utiliser cet outil pour du cyberharcèlement ou des messages abusifs.**
 
