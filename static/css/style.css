@@ -162,3 +162,31 @@ form button:hover {
     border-radius: 4px;
     display: none;
 }
+
+.tab-headers {
+  display: flex;
+  border-bottom: 2px solid #ddd;
+  gap: 0;
+}
+
+.tab-btn {
+  padding: 12px 24px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  border-bottom: 3px solid transparent;
+}
+
+.tab-btn.active {
+  border-bottom-color: #0066cc;
+  color: #0066cc;
+}
+
+.tab-content {
+  display: none;
+  padding: 20px 0;
+}
+
+.tab-content.active {
+  display: block;
+}

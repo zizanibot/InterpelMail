@@ -22,10 +22,32 @@
         </select>
     </div>
 
-    <div id="address-form">
-        <input type="text" id="address" placeholder="Entre ici l'adresse de ton domicile" maxlength="50">
-	<div id="suggestions"></div> 
-        <button id="find-deputy" type="button">Trouver mon député</button>
+    <!-- Tab Headers -->
+    <div class="tab-headers">
+	<button class="tab-btn active" data-tab="address-form">Ta.on député.e</button>
+	<button class="tab-btn" data-tab="subdivision">Les député.es du département</button>
+	<button class="tab-btn" data-tab="group">Les député.es du groupe</button>
+    </div>
+
+    <!-- Tab Content -->
+    <div class="tab-contents">
+	<div class="tab-content active" id="address-form">
+	    <input type="text" id="address" placeholder="Entre ici l'adresse de ton domicile" maxlength="50">
+	    <div id="suggestions"></div> 
+	    <button id="find-deputy" type="button">Trouver ma.on député.e</button>
+	</div>
+
+	<div class="tab-content" id="subdivision">
+	    <select>
+		<option>Sélectionne un département</option>
+	    </select>
+	</div>
+
+	<div class="tab-content" id="group">
+	    <select>
+		<option>Sélectionne un groupe parlementaire</option>
+	    </select>
+	</div>
     </div>
 
     <div id="deputy-info"></div>
