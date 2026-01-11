@@ -1,11 +1,13 @@
 let circonscriptionsData = null;
 
 let selectedAddress = null;
-let selectedDeputy = null;
+let selectedDeputies = null;
 
 let suggestionsTimer = null;
 
 const addressData = {};
+const groups = {};
+const deps = {};
 
 document.addEventListener('DOMContentLoaded', async function() {
 
@@ -19,7 +21,6 @@ document.addEventListener('DOMContentLoaded', async function() {
     }
 
     // construct additional maps for selection
-    const groups = {}
     Object.values(window.siteData.deputies["deputies"]).forEach(dep => {
 	if (dep.gp_abv && !groups[dep.gp_abv]) {
 	    groups[dep.gp_abv] = dep.gp;
@@ -37,7 +38,6 @@ document.addEventListener('DOMContentLoaded', async function() {
 	}
     );
 
-    const deps = {}
     Object.values(window.siteData.deputies["deputies"]).forEach(dep => {
 	if (dep.dep && !deps[dep.dep]) {
 	    deps[dep.dep] = dep.dep_name;
@@ -64,6 +64,7 @@ document.addEventListener('DOMContentLoaded', async function() {
 
     // Show selection method
     document.querySelectorAll('.tab-btn').forEach(btn => {
+	resetData();
 	btn.addEventListener('click', () => {
 	    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
 	    btn.classList.add('active');
@@ -75,12 +76,18 @@ document.addEventListener('DOMContentLoaded', async function() {
 
     // Show deputy info
     document.getElementById('find-deputy-address').addEventListener('click', findDeputyFromAddress);
+    document.getElementById('find-deputy-subdivision').addEventListener('click', function() {
+	resetData();
+	findDeputiesFromSubdivision(document.getElementById('deps-select').value);
+    });
+    document.getElementById('find-deputy-group').addEventListener('click', function() {
+	resetData();
+	findDeputiesFromGroup(document.getElementById('groups-select').value);
+    });
+
     document.getElementById('address').addEventListener('input', function(e) {
 	
-	document.getElementById('deputy-info').style.display = 'none';
-	document.getElementById('send-email').style.display = 'none';
-	selectedDeputy = null;
-
+	resetData();
 	clearTimeout(suggestionsTimer);
 
 	if (e.target.value.length < 5) {
@@ -112,6 +119,13 @@ document.addEventListener('DOMContentLoaded', async function() {
     // Send email
     document.getElementById('send-email').addEventListener('click', sendEmail);
 });
+
+function resetData() {
+    document.getElementById('deputy-info').style.display = 'none';
+    document.getElementById('send-email').style.display = 'none';
+    selectedDeputies = null;
+    selectedAddress = null;
+}
 
 function setCampaign(campaignKey) {
 
@@ -212,7 +226,7 @@ async function findDeputyFromAddress() {
         }
 
         if (!foundCirco) {
-            throw new Error('Circonscription non trouvée pour cette e');
+            throw new Error('Circonscription non trouvée pour cette adresse');
         }
         const circoCode = foundCirco.properties.codeCirconscription;
         console.log('Circo found:', circoCode);
@@ -220,11 +234,11 @@ async function findDeputyFromAddress() {
         const deputy = window.siteData.deputies["deputies"][circoCode];
 
         if (!deputy) {
-            throw new Error(`Député non trouvé pour la circonscription ${circoCode}`);
+            throw new Error(`Député.e non trouvé pour la circonscription ${circoCode}`);
         }
 
         selectedDeputy = deputy;
-        deputyInfo.innerHTML = `<strong>Ta.on député.e est :</strong> ${deputy.first_name} ${deputy.last_name} (${deputy.gp_abv})`;
+        deputyInfo.innerHTML = `<strong>Ta.on député.e est :</strong> ${deputy.first_name} ${deputy.last_name} (${deputy.gp_abv} - ${deputy.dep})`;
         deputyInfo.style.display = 'block';
         sendButton.style.display = 'block';
 
@@ -232,6 +246,48 @@ async function findDeputyFromAddress() {
         console.error('Error:', error);
         alert(`Erreur: ${error.message}`);
     }
+}
+
+function findDeputiesFromSubdivision(depKey) {
+
+    const deputyInfo = document.getElementById('deputy-info');
+    const sendButton = document.getElementById('send-email');
+    if (!depKey) {
+        alert('Veuillez sélectionner un département valide.');
+	return;
+    }
+    const deputies = Object.values(window.siteData.deputies["deputies"]).filter(deputy => deputy.dep == depKey);
+
+    if (!deputies) {
+        throw new Error(`Député.es non trouvé pour le département ${depKey}`);
+    }
+
+    deputyInfo.innerHTML = `<strong>Tes député.es sont :</strong><br>`
+    deputies.forEach(deputy => {
+	deputyInfo.innerHTML += `${deputy.first_name} ${deputy.last_name} (${deputy.gp_abv} - ${deputy.dep})<br>`;
+    });
+    deputyInfo.style.display = 'block';
+}
+
+function findDeputiesFromGroup(groupKey) {
+
+    const deputyInfo = document.getElementById('deputy-info');
+    const sendButton = document.getElementById('send-email');
+    if (!groupKey) {
+        alert('Veuillez sélectionner un groupe parlementaire valide.');
+	return;
+    }
+    const deputies = Object.values(window.siteData.deputies["deputies"]).filter(deputy => deputy.gp_abv == groupKey);
+
+    if (!deputies) {
+        throw new Error(`Député.es non trouvé pour le département ${depKey}`);
+    }
+
+    deputyInfo.innerHTML = `<strong>Tes député.es sont :</strong><br>`
+    deputies.forEach(deputy => {
+	deputyInfo.innerHTML += `${deputy.first_name} ${deputy.last_name} (${deputy.gp_abv} - ${deputy.dep})<br>`;
+    });
+    deputyInfo.style.display = 'block';
 }
 
 function sendEmail() {
