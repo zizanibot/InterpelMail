@@ -29,30 +29,37 @@ class Deputy:
     circo: str
     circo_code: str
     gp_abv: str
+    gp: str
 
     @classmethod
     async def from_json(cls, data: Any, organe_folder: Path) -> Self:
-
         ref: str = data["acteur"]["uid"]["#text"]
         last_name: str = data["acteur"]["etatCivil"]["ident"]["nom"]
         first_name: str = data["acteur"]["etatCivil"]["ident"]["prenom"]
         mandats: List[Any] = data["acteur"]["mandats"]["mandat"]
-        
+
         elec: Optional[Dict[str, Any]] = None
         gp_ref: str = ""
         gp_abv: str = ""
+        gp: str = ""
         dep: str = ""
         circo: str = ""
         circo_code: str = ""
         elec_found: bool = False
-    
+
         for mandat in mandats:
             if not elec_found and "election" in mandat:
                 elec = mandat["election"]
                 if elec:
-                    if isinstance(elec["causeMandat"], list) and ELECTION in elec["causeMandat"]:
+                    if (
+                        isinstance(elec["causeMandat"], list)
+                        and ELECTION in elec["causeMandat"]
+                    ):
                         elec_found = True
-                    elif isinstance(elec["causeMandat"], str) and ELECTION == elec["causeMandat"].lower():
+                    elif (
+                        isinstance(elec["causeMandat"], str)
+                        and ELECTION == elec["causeMandat"].lower()
+                    ):
                         elec_found = True
             if not gp_ref and "typeOrgane" in mandat and "GP" == mandat["typeOrgane"]:
                 gp_ref = mandat["organes"]["organeRef"]
@@ -70,10 +77,12 @@ class Deputy:
             try:
                 gp_data = await read_file(organe_file)
                 gp_abv = gp_data["organe"]["libelleAbrege"]
+                gp = gp_data["organe"]["libelle"]
             except OSError:
                 logger.warning("Cannot find the organe file %s for %s", gp_ref, ref)
                 gp_ref = ""
                 gp_abv = ""
+                gp = ""
         else:
             logger.warning("%s does not have any organe reference.", ref)
 
@@ -92,8 +101,8 @@ class Deputy:
             circo=circo,
             circo_code=circo_code,
             gp_abv=gp_abv,
+            gp=gp,
         )
-    
 
     def to_yaml_dict(self) -> Dict[str, Any]:
         return {
@@ -102,29 +111,33 @@ class Deputy:
             "first_name": self.first_name,
             "email": self.email,
             "gp_abv": self.gp_abv,
+            "gp": self.gp,
+            "dep": self.dep,
+            "circo": self.circo,
         }
 
 
-async def process_file_async(acteur_folder: Path, organe_folder: Path, export_path: Path) -> None:
+async def process_file_async(acteur_folder: Path, organe_folder: Path) -> None:
     deputies: List[Deputy] = []
 
     async for data in read_files_from_directory(acteur_folder):
         deputies.append(await Deputy.from_json(data, organe_folder))
 
-    deputies_dict: Dict[str, Any]  = {
-        deputy.circo_code: deputy.to_yaml_dict()
-        for deputy in deputies
+    deputies_dict: Dict[str, Any] = {
+        deputy.circo_code: deputy.to_yaml_dict() for deputy in deputies
     }
 
     output: Dict[str, Any] = {
         "metadata": {
             "last_updated": datetime.now().isoformat(),
-            "count": len(deputies_dict)
+            "count": len(deputies_dict),
         },
-        "deputies": deputies_dict
+        "deputies": deputies_dict,
     }
 
-    async with aiofiles.open(DATA_FOLDER / "deputies.yaml", mode="w+", encoding="utf-8") as f:
+    async with aiofiles.open(
+        DATA_FOLDER / "deputies.yaml", mode="w+", encoding="utf-8"
+    ) as f:
         await f.write(yaml.dump(output))
         await f.flush()
 

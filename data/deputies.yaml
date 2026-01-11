@@ -1,3454 +1,5179 @@
 deputies:
   '0101':
+    circo: '01'
+    dep: '01'
     email: Xavier.Breton@assemblee-nationale.fr
     first_name: Xavier
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Breton
     ref: PA330008
   '0102':
+    circo: '02'
+    dep: '01'
     email: romain.daubie@assemblee-nationale.fr
     first_name: Romain
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: "Daubi\xE9"
     ref: PA793122
   '0103':
+    circo: '03'
+    dep: '01'
     email: Olga.Givernet@assemblee-nationale.fr
     first_name: Olga
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Givernet
     ref: PA718674
   '0104':
+    circo: '04'
+    dep: '01'
     email: jerome.buisson@assemblee-nationale.fr
     first_name: "J\xE9r\xF4me"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Buisson
     ref: PA793134
   '0105':
+    circo: '05'
+    dep: '01'
     email: marc.chavent@assemblee-nationale.fr
     first_name: Marc
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Chavent
     ref: PA840721
   '0201':
+    circo: '01'
+    dep: '02'
     email: nicolas.dragon@assemblee-nationale.fr
     first_name: Nicolas
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Dragon
     ref: PA793146
   '0202':
+    circo: '02'
+    dep: '02'
     email: Julien.Dive@assemblee-nationale.fr
     first_name: Julien
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Dive
     ref: PA712015
   '0203':
+    circo: '03'
+    dep: '02'
     email: eddy.casterman@assemblee-nationale.fr
     first_name: Eddy
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Casterman
     ref: PA840075
   '0204':
+    circo: '04'
+    dep: '02'
     email: jose.beaurain@assemblee-nationale.fr
     first_name: "Jos\xE9"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Beaurain
     ref: PA793158
   '0205':
+    circo: '05'
+    dep: '02'
     email: jocelyn.dessigny@assemblee-nationale.fr
     first_name: Jocelyn
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Dessigny
     ref: PA793166
   '0301':
+    circo: '01'
+    dep: '03'
     email: yannick.monnet@assemblee-nationale.fr
     first_name: Yannick
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Monnet
     ref: PA793174
   '0302':
+    circo: '02'
+    dep: '03'
     email: jorysb.rn03@gmail.com
     first_name: Jorys
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Bovet
     ref: PA793182
   '0303':
+    circo: '03'
+    dep: '03'
     email: nicolas.ray@assemblee-nationale.fr
     first_name: Nicolas
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Ray
     ref: PA793094
   '0401':
+    circo: '01'
+    dep: '04'
     email: christian.girard@assemblee-nationale.fr
     first_name: Christian
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Girard
     ref: PA793102
   '0402':
+    circo: '02'
+    dep: '04'
     email: sophie.vaginay@assemblee-nationale.fr
     first_name: Sophie
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Ricourt Vaginay
     ref: PA840657
   '0501':
+    circo: '01'
+    dep: '05'
     email: marie-jose.allemand@assemblee-nationale.fr
     first_name: "Marie-Jos\xE9"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Allemand
     ref: PA840665
   '0502':
+    circo: '02'
+    dep: '05'
     email: valerie.rossi@assemblee-nationale.fr
     first_name: "Val\xE9rie"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Rossi
     ref: PA840673
   '0601':
+    circo: '01'
+    dep: '06'
     email: Eric.Ciotti@assemblee-nationale.fr
     first_name: "\xC9ric"
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Ciotti
     ref: PA330240
   '0602':
+    circo: '02'
+    dep: '06'
     email: lionel.tivoli@assemblee-nationale.fr
     first_name: Lionel
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Tivoli
     ref: PA793298
   '0603':
+    circo: '03'
+    dep: '06'
     email: bernard.chaix@assemblee-nationale.fr
     first_name: Bernard
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Chaix
     ref: PA840701
   '0604':
+    circo: '04'
+    dep: '06'
     email: alexandra.masson@assemblee-nationale.fr
     first_name: Alexandra
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Masson
     ref: PA793314
   '0605':
+    circo: '05'
+    dep: '06'
     email: christelle.dintorni@assemblee-nationale.fr
     first_name: Christelle
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: D'Intorni
     ref: PA793322
   '0606':
+    circo: '06'
+    dep: '06'
     email: bryan.masson@assemblee-nationale.fr
     first_name: Bryan
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Masson
     ref: PA793330
   '0607':
+    circo: '07'
+    dep: '06'
     email: Eric.Pauget@assemblee-nationale.fr
     first_name: "\xC9ric"
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Pauget
     ref: PA718784
   0608:
+    circo: 08
+    dep: '06'
     email: alexandra.martin@assemblee-nationale.fr
     first_name: Alexandra
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Martin
     ref: PA793342
   0609:
+    circo: 09
+    dep: '06'
     email: Michele.Tabarot@assemblee-nationale.fr
     first_name: "Mich\xE8le"
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Tabarot
     ref: PA267794
   '0701':
+    circo: '01'
+    dep: '07'
     email: Herve.Saulignac@assemblee-nationale.fr
     first_name: "Herv\xE9"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Saulignac
     ref: PA340343
   '0702':
+    circo: '02'
+    dep: '07'
     email: vincenttrebuchet.ardeche@gmail.com
     first_name: Vincent
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: "Tr\xE9buchet"
     ref: PA840685
   '0703':
+    circo: '03'
+    dep: '07'
     email: Fabrice.Brun@assemblee-nationale.fr
     first_name: Fabrice
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Brun
     ref: PA718838
   0801:
+    circo: '01'
+    dep: 08
     email: lionel.vuibert@assemblee-nationale.fr
     first_name: Lionel
+    gp: Non inscrit
     gp_abv: NI
     last_name: Vuibert
     ref: PA793194
   0802:
+    circo: '02'
+    dep: 08
     email: Pierre.Cordier@assemblee-nationale.fr
     first_name: Pierre
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Cordier
     ref: PA718850
   0803:
+    circo: '03'
+    dep: 08
     email: Jean-Luc.Warsmann@assemblee-nationale.fr
     first_name: Jean-Luc
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Warsmann
     ref: PA2952
   0901:
+    circo: '01'
+    dep: 09
     email: martine.froger@assemblee-nationale.fr
     first_name: Martine
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Froger
     ref: PA822617
   0902:
+    circo: '02'
+    dep: 09
     email: audrey.abadie@assemblee-nationale.fr
     first_name: Audrey
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Abadie-Amiel
     ref: PA793214
   09901:
+    circo: '01'
+    dep: 099
     email: christopher.weissberg@assemblee-nationale.fr
     first_name: Christopher
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Weissberg
     ref: PA795326
   09902:
+    circo: '02'
+    dep: 099
     email: benoit.larrouquis@assemblee-nationale.fr
     first_name: "Beno\xEEt"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Larrouquis
     ref: PA795334
   09903:
+    circo: '03'
+    dep: 099
     email: vincent.caure@assemblee-nationale.fr
     first_name: Vincent
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Caure
     ref: PA842311
   09904:
+    circo: '04'
+    dep: 099
     email: Pieyre-Alexandre.Anglade@assemblee-nationale.fr
     first_name: Pieyre-Alexandre
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Anglade
     ref: PA721158
   09905:
+    circo: '05'
+    dep: 099
     email: nathalie.coggia@assemblee-nationale.fr
     first_name: Nathalie
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Coggia
     ref: PA795402
   09906:
+    circo: '06'
+    dep: 099
     email: marc.ferracci@assemblee-nationale.fr
     first_name: Marc
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Ferracci
     ref: PA795884
   09907:
+    circo: '07'
+    dep: 099
     email: Frederic.Petit@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric"
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Petit
     ref: PA721182
   09908:
+    circo: 08
+    dep: 099
     email: caroline.yadan@assemblee-nationale.fr
     first_name: Caroline
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Yadan
     ref: PA795046
   09909:
+    circo: 09
+    dep: 099
     email: karim.bencheikh@assemblee-nationale.fr
     first_name: Karim
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Ben Cheikh
     ref: PA795454
   09910:
+    circo: '10'
+    dep: 099
     email: amelia.lakrafi@assemblee-nationale.fr
     first_name: "Am\xE9lia"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Lakrafi
     ref: PA721004
   09911:
+    circo: '11'
+    dep: 099
     email: Anne.Genetet@assemblee-nationale.fr
     first_name: Anne
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Genetet
     ref: PA721024
   '1001':
+    circo: '01'
+    dep: '10'
     email: jordan.guitton@assemblee-nationale.fr
     first_name: Jordan
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Guitton
     ref: PA793218
   '1002':
+    circo: '02'
+    dep: '10'
     email: Valerie.Bazin-Malgras@assemblee-nationale.fr
     first_name: "Val\xE9rie"
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Bazin-Malgras
     ref: PA718884
   '1003':
+    circo: '03'
+    dep: '10'
     email: angelique.ranc@assemblee-nationale.fr
     first_name: "Ang\xE9lique"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Ranc
     ref: PA793230
   '1101':
+    circo: '01'
+    dep: '11'
     email: christophe.barthes@assemblee-nationale.fr
     first_name: Christophe
+    gp: Rassemblement National
     gp_abv: RN
     last_name: "Barth\xE8s"
     ref: PA793238
   '1102':
+    circo: '02'
+    dep: '11'
     email: frederic.falcon@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Falcon
     ref: PA793246
   '1103':
+    circo: '03'
+    dep: '11'
     email: julien.rancoule@assemblee-nationale.fr
     first_name: Julien
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Rancoule
     ref: PA793254
   '1201':
+    circo: '01'
+    dep: '12'
     email: Stephane.Mazars@assemblee-nationale.fr
     first_name: "St\xE9phane"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Mazars
     ref: PA677483
   '1202':
+    circo: '02'
+    dep: '12'
     email: laurent.alexandre@assemblee-nationale.fr
     first_name: Laurent
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Alexandre
     ref: PA793262
   '1203':
+    circo: '03'
+    dep: '12'
     email: jean-francois.rousset@assemblee-nationale.fr
     first_name: "Jean-Fran\xE7ois"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Rousset
     ref: PA793270
   '1301':
+    circo: '01'
+    dep: '13'
     email: monique.griseti@assemblee-nationale.fr
     first_name: Monique
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Griseti
     ref: PA840757
   '1302':
+    circo: '02'
+    dep: '13'
     email: laurent.lhardit@assemblee-nationale.fr
     first_name: Laurent
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Lhardit
     ref: PA840765
   '1303':
+    circo: '03'
+    dep: '13'
     email: gisele.lelouis@assemblee-nationale.fr
     first_name: "Gis\xE8le"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Lelouis
     ref: PA793290
   '1304':
+    circo: '04'
+    dep: '13'
     email: contact@manuelbompard.fr
     first_name: Manuel
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Bompard
     ref: PA793444
   '1305':
+    circo: '05'
+    dep: '13'
     email: hendrik.davi@assemblee-nationale.fr
     first_name: Hendrik
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Davi
     ref: PA793452
   '1306':
+    circo: '06'
+    dep: '13'
     email: olivier.fayssat@assemblee-nationale.fr
     first_name: Olivier
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Fayssat
     ref: PA840773
   '1307':
+    circo: '07'
+    dep: '13'
     email: sebastien.delogu@assemblee-nationale.fr
     first_name: "S\xE9bastien"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Delogu
     ref: PA793464
   '1308':
+    circo: 08
+    dep: '13'
     email: romain.tonussi@assemblee-nationale.fr
     first_name: Romain
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Tonussi
     ref: PA840781
   '1309':
+    circo: 09
+    dep: '13'
     email: joelle.melin@assemblee-nationale.fr
     first_name: "Jo\xEBlle"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: "M\xE9lin"
     ref: PA793354
   '1310':
+    circo: '10'
+    dep: '13'
     email: jo.allauch@gmail.com
     first_name: "Jos\xE9"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Gonzalez
     ref: PA793362
   '1311':
+    circo: '11'
+    dep: '13'
     email: marc.pena@assemblee-nationale.fr
     first_name: Marc
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Pena
     ref: PA840793
   '1312':
+    circo: '12'
+    dep: '13'
     email: franck.allisio@assemblee-nationale.fr
     first_name: Franck
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Allisio
     ref: PA793432
   '1313':
+    circo: '13'
+    dep: '13'
     email: emmanuel.fouquart@assemblee-nationale.fr
     first_name: Emmanuel
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Fouquart
     ref: PA840801
   '1314':
+    circo: '14'
+    dep: '13'
     email: gerault.verny@assemblee-nationale.fr
     first_name: "G\xE9rault"
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Verny
     ref: PA840809
   '1315':
+    circo: '15'
+    dep: '13'
     email: romain.baubry@assemblee-nationale.fr
     first_name: Romain
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Baubry
     ref: PA793374
   '1316':
+    circo: '16'
+    dep: '13'
     email: emmanuel.tache@assemblee-nationale.fr
     first_name: Emmanuel
+    gp: Rassemblement National
     gp_abv: RN
     last_name: "Tach\xE9"
     ref: PA793382
   '1401':
+    circo: '01'
+    dep: '14'
     email: jbruneau14@gmail.com
     first_name: "Jo\xEBl"
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Bruneau
     ref: PA840817
   '1402':
+    circo: '02'
+    dep: '14'
     email: arthur.delaporte@assemblee-nationale.fr
     first_name: Arthur
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Delaporte
     ref: PA793394
   '1403':
+    circo: '03'
+    dep: '14'
     email: jeremie.patrier-leitus@assemblee-nationale.fr
     first_name: "J\xE9r\xE9mie"
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Patrier-Leitus
     ref: PA793398
   '1404':
+    circo: '04'
+    dep: '14'
     email: Christophe.Blanchet@assemblee-nationale.fr
     first_name: Christophe
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Blanchet
     ref: PA719024
   '1405':
+    circo: '05'
+    dep: '14'
     email: Bertrand.Bouyx@assemblee-nationale.fr
     first_name: Bertrand
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Bouyx
     ref: PA719032
   '1406':
+    circo: '06'
+    dep: '14'
     email: elisabeth.borne@assemblee-nationale.fr
     first_name: "\xC9lisabeth"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Borne
     ref: PA717161
   '1501':
+    circo: '01'
+    dep: '15'
     email: Vincent.Descoeur@assemblee-nationale.fr
     first_name: Vincent
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Descoeur
     ref: PA330909
   '1502':
+    circo: '02'
+    dep: '15'
     email: Jean-Yves.Bony@assemblee-nationale.fr
     first_name: Jean-Yves
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Bony
     ref: PA266793
   '1601':
+    circo: '01'
+    dep: '16'
     email: rene.pilato@assemblee-nationale.fr
     first_name: "Ren\xE9"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Pilato
     ref: PA817211
   '1602':
+    circo: '02'
+    dep: '16'
     email: Sandra.Marsaud@assemblee-nationale.fr
     first_name: Sandra
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Marsaud
     ref: PA719080
   '1603':
+    circo: '03'
+    dep: '16'
     email: caroline.colombier@assemblee-nationale.fr
     first_name: Caroline
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Colombier
     ref: PA793548
   '1701':
+    circo: '01'
+    dep: '17'
     email: Olivier.Falorni@assemblee-nationale.fr
     first_name: Olivier
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Falorni
     ref: PA605694
   '1702':
+    circo: '02'
+    dep: '17'
     email: benoit.biteau@assemblee-nationale.fr
     first_name: "Beno\xEEt"
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Biteau
     ref: PA840997
   '1703':
+    circo: '03'
+    dep: '17'
     email: fabrice.barusseau@assemblee-nationale.fr
     first_name: Fabrice
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Barusseau
     ref: PA840829
   '1704':
+    circo: '04'
+    dep: '17'
     email: markowsky.pascal@gmail.com
     first_name: Pascal
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Markowsky
     ref: PA840837
   '1705':
+    circo: '05'
+    dep: '17'
     email: christophe.plassard@assemblee-nationale.fr
     first_name: Christophe
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Plassard
     ref: PA793572
   '1801':
+    circo: '01'
+    dep: '18'
     email: Francois.Cormier-Bouligeon@assemblee-nationale.fr
     first_name: "Fran\xE7ois"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Cormier-Bouligeon
     ref: PA719118
   '1802':
+    circo: '02'
+    dep: '18'
     email: nicolas.sansu@assemblee-nationale.fr
     first_name: Nicolas
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Sansu
     ref: PA605745
   '1803':
+    circo: '03'
+    dep: '18'
     email: Loic.Kervran@assemblee-nationale.fr
     first_name: "Lo\xEFc"
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Kervran
     ref: PA719052
   '1901':
+    circo: '01'
+    dep: '19'
     email: francois.hollande@assemblee-nationale.fr
     first_name: "Fran\xE7ois"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Hollande
     ref: PA1654
   '1902':
+    circo: '02'
+    dep: '19'
     email: Frederique.Meunier@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9rique"
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Meunier
     ref: PA719272
   '2101':
+    circo: '01'
+    dep: '21'
     email: oceane.godard@assemblee-nationale.fr
     first_name: "Oc\xE9ane"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Godard
     ref: PA840939
   '2102':
+    circo: '02'
+    dep: '21'
     email: catherine.hervieu@assemblee-nationale.fr
     first_name: Catherine
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Hervieu
     ref: PA840947
   '2103':
+    circo: '03'
+    dep: '21'
     email: pierre.pribetich@assemblee-nationale.fr
     first_name: Pierre
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Pribetich
     ref: PA840955
   '2104':
+    circo: '04'
+    dep: '21'
     email: hubert.brigand@assemblee-nationale.fr
     first_name: Hubert
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Brigand
     ref: PA793508
   '2105':
+    circo: '05'
+    dep: '21'
     email: lioret.r@gmail.com
     first_name: "Ren\xE9"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Lioret
     ref: PA840967
   '2201':
+    circo: '01'
+    dep: '22'
     email: mickael.cosson@assemblee-nationale.fr
     first_name: "Micka\xEBl"
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Cosson
     ref: PA793520
   '2202':
+    circo: '02'
+    dep: '22'
     email: herve.berville@assemblee-nationale.fr
     first_name: "Herv\xE9"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Berville
     ref: PA719218
   '2203':
+    circo: '03'
+    dep: '22'
     email: corentin.lefur@assemblee-nationale.fr
     first_name: Corentin
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Le Fur
     ref: PA840979
   '2204':
+    circo: '04'
+    dep: '22'
     email: murielle.lepvraud@assemblee-nationale.fr
     first_name: Murielle
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Lepvraud
     ref: PA793532
   '2205':
+    circo: '05'
+    dep: '22'
     email: Eric.Bothorel@assemblee-nationale.fr
     first_name: "\xC9ric"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Bothorel
     ref: PA642695
   '2301':
+    circo: '01'
+    dep: '23'
     email: bartolome.lenoir@assemblee-nationale.fr
     first_name: "Bartolom\xE9"
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Lenoir
     ref: PA840983
   '2401':
+    circo: '01'
+    dep: '24'
     email: nadine.lechon@assemblee-nationale.fr
     first_name: Nadine
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Lechon
     ref: PA840857
   '2402':
+    circo: '02'
+    dep: '24'
     email: serge.muller@assemblee-nationale.fr
     first_name: Serge
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Muller
     ref: PA793696
   '2403':
+    circo: '03'
+    dep: '24'
     email: florence.joubert@assemblee-nationale.fr
     first_name: Florence
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Joubert
     ref: PA840869
   '2404':
+    circo: '04'
+    dep: '24'
     email: sebastien.peytavie@assemblee-nationale.fr
     first_name: "S\xE9bastien"
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Peytavie
     ref: PA793708
   '2501':
+    circo: '01'
+    dep: '25'
     email: laurent.croizier@assemblee-nationale.fr
     first_name: Laurent
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Croizier
     ref: PA793716
   '2502':
+    circo: '02'
+    dep: '25'
     email: dominique.voynet@assemblee-nationale.fr
     first_name: Dominique
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Voynet
     ref: PA2940
   '2503':
+    circo: '03'
+    dep: '25'
     email: matthieu.bloch@assemblee-nationale.fr
     first_name: Matthieu
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Bloch
     ref: PA840889
   '2504':
+    circo: '04'
+    dep: '25'
     email: geraldine.grangier@assemblee-nationale.fr
     first_name: "G\xE9raldine"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Grangier
     ref: PA793592
   '2505':
+    circo: '05'
+    dep: '25'
     email: eric.liegeon@assemblee-nationale.fr
     first_name: Eric
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: "Li\xE9geon"
     ref: PA642725
   '2601':
+    circo: '01'
+    dep: '26'
     email: paul.christophle@assemblee-nationale.fr
     first_name: Paul
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Christophle
     ref: PA840903
   '2602':
+    circo: '02'
+    dep: '26'
     email: lisette.pollet@assemblee-nationale.fr
     first_name: Lisette
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Pollet
     ref: PA793656
   '2603':
+    circo: '03'
+    dep: '26'
     email: contact@mariepochon.fr
     first_name: Marie
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Pochon
     ref: PA793664
   '2604':
+    circo: '04'
+    dep: '26'
     email: thibaut.monnier@assemblee-nationale.fr
     first_name: Thibaut
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Monnier
     ref: PA840915
   '2701':
+    circo: '01'
+    dep: '27'
     email: christine.loir@assemblee-nationale.fr
     first_name: Christine
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Loir
     ref: PA793672
   '2702':
+    circo: '02'
+    dep: '27'
     email: katiana.levavasseur@assemblee-nationale.fr
     first_name: Katiana
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Levavasseur
     ref: PA793608
   '2703':
+    circo: '03'
+    dep: '27'
     email: kevin.mauvieux@assemblee-nationale.fr
     first_name: "K\xE9vin"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Mauvieux
     ref: PA793616
   '2704':
+    circo: '04'
+    dep: '27'
     email: philippe.brun@assemblee-nationale.fr
     first_name: Philippe
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Brun
     ref: PA793624
   '2705':
+    circo: '05'
+    dep: '27'
     email: timothee.houssin@assemblee-nationale.fr
     first_name: "Timoth\xE9e"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Houssin
     ref: PA793632
   '2801':
+    circo: '01'
+    dep: '28'
     email: contact@guillaumekasbarian.fr
     first_name: Guillaume
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Kasbarian
     ref: PA719372
   '2802':
+    circo: '02'
+    dep: '28'
     email: christelle.minard@assemblee-nationale.fr
     first_name: Christelle
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Minard
     ref: PA643104
   '2803':
+    circo: '03'
+    dep: '28'
     email: harold.huwart@assemblee-nationale.fr
     first_name: Harold
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Huwart
     ref: PA841017
   '2804':
+    circo: '04'
+    dep: '28'
     email: Philippe.Vigier@assemblee-nationale.fr
     first_name: Philippe
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Vigier
     ref: PA331582
   '2901':
+    circo: '01'
+    dep: '29'
     email: Annaig.LeMeur@assemblee-nationale.fr
     first_name: "Anna\xEFg"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Le Meur
     ref: PA719388
   '2902':
+    circo: '02'
+    dep: '29'
     email: pierre-yves.cadalen@assemblee-nationale.fr
     first_name: Pierre-Yves
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Cadalen
     ref: PA841023
   '2903':
+    circo: '03'
+    dep: '29'
     email: Didier.LeGac@assemblee-nationale.fr
     first_name: Didier
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Le Gac
     ref: PA719404
   '2904':
+    circo: '04'
+    dep: '29'
     email: Sandrine.LeFeur@assemblee-nationale.fr
     first_name: Sandrine
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Le Feur
     ref: PA719412
   '2905':
+    circo: '05'
+    dep: '29'
     email: Graziella.Melchior@assemblee-nationale.fr
     first_name: Graziella
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Melchior
     ref: PA719338
   '2906':
+    circo: '06'
+    dep: '29'
     email: melanie.thomin@assemblee-nationale.fr
     first_name: "M\xE9lanie"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Thomin
     ref: PA793816
   '2907':
+    circo: '07'
+    dep: '29'
     email: Liliana.Tanguy@assemblee-nationale.fr
     first_name: Liliana
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Tanguy
     ref: PA719550
   '2908':
+    circo: 08
+    dep: '29'
     email: Erwan.Balanant@assemblee-nationale.fr
     first_name: Erwan
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Balanant
     ref: PA719558
   2A01:
+    circo: '01'
+    dep: 2A
     email: laurent.marcangeli@assemblee-nationale.fr
     first_name: Laurent
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Marcangeli
     ref: PA605782
   2A02:
+    circo: '02'
+    dep: 2A
     email: Paul-Andre.Colombani@assemblee-nationale.fr
     first_name: "Paul-Andr\xE9"
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Colombani
     ref: PA719286
   2B01:
+    circo: '01'
+    dep: 2B
     email: Michel.Castellani@assemblee-nationale.fr
     first_name: Michel
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Castellani
     ref: PA719138
   2B02:
+    circo: '02'
+    dep: 2B
     email: francois-xavier.ceccoli@assemblee-nationale.fr
     first_name: "Fran\xE7ois-Xavier"
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Ceccoli
     ref: PA841047
   '3001':
+    circo: '01'
+    dep: '30'
     email: contact@yoanngillet.fr
     first_name: Yoann
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Gillet
     ref: PA793832
   '3002':
+    circo: '02'
+    dep: '30'
     email: nicolas.meizonnet@assemblee-nationale.fr
     first_name: Nicolas
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Meizonnet
     ref: PA719436
   '3003':
+    circo: '03'
+    dep: '30'
     email: pascale.bordes@assemblee-nationale.fr
     first_name: Pascale
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Bordes
     ref: PA793844
   '3004':
+    circo: '04'
+    dep: '30'
     email: pierre.meurin@assemblee-nationale.fr
     first_name: Pierre
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Meurin
     ref: PA793852
   '3005':
+    circo: '05'
+    dep: '30'
     email: alexandre.allegret-pilot@assemblee-nationale.fr
     first_name: Alexandre
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Allegret-Pilot
     ref: PA841067
   '3006':
+    circo: '06'
+    dep: '30'
     email: sylvie.josserand@assemblee-nationale.fr
     first_name: Sylvie
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Josserand
     ref: PA841075
   '3101':
+    circo: '01'
+    dep: '31'
     email: hadrien.clouet@assemblee-nationale.fr
     first_name: Hadrien
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Clouet
     ref: PA793736
   '3102':
+    circo: '02'
+    dep: '31'
     email: anne.stambach-terrenoir@assemblee-nationale.fr
     first_name: Anne
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Stambach-Terrenoir
     ref: PA793744
   '3103':
+    circo: '03'
+    dep: '31'
     email: Corinne.Vignon@assemblee-nationale.fr
     first_name: Corinne
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Vignon
     ref: PA719512
   '3104':
+    circo: '04'
+    dep: '31'
     email: francois.piquemal@assemblee-nationale.fr
     first_name: "Fran\xE7ois"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Piquemal
     ref: PA793756
   '3105':
+    circo: '05'
+    dep: '31'
     email: Jean-Francois.Portarrieu@assemblee-nationale.fr
     first_name: "Jean-Fran\xE7ois"
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Portarrieu
     ref: PA719528
   '3106':
+    circo: '06'
+    dep: '31'
     email: arnaud.simion@assemblee-nationale.fr
     first_name: Arnaud
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Simion
     ref: PA841091
   '3107':
+    circo: '07'
+    dep: '31'
     email: christophe.bex@assemblee-nationale.fr
     first_name: Christophe
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Bex
     ref: PA793772
   '3108':
+    circo: 08
+    dep: '31'
     email: Joel.Aviragnet@assemblee-nationale.fr
     first_name: "Jo\xEBl"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Aviragnet
     ref: PA642764
   '3109':
+    circo: 09
+    dep: '31'
     email: christine.arrighi@assemblee-nationale.fr
     first_name: Christine
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Arrighi
     ref: PA793780
   '3110':
+    circo: '10'
+    dep: '31'
     email: jacques.oberti@assemblee-nationale.fr
     first_name: Jacques
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Oberti
     ref: PA841107
   '3201':
+    circo: '01'
+    dep: '32'
     email: Jean-Rene.Cazeneuve@assemblee-nationale.fr
     first_name: "Jean-Ren\xE9"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Cazeneuve
     ref: PA719472
   '3202':
+    circo: '02'
+    dep: '32'
     email: davidtaupiac.permanence@gmail.com
     first_name: David
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Taupiac
     ref: PA793796
   '3301':
+    circo: '01'
+    dep: '33'
     email: thomas.cazenave@assemblee-nationale.fr
     first_name: Thomas
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Cazenave
     ref: PA793940
   '3302':
+    circo: '02'
+    dep: '33'
     email: nicolas.thierry@assemblee-nationale.fr
     first_name: Nicolas
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Thierry
     ref: PA793948
   '3303':
+    circo: '03'
+    dep: '33'
     email: Loic.Prudhomme@assemblee-nationale.fr
     first_name: "Lo\xEFc"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Prud'homme
     ref: PA719578
   '3304':
+    circo: '04'
+    dep: '33'
     email: Alain.David@assemblee-nationale.fr
     first_name: Alain
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: David
     ref: PA1008
   '3305':
+    circo: '05'
+    dep: '33'
     email: pascale.got@assemblee-nationale.fr
     first_name: Pascale
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Got
     ref: PA331973
   '3306':
+    circo: '06'
+    dep: '33'
     email: marie.recalde@assemblee-nationale.fr
     first_name: Marie
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: "R\xE9calde"
     ref: PA341981
   '3307':
+    circo: '07'
+    dep: '33'
     email: sebastien.saint-pasteur@assemblee-nationale.fr
     first_name: "S\xE9bastien"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Saint-Pasteur
     ref: PA841243
   '3308':
+    circo: 08
+    dep: '33'
     email: Sophie.Panonacle@assemblee-nationale.fr
     first_name: Sophie
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Panonacle
     ref: PA719632
   '3309':
+    circo: 09
+    dep: '33'
     email: Sophie.Mette@assemblee-nationale.fr
     first_name: Sophie
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Mette
     ref: PA719640
   '3310':
+    circo: '10'
+    dep: '33'
     email: Florent.Boudie@assemblee-nationale.fr
     first_name: Florent
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: "Boudi\xE9"
     ref: PA606507
   '3311':
+    circo: '11'
+    dep: '33'
     email: edwige.diaz@assemblee-nationale.fr
     first_name: Edwige
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Diaz
     ref: PA793928
   '3312':
+    circo: '12'
+    dep: '33'
     email: mathilde.feld@assemblee-nationale.fr
     first_name: Mathilde
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Feld
     ref: PA841251
   '3401':
+    circo: '01'
+    dep: '34'
     email: jean-louis.roumegas@assemblee-nationale.fr
     first_name: Jean-Louis
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: "Roum\xE9gas"
     ref: PA606545
   '3402':
+    circo: '02'
+    dep: '34'
     email: nathalie.oziol@assemblee-nationale.fr
     first_name: Nathalie
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Oziol
     ref: PA793872
   '3403':
+    circo: '03'
+    dep: '34'
     email: fannydombrecoste2024@gmail.com
     first_name: Fanny
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Dombre Coste
     ref: PA606573
   '3404':
+    circo: '04'
+    dep: '34'
     email: manon.bouquin@assemblee-nationale.fr
     first_name: Manon
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Bouquin
     ref: PA841131
   '3405':
+    circo: '05'
+    dep: '34'
     email: stephanie.galzy@assemblee-nationale.fr
     first_name: "St\xE9phanie"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Galzy
     ref: PA793892
   '3406':
+    circo: '06'
+    dep: '34'
     email: julien.gabarron@assemblee-nationale.fr
     first_name: Julien
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Gabarron
     ref: PA841139
   '3407':
+    circo: '07'
+    dep: '34'
     email: aurelien.lopezliguori@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Lopez-Liguori
     ref: PA793904
   '3408':
+    circo: 08
+    dep: '34'
     email: sylvain.carriere@assemblee-nationale.fr
     first_name: Sylvain
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: "Carri\xE8re"
     ref: PA793912
   '3409':
+    circo: 09
+    dep: '34'
     email: charles.alloncle@assemblee-nationale.fr
     first_name: Charles
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Alloncle
     ref: PA841207
   '3501':
+    circo: '01'
+    dep: '35'
     email: marie.mesmeur@assemblee-nationale.fr
     first_name: Marie
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Mesmeur
     ref: PA841215
   '3502':
+    circo: '02'
+    dep: '35'
     email: tristan.lahais@assemblee-nationale.fr
     first_name: Tristan
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Lahais
     ref: PA841223
   '3503':
+    circo: '03'
+    dep: '35'
     email: claudia.rouaux@assemblee-nationale.fr
     first_name: Claudia
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Rouaux
     ref: PA342196
   '3504':
+    circo: '04'
+    dep: '35'
     email: mathilde.hignet@assemblee-nationale.fr
     first_name: Mathilde
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Hignet
     ref: PA794082
   '3505':
+    circo: '05'
+    dep: '35'
     email: Christine.lenabour@assemblee-nationale.fr
     first_name: Christine
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Le Nabour
     ref: PA719756
   '3506':
+    circo: '06'
+    dep: '35'
     email: Thierry.Benoit@assemblee-nationale.fr
     first_name: Thierry
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Benoit
     ref: PA332228
   '3507':
+    circo: '07'
+    dep: '35'
     email: jean-luc.bourgeaux@assemblee-nationale.fr
     first_name: Jean-Luc
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Bourgeaux
     ref: PA342240
   '3508':
+    circo: 08
+    dep: '35'
     email: mickael.bouloux@assemblee-nationale.fr
     first_name: "Micka\xEBl"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Bouloux
     ref: PA794094
   '3601':
+    circo: '01'
+    dep: '36'
     email: Francois.Jolivet@assemblee-nationale.fr
     first_name: "Fran\xE7ois"
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Jolivet
     ref: PA719778
   '3602':
+    circo: '02'
+    dep: '36'
     email: alix.fruchon@assemblee-nationale.fr
     first_name: Alix
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Fruchon
     ref: PA841151
   '3701':
+    circo: '01'
+    dep: '37'
     email: charles.fournier@assemblee-nationale.fr
     first_name: Charles
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Fournier
     ref: PA793980
   '3702':
+    circo: '02'
+    dep: '37'
     email: Daniel.Labaronne@assemblee-nationale.fr
     first_name: Daniel
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Labaronne
     ref: PA719798
   '3703':
+    circo: '03'
+    dep: '37'
     email: henri.alfandari@assemblee-nationale.fr
     first_name: Henri
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Alfandari
     ref: PA793992
   '3704':
+    circo: '04'
+    dep: '37'
     email: laurent.baumel@assemblee-nationale.fr
     first_name: Laurent
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Baumel
     ref: PA606793
   '3705':
+    circo: '05'
+    dep: '37'
     email: Sabine.Thillaye@assemblee-nationale.fr
     first_name: Sabine
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Thillaye
     ref: PA719822
   '3801':
+    circo: '01'
+    dep: '38'
     email: camille.galliard-minier@assemblee-nationale.fr
     first_name: Camille
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Galliard-Minier
     ref: PA719736
   '3802':
+    circo: '02'
+    dep: '38'
     email: cyrielle.chatelain@assemblee-nationale.fr
     first_name: Cyrielle
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Chatelain
     ref: PA794008
   '3803':
+    circo: '03'
+    dep: '38'
     email: elisa.martin@assemblee-nationale.fr
     first_name: "\xC9lisa"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Martin
     ref: PA342384
   '3804':
+    circo: '04'
+    dep: '38'
     email: Marie-Noelle.Battistel@assemblee-nationale.fr
     first_name: "Marie-No\xEBlle"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Battistel
     ref: PA342415
   '3805':
+    circo: '05'
+    dep: '38'
     email: jeremie.iordanoff@assemblee-nationale.fr
     first_name: "J\xE9r\xE9mie"
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Iordanoff
     ref: PA794022
   '3806':
+    circo: '06'
+    dep: '38'
     email: alexis.jolly@assemblee-nationale.fr
     first_name: Alexis
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Jolly
     ref: PA794030
   '3807':
+    circo: '07'
+    dep: '38'
     email: yannick.neuder@assemblee-nationale.fr
     first_name: Yannick
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Neuder
     ref: PA794038
   '3808':
+    circo: 08
+    dep: '38'
     email: hanane.mansouri@assemblee-nationale.fr
     first_name: Hanane
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Mansouri
     ref: PA841183
   '3809':
+    circo: 09
+    dep: '38'
     email: sandrine.nosbe@assemblee-nationale.fr
     first_name: Sandrine
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: "Nosb\xE9"
     ref: PA841191
   '3810':
+    circo: '10'
+    dep: '38'
     email: thierry.perez@assemblee-nationale.fr
     first_name: Thierry
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Perez
     ref: PA841199
   '3901':
+    circo: '01'
+    dep: '39'
     email: Danielle.Brulebois@assemblee-nationale.fr
     first_name: Danielle
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Brulebois
     ref: PA719890
   '3902':
+    circo: '02'
+    dep: '39'
     email: marie-christine.dalloz390@orange.fr
     first_name: Marie-Christine
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Dalloz
     ref: PA332523
   '3903':
+    circo: '03'
+    dep: '39'
     email: justine.gruet@assemblee-nationale.fr
     first_name: Justine
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Gruet
     ref: PA794058
   '4001':
+    circo: '01'
+    dep: '40'
     email: genevieve.darrieussecq@assemblee-nationale.fr
     first_name: "Genevi\xE8ve"
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Darrieussecq
     ref: PA719914
   '4002':
+    circo: '02'
+    dep: '40'
     email: Lionel.Causse@assemblee-nationale.fr
     first_name: Lionel
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Causse
     ref: PA719922
   '4003':
+    circo: '03'
+    dep: '40'
     email: Boris.Vallaud@assemblee-nationale.fr
     first_name: Boris
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Vallaud
     ref: PA719930
   '4101':
+    circo: '01'
+    dep: '41'
     email: marc.fesneau@assemblee-nationale.fr
     first_name: Marc
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Fesneau
     ref: PA719938
   '4102':
+    circo: '02'
+    dep: '41'
     email: roger.chudeau@assemblee-nationale.fr
     first_name: Roger
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Chudeau
     ref: PA794198
   '4103':
+    circo: '03'
+    dep: '41'
     email: christophe.marion@assemblee-nationale.fr
     first_name: Christophe
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Marion
     ref: PA794206
   '4201':
+    circo: '01'
+    dep: '42'
     email: pierrick.courbon@assemblee-nationale.fr
     first_name: Pierrick
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Courbon
     ref: PA841295
   '4202':
+    circo: '02'
+    dep: '42'
     email: andree.taurinya@assemblee-nationale.fr
     first_name: "Andr\xE9e"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Taurinya
     ref: PA794106
   '4203':
+    circo: '03'
+    dep: '42'
     email: emmanuel.mandon@assemblee-nationale.fr
     first_name: Emmanuel
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Mandon
     ref: PA794114
   '4204':
+    circo: '04'
+    dep: '42'
     email: deputee@bonnetsylvie.fr
     first_name: Sylvie
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Bonnet
     ref: PA719968
   '4205':
+    circo: '05'
+    dep: '42'
     email: contact@antoinevermorel.fr
     first_name: Antoine
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Vermorel-Marques
     ref: PA794118
   '4206':
+    circo: '06'
+    dep: '42'
     email: taite.bonnefoy.assemblee@gmail.com
     first_name: Jean-Pierre
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Taite
     ref: PA794178
   '4301':
+    circo: '01'
+    dep: '43'
     email: laurent.wauquiez@assemblee-nationale.fr
     first_name: Laurent
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Wauquiez
     ref: PA267285
   '4302':
+    circo: '02'
+    dep: '43'
     email: Jean-Pierre.Vigier@assemblee-nationale.fr
     first_name: Jean-Pierre
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Vigier
     ref: PA607090
   '4401':
+    circo: '01'
+    dep: '44'
     email: karim.benbrahim@assemblee-nationale.fr
     first_name: Karim
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Benbrahim
     ref: PA841315
   '4402':
+    circo: '02'
+    dep: '44'
     email: andy.kerbrat@assemblee-nationale.fr
     first_name: Andy
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Kerbrat
     ref: PA794130
   '4403':
+    circo: '03'
+    dep: '44'
     email: segolene.amiot@assemblee-nationale.fr
     first_name: "S\xE9gol\xE8ne"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Amiot
     ref: PA794138
   '4404':
+    circo: '04'
+    dep: '44'
     email: julie.laernoes@assemblee-nationale.fr
     first_name: Julie
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Laernoes
     ref: PA794146
   '4405':
+    circo: '05'
+    dep: '44'
     email: fabrice.roussel@assemblee-nationale.fr
     first_name: Fabrice
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Roussel
     ref: PA841327
   '4406':
+    circo: '06'
+    dep: '44'
     email: jean-claude.raux@assemblee-nationale.fr
     first_name: Jean-Claude
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Raux
     ref: PA794154
   '4407':
+    circo: '07'
+    dep: '44'
     email: Sandrine.Josso@assemblee-nationale.fr
     first_name: Sandrine
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Josso
     ref: PA720038
   '4408':
+    circo: 08
+    dep: '44'
     email: matthias.tavel@assemblee-nationale.fr
     first_name: Matthias
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Tavel
     ref: PA794166
   '4409':
+    circo: 09
+    dep: '44'
     email: jean-michel.brard@assemblee-nationale.fr
     first_name: Jean-Michel
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Brard
     ref: PA841339
   '4410':
+    circo: '10'
+    dep: '44'
     email: Sophie.Errante@assemblee-nationale.fr
     first_name: Sophie
+    gp: Non inscrit
     gp_abv: NI
     last_name: Errante
     ref: PA607193
   '4502':
+    circo: '02'
+    dep: '45'
     email: emmanuel.duplessy@assemblee-nationale.fr
     first_name: Emmanuel
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Duplessy
     ref: PA841351
   '4503':
+    circo: '03'
+    dep: '45'
     email: constance.depelichy@assemblee-nationale.fr
     first_name: Constance
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: "de P\xE9lichy"
     ref: PA841359
   '4504':
+    circo: '04'
+    dep: '45'
     email: thomas.menage@assemblee-nationale.fr
     first_name: Thomas
+    gp: Rassemblement National
     gp_abv: RN
     last_name: "M\xE9nag\xE9"
     ref: PA794322
   '4505':
+    circo: '05'
+    dep: '45'
     email: anthony.brosse@assemblee-nationale.fr
     first_name: Anthony
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Brosse
     ref: PA794330
   '4506':
+    circo: '06'
+    dep: '45'
     email: Richard.Ramos@assemblee-nationale.fr
     first_name: Richard
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Ramos
     ref: PA720092
   '4601':
+    circo: '01'
+    dep: '46'
     email: Aurelien.Pradie@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
+    gp: Non inscrit
     gp_abv: NI
     last_name: "Pradi\xE9"
     ref: PA720100
   '4602':
+    circo: '02'
+    dep: '46'
     email: christophe.proenca@assemblee-nationale.fr
     first_name: Christophe
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: "Proen\xE7a"
     ref: PA841367
   '4701':
+    circo: '01'
+    dep: '47'
     email: Michel.Lauzzana@assemblee-nationale.fr
     first_name: Michel
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Lauzzana
     ref: PA720022
   '4702':
+    circo: '02'
+    dep: '47'
     email: helene.laporte@assemblee-nationale.fr
     first_name: "H\xE9l\xE8ne"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Laporte
     ref: PA794354
   '4703':
+    circo: '03'
+    dep: '47'
     email: guillaume.lepers@assemblee-nationale.fr
     first_name: Guillaume
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Lepers
     ref: PA695512
   '4801':
+    circo: '01'
+    dep: '48'
     email: sophie.pantel@assemblee-nationale.fr
     first_name: Sophie
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Pantel
     ref: PA841381
   '4901':
+    circo: '01'
+    dep: '49'
     email: francois.gernigon@assemblee-nationale.fr
     first_name: "Fran\xE7ois"
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Gernigon
     ref: PA794234
   '4902':
+    circo: '02'
+    dep: '49'
     email: Stella.Dupont@assemblee-nationale.fr
     first_name: Stella
+    gp: Non inscrit
     gp_abv: NI
     last_name: Dupont
     ref: PA643175
   '4903':
+    circo: '03'
+    dep: '49'
     email: contact@annelaureblin.fr
     first_name: Anne-Laure
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Blin
     ref: PA774954
   '4904':
+    circo: '04'
+    dep: '49'
     email: Laetitia.Saint-Paul@assemblee-nationale.fr
     first_name: Laetitia
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Saint-Paul
     ref: PA720138
   '4905':
+    circo: '05'
+    dep: '49'
     email: Denis.Masseglia@assemblee-nationale.fr
     first_name: Denis
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: "Mass\xE9glia"
     ref: PA720146
   '4906':
+    circo: '06'
+    dep: '49'
     email: Nicole.Dubre-Chirat@assemblee-nationale.fr
     first_name: Nicole
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: "Dubr\xE9-Chirat"
     ref: PA720154
   '4907':
+    circo: '07'
+    dep: '49'
     email: Philippe.Bolo@assemblee-nationale.fr
     first_name: Philippe
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Bolo
     ref: PA720162
   '5001':
+    circo: '01'
+    dep: '50'
     email: philippegosselin50@orange.fr
     first_name: Philippe
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Gosselin
     ref: PA266797
   '5002':
+    circo: '02'
+    dep: '50'
     email: Bertrand.Sorre@assemblee-nationale.fr
     first_name: Bertrand
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Sorre
     ref: PA720190
   '5003':
+    circo: '03'
+    dep: '50'
     email: Stephane.Travert@assemblee-nationale.fr
     first_name: "St\xE9phane"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Travert
     ref: PA607395
   '5004':
+    circo: '04'
+    dep: '50'
     email: anna.pic@assemblee-nationale.fr
     first_name: Anna
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Pic
     ref: PA794270
   '5101':
+    circo: '01'
+    dep: '51'
     email: xavier.albertini@assemblee-nationale.fr
     first_name: Xavier
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Albertini
     ref: PA794278
   '5102':
+    circo: '02'
+    dep: '51'
     email: laure.miller@assemblee-nationale.fr
     first_name: Laure
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Miller
     ref: PA817203
   '5103':
+    circo: '03'
+    dep: '51'
     email: maxime.michelet@assemblee-nationale.fr
     first_name: Maxime
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Michelet
     ref: PA841395
   '5104':
+    circo: '04'
+    dep: '51'
     email: Lise.Magnier@assemblee-nationale.fr
     first_name: Lise
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Magnier
     ref: PA720230
   '5105':
+    circo: '05'
+    dep: '51'
     email: Charles.deCourson@assemblee-nationale.fr
     first_name: Charles
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: de Courson
     ref: PA942
   '5201':
+    circo: '01'
+    dep: '52'
     email: christophe.bentz@assemblee-nationale.fr
     first_name: Christophe
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Bentz
     ref: PA794434
   '5202':
+    circo: '02'
+    dep: '52'
     email: laurence.robert-dehault@assemblee-nationale.fr
     first_name: Laurence
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Robert-Dehault
     ref: PA794442
   '5301':
+    circo: '01'
+    dep: '53'
     email: Guillaume.Garot@assemblee-nationale.fr
     first_name: Guillaume
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Garot
     ref: PA333285
   '5302':
+    circo: '02'
+    dep: '53'
     email: Geraldine.Bannier@assemblee-nationale.fr
     first_name: "G\xE9raldine"
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Bannier
     ref: PA720256
   '5303':
+    circo: '03'
+    dep: '53'
     email: Yannick.Favennec@assemblee-nationale.fr
     first_name: Yannick
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: "Favennec-B\xE9cot"
     ref: PA267042
   '5401':
+    circo: '01'
+    dep: '54'
     email: estelle.mercier@assemblee-nationale.fr
     first_name: Estelle
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Mercier
     ref: PA841463
   '5402':
+    circo: '02'
+    dep: '54'
     email: stephane.hablot@assemblee-nationale.fr
     first_name: "St\xE9phane"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Hablot
     ref: PA841471
   '5403':
+    circo: '03'
+    dep: '54'
     email: frederic.weber@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Weber
     ref: PA841479
   '5404':
+    circo: '04'
+    dep: '54'
     email: permanence.bazin@gmail.com
     first_name: Thibault
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Bazin
     ref: PA642847
   '5405':
+    circo: '05'
+    dep: '54'
     email: Dominique.Potier@assemblee-nationale.fr
     first_name: Dominique
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Potier
     ref: PA607553
   '5406':
+    circo: '06'
+    dep: '54'
     email: anthony.boulogne@assemblee-nationale.fr
     first_name: Anthony
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Boulogne
     ref: PA841487
   '5501':
+    circo: '01'
+    dep: '55'
     email: mamblard.servicepresse@gmail.com
     first_name: Maxime
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Amblard
     ref: PA841495
   '5502':
+    circo: '02'
+    dep: '55'
     email: florence.goulet@assemblee-nationale.fr
     first_name: Florence
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Goulet
     ref: PA794418
   '5601':
+    circo: '01'
+    dep: '56'
     email: michel.criaud@assemblee-nationale.fr
     first_name: Michel
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Criaud
     ref: PA794430
   '5602':
+    circo: '02'
+    dep: '56'
     email: Jimmy.Pahun@assemblee-nationale.fr
     first_name: Jimmy
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Pahun
     ref: PA720334
   '5603':
+    circo: '03'
+    dep: '56'
     email: Nicole.LePeih@assemblee-nationale.fr
     first_name: Nicole
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Le Peih
     ref: PA720342
   '5604':
+    circo: '04'
+    dep: '56'
     email: Paul.Molac@assemblee-nationale.fr
     first_name: Paul
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Molac
     ref: PA607619
   '5605':
+    circo: '05'
+    dep: '56'
     email: damien.girard@assemblee-nationale.fr
     first_name: Damien
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Girard
     ref: PA841419
   '5606':
+    circo: '06'
+    dep: '56'
     email: Jean-Michel.Jacques@assemblee-nationale.fr
     first_name: Jean-Michel
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Jacques
     ref: PA720354
   '5701':
+    circo: '01'
+    dep: '57'
     email: Belkhir.Belhaddad@assemblee-nationale.fr
     first_name: Belkhir
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Belhaddad
     ref: PA720362
   '5702':
+    circo: '02'
+    dep: '57'
     email: Ludovic.Mendes@assemblee-nationale.fr
     first_name: Ludovic
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Mendes
     ref: PA720370
   '5703':
+    circo: '03'
+    dep: '57'
     email: nathalie.colin-oesterle@assemblee-nationale.fr
     first_name: Nathalie
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: "Colin-Oesterl\xE9"
     ref: PA841431
   '5704':
+    circo: '04'
+    dep: '57'
     email: Fabien.DiFilippo@assemblee-nationale.fr
     first_name: Fabien
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Di Filippo
     ref: PA720386
   '5705':
+    circo: '05'
+    dep: '57'
     email: pascal.jenft@assemblee-nationale.fr
     first_name: Pascal
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Jenft
     ref: PA841439
   '5706':
+    circo: '06'
+    dep: '57'
     email: kevin.pfeffer@assemblee-nationale.fr
     first_name: "K\xE9vin"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Pfeffer
     ref: PA794582
   '5707':
+    circo: '07'
+    dep: '57'
     email: alexandre.loubet@assemblee-nationale.fr
     first_name: Alexandre
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Loubet
     ref: PA794590
   '5708':
+    circo: 08
+    dep: '57'
     email: laurent.jacobelli@assemblee-nationale.fr
     first_name: Laurent
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Jacobelli
     ref: PA794598
   '5709':
+    circo: 09
+    dep: '57'
     email: Isabelle.Rauch@assemblee-nationale.fr
     first_name: Isabelle
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Rauch
     ref: PA720552
   '5801':
+    circo: '01'
+    dep: '58'
     email: Perrine.Goulet@assemblee-nationale.fr
     first_name: Perrine
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Goulet
     ref: PA720560
   '5802':
+    circo: '02'
+    dep: '58'
     email: julien.guibert@assemblee-nationale.fr
     first_name: Julien
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Guibert
     ref: PA841451
   '5901':
+    circo: '01'
+    dep: '59'
     email: aurelien.lecoq@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Le Coq
     ref: PA841515
   '5902':
+    circo: '02'
+    dep: '59'
     email: Ugo.Bernalicis@assemblee-nationale.fr
     first_name: Ugo
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Bernalicis
     ref: PA720430
   '5903':
+    circo: '03'
+    dep: '59'
     email: sandra.delannoy@assemblee-nationale.fr
     first_name: Sandra
+    gp: Non inscrit
     gp_abv: NI
     last_name: Delannoy
     ref: PA840119
   '5904':
+    circo: '04'
+    dep: '59'
     email: Brigitte.Liso@assemblee-nationale.fr
     first_name: Brigitte
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Liso
     ref: PA720446
   '5905':
+    circo: '05'
+    dep: '59'
     email: sebastien.huyghe@assemblee-nationale.fr
     first_name: "S\xE9bastien"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Huyghe
     ref: PA267200
   '5906':
+    circo: '06'
+    dep: '59'
     email: jean.moulliere@assemblee-nationale.fr
     first_name: Jean
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Moulliere
     ref: PA794466
   '5907':
+    circo: '07'
+    dep: '59'
     email: felicie.gerard@assemblee-nationale.fr
     first_name: "F\xE9licie"
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: "G\xE9rard"
     ref: PA794470
   '5908':
+    circo: 08
+    dep: '59'
     email: david.guiraud@assemblee-nationale.fr
     first_name: David
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Guiraud
     ref: PA794478
   '5909':
+    circo: 09
+    dep: '59'
     email: violette.spillebout@assemblee-nationale.fr
     first_name: Violette
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Spillebout
     ref: PA794486
   '5910':
+    circo: '10'
+    dep: '59'
     email: Vincent.Ledoux@assemblee-nationale.fr
     first_name: Vincent
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Ledoux
     ref: PA712014
   '5911':
+    circo: '11'
+    dep: '59'
     email: rvicot.depute5911@gmail.com
     first_name: Roger
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Vicot
     ref: PA794494
   '5912':
+    circo: '12'
+    dep: '59'
     email: michael.taverne@assemblee-nationale.fr
     first_name: "Micha\xEBl"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Taverne
     ref: PA794502
   '5913':
+    circo: '13'
+    dep: '59'
     email: julien.gokel@assemblee-nationale.fr
     first_name: Julien
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Gokel
     ref: PA841539
   '5914':
+    circo: '14'
+    dep: '59'
     email: Paul.Christophe@assemblee-nationale.fr
     first_name: Paul
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Christophe
     ref: PA642868
   '5915':
+    circo: '15'
+    dep: '59'
     email: jean-pierre.bataille@assemblee-nationale.fr
     first_name: Jean-Pierre
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Bataille
     ref: PA267763
   '5916':
+    circo: '16'
+    dep: '59'
     email: matthieu.marchio@assemblee-nationale.fr
     first_name: Matthieu
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Marchio
     ref: PA794530
   '5917':
+    circo: '17'
+    dep: '59'
     email: thierry.tesson.59@gmail.com
     first_name: Thierry
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Tesson
     ref: PA841553
   '5918':
+    circo: '18'
+    dep: '59'
     email: alexandre.dufosset@assemblee-nationale.fr
     first_name: Alexandre
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Dufosset
     ref: PA840135
   '5919':
+    circo: '19'
+    dep: '59'
     email: Sebastien.Chenu@assemblee-nationale.fr
     first_name: "S\xE9bastien"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Chenu
     ref: PA720468
   '5920':
+    circo: '20'
+    dep: '59'
     email: guillaume.florquin@assemblee-nationale.fr
     first_name: Guillaume
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Florquin
     ref: PA840143
   '5921':
+    circo: '21'
+    dep: '59'
     email: cabinet@valerieletard.org
     first_name: "Val\xE9rie"
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: "L\xE9tard"
     ref: PA227089
   '6001':
+    circo: '01'
+    dep: '60'
     email: claire.marais-beuil@assemblee-nationale.fr
     first_name: Claire
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Marais-Beuil
     ref: PA841563
   '6002':
+    circo: '02'
+    dep: '60'
     email: permanence.ballard@gmail.com
     first_name: Philippe
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Ballard
     ref: PA794562
   '6003':
+    circo: '03'
+    dep: '60'
     email: permanence.sabatou@gmail.com
     first_name: Alexandre
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Sabatou
     ref: PA794570
   '6004':
+    circo: '04'
+    dep: '60'
     email: Eric.Woerth@assemblee-nationale.fr
     first_name: "\xC9ric"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Woerth
     ref: PA2960
   '6005':
+    circo: '05'
+    dep: '60'
     email: fredericpierre.vos@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric-Pierre"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Vos
     ref: PA841575
   '6006':
+    circo: '06'
+    dep: '60'
     email: michel.guiniot@assemblee-nationale.fr
     first_name: Michel
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Guiniot
     ref: PA794734
   '6007':
+    circo: '07'
+    dep: '60'
     email: david.magnier@assemblee-nationale.fr
     first_name: David
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Magnier
     ref: PA841587
   '6101':
+    circo: '01'
+    dep: '61'
     email: chantal.jourdan@assemblee-nationale.fr
     first_name: Chantal
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Jourdan
     ref: PA643192
   '6102':
+    circo: '02'
+    dep: '61'
     email: Veronique.Louwagie@assemblee-nationale.fr
     first_name: "V\xE9ronique"
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Louwagie
     ref: PA608016
   '6103':
+    circo: '03'
+    dep: '61'
     email: Jerome.Nury@assemblee-nationale.fr
     first_name: "J\xE9r\xF4me"
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Nury
     ref: PA720644
   '6201':
+    circo: '01'
+    dep: '62'
     email: emmanuel.blairy@assemblee-nationale.fr
     first_name: Emmanuel
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Blairy
     ref: PA720668
   '6202':
+    circo: '02'
+    dep: '62'
     email: agnes.pannier-runacher@assemblee-nationale.fr
     first_name: "Agn\xE8s"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Pannier-Runacher
     ref: PA759832
   '6203':
+    circo: '03'
+    dep: '62'
     email: bruno.clavet@assemblee-nationale.fr
     first_name: Bruno
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Clavet
     ref: PA840159
   '6204':
+    circo: '04'
+    dep: '62'
     email: philippe.fait@assemblee-nationale.fr
     first_name: Philippe
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Fait
     ref: PA794658
   '6205':
+    circo: '05'
+    dep: '62'
     email: antoine.golliot@assemblee-nationale.fr
     first_name: Antoine
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Golliot
     ref: PA841605
   '6206':
+    circo: '06'
+    dep: '62'
     email: christine.engrand@assemblee-nationale.fr
     first_name: Christine
+    gp: Non inscrit
     gp_abv: NI
     last_name: Engrand
     ref: PA794718
   '6207':
+    circo: '07'
+    dep: '62'
     email: marc.defleurian@assemblee-nationale.fr
     first_name: Marc
+    gp: Rassemblement National
     gp_abv: RN
     last_name: de Fleurian
     ref: PA841613
   '6208':
+    circo: 08
+    dep: '62'
     email: auguste.evrard@assemblee-nationale.fr
     first_name: Auguste
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Evrard
     ref: PA841621
   '6209':
+    circo: 09
+    dep: '62'
     email: caroline.parmentier@assemblee-nationale.fr
     first_name: Caroline
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Parmentier
     ref: PA794670
   '6210':
+    circo: '10'
+    dep: '62'
     email: thierry.frappe@assemblee-nationale.fr
     first_name: Thierry
+    gp: Rassemblement National
     gp_abv: RN
     last_name: "Frapp\xE9"
     ref: PA794678
   '6211':
+    circo: '11'
+    dep: '62'
     email: Marine.LePen@assemblee-nationale.fr
     first_name: Marine
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Le Pen
     ref: PA720614
   '6212':
+    circo: '12'
+    dep: '62'
     email: Bruno.Bilde@assemblee-nationale.fr
     first_name: Bruno
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Bilde
     ref: PA720822
   '6301':
+    circo: '01'
+    dep: '63'
     email: marianne.maximi@assemblee-nationale.fr
     first_name: Marianne
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Maximi
     ref: PA794686
   '6302':
+    circo: '02'
+    dep: '63'
     email: cpbdeputee@gmail.com
     first_name: Christine
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: "Pir\xE8s Beaune"
     ref: PA608172
   '6303':
+    circo: '03'
+    dep: '63'
     email: nicolas.bonnet@assemblee-nationale.fr
     first_name: Nicolas
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Bonnet
     ref: PA841507
   '6304':
+    circo: '04'
+    dep: '63'
     email: delphine.lingemann@assemblee-nationale.fr
     first_name: Delphine
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Lingemann
     ref: PA794702
   '6305':
+    circo: '05'
+    dep: '63'
     email: julien.brugerolles@assemblee-nationale.fr
     first_name: Julien
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Brugerolles
     ref: PA794710
   '6401':
+    circo: '01'
+    dep: '64'
     email: Josy.Poueyto@assemblee-nationale.fr
     first_name: Josy
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Poueyto
     ref: PA720720
   '6402':
+    circo: '02'
+    dep: '64'
     email: Jean-Paul.Mattei@assemblee-nationale.fr
     first_name: Jean-Paul
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Mattei
     ref: PA720728
   '6403':
+    circo: '03'
+    dep: '64'
     email: David.Habib@assemblee-nationale.fr
     first_name: David
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Habib
     ref: PA1592
   '6404':
+    circo: '04'
+    dep: '64'
     email: inaki.echaniz@assemblee-nationale.fr
     first_name: Inaki
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Echaniz
     ref: PA794854
   '6405':
+    circo: '05'
+    dep: '64'
     email: colette.capdevielle@assemblee-nationale.fr
     first_name: Colette
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Capdevielle
     ref: PA608264
   '6406':
+    circo: '06'
+    dep: '64'
     email: peio.dufau@assemblee-nationale.fr
     first_name: Peio
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Dufau
     ref: PA841633
   '6501':
+    circo: '01'
+    dep: '65'
     email: sylvie.ferrer@assemblee-nationale.fr
     first_name: Sylvie
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Ferrer
     ref: PA794870
   '6502':
+    circo: '02'
+    dep: '65'
     email: permanencedenisfegne@gmail.com
     first_name: Denis
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: "F\xE9gn\xE9"
     ref: PA841665
   '6601':
+    circo: '01'
+    dep: '66'
     email: sophie.blanc@assemblee-nationale.fr
     first_name: Sophie
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Blanc
     ref: PA794886
   '6602':
+    circo: '02'
+    dep: '66'
     email: anais.sabatini@assemblee-nationale.fr
     first_name: "Ana\xEFs"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Sabatini
     ref: PA794894
   '6603':
+    circo: '03'
+    dep: '66'
     email: sandrine.dogor-such@assemblee-nationale.fr
     first_name: Sandrine
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Dogor-Such
     ref: PA794762
   '6604':
+    circo: '04'
+    dep: '66'
     email: michele.martinez@assemblee-nationale.fr
     first_name: "Mich\xE8le"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Martinez
     ref: PA794770
   '6701':
+    circo: '01'
+    dep: '67'
     email: sandra.regol@assemblee-nationale.fr
     first_name: Sandra
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Regol
     ref: PA794778
   '6702':
+    circo: '02'
+    dep: '67'
     email: emmanuel.fernandes@assemblee-nationale.fr
     first_name: Emmanuel
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Fernandes
     ref: PA794786
   '6703':
+    circo: '03'
+    dep: '67'
     email: thierry.sother@assemblee-nationale.fr
     first_name: Thierry
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Sother
     ref: PA841681
   '6704':
+    circo: '04'
+    dep: '67'
     email: francoise.buffet@assemblee-nationale.fr
     first_name: "Fran\xE7oise"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Buffet
     ref: PA794798
   '6705':
+    circo: '05'
+    dep: '67'
     email: charles.sitzenstuhl@assemblee-nationale.fr
     first_name: Charles
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Sitzenstuhl
     ref: PA794802
   '6706':
+    circo: '06'
+    dep: '67'
     email: louise.morel@assemblee-nationale.fr
     first_name: Louise
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Morel
     ref: PA794810
   '6707':
+    circo: '07'
+    dep: '67'
     email: Patrick.Hetzel@assemblee-nationale.fr
     first_name: Patrick
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Hetzel
     ref: PA608416
   '6708':
+    circo: 08
+    dep: '67'
     email: theo.bernhardt@assemblee-nationale.fr
     first_name: "Th\xE9o"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Bernhardt
     ref: PA841645
   '6709':
+    circo: 09
+    dep: '67'
     email: Vincent.Thiebaut@assemblee-nationale.fr
     first_name: Vincent
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: "Thi\xE9baut"
     ref: PA722336
   '6801':
+    circo: '01'
+    dep: '68'
     email: brigitte.klinkert@assemblee-nationale.fr
     first_name: Brigitte
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Klinkert
     ref: PA643184
   '6802':
+    circo: '02'
+    dep: '68'
     email: hubert.ott@assemblee-nationale.fr
     first_name: Hubert
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Ott
     ref: PA794830
   '6803':
+    circo: '03'
+    dep: '68'
     email: didier.lemaire@assemblee-nationale.fr
     first_name: Didier
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Lemaire
     ref: PA794838
   '6804':
+    circo: '04'
+    dep: '68'
     email: Raphael.Schellenberger@assemblee-nationale.fr
     first_name: "Rapha\xEBl"
+    gp: Non inscrit
     gp_abv: NI
     last_name: Schellenberger
     ref: PA721314
   '6805':
+    circo: '05'
+    dep: '68'
     email: olivier.becht@assemblee-nationale.fr
     first_name: Olivier
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Becht
     ref: PA642935
   '6806':
+    circo: '06'
+    dep: '68'
     email: Bruno.Fuchs@assemblee-nationale.fr
     first_name: Bruno
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Fuchs
     ref: PA722284
   '6901':
+    circo: '01'
+    dep: '69'
     email: anais.belouassa@assemblee-nationale.fr
     first_name: "Ana\xEFs"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Belouassa-Cherifi
     ref: PA841657
   '6902':
+    circo: '02'
+    dep: '69'
     email: boris.tavernier@assemblee-nationale.fr
     first_name: Boris
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Tavernier
     ref: PA841713
   '6903':
+    circo: '03'
+    dep: '69'
     email: marie-charlotte.garin@assemblee-nationale.fr
     first_name: Marie-Charlotte
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Garin
     ref: PA795010
   '6904':
+    circo: '04'
+    dep: '69'
     email: sandrine.runel@mairie-lyon.fr
     first_name: Sandrine
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Runel
     ref: PA841717
   '6905':
+    circo: '05'
+    dep: '69'
     email: Blandine.Brocard@assemblee-nationale.fr
     first_name: Blandine
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Brocard
     ref: PA721336
   '6906':
+    circo: '06'
+    dep: '69'
     email: gabriel.amard@assemblee-nationale.fr
     first_name: Gabriel
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Amard
     ref: PA794906
   '6907':
+    circo: '07'
+    dep: '69'
     email: abdelkader.lahmar@assemblee-nationale.fr
     first_name: Abdelkader
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Lahmar
     ref: PA841729
   '6908':
+    circo: 08
+    dep: '69'
     email: jonathan.gery@assemblee-nationale.fr
     first_name: Jonathan
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Gery
     ref: PA841737
   '6909':
+    circo: 09
+    dep: '69'
     email: contact@alexandreportier.fr
     first_name: Alexandre
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Portier
     ref: PA794994
   '6910':
+    circo: '10'
+    dep: '69'
     email: Thomas.Gassilloud@assemblee-nationale.fr
     first_name: Thomas
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Gassilloud
     ref: PA722358
   '6911':
+    circo: '11'
+    dep: '69'
     email: Jean-Luc.Fugit@assemblee-nationale.fr
     first_name: Jean-Luc
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Fugit
     ref: PA722366
   '6912':
+    circo: '12'
+    dep: '69'
     email: Cyrille.Isaac-Sibille@assemblee-nationale.fr
     first_name: Cyrille
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Isaac-Sibille
     ref: PA722374
   '6913':
+    circo: '13'
+    dep: '69'
     email: tiffany.joncour@assemblee-nationale.fr
     first_name: Tiffany
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Joncour
     ref: PA841749
   '6914':
+    circo: '14'
+    dep: '69'
     email: idir.boumertit@assemblee-nationale.fr
     first_name: Idir
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Boumertit
     ref: PA794938
   '7001':
+    circo: '01'
+    dep: '70'
     email: antoine.villedieu@assemblee-nationale.fr
     first_name: Antoine
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Villedieu
     ref: PA794946
   '7002':
+    circo: '02'
+    dep: '70'
     email: emeric.salmon@assemblee-nationale.fr
     first_name: Emeric
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Salmon
     ref: PA794954
   '7101':
+    circo: '01'
+    dep: '71'
     email: Benjamin.Dirx@assemblee-nationale.fr
     first_name: Benjamin
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Dirx
     ref: PA722382
   '7102':
+    circo: '02'
+    dep: '71'
     email: jcorneloup2circo71@outlook.fr
     first_name: Josiane
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Corneloup
     ref: PA722390
   '7103':
+    circo: '03'
+    dep: '71'
     email: aurelien.dutremble@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Dutremble
     ref: PA841761
   '7104':
+    circo: '04'
+    dep: '71'
     email: eric.michoux@assemblee-nationale.fr
     first_name: "\xC9ric"
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Michoux
     ref: PA841769
   '7105':
+    circo: '05'
+    dep: '71'
     email: lionel.duparay@assemblee-nationale.fr
     first_name: Lionel
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Duparay
     ref: PA870009
   '7201':
+    circo: '01'
+    dep: '72'
     email: cabinet.juliedelpech@gmail.com
     first_name: Julie
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Delpech
     ref: PA794982
   '7202':
+    circo: '02'
+    dep: '72'
     email: Marietta.Karamanli@assemblee-nationale.fr
     first_name: Marietta
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Karamanli
     ref: PA335054
   '7203':
+    circo: '03'
+    dep: '72'
     email: eric.martineau@assemblee-nationale.fr
     first_name: "\xC9ric"
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Martineau
     ref: PA795100
   '7204':
+    circo: '04'
+    dep: '72'
     email: elise.leboucher@assemblee-nationale.fr
     first_name: "\xC9lise"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Leboucher
     ref: PA795108
   '7205':
+    circo: '05'
+    dep: '72'
     email: jcgrelier.depute@gmail.com
     first_name: Jean-Carles
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Grelier
     ref: PA267318
   '7301':
+    circo: '01'
+    dep: '73'
     email: didier.padey@assemblee-nationale.fr
     first_name: Didier
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Padey
     ref: PA795124
   '7302':
+    circo: '02'
+    dep: '73'
     email: Vincent.Rolland@assemblee-nationale.fr
     first_name: Vincent
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Rolland
     ref: PA266808
   '7303':
+    circo: '03'
+    dep: '73'
     email: Emilie.Bonnivard@assemblee-nationale.fr
     first_name: "\xC9milie"
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Bonnivard
     ref: PA721410
   '7304':
+    circo: '04'
+    dep: '73'
     email: jean-francois.coulomme@assemblee-nationale.fr
     first_name: "Jean-Fran\xE7ois"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Coulomme
     ref: PA795136
   '7401':
+    circo: '01'
+    dep: '74'
     email: Veronique.Riotton@assemblee-nationale.fr
     first_name: "V\xE9ronique"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Riotton
     ref: PA721426
   '7402':
+    circo: '02'
+    dep: '74'
     email: antoine.armand@assemblee-nationale.fr
     first_name: Antoine
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Armand
     ref: PA795144
   '7404':
+    circo: '04'
+    dep: '74'
     email: Virginie.Duby-Muller@assemblee-nationale.fr
     first_name: Virginie
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Duby-Muller
     ref: PA608826
   '7405':
+    circo: '05'
+    dep: '74'
     email: anne-cecile.violland@assemblee-nationale.fr
     first_name: "Anne-C\xE9cile"
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Violland
     ref: PA795026
   '7406':
+    circo: '06'
+    dep: '74'
     email: Xavier.Roseren@assemblee-nationale.fr
     first_name: Xavier
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Roseren
     ref: PA721458
   '7501':
+    circo: '01'
+    dep: '75'
     email: Sylvain.Maillard@assemblee-nationale.fr
     first_name: Sylvain
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Maillard
     ref: PA717379
   '7502':
+    circo: '02'
+    dep: '75'
     email: michel.barnier@assemblee-nationale.fr
     first_name: Michel
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Barnier
     ref: PA368
   '7503':
+    circo: '03'
+    dep: '75'
     email: lea.balage@assemblee-nationale.fr
     first_name: "L\xE9a"
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Balage El Mariky
     ref: PA841701
   '7504':
+    circo: '04'
+    dep: '75'
     email: astrid.panosyan-bouvet@assemblee-nationale.fr
     first_name: Astrid
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Panosyan-Bouvet
     ref: PA795050
   '7505':
+    circo: '05'
+    dep: '75'
     email: pouria.amirshahi@assemblee-nationale.fr
     first_name: Pouria
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Amirshahi
     ref: PA610968
   '7506':
+    circo: '06'
+    dep: '75'
     email: sophia.chikirou@assemblee-nationale.fr
     first_name: Sophia
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Chikirou
     ref: PA791812
   '7507':
+    circo: '07'
+    dep: '75'
     email: emmanuel.gregoire@assemblee-nationale.fr
     first_name: Emmanuel
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: "Gr\xE9goire"
     ref: PA840171
   '7508':
+    circo: 08
+    dep: '75'
     email: eva.sas@assemblee-nationale.fr
     first_name: Eva
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Sas
     ref: PA610002
   '7509':
+    circo: 09
+    dep: '75'
     email: sandrine.rousseau@assemblee-nationale.fr
     first_name: Sandrine
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Rousseau
     ref: PA795076
   '7510':
+    circo: '10'
+    dep: '75'
     email: rodrigo.arenas@assemblee-nationale.fr
     first_name: Rodrigo
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Arenas
     ref: PA795084
   '7511':
+    circo: '11'
+    dep: '75'
     email: celine.hervieu@assemblee-nationale.fr
     first_name: "C\xE9line"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Hervieu
     ref: PA841853
   '7512':
+    circo: '12'
+    dep: '75'
     email: oliviagregoire2017@gmail.com
     first_name: Olivia
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: "Gr\xE9goire"
     ref: PA721764
   '7513':
+    circo: '13'
+    dep: '75'
     email: catherine.ibled@assemblee-nationale.fr
     first_name: Catherine
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Ibled
     ref: PA795954
   '7514':
+    circo: '14'
+    dep: '75'
     email: josephine.missoffe@assemblee-nationale.fr
     first_name: "Jos\xE9phine"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Missoffe
     ref: PA795962
   '7515':
+    circo: '15'
+    dep: '75'
     email: danielle.simonnet@assemblee-nationale.fr
     first_name: Danielle
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Simonnet
     ref: PA796018
   '7516':
+    circo: '16'
+    dep: '75'
     email: sarah.legrain@assemblee-nationale.fr
     first_name: Sarah
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Legrain
     ref: PA791824
   '7517':
+    circo: '17'
+    dep: '75'
     email: Daniele.Obono@assemblee-nationale.fr
     first_name: "Dani\xE8le"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Obono
     ref: PA721960
   '7518':
+    circo: '18'
+    dep: '75'
     email: aymeric.caron@assemblee-nationale.fr
     first_name: Aymeric
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Caron
     ref: PA796090
   '7601':
+    circo: '01'
+    dep: '76'
     email: florence.herouin-leautey@assemblee-nationale.fr
     first_name: Florence
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: "Herouin-L\xE9autey"
     ref: PA841813
   '7602':
+    circo: '02'
+    dep: '76'
     email: Annie.Vidal@assemblee-nationale.fr
     first_name: Annie
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Vidal
     ref: PA722102
   '7603':
+    circo: '03'
+    dep: '76'
     email: edouard.benard@assemblee-nationale.fr
     first_name: "\xC9douard"
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: "B\xE9nard"
     ref: PA796106
   '7604':
+    circo: '04'
+    dep: '76'
     email: alma.dufour@assemblee-nationale.fr
     first_name: Alma
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Dufour
     ref: PA795200
   '7605':
+    circo: '05'
+    dep: '76'
     email: gerard.leseul@assemblee-nationale.fr
     first_name: "G\xE9rard"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Leseul
     ref: PA774958
   '7606':
+    circo: '06'
+    dep: '76'
     email: patrice.martin@assemblee-nationale.fr
     first_name: Patrice
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Martin
     ref: PA841825
   '7607':
+    circo: '07'
+    dep: '76'
     email: Agnes.FirminLeBodo@assemblee-nationale.fr
     first_name: "Agn\xE8s"
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Firmin Le Bodo
     ref: PA267780
   '7608':
+    circo: 08
+    dep: '76'
     email: Jean-Paul.Lecoq@assemblee-nationale.fr
     first_name: Jean-Paul
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Lecoq
     ref: PA335612
   '7609':
+    circo: 09
+    dep: '76'
     email: marieagnes.poussier-winsback@assemblee-nationale.fr
     first_name: "Marie-Agn\xE8s"
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Poussier-Winsback
     ref: PA795270
   '7610':
+    circo: '10'
+    dep: '76'
     email: robert.lebourgeois@assemblee-nationale.fr
     first_name: Robert
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Le Bourgeois
     ref: PA841837
   '7701':
+    circo: '01'
+    dep: '77'
     email: arnaud.saint-martin@assemblee-nationale.fr
     first_name: Arnaud
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Saint-Martin
     ref: PA841845
   '7702':
+    circo: '02'
+    dep: '77'
     email: frederic.valletoux@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric"
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Valletoux
     ref: PA795350
   '7703':
+    circo: '03'
+    dep: '77'
     email: Jean-Louis.Thieriot@assemblee-nationale.fr
     first_name: Jean-Louis
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: "Thi\xE9riot"
     ref: PA643089
   '7704':
+    circo: '04'
+    dep: '77'
     email: julien.limongi@assemblee-nationale.fr
     first_name: Julien
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Limongi
     ref: PA841873
   '7705':
+    circo: '05'
+    dep: '77'
     email: franck.riester@assemblee-nationale.fr
     first_name: Franck
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Riester
     ref: PA335758
   '7706':
+    circo: '06'
+    dep: '77'
     email: beatrice.roullaud@assemblee-nationale.fr
     first_name: "B\xE9atrice"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Roullaud
     ref: PA795410
   '7707':
+    circo: '07'
+    dep: '77'
     email: ersilia.soudais@assemblee-nationale.fr
     first_name: Ersilia
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Soudais
     ref: PA795466
   '7708':
+    circo: 08
+    dep: '77'
     email: arnaud.bonnet@assemblee-nationale.fr
     first_name: Arnaud
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Bonnet
     ref: PA841885
   '7709':
+    circo: 09
+    dep: '77'
     email: celine.thiebault-martinez@assemblee-nationale.fr
     first_name: "C\xE9line"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: "Thi\xE9bault-Martinez"
     ref: PA841893
   '7710':
+    circo: '10'
+    dep: '77'
     email: maxime.laisney@assemblee-nationale.fr
     first_name: Maxime
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Laisney
     ref: PA795516
   '7711':
+    circo: '11'
+    dep: '77'
     email: Olivier.Faure@assemblee-nationale.fr
     first_name: Olivier
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Faure
     ref: PA609332
   '7801':
+    circo: '01'
+    dep: '78'
     email: charles.rodwell@assemblee-nationale.fr
     first_name: Charles
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Rodwell
     ref: PA795528
   '7802':
+    circo: '02'
+    dep: '78'
     email: anne.bergantz@assemblee-nationale.fr
     first_name: Anne
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Bergantz
     ref: PA805166
   '7803':
+    circo: '03'
+    dep: '78'
     email: Beatrice.Piron@assemblee-nationale.fr
     first_name: "B\xE9atrice"
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Piron
     ref: PA721844
   '7804':
+    circo: '04'
+    dep: '78'
     email: Marie.Lebec@assemblee-nationale.fr
     first_name: Marie
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Lebec
     ref: PA721852
   '7805':
+    circo: '05'
+    dep: '78'
     email: Yael.Braun-Pivet@assemblee-nationale.fr
     first_name: "Ya\xEBl"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Braun-Pivet
     ref: PA721908
   '7806':
+    circo: '06'
+    dep: '78'
     email: Natalia.Pouzyreff@assemblee-nationale.fr
     first_name: Natalia
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Pouzyreff
     ref: PA721916
   '7807':
+    circo: '07'
+    dep: '78'
     email: aurelien.rousseau@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Rousseau
     ref: PA826635
   '7808':
+    circo: 08
+    dep: '78'
     email: benjamin.lucas@assemblee-nationale.fr
     first_name: Benjamin
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Lucas-Lundy
     ref: PA795636
   '7809':
+    circo: 09
+    dep: '78'
     email: dieynaba.diop@assemblee-nationale.fr
     first_name: Dieynaba
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Diop
     ref: PA841919
   '7810':
+    circo: '10'
+    dep: '78'
     email: anne-sophie.ronceret@assemblee-nationale.fr
     first_name: Anne-Sophie
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Ronceret
     ref: PA841927
   '7811':
+    circo: '11'
+    dep: '78'
     email: laurent.mazaury@assemblee-nationale.fr
     first_name: Laurent
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Mazaury
     ref: PA841931
   '7812':
+    circo: '12'
+    dep: '78'
     email: karl.olive@assemblee-nationale.fr
     first_name: Karl
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Olive
     ref: PA795722
   '7901':
+    circo: '01'
+    dep: '79'
     email: bastien.marchive@assemblee-nationale.fr
     first_name: Bastien
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Marchive
     ref: PA795730
   '7902':
+    circo: '02'
+    dep: '79'
     email: Delphine.Batho@assemblee-nationale.fr
     first_name: Delphine
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Batho
     ref: PA335999
   '7903':
+    circo: '03'
+    dep: '79'
     email: Jean-Marie.Fievet@assemblee-nationale.fr
     first_name: Jean-Marie
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: "Fi\xE9vet"
     ref: PA722134
   '8001':
+    circo: '01'
+    dep: '80'
     email: Francois.Ruffin@assemblee-nationale.fr
     first_name: "Fran\xE7ois"
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Ruffin
     ref: PA722142
   '8002':
+    circo: '02'
+    dep: '80'
     email: zahia.hamdane@assemblee-nationale.fr
     first_name: Zahia
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Hamdane
     ref: PA841947
   '8003':
+    circo: '03'
+    dep: '80'
     email: matthias.renault@assemblee-nationale.fr
     first_name: Matthias
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Renault
     ref: PA841955
   '8004':
+    circo: '04'
+    dep: '80'
     email: jean-philippe.tanguy@assemblee-nationale.fr
     first_name: Jean-Philippe
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Tanguy
     ref: PA795778
   '8005':
+    circo: '05'
+    dep: '80'
     email: yael.menache@assemblee-nationale.fr
     first_name: "Ya\xEBl"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: "M\xE9nach\xE9"
     ref: PA795786
   '8101':
+    circo: '01'
+    dep: '81'
     email: philippe.bonnecarrere@assemblee-nationale.fr
     first_name: Philippe
+    gp: Non inscrit
     gp_abv: NI
     last_name: "Bonnecarr\xE8re"
     ref: PA569
   '8102':
+    circo: '02'
+    dep: '81'
     email: karen.erodi@assemblee-nationale.fr
     first_name: Karen
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Erodi
     ref: PA795844
   '8103':
+    circo: '03'
+    dep: '81'
     email: Jean.Terlier@assemblee-nationale.fr
     first_name: Jean
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Terlier
     ref: PA721584
   '8201':
+    circo: '01'
+    dep: '82'
     email: pierre-henri.carbonnel@assemblee-nationale.fr
     first_name: Pierre-Henri
+    gp: "Union des droites pour la R\xE9publique"
     gp_abv: UDR
     last_name: Carbonnel
     ref: PA841973
   '8202':
+    circo: '02'
+    dep: '82'
     email: marine.hamelet@assemblee-nationale.fr
     first_name: Marine
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Hamelet
     ref: PA795900
   '8301':
+    circo: '01'
+    dep: '83'
     email: yannick.chenevard@assemblee-nationale.fr
     first_name: Yannick
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Chenevard
     ref: PA795908
   '8302':
+    circo: '02'
+    dep: '83'
     email: laure.lavalette@assemblee-nationale.fr
     first_name: Laure
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Lavalette
     ref: PA795912
   '8303':
+    circo: '03'
+    dep: '83'
     email: stephane.rambaud@assemblee-nationale.fr
     first_name: "St\xE9phane"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Rambaud
     ref: PA795966
   '8304':
+    circo: '04'
+    dep: '83'
     email: philippe.lottiaux@assemblee-nationale.fr
     first_name: Philippe
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Lottiaux
     ref: PA795974
   '8305':
+    circo: '05'
+    dep: '83'
     email: julie.lechanteux@assemblee-nationale.fr
     first_name: Julie
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Lechanteux
     ref: PA796026
   '8306':
+    circo: '06'
+    dep: '83'
     email: frank.giletti@assemblee-nationale.fr
     first_name: Frank
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Giletti
     ref: PA796034
   '8307':
+    circo: '07'
+    dep: '83'
     email: frederic.boccaletti@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Boccaletti
     ref: PA796042
   '8308':
+    circo: 08
+    dep: '83'
     email: contact@philippe-schreck.fr
     first_name: Philippe
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Schreck
     ref: PA796050
   '8401':
+    circo: '01'
+    dep: '84'
     email: raphael.arnault@assemblee-nationale.fr
     first_name: "Rapha\xEBl"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Arnault
     ref: PA842105
   '8402':
+    circo: '02'
+    dep: '84'
     email: benedicte.auzanot@assemblee-nationale.fr
     first_name: "B\xE9n\xE9dicte"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Auzanot
     ref: PA796118
   '8403':
+    circo: '03'
+    dep: '84'
     email: herve.delepinau@assemblee-nationale.fr
     first_name: "Herv\xE9"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: "de L\xE9pinau"
     ref: PA642988
   '8404':
+    circo: '04'
+    dep: '84'
     email: Marie-France.Lorho@assemblee-nationale.fr
     first_name: Marie-France
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Lorho
     ref: PA721932
   '8405':
+    circo: '05'
+    dep: '84'
     email: catherine.rimbert@assemblee-nationale.fr
     first_name: Catherine
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Rimbert
     ref: PA841981
   '8501':
+    circo: '01'
+    dep: '85'
     email: Philippe.Latombe@assemblee-nationale.fr
     first_name: Philippe
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Latombe
     ref: PA721984
   '8502':
+    circo: '02'
+    dep: '85'
     email: beatrice.bellamy@assemblee-nationale.fr
     first_name: "B\xE9atrice"
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Bellamy
     ref: PA795278
   '8503':
+    circo: '03'
+    dep: '85'
     email: Stephane.Buchou@assemblee-nationale.fr
     first_name: "St\xE9phane"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Buchou
     ref: PA722000
   '8504':
+    circo: '04'
+    dep: '85'
     email: veronique.besse@assemblee-nationale.fr
     first_name: "V\xE9ronique"
+    gp: Non inscrit
     gp_abv: NI
     last_name: Besse
     ref: PA309643
   '8505':
+    circo: '05'
+    dep: '85'
     email: Pierre.Henriet@assemblee-nationale.fr
     first_name: Pierre
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Henriet
     ref: PA722070
   '8601':
+    circo: '01'
+    dep: '86'
     email: lisa.belluco@assemblee-nationale.fr
     first_name: Lisa
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Belluco
     ref: PA795362
   '8602':
+    circo: '02'
+    dep: '86'
     email: contact@sachahoulie.fr
     first_name: Sacha
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: "Houli\xE9"
     ref: PA722150
   '8603':
+    circo: '03'
+    dep: '86'
     email: pascal.lecamp@civray.fr
     first_name: Pascal
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Lecamp
     ref: PA795374
   '8604':
+    circo: '04'
+    dep: '86'
     email: Nicolas.Turquois@assemblee-nationale.fr
     first_name: Nicolas
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Turquois
     ref: PA722162
   '8701':
+    circo: '01'
+    dep: '87'
     email: damien.maudet@assemblee-nationale.fr
     first_name: Damien
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Maudet
     ref: PA795422
   '8702':
+    circo: '02'
+    dep: '87'
     email: stephane.delautrette@assemblee-nationale.fr
     first_name: "St\xE9phane"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Delautrette
     ref: PA795430
   '8703':
+    circo: '03'
+    dep: '87'
     email: manon.meunier@assemblee-nationale.fr
     first_name: Manon
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Meunier
     ref: PA795482
   '8801':
+    circo: '01'
+    dep: '88'
     email: Stephane.Viry@assemblee-nationale.fr
     first_name: "St\xE9phane"
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Viry
     ref: PA721474
   '8802':
+    circo: '02'
+    dep: '88'
     email: gaetan.dussausaye@assemblee-nationale.fr
     first_name: "Ga\xEBtan"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Dussausaye
     ref: PA842073
   '8803':
+    circo: '03'
+    dep: '88'
     email: Christophe.Naegelen@assemblee-nationale.fr
     first_name: Christophe
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Naegelen
     ref: PA721486
   '8804':
+    circo: '04'
+    dep: '88'
     email: sebastien.humbert@assemblee-nationale.fr
     first_name: "S\xE9bastien"
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Humbert
     ref: PA842085
   '8901':
+    circo: '01'
+    dep: '89'
     email: daniel.grenon@assemblee-nationale.fr
     first_name: Daniel
+    gp: Non inscrit
     gp_abv: NI
     last_name: Grenon
     ref: PA795540
   '8902':
+    circo: '02'
+    dep: '89'
     email: sophie-laurence.roy@assemblee-nationale.fr
     first_name: Sophie-Laurence
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Roy
     ref: PA842097
   '8903':
+    circo: '03'
+    dep: '89'
     email: julien.odoul@assemblee-nationale.fr
     first_name: Julien
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Odoul
     ref: PA795552
   '9001':
+    circo: '01'
+    dep: '90'
     email: Ian.Boucard@assemblee-nationale.fr
     first_name: Ian
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Boucard
     ref: PA721816
   '9002':
+    circo: '02'
+    dep: '90'
     email: guillaume.bigot@assemblee-nationale.fr
     first_name: Guillaume
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Bigot
     ref: PA842001
   '9101':
+    circo: '01'
+    dep: '91'
     email: farida.amrani@assemblee-nationale.fr
     first_name: Farida
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Amrani
     ref: PA795588
   '9102':
+    circo: '02'
+    dep: '91'
     email: nathalie.daconceicaocarvalho@assemblee-nationale.fr
     first_name: Nathalie
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Da Conceicao Carvalho
     ref: PA795644
   '9103':
+    circo: '03'
+    dep: '91'
     email: steevy.gustave@assemblee-nationale.fr
     first_name: Steevy
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Gustave
     ref: PA842013
   '9104':
+    circo: '04'
+    dep: '91'
     email: mprixain.perm@orange.fr
     first_name: Marie-Pierre
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Rixain
     ref: PA722252
   '9105':
+    circo: '05'
+    dep: '91'
     email: paul.midy@assemblee-nationale.fr
     first_name: Paul
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Midy
     ref: PA795664
   '9106':
+    circo: '06'
+    dep: '91'
     email: jerome.guedj@assemblee-nationale.fr
     first_name: "J\xE9r\xF4me"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Guedj
     ref: PA1567
   '9107':
+    circo: '07'
+    dep: '91'
     email: claire.lejeune@assemblee-nationale.fr
     first_name: Claire
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Lejeune
     ref: PA842029
   '9108':
+    circo: 08
+    dep: '91'
     email: berenger.cernon@assemblee-nationale.fr
     first_name: "B\xE9renger"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Cernon
     ref: PA842037
   '9109':
+    circo: 09
+    dep: '91'
     email: julie.ozenne@assemblee-nationale.fr
     first_name: Julie
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Ozenne
     ref: PA842045
   '9110':
+    circo: '10'
+    dep: '91'
     email: antoine.leaument@assemblee-nationale.fr
     first_name: Antoine
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: "L\xE9aument"
     ref: PA795746
   '9201':
+    circo: '01'
+    dep: '92'
     email: Elsa.Faucillon@assemblee-nationale.fr
     first_name: Elsa
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Faucillon
     ref: PA721896
   '9202':
+    circo: '02'
+    dep: '92'
     email: thomas.lam@assemblee-nationale.fr
     first_name: Thomas
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Lam
     ref: PA842125
   '9203':
+    circo: '03'
+    dep: '92'
     email: philippe.juvin@assemblee-nationale.fr
     first_name: Philippe
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Juvin
     ref: PA346782
   '9204':
+    circo: '04'
+    dep: '92'
     email: sabrina.sebaihi@assemblee-nationale.fr
     first_name: Sabrina
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Sebaihi
     ref: PA795808
   '9205':
+    circo: '05'
+    dep: '92'
     email: Celine.Calvez@assemblee-nationale.fr
     first_name: "C\xE9line"
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Calvez
     ref: PA721750
   '9206':
+    circo: '06'
+    dep: '92'
     email: Constance.LeGrip@assemblee-nationale.fr
     first_name: Constance
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Le Grip
     ref: PA345722
   '9207':
+    circo: '07'
+    dep: '92'
     email: pierre.cazeneuve@assemblee-nationale.fr
     first_name: Pierre
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Cazeneuve
     ref: PA795864
   '9208':
+    circo: 08
+    dep: '92'
     email: prisca.thevenot@assemblee-nationale.fr
     first_name: Prisca
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Thevenot
     ref: PA795920
   '9209':
+    circo: 09
+    dep: '92'
     email: elisabeth.demaistre@assemblee-nationale.fr
     first_name: "\xC9lisabeth"
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: de Maistre
     ref: PA842141
   '9210':
+    circo: '10'
+    dep: '92'
     email: gabriel.attal@assemblee-nationale.fr
     first_name: Gabriel
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Attal
     ref: PA722190
   '9211':
+    circo: '11'
+    dep: '92'
     email: aurelien.saintoul@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Saintoul
     ref: PA795982
   '9212':
+    circo: '12'
+    dep: '92'
     email: jean-didier.berger@assemblee-nationale.fr
     first_name: Jean-Didier
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Berger
     ref: PA408578
   '9213':
+    circo: '13'
+    dep: '92'
     email: christophe.mongardien@assemblee-nationale.fr
     first_name: Christophe
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Mongardien
     ref: PA842147
   '9301':
+    circo: '01'
+    dep: '93'
     email: Eric.Coquerel@assemblee-nationale.fr
     first_name: "\xC9ric"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Coquerel
     ref: PA721202
   '9302':
+    circo: '02'
+    dep: '93'
     email: Stephane.Peu@assemblee-nationale.fr
     first_name: "St\xE9phane"
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Peu
     ref: PA721270
   '9303':
+    circo: '03'
+    dep: '93'
     email: thomas.portes@assemblee-nationale.fr
     first_name: Thomas
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Portes
     ref: PA796062
   '9304':
+    circo: '04'
+    dep: '93'
     email: soumya.bourouaha@gmail.com
     first_name: Soumya
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Bourouaha
     ref: PA720838
   '9305':
+    circo: '05'
+    dep: '93'
     email: aly.diouara@assemblee-nationale.fr
     first_name: Aly
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Diouara
     ref: PA842155
   '9306':
+    circo: '06'
+    dep: '93'
     email: Bastien.Lachaud@assemblee-nationale.fr
     first_name: Bastien
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Lachaud
     ref: PA720846
   '9307':
+    circo: '07'
+    dep: '93'
     email: Alexis.Corbiere@assemblee-nationale.fr
     first_name: Alexis
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: "Corbi\xE8re"
     ref: PA721210
   '9308':
+    circo: 08
+    dep: '93'
     email: fatiha.kelouahachi@assemblee-nationale.fr
     first_name: Fatiha
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Keloua Hachi
     ref: PA795156
   '9309':
+    circo: 09
+    dep: '93'
     email: aurelie.trouve@assemblee-nationale.fr
     first_name: "Aur\xE9lie"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: "Trouv\xE9"
     ref: PA795164
   '9310':
+    circo: '10'
+    dep: '93'
     email: nadege.abomangoli@assemblee-nationale.fr
     first_name: "Nad\xE8ge"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Abomangoli
     ref: PA795228
   '9311':
+    circo: '11'
+    dep: '93'
     email: Clementine.Autain@assemblee-nationale.fr
     first_name: "Cl\xE9mentine"
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: Autain
     ref: PA588884
   '9312':
+    circo: '12'
+    dep: '93'
     email: jerome.legavre@assemblee-nationale.fr
     first_name: "J\xE9r\xF4me"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Legavre
     ref: PA795298
   '9401':
+    circo: '01'
+    dep: '94'
     email: sylvain.berrios@assemblee-nationale.fr
     first_name: Sylvain
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Berrios
     ref: PA687214
   '9402':
+    circo: '02'
+    dep: '94'
     email: clemence.guette@assemblee-nationale.fr
     first_name: "Cl\xE9mence"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: "Guett\xE9"
     ref: PA795310
   '9403':
+    circo: '03'
+    dep: '94'
     email: louis.boyard@assemblee-nationale.fr
     first_name: Louis
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Boyard
     ref: PA795318
   '9404':
+    circo: '04'
+    dep: '94'
     email: Maud.Petit@assemblee-nationale.fr
     first_name: Maud
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Petit
     ref: PA721234
   '9405':
+    circo: '05'
+    dep: '94'
     email: sandrine.lalanne@assemblee-nationale.fr
     first_name: Sandrine
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Lalanne
     ref: PA795390
   '9406':
+    circo: '06'
+    dep: '94'
     email: guillaume.gouffier-valente@assemblee-nationale.fr
     first_name: Guillaume
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Gouffier Valente
     ref: PA721296
   '9407':
+    circo: '07'
+    dep: '94'
     email: nicolas.tryzna@assemblee-nationale.fr
     first_name: Nicolas
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Tryzna
     ref: PA842121
   '9408':
+    circo: 08
+    dep: '94'
     email: Michel.Herbillon@assemblee-nationale.fr
     first_name: Michel
+    gp: "Droite R\xE9publicaine"
     gp_abv: DR
     last_name: Herbillon
     ref: PA1630
   '9409':
+    circo: 09
+    dep: '94'
     email: isabelle.santiago@assemblee-nationale.fr
     first_name: Isabelle
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Santiago
     ref: PA774960
   '9410':
+    circo: '10'
+    dep: '94'
     email: Mathilde.Panot@assemblee-nationale.fr
     first_name: Mathilde
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Panot
     ref: PA720892
   '9411':
+    circo: '11'
+    dep: '94'
     email: sophie.taille-polian@assemblee-nationale.fr
     first_name: Sophie
+    gp: "\xC9cologiste et Social"
     gp_abv: EcoS
     last_name: "Taill\xE9-Polian"
     ref: PA736201
   '9501':
+    circo: '01'
+    dep: '95'
     email: anne.sicard@assemblee-nationale.fr
     first_name: Anne
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Sicard
     ref: PA842255
   '9502':
+    circo: '02'
+    dep: '95'
     email: ayda.hadizadeh@assemblee-nationale.fr
     first_name: Ayda
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Hadizadeh
     ref: PA842263
   '9503':
+    circo: '03'
+    dep: '95'
     email: emmanuel.maurel@assemblee-nationale.fr
     first_name: Emmanuel
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Maurel
     ref: PA842271
   '9504':
+    circo: '04'
+    dep: '95'
     email: benoit.blanchard@assemblee-nationale.fr
     first_name: "Beno\xEEt"
+    gp: "Horizons & Ind\xE9pendants"
     gp_abv: HOR
     last_name: Blanchard
     ref: PA842183
   '9505':
+    circo: '05'
+    dep: '95'
     email: paul.vannier@assemblee-nationale.fr
     first_name: Paul
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Vannier
     ref: PA795596
   '9506':
+    circo: '06'
+    dep: '95'
     email: gabrielle.cathala@assemblee-nationale.fr
     first_name: Gabrielle
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Cathala
     ref: PA842187
   '9507':
+    circo: '07'
+    dep: '95'
     email: romain.eskenazi@assemblee-nationale.fr
     first_name: Romain
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Eskenazi
     ref: PA842195
   '9508':
+    circo: 08
+    dep: '95'
     email: carlosmartens.bilongo@assemblee-nationale.fr
     first_name: Carlos Martens
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Bilongo
     ref: PA795616
   '9509':
+    circo: 09
+    dep: '95'
     email: arnaud.legall@assemblee-nationale.fr
     first_name: Arnaud
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Le Gall
     ref: PA795672
   '9510':
+    circo: '10'
+    dep: '95'
     email: Aurelien.Tache@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: "Tach\xE9"
     ref: PA720952
   '97101':
+    circo: '01'
+    dep: '971'
     email: Olivier.Serva@assemblee-nationale.fr
     first_name: Olivier
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Serva
     ref: PA720960
   '97102':
+    circo: '02'
+    dep: '971'
     email: christian.baptiste@assemblee-nationale.fr
     first_name: Christian
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Baptiste
     ref: PA643143
   '97103':
+    circo: '03'
+    dep: '971'
     email: Max.Mathiasin@assemblee-nationale.fr
     first_name: Max
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Mathiasin
     ref: PA720976
   '97104':
+    circo: '04'
+    dep: '971'
     email: elie.califer@assemblee-nationale.fr
     first_name: Elie
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Califer
     ref: PA795762
   '97201':
+    circo: '01'
+    dep: '972'
     email: jiovanny.william@assemblee-nationale.fr
     first_name: Jiovanny
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: William
     ref: PA720992
   '97202':
+    circo: '02'
+    dep: '972'
     email: marcellin.nadeau@assemblee-nationale.fr
     first_name: Marcellin
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Nadeau
     ref: PA795820
   '97203':
+    circo: '03'
+    dep: '972'
     email: beatrice.bellay@assemblee-nationale.fr
     first_name: "B\xE9atrice"
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Bellay
     ref: PA842211
   '97204':
+    circo: '04'
+    dep: '972'
     email: Jean-Philippe.Nilor@assemblee-nationale.fr
     first_name: Jean-Philippe
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Nilor
     ref: PA610654
   '97301':
+    circo: '01'
+    dep: '973'
     email: jean-victor.castor@assemblee-nationale.fr
     first_name: Jean-Victor
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Castor
     ref: PA795868
   '97302':
+    circo: '02'
+    dep: '973'
     email: davy.rimane@assemblee-nationale.fr
     first_name: Davy
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Rimane
     ref: PA795876
   '97401':
+    circo: '01'
+    dep: '974'
     email: philippe.naillet@assemblee-nationale.fr
     first_name: Philippe
+    gp: "Socialistes et apparent\xE9s"
     gp_abv: SOC
     last_name: Naillet
     ref: PA643157
   '97402':
+    circo: '02'
+    dep: '974'
     email: karine.lebon@assemblee-nationale.fr
     first_name: Karine
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Lebon
     ref: PA774962
   '97403':
+    circo: '03'
+    dep: '974'
     email: joseph.riviere@assemblee-nationale.fr
     first_name: Joseph
+    gp: Rassemblement National
     gp_abv: RN
     last_name: "Rivi\xE8re"
     ref: PA842227
   '97404':
+    circo: '04'
+    dep: '974'
     email: emeline.kbidi@assemblee-nationale.fr
     first_name: "\xC9meline"
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: K/Bidi
     ref: PA795998
   '97405':
+    circo: '05'
+    dep: '974'
     email: Jean-Hugues.Ratenon@assemblee-nationale.fr
     first_name: Jean-Hugues
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Ratenon
     ref: PA721062
   '97406':
+    circo: '06'
+    dep: '974'
     email: frederic.maillot@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric"
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Maillot
     ref: PA796010
   '97407':
+    circo: '07'
+    dep: '974'
     email: perceval.gaillard@assemblee-nationale.fr
     first_name: Perceval
+    gp: La France insoumise - Nouveau Front Populaire
     gp_abv: LFI-NFP
     last_name: Gaillard
     ref: PA796070
   '97501':
+    circo: '01'
+    dep: '975'
     email: stephane.lenormand@assemblee-nationale.fr
     first_name: "St\xE9phane"
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Lenormand
     ref: PA795244
   '97601':
+    circo: '01'
+    dep: '976'
     email: estelle.youssouffa@assemblee-nationale.fr
     first_name: Estelle
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Youssouffa
     ref: PA796078
   '97602':
+    circo: '02'
+    dep: '976'
     email: anchya.bamana@assemblee-nationale.fr
     first_name: Anchya
+    gp: Rassemblement National
     gp_abv: RN
     last_name: Bamana
     ref: PA842279
   '97701':
+    circo: '01'
+    dep: '977'
     email: frantz.gumbs@assemblee-nationale.fr
     first_name: Frantz
+    gp: "Les D\xE9mocrates"
     gp_abv: Dem
     last_name: Gumbs
     ref: PA795258
   '98601':
+    circo: '01'
+    dep: '986'
     email: mikaele.seo@assemblee-nationale.fr
     first_name: Mikaele
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Seo
     ref: PA757225
   '98701':
+    circo: '01'
+    dep: '987'
     email: moerani.frebault@assemblee-nationale.fr
     first_name: Moerani
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: "Fr\xE9bault"
     ref: PA840235
   '98702':
+    circo: '02'
+    dep: '987'
     email: sanquern@yahoo.fr
     first_name: Nicole
+    gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
     gp_abv: LIOT
     last_name: Sanquer
     ref: PA721110
   '98703':
+    circo: '03'
+    dep: '987'
     email: mereana.reidarbelot@assemblee-nationale.fr
     first_name: Mereana
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Reid Arbelot
     ref: PA795240
   '98801':
+    circo: '01'
+    dep: '988'
     email: nicolas.metzdorf@assemblee-nationale.fr
     first_name: Nicolas
+    gp: "Ensemble pour la R\xE9publique"
     gp_abv: EPR
     last_name: Metzdorf
     ref: PA795176
   '98802':
+    circo: '02'
+    dep: '988'
     email: emmanuel.tjibaou@assemblee-nationale.fr
     first_name: Emmanuel
+    gp: "Gauche D\xE9mocrate et R\xE9publicaine"
     gp_abv: GDR
     last_name: Tjibaou
     ref: PA842299
 metadata:
   count: 575
-  last_updated: '2026-01-09T14:11:47.745909'
+  last_updated: '2026-01-11T22:17:36.877999'
