@@ -2,6 +2,7 @@ deputies:
   '0101':
     circo: '01'
     dep: '01'
+    dep_name: Ain
     email: Xavier.Breton@assemblee-nationale.fr
     first_name: Xavier
     gp: "Droite R\xE9publicaine"
@@ -11,6 +12,7 @@ deputies:
   '0102':
     circo: '02'
     dep: '01'
+    dep_name: Ain
     email: romain.daubie@assemblee-nationale.fr
     first_name: Romain
     gp: "Les D\xE9mocrates"
@@ -20,6 +22,7 @@ deputies:
   '0103':
     circo: '03'
     dep: '01'
+    dep_name: Ain
     email: Olga.Givernet@assemblee-nationale.fr
     first_name: Olga
     gp: "Ensemble pour la R\xE9publique"
@@ -29,6 +32,7 @@ deputies:
   '0104':
     circo: '04'
     dep: '01'
+    dep_name: Ain
     email: jerome.buisson@assemblee-nationale.fr
     first_name: "J\xE9r\xF4me"
     gp: Rassemblement National
@@ -38,6 +42,7 @@ deputies:
   '0105':
     circo: '05'
     dep: '01'
+    dep_name: Ain
     email: marc.chavent@assemblee-nationale.fr
     first_name: Marc
     gp: "Union des droites pour la R\xE9publique"
@@ -47,6 +52,7 @@ deputies:
   '0201':
     circo: '01'
     dep: '02'
+    dep_name: Aisne
     email: nicolas.dragon@assemblee-nationale.fr
     first_name: Nicolas
     gp: Rassemblement National
@@ -56,6 +62,7 @@ deputies:
   '0202':
     circo: '02'
     dep: '02'
+    dep_name: Aisne
     email: Julien.Dive@assemblee-nationale.fr
     first_name: Julien
     gp: "Droite R\xE9publicaine"
@@ -65,6 +72,7 @@ deputies:
   '0203':
     circo: '03'
     dep: '02'
+    dep_name: Aisne
     email: eddy.casterman@assemblee-nationale.fr
     first_name: Eddy
     gp: Rassemblement National
@@ -74,6 +82,7 @@ deputies:
   '0204':
     circo: '04'
     dep: '02'
+    dep_name: Aisne
     email: jose.beaurain@assemblee-nationale.fr
     first_name: "Jos\xE9"
     gp: Rassemblement National
@@ -83,6 +92,7 @@ deputies:
   '0205':
     circo: '05'
     dep: '02'
+    dep_name: Aisne
     email: jocelyn.dessigny@assemblee-nationale.fr
     first_name: Jocelyn
     gp: Rassemblement National
@@ -92,6 +102,7 @@ deputies:
   '0301':
     circo: '01'
     dep: '03'
+    dep_name: Allier
     email: yannick.monnet@assemblee-nationale.fr
     first_name: Yannick
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -101,6 +112,7 @@ deputies:
   '0302':
     circo: '02'
     dep: '03'
+    dep_name: Allier
     email: jorysb.rn03@gmail.com
     first_name: Jorys
     gp: Rassemblement National
@@ -110,6 +122,7 @@ deputies:
   '0303':
     circo: '03'
     dep: '03'
+    dep_name: Allier
     email: nicolas.ray@assemblee-nationale.fr
     first_name: Nicolas
     gp: "Droite R\xE9publicaine"
@@ -119,6 +132,7 @@ deputies:
   '0401':
     circo: '01'
     dep: '04'
+    dep_name: Alpes-de-Haute-Provence
     email: christian.girard@assemblee-nationale.fr
     first_name: Christian
     gp: Rassemblement National
@@ -128,6 +142,7 @@ deputies:
   '0402':
     circo: '02'
     dep: '04'
+    dep_name: Alpes-de-Haute-Provence
     email: sophie.vaginay@assemblee-nationale.fr
     first_name: Sophie
     gp: "Union des droites pour la R\xE9publique"
@@ -137,6 +152,7 @@ deputies:
   '0501':
     circo: '01'
     dep: '05'
+    dep_name: Hautes-Alpes
     email: marie-jose.allemand@assemblee-nationale.fr
     first_name: "Marie-Jos\xE9"
     gp: "Socialistes et apparent\xE9s"
@@ -146,6 +162,7 @@ deputies:
   '0502':
     circo: '02'
     dep: '05'
+    dep_name: Hautes-Alpes
     email: valerie.rossi@assemblee-nationale.fr
     first_name: "Val\xE9rie"
     gp: "Socialistes et apparent\xE9s"
@@ -155,6 +172,7 @@ deputies:
   '0601':
     circo: '01'
     dep: '06'
+    dep_name: Alpes-Maritimes
     email: Eric.Ciotti@assemblee-nationale.fr
     first_name: "\xC9ric"
     gp: "Union des droites pour la R\xE9publique"
@@ -164,6 +182,7 @@ deputies:
   '0602':
     circo: '02'
     dep: '06'
+    dep_name: Alpes-Maritimes
     email: lionel.tivoli@assemblee-nationale.fr
     first_name: Lionel
     gp: Rassemblement National
@@ -173,6 +192,7 @@ deputies:
   '0603':
     circo: '03'
     dep: '06'
+    dep_name: Alpes-Maritimes
     email: bernard.chaix@assemblee-nationale.fr
     first_name: Bernard
     gp: "Union des droites pour la R\xE9publique"
@@ -182,6 +202,7 @@ deputies:
   '0604':
     circo: '04'
     dep: '06'
+    dep_name: Alpes-Maritimes
     email: alexandra.masson@assemblee-nationale.fr
     first_name: Alexandra
     gp: Rassemblement National
@@ -191,6 +212,7 @@ deputies:
   '0605':
     circo: '05'
     dep: '06'
+    dep_name: Alpes-Maritimes
     email: christelle.dintorni@assemblee-nationale.fr
     first_name: Christelle
     gp: "Union des droites pour la R\xE9publique"
@@ -200,6 +222,7 @@ deputies:
   '0606':
     circo: '06'
     dep: '06'
+    dep_name: Alpes-Maritimes
     email: bryan.masson@assemblee-nationale.fr
     first_name: Bryan
     gp: Rassemblement National
@@ -209,6 +232,7 @@ deputies:
   '0607':
     circo: '07'
     dep: '06'
+    dep_name: Alpes-Maritimes
     email: Eric.Pauget@assemblee-nationale.fr
     first_name: "\xC9ric"
     gp: "Droite R\xE9publicaine"
@@ -218,6 +242,7 @@ deputies:
   0608:
     circo: 08
     dep: '06'
+    dep_name: Alpes-Maritimes
     email: alexandra.martin@assemblee-nationale.fr
     first_name: Alexandra
     gp: "Droite R\xE9publicaine"
@@ -227,6 +252,7 @@ deputies:
   0609:
     circo: 09
     dep: '06'
+    dep_name: Alpes-Maritimes
     email: Michele.Tabarot@assemblee-nationale.fr
     first_name: "Mich\xE8le"
     gp: "Droite R\xE9publicaine"
@@ -236,6 +262,7 @@ deputies:
   '0701':
     circo: '01'
     dep: '07'
+    dep_name: "Ard\xE8che"
     email: Herve.Saulignac@assemblee-nationale.fr
     first_name: "Herv\xE9"
     gp: "Socialistes et apparent\xE9s"
@@ -245,6 +272,7 @@ deputies:
   '0702':
     circo: '02'
     dep: '07'
+    dep_name: "Ard\xE8che"
     email: vincenttrebuchet.ardeche@gmail.com
     first_name: Vincent
     gp: "Union des droites pour la R\xE9publique"
@@ -254,6 +282,7 @@ deputies:
   '0703':
     circo: '03'
     dep: '07'
+    dep_name: "Ard\xE8che"
     email: Fabrice.Brun@assemblee-nationale.fr
     first_name: Fabrice
     gp: "Droite R\xE9publicaine"
@@ -263,6 +292,7 @@ deputies:
   0801:
     circo: '01'
     dep: 08
+    dep_name: Ardennes
     email: lionel.vuibert@assemblee-nationale.fr
     first_name: Lionel
     gp: Non inscrit
@@ -272,6 +302,7 @@ deputies:
   0802:
     circo: '02'
     dep: 08
+    dep_name: Ardennes
     email: Pierre.Cordier@assemblee-nationale.fr
     first_name: Pierre
     gp: "Droite R\xE9publicaine"
@@ -281,6 +312,7 @@ deputies:
   0803:
     circo: '03'
     dep: 08
+    dep_name: Ardennes
     email: Jean-Luc.Warsmann@assemblee-nationale.fr
     first_name: Jean-Luc
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -290,6 +322,7 @@ deputies:
   0901:
     circo: '01'
     dep: 09
+    dep_name: "Ari\xE8ge"
     email: martine.froger@assemblee-nationale.fr
     first_name: Martine
     gp: "Socialistes et apparent\xE9s"
@@ -299,6 +332,7 @@ deputies:
   0902:
     circo: '02'
     dep: 09
+    dep_name: "Ari\xE8ge"
     email: audrey.abadie@assemblee-nationale.fr
     first_name: Audrey
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -308,6 +342,7 @@ deputies:
   09901:
     circo: '01'
     dep: 099
+    dep_name: "Fran\xE7ais \xE9tablis hors de France"
     email: christopher.weissberg@assemblee-nationale.fr
     first_name: Christopher
     gp: "Ensemble pour la R\xE9publique"
@@ -317,6 +352,7 @@ deputies:
   09902:
     circo: '02'
     dep: 099
+    dep_name: "Fran\xE7ais \xE9tablis hors de France"
     email: benoit.larrouquis@assemblee-nationale.fr
     first_name: "Beno\xEEt"
     gp: "Ensemble pour la R\xE9publique"
@@ -326,6 +362,7 @@ deputies:
   09903:
     circo: '03'
     dep: 099
+    dep_name: "Fran\xE7ais \xE9tablis hors de France"
     email: vincent.caure@assemblee-nationale.fr
     first_name: Vincent
     gp: "Ensemble pour la R\xE9publique"
@@ -335,6 +372,7 @@ deputies:
   09904:
     circo: '04'
     dep: 099
+    dep_name: "Fran\xE7ais \xE9tablis hors de France"
     email: Pieyre-Alexandre.Anglade@assemblee-nationale.fr
     first_name: Pieyre-Alexandre
     gp: "Ensemble pour la R\xE9publique"
@@ -344,6 +382,7 @@ deputies:
   09905:
     circo: '05'
     dep: 099
+    dep_name: "Fran\xE7ais \xE9tablis hors de France"
     email: nathalie.coggia@assemblee-nationale.fr
     first_name: Nathalie
     gp: "Ensemble pour la R\xE9publique"
@@ -353,6 +392,7 @@ deputies:
   09906:
     circo: '06'
     dep: 099
+    dep_name: "Fran\xE7ais \xE9tablis hors de France"
     email: marc.ferracci@assemblee-nationale.fr
     first_name: Marc
     gp: "Ensemble pour la R\xE9publique"
@@ -362,6 +402,7 @@ deputies:
   09907:
     circo: '07'
     dep: 099
+    dep_name: "Fran\xE7ais \xE9tablis hors de France"
     email: Frederic.Petit@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric"
     gp: "Les D\xE9mocrates"
@@ -371,6 +412,7 @@ deputies:
   09908:
     circo: 08
     dep: 099
+    dep_name: "Fran\xE7ais \xE9tablis hors de France"
     email: caroline.yadan@assemblee-nationale.fr
     first_name: Caroline
     gp: "Ensemble pour la R\xE9publique"
@@ -380,6 +422,7 @@ deputies:
   09909:
     circo: 09
     dep: 099
+    dep_name: "Fran\xE7ais \xE9tablis hors de France"
     email: karim.bencheikh@assemblee-nationale.fr
     first_name: Karim
     gp: "\xC9cologiste et Social"
@@ -389,6 +432,7 @@ deputies:
   09910:
     circo: '10'
     dep: 099
+    dep_name: "Fran\xE7ais \xE9tablis hors de France"
     email: amelia.lakrafi@assemblee-nationale.fr
     first_name: "Am\xE9lia"
     gp: "Ensemble pour la R\xE9publique"
@@ -398,6 +442,7 @@ deputies:
   09911:
     circo: '11'
     dep: 099
+    dep_name: "Fran\xE7ais \xE9tablis hors de France"
     email: Anne.Genetet@assemblee-nationale.fr
     first_name: Anne
     gp: "Ensemble pour la R\xE9publique"
@@ -407,6 +452,7 @@ deputies:
   '1001':
     circo: '01'
     dep: '10'
+    dep_name: Aube
     email: jordan.guitton@assemblee-nationale.fr
     first_name: Jordan
     gp: Rassemblement National
@@ -416,6 +462,7 @@ deputies:
   '1002':
     circo: '02'
     dep: '10'
+    dep_name: Aube
     email: Valerie.Bazin-Malgras@assemblee-nationale.fr
     first_name: "Val\xE9rie"
     gp: "Droite R\xE9publicaine"
@@ -425,6 +472,7 @@ deputies:
   '1003':
     circo: '03'
     dep: '10'
+    dep_name: Aube
     email: angelique.ranc@assemblee-nationale.fr
     first_name: "Ang\xE9lique"
     gp: Rassemblement National
@@ -434,6 +482,7 @@ deputies:
   '1101':
     circo: '01'
     dep: '11'
+    dep_name: Aude
     email: christophe.barthes@assemblee-nationale.fr
     first_name: Christophe
     gp: Rassemblement National
@@ -443,6 +492,7 @@ deputies:
   '1102':
     circo: '02'
     dep: '11'
+    dep_name: Aude
     email: frederic.falcon@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric"
     gp: Rassemblement National
@@ -452,6 +502,7 @@ deputies:
   '1103':
     circo: '03'
     dep: '11'
+    dep_name: Aude
     email: julien.rancoule@assemblee-nationale.fr
     first_name: Julien
     gp: Rassemblement National
@@ -461,6 +512,7 @@ deputies:
   '1201':
     circo: '01'
     dep: '12'
+    dep_name: Aveyron
     email: Stephane.Mazars@assemblee-nationale.fr
     first_name: "St\xE9phane"
     gp: "Ensemble pour la R\xE9publique"
@@ -470,6 +522,7 @@ deputies:
   '1202':
     circo: '02'
     dep: '12'
+    dep_name: Aveyron
     email: laurent.alexandre@assemblee-nationale.fr
     first_name: Laurent
     gp: La France insoumise - Nouveau Front Populaire
@@ -479,6 +532,7 @@ deputies:
   '1203':
     circo: '03'
     dep: '12'
+    dep_name: Aveyron
     email: jean-francois.rousset@assemblee-nationale.fr
     first_name: "Jean-Fran\xE7ois"
     gp: "Ensemble pour la R\xE9publique"
@@ -488,6 +542,7 @@ deputies:
   '1301':
     circo: '01'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: monique.griseti@assemblee-nationale.fr
     first_name: Monique
     gp: Rassemblement National
@@ -497,6 +552,7 @@ deputies:
   '1302':
     circo: '02'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: laurent.lhardit@assemblee-nationale.fr
     first_name: Laurent
     gp: "Socialistes et apparent\xE9s"
@@ -506,6 +562,7 @@ deputies:
   '1303':
     circo: '03'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: gisele.lelouis@assemblee-nationale.fr
     first_name: "Gis\xE8le"
     gp: Rassemblement National
@@ -515,6 +572,7 @@ deputies:
   '1304':
     circo: '04'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: contact@manuelbompard.fr
     first_name: Manuel
     gp: La France insoumise - Nouveau Front Populaire
@@ -524,6 +582,7 @@ deputies:
   '1305':
     circo: '05'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: hendrik.davi@assemblee-nationale.fr
     first_name: Hendrik
     gp: "\xC9cologiste et Social"
@@ -533,6 +592,7 @@ deputies:
   '1306':
     circo: '06'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: olivier.fayssat@assemblee-nationale.fr
     first_name: Olivier
     gp: "Union des droites pour la R\xE9publique"
@@ -542,6 +602,7 @@ deputies:
   '1307':
     circo: '07'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: sebastien.delogu@assemblee-nationale.fr
     first_name: "S\xE9bastien"
     gp: La France insoumise - Nouveau Front Populaire
@@ -551,6 +612,7 @@ deputies:
   '1308':
     circo: 08
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: romain.tonussi@assemblee-nationale.fr
     first_name: Romain
     gp: Rassemblement National
@@ -560,6 +622,7 @@ deputies:
   '1309':
     circo: 09
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: joelle.melin@assemblee-nationale.fr
     first_name: "Jo\xEBlle"
     gp: Rassemblement National
@@ -569,6 +632,7 @@ deputies:
   '1310':
     circo: '10'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: jo.allauch@gmail.com
     first_name: "Jos\xE9"
     gp: Rassemblement National
@@ -578,6 +642,7 @@ deputies:
   '1311':
     circo: '11'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: marc.pena@assemblee-nationale.fr
     first_name: Marc
     gp: "Socialistes et apparent\xE9s"
@@ -587,6 +652,7 @@ deputies:
   '1312':
     circo: '12'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: franck.allisio@assemblee-nationale.fr
     first_name: Franck
     gp: Rassemblement National
@@ -596,6 +662,7 @@ deputies:
   '1313':
     circo: '13'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: emmanuel.fouquart@assemblee-nationale.fr
     first_name: Emmanuel
     gp: Rassemblement National
@@ -605,6 +672,7 @@ deputies:
   '1314':
     circo: '14'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: gerault.verny@assemblee-nationale.fr
     first_name: "G\xE9rault"
     gp: "Union des droites pour la R\xE9publique"
@@ -614,6 +682,7 @@ deputies:
   '1315':
     circo: '15'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: romain.baubry@assemblee-nationale.fr
     first_name: Romain
     gp: Rassemblement National
@@ -623,6 +692,7 @@ deputies:
   '1316':
     circo: '16'
     dep: '13'
+    dep_name: "Bouches-du-Rh\xF4ne"
     email: emmanuel.tache@assemblee-nationale.fr
     first_name: Emmanuel
     gp: Rassemblement National
@@ -632,6 +702,7 @@ deputies:
   '1401':
     circo: '01'
     dep: '14'
+    dep_name: Calvados
     email: jbruneau14@gmail.com
     first_name: "Jo\xEBl"
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -641,6 +712,7 @@ deputies:
   '1402':
     circo: '02'
     dep: '14'
+    dep_name: Calvados
     email: arthur.delaporte@assemblee-nationale.fr
     first_name: Arthur
     gp: "Socialistes et apparent\xE9s"
@@ -650,6 +722,7 @@ deputies:
   '1403':
     circo: '03'
     dep: '14'
+    dep_name: Calvados
     email: jeremie.patrier-leitus@assemblee-nationale.fr
     first_name: "J\xE9r\xE9mie"
     gp: "Horizons & Ind\xE9pendants"
@@ -659,6 +732,7 @@ deputies:
   '1404':
     circo: '04'
     dep: '14'
+    dep_name: Calvados
     email: Christophe.Blanchet@assemblee-nationale.fr
     first_name: Christophe
     gp: "Les D\xE9mocrates"
@@ -668,6 +742,7 @@ deputies:
   '1405':
     circo: '05'
     dep: '14'
+    dep_name: Calvados
     email: Bertrand.Bouyx@assemblee-nationale.fr
     first_name: Bertrand
     gp: "Horizons & Ind\xE9pendants"
@@ -677,6 +752,7 @@ deputies:
   '1406':
     circo: '06'
     dep: '14'
+    dep_name: Calvados
     email: elisabeth.borne@assemblee-nationale.fr
     first_name: "\xC9lisabeth"
     gp: "Ensemble pour la R\xE9publique"
@@ -686,6 +762,7 @@ deputies:
   '1501':
     circo: '01'
     dep: '15'
+    dep_name: Cantal
     email: Vincent.Descoeur@assemblee-nationale.fr
     first_name: Vincent
     gp: "Droite R\xE9publicaine"
@@ -695,6 +772,7 @@ deputies:
   '1502':
     circo: '02'
     dep: '15'
+    dep_name: Cantal
     email: Jean-Yves.Bony@assemblee-nationale.fr
     first_name: Jean-Yves
     gp: "Droite R\xE9publicaine"
@@ -704,6 +782,7 @@ deputies:
   '1601':
     circo: '01'
     dep: '16'
+    dep_name: Charente
     email: rene.pilato@assemblee-nationale.fr
     first_name: "Ren\xE9"
     gp: La France insoumise - Nouveau Front Populaire
@@ -713,6 +792,7 @@ deputies:
   '1602':
     circo: '02'
     dep: '16'
+    dep_name: Charente
     email: Sandra.Marsaud@assemblee-nationale.fr
     first_name: Sandra
     gp: "Ensemble pour la R\xE9publique"
@@ -722,6 +802,7 @@ deputies:
   '1603':
     circo: '03'
     dep: '16'
+    dep_name: Charente
     email: caroline.colombier@assemblee-nationale.fr
     first_name: Caroline
     gp: Rassemblement National
@@ -731,6 +812,7 @@ deputies:
   '1701':
     circo: '01'
     dep: '17'
+    dep_name: Charente-Maritime
     email: Olivier.Falorni@assemblee-nationale.fr
     first_name: Olivier
     gp: "Les D\xE9mocrates"
@@ -740,6 +822,7 @@ deputies:
   '1702':
     circo: '02'
     dep: '17'
+    dep_name: Charente-Maritime
     email: benoit.biteau@assemblee-nationale.fr
     first_name: "Beno\xEEt"
     gp: "\xC9cologiste et Social"
@@ -749,6 +832,7 @@ deputies:
   '1703':
     circo: '03'
     dep: '17'
+    dep_name: Charente-Maritime
     email: fabrice.barusseau@assemblee-nationale.fr
     first_name: Fabrice
     gp: "Socialistes et apparent\xE9s"
@@ -758,6 +842,7 @@ deputies:
   '1704':
     circo: '04'
     dep: '17'
+    dep_name: Charente-Maritime
     email: markowsky.pascal@gmail.com
     first_name: Pascal
     gp: Rassemblement National
@@ -767,6 +852,7 @@ deputies:
   '1705':
     circo: '05'
     dep: '17'
+    dep_name: Charente-Maritime
     email: christophe.plassard@assemblee-nationale.fr
     first_name: Christophe
     gp: "Horizons & Ind\xE9pendants"
@@ -776,6 +862,7 @@ deputies:
   '1801':
     circo: '01'
     dep: '18'
+    dep_name: Cher
     email: Francois.Cormier-Bouligeon@assemblee-nationale.fr
     first_name: "Fran\xE7ois"
     gp: "Ensemble pour la R\xE9publique"
@@ -785,6 +872,7 @@ deputies:
   '1802':
     circo: '02'
     dep: '18'
+    dep_name: Cher
     email: nicolas.sansu@assemblee-nationale.fr
     first_name: Nicolas
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -794,6 +882,7 @@ deputies:
   '1803':
     circo: '03'
     dep: '18'
+    dep_name: Cher
     email: Loic.Kervran@assemblee-nationale.fr
     first_name: "Lo\xEFc"
     gp: "Horizons & Ind\xE9pendants"
@@ -803,6 +892,7 @@ deputies:
   '1901':
     circo: '01'
     dep: '19'
+    dep_name: "Corr\xE8ze"
     email: francois.hollande@assemblee-nationale.fr
     first_name: "Fran\xE7ois"
     gp: "Socialistes et apparent\xE9s"
@@ -812,6 +902,7 @@ deputies:
   '1902':
     circo: '02'
     dep: '19'
+    dep_name: "Corr\xE8ze"
     email: Frederique.Meunier@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9rique"
     gp: "Droite R\xE9publicaine"
@@ -821,6 +912,7 @@ deputies:
   '2101':
     circo: '01'
     dep: '21'
+    dep_name: "C\xF4te-d'Or"
     email: oceane.godard@assemblee-nationale.fr
     first_name: "Oc\xE9ane"
     gp: "Socialistes et apparent\xE9s"
@@ -830,6 +922,7 @@ deputies:
   '2102':
     circo: '02'
     dep: '21'
+    dep_name: "C\xF4te-d'Or"
     email: catherine.hervieu@assemblee-nationale.fr
     first_name: Catherine
     gp: "\xC9cologiste et Social"
@@ -839,6 +932,7 @@ deputies:
   '2103':
     circo: '03'
     dep: '21'
+    dep_name: "C\xF4te-d'Or"
     email: pierre.pribetich@assemblee-nationale.fr
     first_name: Pierre
     gp: "Socialistes et apparent\xE9s"
@@ -848,6 +942,7 @@ deputies:
   '2104':
     circo: '04'
     dep: '21'
+    dep_name: "C\xF4te-d'Or"
     email: hubert.brigand@assemblee-nationale.fr
     first_name: Hubert
     gp: "Droite R\xE9publicaine"
@@ -857,6 +952,7 @@ deputies:
   '2105':
     circo: '05'
     dep: '21'
+    dep_name: "C\xF4te-d'Or"
     email: lioret.r@gmail.com
     first_name: "Ren\xE9"
     gp: Rassemblement National
@@ -866,6 +962,7 @@ deputies:
   '2201':
     circo: '01'
     dep: '22'
+    dep_name: "C\xF4tes-d'Armor"
     email: mickael.cosson@assemblee-nationale.fr
     first_name: "Micka\xEBl"
     gp: "Les D\xE9mocrates"
@@ -875,6 +972,7 @@ deputies:
   '2202':
     circo: '02'
     dep: '22'
+    dep_name: "C\xF4tes-d'Armor"
     email: herve.berville@assemblee-nationale.fr
     first_name: "Herv\xE9"
     gp: "Ensemble pour la R\xE9publique"
@@ -884,6 +982,7 @@ deputies:
   '2203':
     circo: '03'
     dep: '22'
+    dep_name: "C\xF4tes-d'Armor"
     email: corentin.lefur@assemblee-nationale.fr
     first_name: Corentin
     gp: "Droite R\xE9publicaine"
@@ -893,6 +992,7 @@ deputies:
   '2204':
     circo: '04'
     dep: '22'
+    dep_name: "C\xF4tes-d'Armor"
     email: murielle.lepvraud@assemblee-nationale.fr
     first_name: Murielle
     gp: La France insoumise - Nouveau Front Populaire
@@ -902,6 +1002,7 @@ deputies:
   '2205':
     circo: '05'
     dep: '22'
+    dep_name: "C\xF4tes-d'Armor"
     email: Eric.Bothorel@assemblee-nationale.fr
     first_name: "\xC9ric"
     gp: "Ensemble pour la R\xE9publique"
@@ -911,6 +1012,7 @@ deputies:
   '2301':
     circo: '01'
     dep: '23'
+    dep_name: Creuse
     email: bartolome.lenoir@assemblee-nationale.fr
     first_name: "Bartolom\xE9"
     gp: "Union des droites pour la R\xE9publique"
@@ -920,6 +1022,7 @@ deputies:
   '2401':
     circo: '01'
     dep: '24'
+    dep_name: Dordogne
     email: nadine.lechon@assemblee-nationale.fr
     first_name: Nadine
     gp: Rassemblement National
@@ -929,6 +1032,7 @@ deputies:
   '2402':
     circo: '02'
     dep: '24'
+    dep_name: Dordogne
     email: serge.muller@assemblee-nationale.fr
     first_name: Serge
     gp: Rassemblement National
@@ -938,6 +1042,7 @@ deputies:
   '2403':
     circo: '03'
     dep: '24'
+    dep_name: Dordogne
     email: florence.joubert@assemblee-nationale.fr
     first_name: Florence
     gp: Rassemblement National
@@ -947,6 +1052,7 @@ deputies:
   '2404':
     circo: '04'
     dep: '24'
+    dep_name: Dordogne
     email: sebastien.peytavie@assemblee-nationale.fr
     first_name: "S\xE9bastien"
     gp: "\xC9cologiste et Social"
@@ -956,6 +1062,7 @@ deputies:
   '2501':
     circo: '01'
     dep: '25'
+    dep_name: Doubs
     email: laurent.croizier@assemblee-nationale.fr
     first_name: Laurent
     gp: "Les D\xE9mocrates"
@@ -965,6 +1072,7 @@ deputies:
   '2502':
     circo: '02'
     dep: '25'
+    dep_name: Doubs
     email: dominique.voynet@assemblee-nationale.fr
     first_name: Dominique
     gp: "\xC9cologiste et Social"
@@ -974,6 +1082,7 @@ deputies:
   '2503':
     circo: '03'
     dep: '25'
+    dep_name: Doubs
     email: matthieu.bloch@assemblee-nationale.fr
     first_name: Matthieu
     gp: "Union des droites pour la R\xE9publique"
@@ -983,6 +1092,7 @@ deputies:
   '2504':
     circo: '04'
     dep: '25'
+    dep_name: Doubs
     email: geraldine.grangier@assemblee-nationale.fr
     first_name: "G\xE9raldine"
     gp: Rassemblement National
@@ -992,6 +1102,7 @@ deputies:
   '2505':
     circo: '05'
     dep: '25'
+    dep_name: Doubs
     email: eric.liegeon@assemblee-nationale.fr
     first_name: Eric
     gp: "Droite R\xE9publicaine"
@@ -1001,6 +1112,7 @@ deputies:
   '2601':
     circo: '01'
     dep: '26'
+    dep_name: "Dr\xF4me"
     email: paul.christophle@assemblee-nationale.fr
     first_name: Paul
     gp: "Socialistes et apparent\xE9s"
@@ -1010,6 +1122,7 @@ deputies:
   '2602':
     circo: '02'
     dep: '26'
+    dep_name: "Dr\xF4me"
     email: lisette.pollet@assemblee-nationale.fr
     first_name: Lisette
     gp: Rassemblement National
@@ -1019,6 +1132,7 @@ deputies:
   '2603':
     circo: '03'
     dep: '26'
+    dep_name: "Dr\xF4me"
     email: contact@mariepochon.fr
     first_name: Marie
     gp: "\xC9cologiste et Social"
@@ -1028,6 +1142,7 @@ deputies:
   '2604':
     circo: '04'
     dep: '26'
+    dep_name: "Dr\xF4me"
     email: thibaut.monnier@assemblee-nationale.fr
     first_name: Thibaut
     gp: Rassemblement National
@@ -1037,6 +1152,7 @@ deputies:
   '2701':
     circo: '01'
     dep: '27'
+    dep_name: Eure
     email: christine.loir@assemblee-nationale.fr
     first_name: Christine
     gp: Rassemblement National
@@ -1046,6 +1162,7 @@ deputies:
   '2702':
     circo: '02'
     dep: '27'
+    dep_name: Eure
     email: katiana.levavasseur@assemblee-nationale.fr
     first_name: Katiana
     gp: Rassemblement National
@@ -1055,6 +1172,7 @@ deputies:
   '2703':
     circo: '03'
     dep: '27'
+    dep_name: Eure
     email: kevin.mauvieux@assemblee-nationale.fr
     first_name: "K\xE9vin"
     gp: Rassemblement National
@@ -1064,6 +1182,7 @@ deputies:
   '2704':
     circo: '04'
     dep: '27'
+    dep_name: Eure
     email: philippe.brun@assemblee-nationale.fr
     first_name: Philippe
     gp: "Socialistes et apparent\xE9s"
@@ -1073,6 +1192,7 @@ deputies:
   '2705':
     circo: '05'
     dep: '27'
+    dep_name: Eure
     email: timothee.houssin@assemblee-nationale.fr
     first_name: "Timoth\xE9e"
     gp: Rassemblement National
@@ -1082,6 +1202,7 @@ deputies:
   '2801':
     circo: '01'
     dep: '28'
+    dep_name: Eure-et-Loir
     email: contact@guillaumekasbarian.fr
     first_name: Guillaume
     gp: "Ensemble pour la R\xE9publique"
@@ -1091,6 +1212,7 @@ deputies:
   '2802':
     circo: '02'
     dep: '28'
+    dep_name: Eure-et-Loir
     email: christelle.minard@assemblee-nationale.fr
     first_name: Christelle
     gp: "Droite R\xE9publicaine"
@@ -1100,6 +1222,7 @@ deputies:
   '2803':
     circo: '03'
     dep: '28'
+    dep_name: Eure-et-Loir
     email: harold.huwart@assemblee-nationale.fr
     first_name: Harold
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -1109,6 +1232,7 @@ deputies:
   '2804':
     circo: '04'
     dep: '28'
+    dep_name: Eure-et-Loir
     email: Philippe.Vigier@assemblee-nationale.fr
     first_name: Philippe
     gp: "Les D\xE9mocrates"
@@ -1118,6 +1242,7 @@ deputies:
   '2901':
     circo: '01'
     dep: '29'
+    dep_name: "Finist\xE8re"
     email: Annaig.LeMeur@assemblee-nationale.fr
     first_name: "Anna\xEFg"
     gp: "Ensemble pour la R\xE9publique"
@@ -1127,6 +1252,7 @@ deputies:
   '2902':
     circo: '02'
     dep: '29'
+    dep_name: "Finist\xE8re"
     email: pierre-yves.cadalen@assemblee-nationale.fr
     first_name: Pierre-Yves
     gp: La France insoumise - Nouveau Front Populaire
@@ -1136,6 +1262,7 @@ deputies:
   '2903':
     circo: '03'
     dep: '29'
+    dep_name: "Finist\xE8re"
     email: Didier.LeGac@assemblee-nationale.fr
     first_name: Didier
     gp: "Ensemble pour la R\xE9publique"
@@ -1145,6 +1272,7 @@ deputies:
   '2904':
     circo: '04'
     dep: '29'
+    dep_name: "Finist\xE8re"
     email: Sandrine.LeFeur@assemblee-nationale.fr
     first_name: Sandrine
     gp: "Ensemble pour la R\xE9publique"
@@ -1154,6 +1282,7 @@ deputies:
   '2905':
     circo: '05'
     dep: '29'
+    dep_name: "Finist\xE8re"
     email: Graziella.Melchior@assemblee-nationale.fr
     first_name: Graziella
     gp: "Ensemble pour la R\xE9publique"
@@ -1163,6 +1292,7 @@ deputies:
   '2906':
     circo: '06'
     dep: '29'
+    dep_name: "Finist\xE8re"
     email: melanie.thomin@assemblee-nationale.fr
     first_name: "M\xE9lanie"
     gp: "Socialistes et apparent\xE9s"
@@ -1172,6 +1302,7 @@ deputies:
   '2907':
     circo: '07'
     dep: '29'
+    dep_name: "Finist\xE8re"
     email: Liliana.Tanguy@assemblee-nationale.fr
     first_name: Liliana
     gp: "Ensemble pour la R\xE9publique"
@@ -1181,6 +1312,7 @@ deputies:
   '2908':
     circo: 08
     dep: '29'
+    dep_name: "Finist\xE8re"
     email: Erwan.Balanant@assemblee-nationale.fr
     first_name: Erwan
     gp: "Les D\xE9mocrates"
@@ -1190,6 +1322,7 @@ deputies:
   2A01:
     circo: '01'
     dep: 2A
+    dep_name: Corse-du-Sud
     email: laurent.marcangeli@assemblee-nationale.fr
     first_name: Laurent
     gp: "Horizons & Ind\xE9pendants"
@@ -1199,6 +1332,7 @@ deputies:
   2A02:
     circo: '02'
     dep: 2A
+    dep_name: Corse-du-Sud
     email: Paul-Andre.Colombani@assemblee-nationale.fr
     first_name: "Paul-Andr\xE9"
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -1208,6 +1342,7 @@ deputies:
   2B01:
     circo: '01'
     dep: 2B
+    dep_name: Haute-Corse
     email: Michel.Castellani@assemblee-nationale.fr
     first_name: Michel
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -1217,6 +1352,7 @@ deputies:
   2B02:
     circo: '02'
     dep: 2B
+    dep_name: Haute-Corse
     email: francois-xavier.ceccoli@assemblee-nationale.fr
     first_name: "Fran\xE7ois-Xavier"
     gp: "Droite R\xE9publicaine"
@@ -1226,6 +1362,7 @@ deputies:
   '3001':
     circo: '01'
     dep: '30'
+    dep_name: Gard
     email: contact@yoanngillet.fr
     first_name: Yoann
     gp: Rassemblement National
@@ -1235,6 +1372,7 @@ deputies:
   '3002':
     circo: '02'
     dep: '30'
+    dep_name: Gard
     email: nicolas.meizonnet@assemblee-nationale.fr
     first_name: Nicolas
     gp: Rassemblement National
@@ -1244,6 +1382,7 @@ deputies:
   '3003':
     circo: '03'
     dep: '30'
+    dep_name: Gard
     email: pascale.bordes@assemblee-nationale.fr
     first_name: Pascale
     gp: Rassemblement National
@@ -1253,6 +1392,7 @@ deputies:
   '3004':
     circo: '04'
     dep: '30'
+    dep_name: Gard
     email: pierre.meurin@assemblee-nationale.fr
     first_name: Pierre
     gp: Rassemblement National
@@ -1262,6 +1402,7 @@ deputies:
   '3005':
     circo: '05'
     dep: '30'
+    dep_name: Gard
     email: alexandre.allegret-pilot@assemblee-nationale.fr
     first_name: Alexandre
     gp: "Union des droites pour la R\xE9publique"
@@ -1271,6 +1412,7 @@ deputies:
   '3006':
     circo: '06'
     dep: '30'
+    dep_name: Gard
     email: sylvie.josserand@assemblee-nationale.fr
     first_name: Sylvie
     gp: Rassemblement National
@@ -1280,6 +1422,7 @@ deputies:
   '3101':
     circo: '01'
     dep: '31'
+    dep_name: Haute-Garonne
     email: hadrien.clouet@assemblee-nationale.fr
     first_name: Hadrien
     gp: La France insoumise - Nouveau Front Populaire
@@ -1289,6 +1432,7 @@ deputies:
   '3102':
     circo: '02'
     dep: '31'
+    dep_name: Haute-Garonne
     email: anne.stambach-terrenoir@assemblee-nationale.fr
     first_name: Anne
     gp: La France insoumise - Nouveau Front Populaire
@@ -1298,6 +1442,7 @@ deputies:
   '3103':
     circo: '03'
     dep: '31'
+    dep_name: Haute-Garonne
     email: Corinne.Vignon@assemblee-nationale.fr
     first_name: Corinne
     gp: "Ensemble pour la R\xE9publique"
@@ -1307,6 +1452,7 @@ deputies:
   '3104':
     circo: '04'
     dep: '31'
+    dep_name: Haute-Garonne
     email: francois.piquemal@assemblee-nationale.fr
     first_name: "Fran\xE7ois"
     gp: La France insoumise - Nouveau Front Populaire
@@ -1316,6 +1462,7 @@ deputies:
   '3105':
     circo: '05'
     dep: '31'
+    dep_name: Haute-Garonne
     email: Jean-Francois.Portarrieu@assemblee-nationale.fr
     first_name: "Jean-Fran\xE7ois"
     gp: "Horizons & Ind\xE9pendants"
@@ -1325,6 +1472,7 @@ deputies:
   '3106':
     circo: '06'
     dep: '31'
+    dep_name: Haute-Garonne
     email: arnaud.simion@assemblee-nationale.fr
     first_name: Arnaud
     gp: "Socialistes et apparent\xE9s"
@@ -1334,6 +1482,7 @@ deputies:
   '3107':
     circo: '07'
     dep: '31'
+    dep_name: Haute-Garonne
     email: christophe.bex@assemblee-nationale.fr
     first_name: Christophe
     gp: La France insoumise - Nouveau Front Populaire
@@ -1343,6 +1492,7 @@ deputies:
   '3108':
     circo: 08
     dep: '31'
+    dep_name: Haute-Garonne
     email: Joel.Aviragnet@assemblee-nationale.fr
     first_name: "Jo\xEBl"
     gp: "Socialistes et apparent\xE9s"
@@ -1352,6 +1502,7 @@ deputies:
   '3109':
     circo: 09
     dep: '31'
+    dep_name: Haute-Garonne
     email: christine.arrighi@assemblee-nationale.fr
     first_name: Christine
     gp: "\xC9cologiste et Social"
@@ -1361,6 +1512,7 @@ deputies:
   '3110':
     circo: '10'
     dep: '31'
+    dep_name: Haute-Garonne
     email: jacques.oberti@assemblee-nationale.fr
     first_name: Jacques
     gp: "Socialistes et apparent\xE9s"
@@ -1370,6 +1522,7 @@ deputies:
   '3201':
     circo: '01'
     dep: '32'
+    dep_name: Gers
     email: Jean-Rene.Cazeneuve@assemblee-nationale.fr
     first_name: "Jean-Ren\xE9"
     gp: "Ensemble pour la R\xE9publique"
@@ -1379,6 +1532,7 @@ deputies:
   '3202':
     circo: '02'
     dep: '32'
+    dep_name: Gers
     email: davidtaupiac.permanence@gmail.com
     first_name: David
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -1388,6 +1542,7 @@ deputies:
   '3301':
     circo: '01'
     dep: '33'
+    dep_name: Gironde
     email: thomas.cazenave@assemblee-nationale.fr
     first_name: Thomas
     gp: "Ensemble pour la R\xE9publique"
@@ -1397,6 +1552,7 @@ deputies:
   '3302':
     circo: '02'
     dep: '33'
+    dep_name: Gironde
     email: nicolas.thierry@assemblee-nationale.fr
     first_name: Nicolas
     gp: "\xC9cologiste et Social"
@@ -1406,6 +1562,7 @@ deputies:
   '3303':
     circo: '03'
     dep: '33'
+    dep_name: Gironde
     email: Loic.Prudhomme@assemblee-nationale.fr
     first_name: "Lo\xEFc"
     gp: La France insoumise - Nouveau Front Populaire
@@ -1415,6 +1572,7 @@ deputies:
   '3304':
     circo: '04'
     dep: '33'
+    dep_name: Gironde
     email: Alain.David@assemblee-nationale.fr
     first_name: Alain
     gp: "Socialistes et apparent\xE9s"
@@ -1424,6 +1582,7 @@ deputies:
   '3305':
     circo: '05'
     dep: '33'
+    dep_name: Gironde
     email: pascale.got@assemblee-nationale.fr
     first_name: Pascale
     gp: "Socialistes et apparent\xE9s"
@@ -1433,6 +1592,7 @@ deputies:
   '3306':
     circo: '06'
     dep: '33'
+    dep_name: Gironde
     email: marie.recalde@assemblee-nationale.fr
     first_name: Marie
     gp: "Socialistes et apparent\xE9s"
@@ -1442,6 +1602,7 @@ deputies:
   '3307':
     circo: '07'
     dep: '33'
+    dep_name: Gironde
     email: sebastien.saint-pasteur@assemblee-nationale.fr
     first_name: "S\xE9bastien"
     gp: "Socialistes et apparent\xE9s"
@@ -1451,6 +1612,7 @@ deputies:
   '3308':
     circo: 08
     dep: '33'
+    dep_name: Gironde
     email: Sophie.Panonacle@assemblee-nationale.fr
     first_name: Sophie
     gp: "Ensemble pour la R\xE9publique"
@@ -1460,6 +1622,7 @@ deputies:
   '3309':
     circo: 09
     dep: '33'
+    dep_name: Gironde
     email: Sophie.Mette@assemblee-nationale.fr
     first_name: Sophie
     gp: "Les D\xE9mocrates"
@@ -1469,6 +1632,7 @@ deputies:
   '3310':
     circo: '10'
     dep: '33'
+    dep_name: Gironde
     email: Florent.Boudie@assemblee-nationale.fr
     first_name: Florent
     gp: "Ensemble pour la R\xE9publique"
@@ -1478,6 +1642,7 @@ deputies:
   '3311':
     circo: '11'
     dep: '33'
+    dep_name: Gironde
     email: edwige.diaz@assemblee-nationale.fr
     first_name: Edwige
     gp: Rassemblement National
@@ -1487,6 +1652,7 @@ deputies:
   '3312':
     circo: '12'
     dep: '33'
+    dep_name: Gironde
     email: mathilde.feld@assemblee-nationale.fr
     first_name: Mathilde
     gp: La France insoumise - Nouveau Front Populaire
@@ -1496,6 +1662,7 @@ deputies:
   '3401':
     circo: '01'
     dep: '34'
+    dep_name: "H\xE9rault"
     email: jean-louis.roumegas@assemblee-nationale.fr
     first_name: Jean-Louis
     gp: "\xC9cologiste et Social"
@@ -1505,6 +1672,7 @@ deputies:
   '3402':
     circo: '02'
     dep: '34'
+    dep_name: "H\xE9rault"
     email: nathalie.oziol@assemblee-nationale.fr
     first_name: Nathalie
     gp: La France insoumise - Nouveau Front Populaire
@@ -1514,6 +1682,7 @@ deputies:
   '3403':
     circo: '03'
     dep: '34'
+    dep_name: "H\xE9rault"
     email: fannydombrecoste2024@gmail.com
     first_name: Fanny
     gp: "Socialistes et apparent\xE9s"
@@ -1523,6 +1692,7 @@ deputies:
   '3404':
     circo: '04'
     dep: '34'
+    dep_name: "H\xE9rault"
     email: manon.bouquin@assemblee-nationale.fr
     first_name: Manon
     gp: Rassemblement National
@@ -1532,6 +1702,7 @@ deputies:
   '3405':
     circo: '05'
     dep: '34'
+    dep_name: "H\xE9rault"
     email: stephanie.galzy@assemblee-nationale.fr
     first_name: "St\xE9phanie"
     gp: Rassemblement National
@@ -1541,6 +1712,7 @@ deputies:
   '3406':
     circo: '06'
     dep: '34'
+    dep_name: "H\xE9rault"
     email: julien.gabarron@assemblee-nationale.fr
     first_name: Julien
     gp: Rassemblement National
@@ -1550,6 +1722,7 @@ deputies:
   '3407':
     circo: '07'
     dep: '34'
+    dep_name: "H\xE9rault"
     email: aurelien.lopezliguori@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
     gp: Rassemblement National
@@ -1559,6 +1732,7 @@ deputies:
   '3408':
     circo: 08
     dep: '34'
+    dep_name: "H\xE9rault"
     email: sylvain.carriere@assemblee-nationale.fr
     first_name: Sylvain
     gp: La France insoumise - Nouveau Front Populaire
@@ -1568,6 +1742,7 @@ deputies:
   '3409':
     circo: 09
     dep: '34'
+    dep_name: "H\xE9rault"
     email: charles.alloncle@assemblee-nationale.fr
     first_name: Charles
     gp: "Union des droites pour la R\xE9publique"
@@ -1577,6 +1752,7 @@ deputies:
   '3501':
     circo: '01'
     dep: '35'
+    dep_name: Ille-et-Vilaine
     email: marie.mesmeur@assemblee-nationale.fr
     first_name: Marie
     gp: La France insoumise - Nouveau Front Populaire
@@ -1586,6 +1762,7 @@ deputies:
   '3502':
     circo: '02'
     dep: '35'
+    dep_name: Ille-et-Vilaine
     email: tristan.lahais@assemblee-nationale.fr
     first_name: Tristan
     gp: "\xC9cologiste et Social"
@@ -1595,6 +1772,7 @@ deputies:
   '3503':
     circo: '03'
     dep: '35'
+    dep_name: Ille-et-Vilaine
     email: claudia.rouaux@assemblee-nationale.fr
     first_name: Claudia
     gp: "Socialistes et apparent\xE9s"
@@ -1604,6 +1782,7 @@ deputies:
   '3504':
     circo: '04'
     dep: '35'
+    dep_name: Ille-et-Vilaine
     email: mathilde.hignet@assemblee-nationale.fr
     first_name: Mathilde
     gp: La France insoumise - Nouveau Front Populaire
@@ -1613,6 +1792,7 @@ deputies:
   '3505':
     circo: '05'
     dep: '35'
+    dep_name: Ille-et-Vilaine
     email: Christine.lenabour@assemblee-nationale.fr
     first_name: Christine
     gp: "Ensemble pour la R\xE9publique"
@@ -1622,6 +1802,7 @@ deputies:
   '3506':
     circo: '06'
     dep: '35'
+    dep_name: Ille-et-Vilaine
     email: Thierry.Benoit@assemblee-nationale.fr
     first_name: Thierry
     gp: "Horizons & Ind\xE9pendants"
@@ -1631,6 +1812,7 @@ deputies:
   '3507':
     circo: '07'
     dep: '35'
+    dep_name: Ille-et-Vilaine
     email: jean-luc.bourgeaux@assemblee-nationale.fr
     first_name: Jean-Luc
     gp: "Droite R\xE9publicaine"
@@ -1640,6 +1822,7 @@ deputies:
   '3508':
     circo: 08
     dep: '35'
+    dep_name: Ille-et-Vilaine
     email: mickael.bouloux@assemblee-nationale.fr
     first_name: "Micka\xEBl"
     gp: "Socialistes et apparent\xE9s"
@@ -1649,6 +1832,7 @@ deputies:
   '3601':
     circo: '01'
     dep: '36'
+    dep_name: Indre
     email: Francois.Jolivet@assemblee-nationale.fr
     first_name: "Fran\xE7ois"
     gp: "Horizons & Ind\xE9pendants"
@@ -1658,6 +1842,7 @@ deputies:
   '3602':
     circo: '02'
     dep: '36'
+    dep_name: Indre
     email: alix.fruchon@assemblee-nationale.fr
     first_name: Alix
     gp: "Droite R\xE9publicaine"
@@ -1667,6 +1852,7 @@ deputies:
   '3701':
     circo: '01'
     dep: '37'
+    dep_name: Indre-et-Loire
     email: charles.fournier@assemblee-nationale.fr
     first_name: Charles
     gp: "\xC9cologiste et Social"
@@ -1676,6 +1862,7 @@ deputies:
   '3702':
     circo: '02'
     dep: '37'
+    dep_name: Indre-et-Loire
     email: Daniel.Labaronne@assemblee-nationale.fr
     first_name: Daniel
     gp: "Ensemble pour la R\xE9publique"
@@ -1685,6 +1872,7 @@ deputies:
   '3703':
     circo: '03'
     dep: '37'
+    dep_name: Indre-et-Loire
     email: henri.alfandari@assemblee-nationale.fr
     first_name: Henri
     gp: "Horizons & Ind\xE9pendants"
@@ -1694,6 +1882,7 @@ deputies:
   '3704':
     circo: '04'
     dep: '37'
+    dep_name: Indre-et-Loire
     email: laurent.baumel@assemblee-nationale.fr
     first_name: Laurent
     gp: "Socialistes et apparent\xE9s"
@@ -1703,6 +1892,7 @@ deputies:
   '3705':
     circo: '05'
     dep: '37'
+    dep_name: Indre-et-Loire
     email: Sabine.Thillaye@assemblee-nationale.fr
     first_name: Sabine
     gp: "Les D\xE9mocrates"
@@ -1712,6 +1902,7 @@ deputies:
   '3801':
     circo: '01'
     dep: '38'
+    dep_name: "Is\xE8re"
     email: camille.galliard-minier@assemblee-nationale.fr
     first_name: Camille
     gp: "Ensemble pour la R\xE9publique"
@@ -1721,6 +1912,7 @@ deputies:
   '3802':
     circo: '02'
     dep: '38'
+    dep_name: "Is\xE8re"
     email: cyrielle.chatelain@assemblee-nationale.fr
     first_name: Cyrielle
     gp: "\xC9cologiste et Social"
@@ -1730,6 +1922,7 @@ deputies:
   '3803':
     circo: '03'
     dep: '38'
+    dep_name: "Is\xE8re"
     email: elisa.martin@assemblee-nationale.fr
     first_name: "\xC9lisa"
     gp: La France insoumise - Nouveau Front Populaire
@@ -1739,6 +1932,7 @@ deputies:
   '3804':
     circo: '04'
     dep: '38'
+    dep_name: "Is\xE8re"
     email: Marie-Noelle.Battistel@assemblee-nationale.fr
     first_name: "Marie-No\xEBlle"
     gp: "Socialistes et apparent\xE9s"
@@ -1748,6 +1942,7 @@ deputies:
   '3805':
     circo: '05'
     dep: '38'
+    dep_name: "Is\xE8re"
     email: jeremie.iordanoff@assemblee-nationale.fr
     first_name: "J\xE9r\xE9mie"
     gp: "\xC9cologiste et Social"
@@ -1757,6 +1952,7 @@ deputies:
   '3806':
     circo: '06'
     dep: '38'
+    dep_name: "Is\xE8re"
     email: alexis.jolly@assemblee-nationale.fr
     first_name: Alexis
     gp: Rassemblement National
@@ -1766,6 +1962,7 @@ deputies:
   '3807':
     circo: '07'
     dep: '38'
+    dep_name: "Is\xE8re"
     email: yannick.neuder@assemblee-nationale.fr
     first_name: Yannick
     gp: "Droite R\xE9publicaine"
@@ -1775,6 +1972,7 @@ deputies:
   '3808':
     circo: 08
     dep: '38'
+    dep_name: "Is\xE8re"
     email: hanane.mansouri@assemblee-nationale.fr
     first_name: Hanane
     gp: "Union des droites pour la R\xE9publique"
@@ -1784,6 +1982,7 @@ deputies:
   '3809':
     circo: 09
     dep: '38'
+    dep_name: "Is\xE8re"
     email: sandrine.nosbe@assemblee-nationale.fr
     first_name: Sandrine
     gp: La France insoumise - Nouveau Front Populaire
@@ -1793,6 +1992,7 @@ deputies:
   '3810':
     circo: '10'
     dep: '38'
+    dep_name: "Is\xE8re"
     email: thierry.perez@assemblee-nationale.fr
     first_name: Thierry
     gp: Rassemblement National
@@ -1802,6 +2002,7 @@ deputies:
   '3901':
     circo: '01'
     dep: '39'
+    dep_name: Jura
     email: Danielle.Brulebois@assemblee-nationale.fr
     first_name: Danielle
     gp: "Ensemble pour la R\xE9publique"
@@ -1811,6 +2012,7 @@ deputies:
   '3902':
     circo: '02'
     dep: '39'
+    dep_name: Jura
     email: marie-christine.dalloz390@orange.fr
     first_name: Marie-Christine
     gp: "Droite R\xE9publicaine"
@@ -1820,6 +2022,7 @@ deputies:
   '3903':
     circo: '03'
     dep: '39'
+    dep_name: Jura
     email: justine.gruet@assemblee-nationale.fr
     first_name: Justine
     gp: "Droite R\xE9publicaine"
@@ -1829,6 +2032,7 @@ deputies:
   '4001':
     circo: '01'
     dep: '40'
+    dep_name: Landes
     email: genevieve.darrieussecq@assemblee-nationale.fr
     first_name: "Genevi\xE8ve"
     gp: "Les D\xE9mocrates"
@@ -1838,6 +2042,7 @@ deputies:
   '4002':
     circo: '02'
     dep: '40'
+    dep_name: Landes
     email: Lionel.Causse@assemblee-nationale.fr
     first_name: Lionel
     gp: "Ensemble pour la R\xE9publique"
@@ -1847,6 +2052,7 @@ deputies:
   '4003':
     circo: '03'
     dep: '40'
+    dep_name: Landes
     email: Boris.Vallaud@assemblee-nationale.fr
     first_name: Boris
     gp: "Socialistes et apparent\xE9s"
@@ -1856,6 +2062,7 @@ deputies:
   '4101':
     circo: '01'
     dep: '41'
+    dep_name: Loir-et-Cher
     email: marc.fesneau@assemblee-nationale.fr
     first_name: Marc
     gp: "Les D\xE9mocrates"
@@ -1865,6 +2072,7 @@ deputies:
   '4102':
     circo: '02'
     dep: '41'
+    dep_name: Loir-et-Cher
     email: roger.chudeau@assemblee-nationale.fr
     first_name: Roger
     gp: Rassemblement National
@@ -1874,6 +2082,7 @@ deputies:
   '4103':
     circo: '03'
     dep: '41'
+    dep_name: Loir-et-Cher
     email: christophe.marion@assemblee-nationale.fr
     first_name: Christophe
     gp: "Ensemble pour la R\xE9publique"
@@ -1883,6 +2092,7 @@ deputies:
   '4201':
     circo: '01'
     dep: '42'
+    dep_name: Loire
     email: pierrick.courbon@assemblee-nationale.fr
     first_name: Pierrick
     gp: "Socialistes et apparent\xE9s"
@@ -1892,6 +2102,7 @@ deputies:
   '4202':
     circo: '02'
     dep: '42'
+    dep_name: Loire
     email: andree.taurinya@assemblee-nationale.fr
     first_name: "Andr\xE9e"
     gp: La France insoumise - Nouveau Front Populaire
@@ -1901,6 +2112,7 @@ deputies:
   '4203':
     circo: '03'
     dep: '42'
+    dep_name: Loire
     email: emmanuel.mandon@assemblee-nationale.fr
     first_name: Emmanuel
     gp: "Les D\xE9mocrates"
@@ -1910,6 +2122,7 @@ deputies:
   '4204':
     circo: '04'
     dep: '42'
+    dep_name: Loire
     email: deputee@bonnetsylvie.fr
     first_name: Sylvie
     gp: "Droite R\xE9publicaine"
@@ -1919,6 +2132,7 @@ deputies:
   '4205':
     circo: '05'
     dep: '42'
+    dep_name: Loire
     email: contact@antoinevermorel.fr
     first_name: Antoine
     gp: "Droite R\xE9publicaine"
@@ -1928,6 +2142,7 @@ deputies:
   '4206':
     circo: '06'
     dep: '42'
+    dep_name: Loire
     email: taite.bonnefoy.assemblee@gmail.com
     first_name: Jean-Pierre
     gp: "Droite R\xE9publicaine"
@@ -1937,6 +2152,7 @@ deputies:
   '4301':
     circo: '01'
     dep: '43'
+    dep_name: Haute-Loire
     email: laurent.wauquiez@assemblee-nationale.fr
     first_name: Laurent
     gp: "Droite R\xE9publicaine"
@@ -1946,6 +2162,7 @@ deputies:
   '4302':
     circo: '02'
     dep: '43'
+    dep_name: Haute-Loire
     email: Jean-Pierre.Vigier@assemblee-nationale.fr
     first_name: Jean-Pierre
     gp: "Droite R\xE9publicaine"
@@ -1955,6 +2172,7 @@ deputies:
   '4401':
     circo: '01'
     dep: '44'
+    dep_name: Loire-Atlantique
     email: karim.benbrahim@assemblee-nationale.fr
     first_name: Karim
     gp: "Socialistes et apparent\xE9s"
@@ -1964,6 +2182,7 @@ deputies:
   '4402':
     circo: '02'
     dep: '44'
+    dep_name: Loire-Atlantique
     email: andy.kerbrat@assemblee-nationale.fr
     first_name: Andy
     gp: La France insoumise - Nouveau Front Populaire
@@ -1973,6 +2192,7 @@ deputies:
   '4403':
     circo: '03'
     dep: '44'
+    dep_name: Loire-Atlantique
     email: segolene.amiot@assemblee-nationale.fr
     first_name: "S\xE9gol\xE8ne"
     gp: La France insoumise - Nouveau Front Populaire
@@ -1982,6 +2202,7 @@ deputies:
   '4404':
     circo: '04'
     dep: '44'
+    dep_name: Loire-Atlantique
     email: julie.laernoes@assemblee-nationale.fr
     first_name: Julie
     gp: "\xC9cologiste et Social"
@@ -1991,6 +2212,7 @@ deputies:
   '4405':
     circo: '05'
     dep: '44'
+    dep_name: Loire-Atlantique
     email: fabrice.roussel@assemblee-nationale.fr
     first_name: Fabrice
     gp: "Socialistes et apparent\xE9s"
@@ -2000,6 +2222,7 @@ deputies:
   '4406':
     circo: '06'
     dep: '44'
+    dep_name: Loire-Atlantique
     email: jean-claude.raux@assemblee-nationale.fr
     first_name: Jean-Claude
     gp: "\xC9cologiste et Social"
@@ -2009,6 +2232,7 @@ deputies:
   '4407':
     circo: '07'
     dep: '44'
+    dep_name: Loire-Atlantique
     email: Sandrine.Josso@assemblee-nationale.fr
     first_name: Sandrine
     gp: "Les D\xE9mocrates"
@@ -2018,6 +2242,7 @@ deputies:
   '4408':
     circo: 08
     dep: '44'
+    dep_name: Loire-Atlantique
     email: matthias.tavel@assemblee-nationale.fr
     first_name: Matthias
     gp: La France insoumise - Nouveau Front Populaire
@@ -2027,6 +2252,7 @@ deputies:
   '4409':
     circo: 09
     dep: '44'
+    dep_name: Loire-Atlantique
     email: jean-michel.brard@assemblee-nationale.fr
     first_name: Jean-Michel
     gp: "Horizons & Ind\xE9pendants"
@@ -2036,6 +2262,7 @@ deputies:
   '4410':
     circo: '10'
     dep: '44'
+    dep_name: Loire-Atlantique
     email: Sophie.Errante@assemblee-nationale.fr
     first_name: Sophie
     gp: Non inscrit
@@ -2045,6 +2272,7 @@ deputies:
   '4502':
     circo: '02'
     dep: '45'
+    dep_name: Loiret
     email: emmanuel.duplessy@assemblee-nationale.fr
     first_name: Emmanuel
     gp: "\xC9cologiste et Social"
@@ -2054,6 +2282,7 @@ deputies:
   '4503':
     circo: '03'
     dep: '45'
+    dep_name: Loiret
     email: constance.depelichy@assemblee-nationale.fr
     first_name: Constance
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -2063,6 +2292,7 @@ deputies:
   '4504':
     circo: '04'
     dep: '45'
+    dep_name: Loiret
     email: thomas.menage@assemblee-nationale.fr
     first_name: Thomas
     gp: Rassemblement National
@@ -2072,6 +2302,7 @@ deputies:
   '4505':
     circo: '05'
     dep: '45'
+    dep_name: Loiret
     email: anthony.brosse@assemblee-nationale.fr
     first_name: Anthony
     gp: "Ensemble pour la R\xE9publique"
@@ -2081,6 +2312,7 @@ deputies:
   '4506':
     circo: '06'
     dep: '45'
+    dep_name: Loiret
     email: Richard.Ramos@assemblee-nationale.fr
     first_name: Richard
     gp: "Les D\xE9mocrates"
@@ -2090,6 +2322,7 @@ deputies:
   '4601':
     circo: '01'
     dep: '46'
+    dep_name: Lot
     email: Aurelien.Pradie@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
     gp: Non inscrit
@@ -2099,6 +2332,7 @@ deputies:
   '4602':
     circo: '02'
     dep: '46'
+    dep_name: Lot
     email: christophe.proenca@assemblee-nationale.fr
     first_name: Christophe
     gp: "Socialistes et apparent\xE9s"
@@ -2108,6 +2342,7 @@ deputies:
   '4701':
     circo: '01'
     dep: '47'
+    dep_name: Lot-et-Garonne
     email: Michel.Lauzzana@assemblee-nationale.fr
     first_name: Michel
     gp: "Ensemble pour la R\xE9publique"
@@ -2117,6 +2352,7 @@ deputies:
   '4702':
     circo: '02'
     dep: '47'
+    dep_name: Lot-et-Garonne
     email: helene.laporte@assemblee-nationale.fr
     first_name: "H\xE9l\xE8ne"
     gp: Rassemblement National
@@ -2126,6 +2362,7 @@ deputies:
   '4703':
     circo: '03'
     dep: '47'
+    dep_name: Lot-et-Garonne
     email: guillaume.lepers@assemblee-nationale.fr
     first_name: Guillaume
     gp: "Droite R\xE9publicaine"
@@ -2135,6 +2372,7 @@ deputies:
   '4801':
     circo: '01'
     dep: '48'
+    dep_name: "Loz\xE8re"
     email: sophie.pantel@assemblee-nationale.fr
     first_name: Sophie
     gp: "Socialistes et apparent\xE9s"
@@ -2144,6 +2382,7 @@ deputies:
   '4901':
     circo: '01'
     dep: '49'
+    dep_name: Maine-et-Loire
     email: francois.gernigon@assemblee-nationale.fr
     first_name: "Fran\xE7ois"
     gp: "Horizons & Ind\xE9pendants"
@@ -2153,6 +2392,7 @@ deputies:
   '4902':
     circo: '02'
     dep: '49'
+    dep_name: Maine-et-Loire
     email: Stella.Dupont@assemblee-nationale.fr
     first_name: Stella
     gp: Non inscrit
@@ -2162,6 +2402,7 @@ deputies:
   '4903':
     circo: '03'
     dep: '49'
+    dep_name: Maine-et-Loire
     email: contact@annelaureblin.fr
     first_name: Anne-Laure
     gp: "Droite R\xE9publicaine"
@@ -2171,6 +2412,7 @@ deputies:
   '4904':
     circo: '04'
     dep: '49'
+    dep_name: Maine-et-Loire
     email: Laetitia.Saint-Paul@assemblee-nationale.fr
     first_name: Laetitia
     gp: "Horizons & Ind\xE9pendants"
@@ -2180,6 +2422,7 @@ deputies:
   '4905':
     circo: '05'
     dep: '49'
+    dep_name: Maine-et-Loire
     email: Denis.Masseglia@assemblee-nationale.fr
     first_name: Denis
     gp: "Ensemble pour la R\xE9publique"
@@ -2189,6 +2432,7 @@ deputies:
   '4906':
     circo: '06'
     dep: '49'
+    dep_name: Maine-et-Loire
     email: Nicole.Dubre-Chirat@assemblee-nationale.fr
     first_name: Nicole
     gp: "Ensemble pour la R\xE9publique"
@@ -2198,6 +2442,7 @@ deputies:
   '4907':
     circo: '07'
     dep: '49'
+    dep_name: Maine-et-Loire
     email: Philippe.Bolo@assemblee-nationale.fr
     first_name: Philippe
     gp: "Les D\xE9mocrates"
@@ -2207,6 +2452,7 @@ deputies:
   '5001':
     circo: '01'
     dep: '50'
+    dep_name: Manche
     email: philippegosselin50@orange.fr
     first_name: Philippe
     gp: "Droite R\xE9publicaine"
@@ -2216,6 +2462,7 @@ deputies:
   '5002':
     circo: '02'
     dep: '50'
+    dep_name: Manche
     email: Bertrand.Sorre@assemblee-nationale.fr
     first_name: Bertrand
     gp: "Ensemble pour la R\xE9publique"
@@ -2225,6 +2472,7 @@ deputies:
   '5003':
     circo: '03'
     dep: '50'
+    dep_name: Manche
     email: Stephane.Travert@assemblee-nationale.fr
     first_name: "St\xE9phane"
     gp: "Ensemble pour la R\xE9publique"
@@ -2234,6 +2482,7 @@ deputies:
   '5004':
     circo: '04'
     dep: '50'
+    dep_name: Manche
     email: anna.pic@assemblee-nationale.fr
     first_name: Anna
     gp: "Socialistes et apparent\xE9s"
@@ -2243,6 +2492,7 @@ deputies:
   '5101':
     circo: '01'
     dep: '51'
+    dep_name: Marne
     email: xavier.albertini@assemblee-nationale.fr
     first_name: Xavier
     gp: "Horizons & Ind\xE9pendants"
@@ -2252,6 +2502,7 @@ deputies:
   '5102':
     circo: '02'
     dep: '51'
+    dep_name: Marne
     email: laure.miller@assemblee-nationale.fr
     first_name: Laure
     gp: "Ensemble pour la R\xE9publique"
@@ -2261,6 +2512,7 @@ deputies:
   '5103':
     circo: '03'
     dep: '51'
+    dep_name: Marne
     email: maxime.michelet@assemblee-nationale.fr
     first_name: Maxime
     gp: "Union des droites pour la R\xE9publique"
@@ -2270,6 +2522,7 @@ deputies:
   '5104':
     circo: '04'
     dep: '51'
+    dep_name: Marne
     email: Lise.Magnier@assemblee-nationale.fr
     first_name: Lise
     gp: "Horizons & Ind\xE9pendants"
@@ -2279,6 +2532,7 @@ deputies:
   '5105':
     circo: '05'
     dep: '51'
+    dep_name: Marne
     email: Charles.deCourson@assemblee-nationale.fr
     first_name: Charles
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -2288,6 +2542,7 @@ deputies:
   '5201':
     circo: '01'
     dep: '52'
+    dep_name: Haute-Marne
     email: christophe.bentz@assemblee-nationale.fr
     first_name: Christophe
     gp: Rassemblement National
@@ -2297,6 +2552,7 @@ deputies:
   '5202':
     circo: '02'
     dep: '52'
+    dep_name: Haute-Marne
     email: laurence.robert-dehault@assemblee-nationale.fr
     first_name: Laurence
     gp: Rassemblement National
@@ -2306,6 +2562,7 @@ deputies:
   '5301':
     circo: '01'
     dep: '53'
+    dep_name: Mayenne
     email: Guillaume.Garot@assemblee-nationale.fr
     first_name: Guillaume
     gp: "Socialistes et apparent\xE9s"
@@ -2315,6 +2572,7 @@ deputies:
   '5302':
     circo: '02'
     dep: '53'
+    dep_name: Mayenne
     email: Geraldine.Bannier@assemblee-nationale.fr
     first_name: "G\xE9raldine"
     gp: "Les D\xE9mocrates"
@@ -2324,6 +2582,7 @@ deputies:
   '5303':
     circo: '03'
     dep: '53'
+    dep_name: Mayenne
     email: Yannick.Favennec@assemblee-nationale.fr
     first_name: Yannick
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -2333,6 +2592,7 @@ deputies:
   '5401':
     circo: '01'
     dep: '54'
+    dep_name: Meurthe-et-Moselle
     email: estelle.mercier@assemblee-nationale.fr
     first_name: Estelle
     gp: "Socialistes et apparent\xE9s"
@@ -2342,6 +2602,7 @@ deputies:
   '5402':
     circo: '02'
     dep: '54'
+    dep_name: Meurthe-et-Moselle
     email: stephane.hablot@assemblee-nationale.fr
     first_name: "St\xE9phane"
     gp: "Socialistes et apparent\xE9s"
@@ -2351,6 +2612,7 @@ deputies:
   '5403':
     circo: '03'
     dep: '54'
+    dep_name: Meurthe-et-Moselle
     email: frederic.weber@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric"
     gp: Rassemblement National
@@ -2360,6 +2622,7 @@ deputies:
   '5404':
     circo: '04'
     dep: '54'
+    dep_name: Meurthe-et-Moselle
     email: permanence.bazin@gmail.com
     first_name: Thibault
     gp: "Droite R\xE9publicaine"
@@ -2369,6 +2632,7 @@ deputies:
   '5405':
     circo: '05'
     dep: '54'
+    dep_name: Meurthe-et-Moselle
     email: Dominique.Potier@assemblee-nationale.fr
     first_name: Dominique
     gp: "Socialistes et apparent\xE9s"
@@ -2378,6 +2642,7 @@ deputies:
   '5406':
     circo: '06'
     dep: '54'
+    dep_name: Meurthe-et-Moselle
     email: anthony.boulogne@assemblee-nationale.fr
     first_name: Anthony
     gp: Rassemblement National
@@ -2387,6 +2652,7 @@ deputies:
   '5501':
     circo: '01'
     dep: '55'
+    dep_name: Meuse
     email: mamblard.servicepresse@gmail.com
     first_name: Maxime
     gp: Rassemblement National
@@ -2396,6 +2662,7 @@ deputies:
   '5502':
     circo: '02'
     dep: '55'
+    dep_name: Meuse
     email: florence.goulet@assemblee-nationale.fr
     first_name: Florence
     gp: Rassemblement National
@@ -2405,6 +2672,7 @@ deputies:
   '5601':
     circo: '01'
     dep: '56'
+    dep_name: Morbihan
     email: michel.criaud@assemblee-nationale.fr
     first_name: Michel
     gp: "Horizons & Ind\xE9pendants"
@@ -2414,6 +2682,7 @@ deputies:
   '5602':
     circo: '02'
     dep: '56'
+    dep_name: Morbihan
     email: Jimmy.Pahun@assemblee-nationale.fr
     first_name: Jimmy
     gp: "Les D\xE9mocrates"
@@ -2423,6 +2692,7 @@ deputies:
   '5603':
     circo: '03'
     dep: '56'
+    dep_name: Morbihan
     email: Nicole.LePeih@assemblee-nationale.fr
     first_name: Nicole
     gp: "Ensemble pour la R\xE9publique"
@@ -2432,6 +2702,7 @@ deputies:
   '5604':
     circo: '04'
     dep: '56'
+    dep_name: Morbihan
     email: Paul.Molac@assemblee-nationale.fr
     first_name: Paul
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -2441,6 +2712,7 @@ deputies:
   '5605':
     circo: '05'
     dep: '56'
+    dep_name: Morbihan
     email: damien.girard@assemblee-nationale.fr
     first_name: Damien
     gp: "\xC9cologiste et Social"
@@ -2450,6 +2722,7 @@ deputies:
   '5606':
     circo: '06'
     dep: '56'
+    dep_name: Morbihan
     email: Jean-Michel.Jacques@assemblee-nationale.fr
     first_name: Jean-Michel
     gp: "Ensemble pour la R\xE9publique"
@@ -2459,6 +2732,7 @@ deputies:
   '5701':
     circo: '01'
     dep: '57'
+    dep_name: Moselle
     email: Belkhir.Belhaddad@assemblee-nationale.fr
     first_name: Belkhir
     gp: "Socialistes et apparent\xE9s"
@@ -2468,6 +2742,7 @@ deputies:
   '5702':
     circo: '02'
     dep: '57'
+    dep_name: Moselle
     email: Ludovic.Mendes@assemblee-nationale.fr
     first_name: Ludovic
     gp: "Ensemble pour la R\xE9publique"
@@ -2477,6 +2752,7 @@ deputies:
   '5703':
     circo: '03'
     dep: '57'
+    dep_name: Moselle
     email: nathalie.colin-oesterle@assemblee-nationale.fr
     first_name: Nathalie
     gp: "Horizons & Ind\xE9pendants"
@@ -2486,6 +2762,7 @@ deputies:
   '5704':
     circo: '04'
     dep: '57'
+    dep_name: Moselle
     email: Fabien.DiFilippo@assemblee-nationale.fr
     first_name: Fabien
     gp: "Droite R\xE9publicaine"
@@ -2495,6 +2772,7 @@ deputies:
   '5705':
     circo: '05'
     dep: '57'
+    dep_name: Moselle
     email: pascal.jenft@assemblee-nationale.fr
     first_name: Pascal
     gp: Rassemblement National
@@ -2504,6 +2782,7 @@ deputies:
   '5706':
     circo: '06'
     dep: '57'
+    dep_name: Moselle
     email: kevin.pfeffer@assemblee-nationale.fr
     first_name: "K\xE9vin"
     gp: Rassemblement National
@@ -2513,6 +2792,7 @@ deputies:
   '5707':
     circo: '07'
     dep: '57'
+    dep_name: Moselle
     email: alexandre.loubet@assemblee-nationale.fr
     first_name: Alexandre
     gp: Rassemblement National
@@ -2522,6 +2802,7 @@ deputies:
   '5708':
     circo: 08
     dep: '57'
+    dep_name: Moselle
     email: laurent.jacobelli@assemblee-nationale.fr
     first_name: Laurent
     gp: Rassemblement National
@@ -2531,6 +2812,7 @@ deputies:
   '5709':
     circo: 09
     dep: '57'
+    dep_name: Moselle
     email: Isabelle.Rauch@assemblee-nationale.fr
     first_name: Isabelle
     gp: "Horizons & Ind\xE9pendants"
@@ -2540,6 +2822,7 @@ deputies:
   '5801':
     circo: '01'
     dep: '58'
+    dep_name: "Ni\xE8vre"
     email: Perrine.Goulet@assemblee-nationale.fr
     first_name: Perrine
     gp: "Les D\xE9mocrates"
@@ -2549,6 +2832,7 @@ deputies:
   '5802':
     circo: '02'
     dep: '58'
+    dep_name: "Ni\xE8vre"
     email: julien.guibert@assemblee-nationale.fr
     first_name: Julien
     gp: Rassemblement National
@@ -2558,6 +2842,7 @@ deputies:
   '5901':
     circo: '01'
     dep: '59'
+    dep_name: Nord
     email: aurelien.lecoq@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
     gp: La France insoumise - Nouveau Front Populaire
@@ -2567,6 +2852,7 @@ deputies:
   '5902':
     circo: '02'
     dep: '59'
+    dep_name: Nord
     email: Ugo.Bernalicis@assemblee-nationale.fr
     first_name: Ugo
     gp: La France insoumise - Nouveau Front Populaire
@@ -2576,6 +2862,7 @@ deputies:
   '5903':
     circo: '03'
     dep: '59'
+    dep_name: Nord
     email: sandra.delannoy@assemblee-nationale.fr
     first_name: Sandra
     gp: Non inscrit
@@ -2585,6 +2872,7 @@ deputies:
   '5904':
     circo: '04'
     dep: '59'
+    dep_name: Nord
     email: Brigitte.Liso@assemblee-nationale.fr
     first_name: Brigitte
     gp: "Ensemble pour la R\xE9publique"
@@ -2594,6 +2882,7 @@ deputies:
   '5905':
     circo: '05'
     dep: '59'
+    dep_name: Nord
     email: sebastien.huyghe@assemblee-nationale.fr
     first_name: "S\xE9bastien"
     gp: "Ensemble pour la R\xE9publique"
@@ -2603,6 +2892,7 @@ deputies:
   '5906':
     circo: '06'
     dep: '59'
+    dep_name: Nord
     email: jean.moulliere@assemblee-nationale.fr
     first_name: Jean
     gp: "Horizons & Ind\xE9pendants"
@@ -2612,6 +2902,7 @@ deputies:
   '5907':
     circo: '07'
     dep: '59'
+    dep_name: Nord
     email: felicie.gerard@assemblee-nationale.fr
     first_name: "F\xE9licie"
     gp: "Horizons & Ind\xE9pendants"
@@ -2621,6 +2912,7 @@ deputies:
   '5908':
     circo: 08
     dep: '59'
+    dep_name: Nord
     email: david.guiraud@assemblee-nationale.fr
     first_name: David
     gp: La France insoumise - Nouveau Front Populaire
@@ -2630,6 +2922,7 @@ deputies:
   '5909':
     circo: 09
     dep: '59'
+    dep_name: Nord
     email: violette.spillebout@assemblee-nationale.fr
     first_name: Violette
     gp: "Ensemble pour la R\xE9publique"
@@ -2639,6 +2932,7 @@ deputies:
   '5910':
     circo: '10'
     dep: '59'
+    dep_name: Nord
     email: Vincent.Ledoux@assemblee-nationale.fr
     first_name: Vincent
     gp: "Ensemble pour la R\xE9publique"
@@ -2648,6 +2942,7 @@ deputies:
   '5911':
     circo: '11'
     dep: '59'
+    dep_name: Nord
     email: rvicot.depute5911@gmail.com
     first_name: Roger
     gp: "Socialistes et apparent\xE9s"
@@ -2657,6 +2952,7 @@ deputies:
   '5912':
     circo: '12'
     dep: '59'
+    dep_name: Nord
     email: michael.taverne@assemblee-nationale.fr
     first_name: "Micha\xEBl"
     gp: Rassemblement National
@@ -2666,6 +2962,7 @@ deputies:
   '5913':
     circo: '13'
     dep: '59'
+    dep_name: Nord
     email: julien.gokel@assemblee-nationale.fr
     first_name: Julien
     gp: "Socialistes et apparent\xE9s"
@@ -2675,6 +2972,7 @@ deputies:
   '5914':
     circo: '14'
     dep: '59'
+    dep_name: Nord
     email: Paul.Christophe@assemblee-nationale.fr
     first_name: Paul
     gp: "Horizons & Ind\xE9pendants"
@@ -2684,6 +2982,7 @@ deputies:
   '5915':
     circo: '15'
     dep: '59'
+    dep_name: Nord
     email: jean-pierre.bataille@assemblee-nationale.fr
     first_name: Jean-Pierre
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -2693,6 +2992,7 @@ deputies:
   '5916':
     circo: '16'
     dep: '59'
+    dep_name: Nord
     email: matthieu.marchio@assemblee-nationale.fr
     first_name: Matthieu
     gp: Rassemblement National
@@ -2702,6 +3002,7 @@ deputies:
   '5917':
     circo: '17'
     dep: '59'
+    dep_name: Nord
     email: thierry.tesson.59@gmail.com
     first_name: Thierry
     gp: Rassemblement National
@@ -2711,6 +3012,7 @@ deputies:
   '5918':
     circo: '18'
     dep: '59'
+    dep_name: Nord
     email: alexandre.dufosset@assemblee-nationale.fr
     first_name: Alexandre
     gp: Rassemblement National
@@ -2720,6 +3022,7 @@ deputies:
   '5919':
     circo: '19'
     dep: '59'
+    dep_name: Nord
     email: Sebastien.Chenu@assemblee-nationale.fr
     first_name: "S\xE9bastien"
     gp: Rassemblement National
@@ -2729,6 +3032,7 @@ deputies:
   '5920':
     circo: '20'
     dep: '59'
+    dep_name: Nord
     email: guillaume.florquin@assemblee-nationale.fr
     first_name: Guillaume
     gp: Rassemblement National
@@ -2738,6 +3042,7 @@ deputies:
   '5921':
     circo: '21'
     dep: '59'
+    dep_name: Nord
     email: cabinet@valerieletard.org
     first_name: "Val\xE9rie"
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -2747,6 +3052,7 @@ deputies:
   '6001':
     circo: '01'
     dep: '60'
+    dep_name: Oise
     email: claire.marais-beuil@assemblee-nationale.fr
     first_name: Claire
     gp: Rassemblement National
@@ -2756,6 +3062,7 @@ deputies:
   '6002':
     circo: '02'
     dep: '60'
+    dep_name: Oise
     email: permanence.ballard@gmail.com
     first_name: Philippe
     gp: Rassemblement National
@@ -2765,6 +3072,7 @@ deputies:
   '6003':
     circo: '03'
     dep: '60'
+    dep_name: Oise
     email: permanence.sabatou@gmail.com
     first_name: Alexandre
     gp: Rassemblement National
@@ -2774,6 +3082,7 @@ deputies:
   '6004':
     circo: '04'
     dep: '60'
+    dep_name: Oise
     email: Eric.Woerth@assemblee-nationale.fr
     first_name: "\xC9ric"
     gp: "Ensemble pour la R\xE9publique"
@@ -2783,6 +3092,7 @@ deputies:
   '6005':
     circo: '05'
     dep: '60'
+    dep_name: Oise
     email: fredericpierre.vos@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric-Pierre"
     gp: Rassemblement National
@@ -2792,6 +3102,7 @@ deputies:
   '6006':
     circo: '06'
     dep: '60'
+    dep_name: Oise
     email: michel.guiniot@assemblee-nationale.fr
     first_name: Michel
     gp: Rassemblement National
@@ -2801,6 +3112,7 @@ deputies:
   '6007':
     circo: '07'
     dep: '60'
+    dep_name: Oise
     email: david.magnier@assemblee-nationale.fr
     first_name: David
     gp: Rassemblement National
@@ -2810,6 +3122,7 @@ deputies:
   '6101':
     circo: '01'
     dep: '61'
+    dep_name: Orne
     email: chantal.jourdan@assemblee-nationale.fr
     first_name: Chantal
     gp: "Socialistes et apparent\xE9s"
@@ -2819,6 +3132,7 @@ deputies:
   '6102':
     circo: '02'
     dep: '61'
+    dep_name: Orne
     email: Veronique.Louwagie@assemblee-nationale.fr
     first_name: "V\xE9ronique"
     gp: "Droite R\xE9publicaine"
@@ -2828,6 +3142,7 @@ deputies:
   '6103':
     circo: '03'
     dep: '61'
+    dep_name: Orne
     email: Jerome.Nury@assemblee-nationale.fr
     first_name: "J\xE9r\xF4me"
     gp: "Droite R\xE9publicaine"
@@ -2837,6 +3152,7 @@ deputies:
   '6201':
     circo: '01'
     dep: '62'
+    dep_name: Pas-de-Calais
     email: emmanuel.blairy@assemblee-nationale.fr
     first_name: Emmanuel
     gp: Rassemblement National
@@ -2846,6 +3162,7 @@ deputies:
   '6202':
     circo: '02'
     dep: '62'
+    dep_name: Pas-de-Calais
     email: agnes.pannier-runacher@assemblee-nationale.fr
     first_name: "Agn\xE8s"
     gp: "Ensemble pour la R\xE9publique"
@@ -2855,6 +3172,7 @@ deputies:
   '6203':
     circo: '03'
     dep: '62'
+    dep_name: Pas-de-Calais
     email: bruno.clavet@assemblee-nationale.fr
     first_name: Bruno
     gp: Rassemblement National
@@ -2864,6 +3182,7 @@ deputies:
   '6204':
     circo: '04'
     dep: '62'
+    dep_name: Pas-de-Calais
     email: philippe.fait@assemblee-nationale.fr
     first_name: Philippe
     gp: "Horizons & Ind\xE9pendants"
@@ -2873,6 +3192,7 @@ deputies:
   '6205':
     circo: '05'
     dep: '62'
+    dep_name: Pas-de-Calais
     email: antoine.golliot@assemblee-nationale.fr
     first_name: Antoine
     gp: Rassemblement National
@@ -2882,6 +3202,7 @@ deputies:
   '6206':
     circo: '06'
     dep: '62'
+    dep_name: Pas-de-Calais
     email: christine.engrand@assemblee-nationale.fr
     first_name: Christine
     gp: Non inscrit
@@ -2891,6 +3212,7 @@ deputies:
   '6207':
     circo: '07'
     dep: '62'
+    dep_name: Pas-de-Calais
     email: marc.defleurian@assemblee-nationale.fr
     first_name: Marc
     gp: Rassemblement National
@@ -2900,6 +3222,7 @@ deputies:
   '6208':
     circo: 08
     dep: '62'
+    dep_name: Pas-de-Calais
     email: auguste.evrard@assemblee-nationale.fr
     first_name: Auguste
     gp: Rassemblement National
@@ -2909,6 +3232,7 @@ deputies:
   '6209':
     circo: 09
     dep: '62'
+    dep_name: Pas-de-Calais
     email: caroline.parmentier@assemblee-nationale.fr
     first_name: Caroline
     gp: Rassemblement National
@@ -2918,6 +3242,7 @@ deputies:
   '6210':
     circo: '10'
     dep: '62'
+    dep_name: Pas-de-Calais
     email: thierry.frappe@assemblee-nationale.fr
     first_name: Thierry
     gp: Rassemblement National
@@ -2927,6 +3252,7 @@ deputies:
   '6211':
     circo: '11'
     dep: '62'
+    dep_name: Pas-de-Calais
     email: Marine.LePen@assemblee-nationale.fr
     first_name: Marine
     gp: Rassemblement National
@@ -2936,6 +3262,7 @@ deputies:
   '6212':
     circo: '12'
     dep: '62'
+    dep_name: Pas-de-Calais
     email: Bruno.Bilde@assemblee-nationale.fr
     first_name: Bruno
     gp: Rassemblement National
@@ -2945,6 +3272,7 @@ deputies:
   '6301':
     circo: '01'
     dep: '63'
+    dep_name: "Puy-de-D\xF4me"
     email: marianne.maximi@assemblee-nationale.fr
     first_name: Marianne
     gp: La France insoumise - Nouveau Front Populaire
@@ -2954,6 +3282,7 @@ deputies:
   '6302':
     circo: '02'
     dep: '63'
+    dep_name: "Puy-de-D\xF4me"
     email: cpbdeputee@gmail.com
     first_name: Christine
     gp: "Socialistes et apparent\xE9s"
@@ -2963,6 +3292,7 @@ deputies:
   '6303':
     circo: '03'
     dep: '63'
+    dep_name: "Puy-de-D\xF4me"
     email: nicolas.bonnet@assemblee-nationale.fr
     first_name: Nicolas
     gp: "\xC9cologiste et Social"
@@ -2972,6 +3302,7 @@ deputies:
   '6304':
     circo: '04'
     dep: '63'
+    dep_name: "Puy-de-D\xF4me"
     email: delphine.lingemann@assemblee-nationale.fr
     first_name: Delphine
     gp: "Les D\xE9mocrates"
@@ -2981,6 +3312,7 @@ deputies:
   '6305':
     circo: '05'
     dep: '63'
+    dep_name: "Puy-de-D\xF4me"
     email: julien.brugerolles@assemblee-nationale.fr
     first_name: Julien
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -2990,6 +3322,7 @@ deputies:
   '6401':
     circo: '01'
     dep: '64'
+    dep_name: "Pyr\xE9n\xE9es-Atlantiques"
     email: Josy.Poueyto@assemblee-nationale.fr
     first_name: Josy
     gp: "Les D\xE9mocrates"
@@ -2999,6 +3332,7 @@ deputies:
   '6402':
     circo: '02'
     dep: '64'
+    dep_name: "Pyr\xE9n\xE9es-Atlantiques"
     email: Jean-Paul.Mattei@assemblee-nationale.fr
     first_name: Jean-Paul
     gp: "Les D\xE9mocrates"
@@ -3008,6 +3342,7 @@ deputies:
   '6403':
     circo: '03'
     dep: '64'
+    dep_name: "Pyr\xE9n\xE9es-Atlantiques"
     email: David.Habib@assemblee-nationale.fr
     first_name: David
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -3017,6 +3352,7 @@ deputies:
   '6404':
     circo: '04'
     dep: '64'
+    dep_name: "Pyr\xE9n\xE9es-Atlantiques"
     email: inaki.echaniz@assemblee-nationale.fr
     first_name: Inaki
     gp: "Socialistes et apparent\xE9s"
@@ -3026,6 +3362,7 @@ deputies:
   '6405':
     circo: '05'
     dep: '64'
+    dep_name: "Pyr\xE9n\xE9es-Atlantiques"
     email: colette.capdevielle@assemblee-nationale.fr
     first_name: Colette
     gp: "Socialistes et apparent\xE9s"
@@ -3035,6 +3372,7 @@ deputies:
   '6406':
     circo: '06'
     dep: '64'
+    dep_name: "Pyr\xE9n\xE9es-Atlantiques"
     email: peio.dufau@assemblee-nationale.fr
     first_name: Peio
     gp: "Socialistes et apparent\xE9s"
@@ -3044,6 +3382,7 @@ deputies:
   '6501':
     circo: '01'
     dep: '65'
+    dep_name: "Hautes-Pyr\xE9n\xE9es"
     email: sylvie.ferrer@assemblee-nationale.fr
     first_name: Sylvie
     gp: La France insoumise - Nouveau Front Populaire
@@ -3053,6 +3392,7 @@ deputies:
   '6502':
     circo: '02'
     dep: '65'
+    dep_name: "Hautes-Pyr\xE9n\xE9es"
     email: permanencedenisfegne@gmail.com
     first_name: Denis
     gp: "Socialistes et apparent\xE9s"
@@ -3062,6 +3402,7 @@ deputies:
   '6601':
     circo: '01'
     dep: '66'
+    dep_name: "Pyr\xE9n\xE9es-Orientales"
     email: sophie.blanc@assemblee-nationale.fr
     first_name: Sophie
     gp: Rassemblement National
@@ -3071,6 +3412,7 @@ deputies:
   '6602':
     circo: '02'
     dep: '66'
+    dep_name: "Pyr\xE9n\xE9es-Orientales"
     email: anais.sabatini@assemblee-nationale.fr
     first_name: "Ana\xEFs"
     gp: Rassemblement National
@@ -3080,6 +3422,7 @@ deputies:
   '6603':
     circo: '03'
     dep: '66'
+    dep_name: "Pyr\xE9n\xE9es-Orientales"
     email: sandrine.dogor-such@assemblee-nationale.fr
     first_name: Sandrine
     gp: Rassemblement National
@@ -3089,6 +3432,7 @@ deputies:
   '6604':
     circo: '04'
     dep: '66'
+    dep_name: "Pyr\xE9n\xE9es-Orientales"
     email: michele.martinez@assemblee-nationale.fr
     first_name: "Mich\xE8le"
     gp: Rassemblement National
@@ -3098,6 +3442,7 @@ deputies:
   '6701':
     circo: '01'
     dep: '67'
+    dep_name: Bas-Rhin
     email: sandra.regol@assemblee-nationale.fr
     first_name: Sandra
     gp: "\xC9cologiste et Social"
@@ -3107,6 +3452,7 @@ deputies:
   '6702':
     circo: '02'
     dep: '67'
+    dep_name: Bas-Rhin
     email: emmanuel.fernandes@assemblee-nationale.fr
     first_name: Emmanuel
     gp: La France insoumise - Nouveau Front Populaire
@@ -3116,6 +3462,7 @@ deputies:
   '6703':
     circo: '03'
     dep: '67'
+    dep_name: Bas-Rhin
     email: thierry.sother@assemblee-nationale.fr
     first_name: Thierry
     gp: "Socialistes et apparent\xE9s"
@@ -3125,6 +3472,7 @@ deputies:
   '6704':
     circo: '04'
     dep: '67'
+    dep_name: Bas-Rhin
     email: francoise.buffet@assemblee-nationale.fr
     first_name: "Fran\xE7oise"
     gp: "Ensemble pour la R\xE9publique"
@@ -3134,6 +3482,7 @@ deputies:
   '6705':
     circo: '05'
     dep: '67'
+    dep_name: Bas-Rhin
     email: charles.sitzenstuhl@assemblee-nationale.fr
     first_name: Charles
     gp: "Ensemble pour la R\xE9publique"
@@ -3143,6 +3492,7 @@ deputies:
   '6706':
     circo: '06'
     dep: '67'
+    dep_name: Bas-Rhin
     email: louise.morel@assemblee-nationale.fr
     first_name: Louise
     gp: "Les D\xE9mocrates"
@@ -3152,6 +3502,7 @@ deputies:
   '6707':
     circo: '07'
     dep: '67'
+    dep_name: Bas-Rhin
     email: Patrick.Hetzel@assemblee-nationale.fr
     first_name: Patrick
     gp: "Droite R\xE9publicaine"
@@ -3161,6 +3512,7 @@ deputies:
   '6708':
     circo: 08
     dep: '67'
+    dep_name: Bas-Rhin
     email: theo.bernhardt@assemblee-nationale.fr
     first_name: "Th\xE9o"
     gp: Rassemblement National
@@ -3170,6 +3522,7 @@ deputies:
   '6709':
     circo: 09
     dep: '67'
+    dep_name: Bas-Rhin
     email: Vincent.Thiebaut@assemblee-nationale.fr
     first_name: Vincent
     gp: "Horizons & Ind\xE9pendants"
@@ -3179,6 +3532,7 @@ deputies:
   '6801':
     circo: '01'
     dep: '68'
+    dep_name: Haut-Rhin
     email: brigitte.klinkert@assemblee-nationale.fr
     first_name: Brigitte
     gp: "Ensemble pour la R\xE9publique"
@@ -3188,6 +3542,7 @@ deputies:
   '6802':
     circo: '02'
     dep: '68'
+    dep_name: Haut-Rhin
     email: hubert.ott@assemblee-nationale.fr
     first_name: Hubert
     gp: "Les D\xE9mocrates"
@@ -3197,6 +3552,7 @@ deputies:
   '6803':
     circo: '03'
     dep: '68'
+    dep_name: Haut-Rhin
     email: didier.lemaire@assemblee-nationale.fr
     first_name: Didier
     gp: "Horizons & Ind\xE9pendants"
@@ -3206,6 +3562,7 @@ deputies:
   '6804':
     circo: '04'
     dep: '68'
+    dep_name: Haut-Rhin
     email: Raphael.Schellenberger@assemblee-nationale.fr
     first_name: "Rapha\xEBl"
     gp: Non inscrit
@@ -3215,6 +3572,7 @@ deputies:
   '6805':
     circo: '05'
     dep: '68'
+    dep_name: Haut-Rhin
     email: olivier.becht@assemblee-nationale.fr
     first_name: Olivier
     gp: "Ensemble pour la R\xE9publique"
@@ -3224,6 +3582,7 @@ deputies:
   '6806':
     circo: '06'
     dep: '68'
+    dep_name: Haut-Rhin
     email: Bruno.Fuchs@assemblee-nationale.fr
     first_name: Bruno
     gp: "Les D\xE9mocrates"
@@ -3233,6 +3592,7 @@ deputies:
   '6901':
     circo: '01'
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: anais.belouassa@assemblee-nationale.fr
     first_name: "Ana\xEFs"
     gp: La France insoumise - Nouveau Front Populaire
@@ -3242,6 +3602,7 @@ deputies:
   '6902':
     circo: '02'
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: boris.tavernier@assemblee-nationale.fr
     first_name: Boris
     gp: "\xC9cologiste et Social"
@@ -3251,6 +3612,7 @@ deputies:
   '6903':
     circo: '03'
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: marie-charlotte.garin@assemblee-nationale.fr
     first_name: Marie-Charlotte
     gp: "\xC9cologiste et Social"
@@ -3260,6 +3622,7 @@ deputies:
   '6904':
     circo: '04'
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: sandrine.runel@mairie-lyon.fr
     first_name: Sandrine
     gp: "Socialistes et apparent\xE9s"
@@ -3269,6 +3632,7 @@ deputies:
   '6905':
     circo: '05'
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: Blandine.Brocard@assemblee-nationale.fr
     first_name: Blandine
     gp: "Les D\xE9mocrates"
@@ -3278,6 +3642,7 @@ deputies:
   '6906':
     circo: '06'
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: gabriel.amard@assemblee-nationale.fr
     first_name: Gabriel
     gp: La France insoumise - Nouveau Front Populaire
@@ -3287,6 +3652,7 @@ deputies:
   '6907':
     circo: '07'
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: abdelkader.lahmar@assemblee-nationale.fr
     first_name: Abdelkader
     gp: La France insoumise - Nouveau Front Populaire
@@ -3296,6 +3662,7 @@ deputies:
   '6908':
     circo: 08
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: jonathan.gery@assemblee-nationale.fr
     first_name: Jonathan
     gp: Rassemblement National
@@ -3305,6 +3672,7 @@ deputies:
   '6909':
     circo: 09
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: contact@alexandreportier.fr
     first_name: Alexandre
     gp: "Droite R\xE9publicaine"
@@ -3314,6 +3682,7 @@ deputies:
   '6910':
     circo: '10'
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: Thomas.Gassilloud@assemblee-nationale.fr
     first_name: Thomas
     gp: "Ensemble pour la R\xE9publique"
@@ -3323,6 +3692,7 @@ deputies:
   '6911':
     circo: '11'
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: Jean-Luc.Fugit@assemblee-nationale.fr
     first_name: Jean-Luc
     gp: "Ensemble pour la R\xE9publique"
@@ -3332,6 +3702,7 @@ deputies:
   '6912':
     circo: '12'
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: Cyrille.Isaac-Sibille@assemblee-nationale.fr
     first_name: Cyrille
     gp: "Les D\xE9mocrates"
@@ -3341,6 +3712,7 @@ deputies:
   '6913':
     circo: '13'
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: tiffany.joncour@assemblee-nationale.fr
     first_name: Tiffany
     gp: Rassemblement National
@@ -3350,6 +3722,7 @@ deputies:
   '6914':
     circo: '14'
     dep: '69'
+    dep_name: "Rh\xF4ne"
     email: idir.boumertit@assemblee-nationale.fr
     first_name: Idir
     gp: La France insoumise - Nouveau Front Populaire
@@ -3359,6 +3732,7 @@ deputies:
   '7001':
     circo: '01'
     dep: '70'
+    dep_name: "Haute-Sa\xF4ne"
     email: antoine.villedieu@assemblee-nationale.fr
     first_name: Antoine
     gp: Rassemblement National
@@ -3368,6 +3742,7 @@ deputies:
   '7002':
     circo: '02'
     dep: '70'
+    dep_name: "Haute-Sa\xF4ne"
     email: emeric.salmon@assemblee-nationale.fr
     first_name: Emeric
     gp: Rassemblement National
@@ -3377,6 +3752,7 @@ deputies:
   '7101':
     circo: '01'
     dep: '71'
+    dep_name: "Sa\xF4ne-et-Loire"
     email: Benjamin.Dirx@assemblee-nationale.fr
     first_name: Benjamin
     gp: "Ensemble pour la R\xE9publique"
@@ -3386,6 +3762,7 @@ deputies:
   '7102':
     circo: '02'
     dep: '71'
+    dep_name: "Sa\xF4ne-et-Loire"
     email: jcorneloup2circo71@outlook.fr
     first_name: Josiane
     gp: "Droite R\xE9publicaine"
@@ -3395,6 +3772,7 @@ deputies:
   '7103':
     circo: '03'
     dep: '71'
+    dep_name: "Sa\xF4ne-et-Loire"
     email: aurelien.dutremble@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
     gp: Rassemblement National
@@ -3404,6 +3782,7 @@ deputies:
   '7104':
     circo: '04'
     dep: '71'
+    dep_name: "Sa\xF4ne-et-Loire"
     email: eric.michoux@assemblee-nationale.fr
     first_name: "\xC9ric"
     gp: "Union des droites pour la R\xE9publique"
@@ -3413,6 +3792,7 @@ deputies:
   '7105':
     circo: '05'
     dep: '71'
+    dep_name: "Sa\xF4ne-et-Loire"
     email: lionel.duparay@assemblee-nationale.fr
     first_name: Lionel
     gp: "Droite R\xE9publicaine"
@@ -3422,6 +3802,7 @@ deputies:
   '7201':
     circo: '01'
     dep: '72'
+    dep_name: Sarthe
     email: cabinet.juliedelpech@gmail.com
     first_name: Julie
     gp: "Ensemble pour la R\xE9publique"
@@ -3431,6 +3812,7 @@ deputies:
   '7202':
     circo: '02'
     dep: '72'
+    dep_name: Sarthe
     email: Marietta.Karamanli@assemblee-nationale.fr
     first_name: Marietta
     gp: "Socialistes et apparent\xE9s"
@@ -3440,6 +3822,7 @@ deputies:
   '7203':
     circo: '03'
     dep: '72'
+    dep_name: Sarthe
     email: eric.martineau@assemblee-nationale.fr
     first_name: "\xC9ric"
     gp: "Les D\xE9mocrates"
@@ -3449,6 +3832,7 @@ deputies:
   '7204':
     circo: '04'
     dep: '72'
+    dep_name: Sarthe
     email: elise.leboucher@assemblee-nationale.fr
     first_name: "\xC9lise"
     gp: La France insoumise - Nouveau Front Populaire
@@ -3458,6 +3842,7 @@ deputies:
   '7205':
     circo: '05'
     dep: '72'
+    dep_name: Sarthe
     email: jcgrelier.depute@gmail.com
     first_name: Jean-Carles
     gp: "Les D\xE9mocrates"
@@ -3467,6 +3852,7 @@ deputies:
   '7301':
     circo: '01'
     dep: '73'
+    dep_name: Savoie
     email: didier.padey@assemblee-nationale.fr
     first_name: Didier
     gp: "Les D\xE9mocrates"
@@ -3476,6 +3862,7 @@ deputies:
   '7302':
     circo: '02'
     dep: '73'
+    dep_name: Savoie
     email: Vincent.Rolland@assemblee-nationale.fr
     first_name: Vincent
     gp: "Droite R\xE9publicaine"
@@ -3485,6 +3872,7 @@ deputies:
   '7303':
     circo: '03'
     dep: '73'
+    dep_name: Savoie
     email: Emilie.Bonnivard@assemblee-nationale.fr
     first_name: "\xC9milie"
     gp: "Droite R\xE9publicaine"
@@ -3494,6 +3882,7 @@ deputies:
   '7304':
     circo: '04'
     dep: '73'
+    dep_name: Savoie
     email: jean-francois.coulomme@assemblee-nationale.fr
     first_name: "Jean-Fran\xE7ois"
     gp: La France insoumise - Nouveau Front Populaire
@@ -3503,6 +3892,7 @@ deputies:
   '7401':
     circo: '01'
     dep: '74'
+    dep_name: Haute-Savoie
     email: Veronique.Riotton@assemblee-nationale.fr
     first_name: "V\xE9ronique"
     gp: "Ensemble pour la R\xE9publique"
@@ -3512,6 +3902,7 @@ deputies:
   '7402':
     circo: '02'
     dep: '74'
+    dep_name: Haute-Savoie
     email: antoine.armand@assemblee-nationale.fr
     first_name: Antoine
     gp: "Ensemble pour la R\xE9publique"
@@ -3521,6 +3912,7 @@ deputies:
   '7404':
     circo: '04'
     dep: '74'
+    dep_name: Haute-Savoie
     email: Virginie.Duby-Muller@assemblee-nationale.fr
     first_name: Virginie
     gp: "Droite R\xE9publicaine"
@@ -3530,6 +3922,7 @@ deputies:
   '7405':
     circo: '05'
     dep: '74'
+    dep_name: Haute-Savoie
     email: anne-cecile.violland@assemblee-nationale.fr
     first_name: "Anne-C\xE9cile"
     gp: "Horizons & Ind\xE9pendants"
@@ -3539,6 +3932,7 @@ deputies:
   '7406':
     circo: '06'
     dep: '74'
+    dep_name: Haute-Savoie
     email: Xavier.Roseren@assemblee-nationale.fr
     first_name: Xavier
     gp: "Horizons & Ind\xE9pendants"
@@ -3548,6 +3942,7 @@ deputies:
   '7501':
     circo: '01'
     dep: '75'
+    dep_name: Paris
     email: Sylvain.Maillard@assemblee-nationale.fr
     first_name: Sylvain
     gp: "Ensemble pour la R\xE9publique"
@@ -3557,6 +3952,7 @@ deputies:
   '7502':
     circo: '02'
     dep: '75'
+    dep_name: Paris
     email: michel.barnier@assemblee-nationale.fr
     first_name: Michel
     gp: "Droite R\xE9publicaine"
@@ -3566,6 +3962,7 @@ deputies:
   '7503':
     circo: '03'
     dep: '75'
+    dep_name: Paris
     email: lea.balage@assemblee-nationale.fr
     first_name: "L\xE9a"
     gp: "\xC9cologiste et Social"
@@ -3575,6 +3972,7 @@ deputies:
   '7504':
     circo: '04'
     dep: '75'
+    dep_name: Paris
     email: astrid.panosyan-bouvet@assemblee-nationale.fr
     first_name: Astrid
     gp: "Ensemble pour la R\xE9publique"
@@ -3584,6 +3982,7 @@ deputies:
   '7505':
     circo: '05'
     dep: '75'
+    dep_name: Paris
     email: pouria.amirshahi@assemblee-nationale.fr
     first_name: Pouria
     gp: "\xC9cologiste et Social"
@@ -3593,6 +3992,7 @@ deputies:
   '7506':
     circo: '06'
     dep: '75'
+    dep_name: Paris
     email: sophia.chikirou@assemblee-nationale.fr
     first_name: Sophia
     gp: La France insoumise - Nouveau Front Populaire
@@ -3602,6 +4002,7 @@ deputies:
   '7507':
     circo: '07'
     dep: '75'
+    dep_name: Paris
     email: emmanuel.gregoire@assemblee-nationale.fr
     first_name: Emmanuel
     gp: "Socialistes et apparent\xE9s"
@@ -3611,6 +4012,7 @@ deputies:
   '7508':
     circo: 08
     dep: '75'
+    dep_name: Paris
     email: eva.sas@assemblee-nationale.fr
     first_name: Eva
     gp: "\xC9cologiste et Social"
@@ -3620,6 +4022,7 @@ deputies:
   '7509':
     circo: 09
     dep: '75'
+    dep_name: Paris
     email: sandrine.rousseau@assemblee-nationale.fr
     first_name: Sandrine
     gp: "\xC9cologiste et Social"
@@ -3629,6 +4032,7 @@ deputies:
   '7510':
     circo: '10'
     dep: '75'
+    dep_name: Paris
     email: rodrigo.arenas@assemblee-nationale.fr
     first_name: Rodrigo
     gp: La France insoumise - Nouveau Front Populaire
@@ -3638,6 +4042,7 @@ deputies:
   '7511':
     circo: '11'
     dep: '75'
+    dep_name: Paris
     email: celine.hervieu@assemblee-nationale.fr
     first_name: "C\xE9line"
     gp: "Socialistes et apparent\xE9s"
@@ -3647,6 +4052,7 @@ deputies:
   '7512':
     circo: '12'
     dep: '75'
+    dep_name: Paris
     email: oliviagregoire2017@gmail.com
     first_name: Olivia
     gp: "Ensemble pour la R\xE9publique"
@@ -3656,6 +4062,7 @@ deputies:
   '7513':
     circo: '13'
     dep: '75'
+    dep_name: Paris
     email: catherine.ibled@assemblee-nationale.fr
     first_name: Catherine
     gp: "Ensemble pour la R\xE9publique"
@@ -3665,6 +4072,7 @@ deputies:
   '7514':
     circo: '14'
     dep: '75'
+    dep_name: Paris
     email: josephine.missoffe@assemblee-nationale.fr
     first_name: "Jos\xE9phine"
     gp: "Ensemble pour la R\xE9publique"
@@ -3674,6 +4082,7 @@ deputies:
   '7515':
     circo: '15'
     dep: '75'
+    dep_name: Paris
     email: danielle.simonnet@assemblee-nationale.fr
     first_name: Danielle
     gp: "\xC9cologiste et Social"
@@ -3683,6 +4092,7 @@ deputies:
   '7516':
     circo: '16'
     dep: '75'
+    dep_name: Paris
     email: sarah.legrain@assemblee-nationale.fr
     first_name: Sarah
     gp: La France insoumise - Nouveau Front Populaire
@@ -3692,6 +4102,7 @@ deputies:
   '7517':
     circo: '17'
     dep: '75'
+    dep_name: Paris
     email: Daniele.Obono@assemblee-nationale.fr
     first_name: "Dani\xE8le"
     gp: La France insoumise - Nouveau Front Populaire
@@ -3701,6 +4112,7 @@ deputies:
   '7518':
     circo: '18'
     dep: '75'
+    dep_name: Paris
     email: aymeric.caron@assemblee-nationale.fr
     first_name: Aymeric
     gp: La France insoumise - Nouveau Front Populaire
@@ -3710,6 +4122,7 @@ deputies:
   '7601':
     circo: '01'
     dep: '76'
+    dep_name: Seine-Maritime
     email: florence.herouin-leautey@assemblee-nationale.fr
     first_name: Florence
     gp: "Socialistes et apparent\xE9s"
@@ -3719,6 +4132,7 @@ deputies:
   '7602':
     circo: '02'
     dep: '76'
+    dep_name: Seine-Maritime
     email: Annie.Vidal@assemblee-nationale.fr
     first_name: Annie
     gp: "Ensemble pour la R\xE9publique"
@@ -3728,6 +4142,7 @@ deputies:
   '7603':
     circo: '03'
     dep: '76'
+    dep_name: Seine-Maritime
     email: edouard.benard@assemblee-nationale.fr
     first_name: "\xC9douard"
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -3737,6 +4152,7 @@ deputies:
   '7604':
     circo: '04'
     dep: '76'
+    dep_name: Seine-Maritime
     email: alma.dufour@assemblee-nationale.fr
     first_name: Alma
     gp: La France insoumise - Nouveau Front Populaire
@@ -3746,6 +4162,7 @@ deputies:
   '7605':
     circo: '05'
     dep: '76'
+    dep_name: Seine-Maritime
     email: gerard.leseul@assemblee-nationale.fr
     first_name: "G\xE9rard"
     gp: "Socialistes et apparent\xE9s"
@@ -3755,6 +4172,7 @@ deputies:
   '7606':
     circo: '06'
     dep: '76'
+    dep_name: Seine-Maritime
     email: patrice.martin@assemblee-nationale.fr
     first_name: Patrice
     gp: Rassemblement National
@@ -3764,6 +4182,7 @@ deputies:
   '7607':
     circo: '07'
     dep: '76'
+    dep_name: Seine-Maritime
     email: Agnes.FirminLeBodo@assemblee-nationale.fr
     first_name: "Agn\xE8s"
     gp: "Horizons & Ind\xE9pendants"
@@ -3773,6 +4192,7 @@ deputies:
   '7608':
     circo: 08
     dep: '76'
+    dep_name: Seine-Maritime
     email: Jean-Paul.Lecoq@assemblee-nationale.fr
     first_name: Jean-Paul
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -3782,6 +4202,7 @@ deputies:
   '7609':
     circo: 09
     dep: '76'
+    dep_name: Seine-Maritime
     email: marieagnes.poussier-winsback@assemblee-nationale.fr
     first_name: "Marie-Agn\xE8s"
     gp: "Horizons & Ind\xE9pendants"
@@ -3791,6 +4212,7 @@ deputies:
   '7610':
     circo: '10'
     dep: '76'
+    dep_name: Seine-Maritime
     email: robert.lebourgeois@assemblee-nationale.fr
     first_name: Robert
     gp: Rassemblement National
@@ -3800,6 +4222,7 @@ deputies:
   '7701':
     circo: '01'
     dep: '77'
+    dep_name: Seine-et-Marne
     email: arnaud.saint-martin@assemblee-nationale.fr
     first_name: Arnaud
     gp: La France insoumise - Nouveau Front Populaire
@@ -3809,6 +4232,7 @@ deputies:
   '7702':
     circo: '02'
     dep: '77'
+    dep_name: Seine-et-Marne
     email: frederic.valletoux@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric"
     gp: "Horizons & Ind\xE9pendants"
@@ -3818,6 +4242,7 @@ deputies:
   '7703':
     circo: '03'
     dep: '77'
+    dep_name: Seine-et-Marne
     email: Jean-Louis.Thieriot@assemblee-nationale.fr
     first_name: Jean-Louis
     gp: "Droite R\xE9publicaine"
@@ -3827,6 +4252,7 @@ deputies:
   '7704':
     circo: '04'
     dep: '77'
+    dep_name: Seine-et-Marne
     email: julien.limongi@assemblee-nationale.fr
     first_name: Julien
     gp: Rassemblement National
@@ -3836,6 +4262,7 @@ deputies:
   '7705':
     circo: '05'
     dep: '77'
+    dep_name: Seine-et-Marne
     email: franck.riester@assemblee-nationale.fr
     first_name: Franck
     gp: "Ensemble pour la R\xE9publique"
@@ -3845,6 +4272,7 @@ deputies:
   '7706':
     circo: '06'
     dep: '77'
+    dep_name: Seine-et-Marne
     email: beatrice.roullaud@assemblee-nationale.fr
     first_name: "B\xE9atrice"
     gp: Rassemblement National
@@ -3854,6 +4282,7 @@ deputies:
   '7707':
     circo: '07'
     dep: '77'
+    dep_name: Seine-et-Marne
     email: ersilia.soudais@assemblee-nationale.fr
     first_name: Ersilia
     gp: La France insoumise - Nouveau Front Populaire
@@ -3863,6 +4292,7 @@ deputies:
   '7708':
     circo: 08
     dep: '77'
+    dep_name: Seine-et-Marne
     email: arnaud.bonnet@assemblee-nationale.fr
     first_name: Arnaud
     gp: "\xC9cologiste et Social"
@@ -3872,6 +4302,7 @@ deputies:
   '7709':
     circo: 09
     dep: '77'
+    dep_name: Seine-et-Marne
     email: celine.thiebault-martinez@assemblee-nationale.fr
     first_name: "C\xE9line"
     gp: "Socialistes et apparent\xE9s"
@@ -3881,6 +4312,7 @@ deputies:
   '7710':
     circo: '10'
     dep: '77'
+    dep_name: Seine-et-Marne
     email: maxime.laisney@assemblee-nationale.fr
     first_name: Maxime
     gp: La France insoumise - Nouveau Front Populaire
@@ -3890,6 +4322,7 @@ deputies:
   '7711':
     circo: '11'
     dep: '77'
+    dep_name: Seine-et-Marne
     email: Olivier.Faure@assemblee-nationale.fr
     first_name: Olivier
     gp: "Socialistes et apparent\xE9s"
@@ -3899,6 +4332,7 @@ deputies:
   '7801':
     circo: '01'
     dep: '78'
+    dep_name: Yvelines
     email: charles.rodwell@assemblee-nationale.fr
     first_name: Charles
     gp: "Ensemble pour la R\xE9publique"
@@ -3908,6 +4342,7 @@ deputies:
   '7802':
     circo: '02'
     dep: '78'
+    dep_name: Yvelines
     email: anne.bergantz@assemblee-nationale.fr
     first_name: Anne
     gp: "Les D\xE9mocrates"
@@ -3917,6 +4352,7 @@ deputies:
   '7803':
     circo: '03'
     dep: '78'
+    dep_name: Yvelines
     email: Beatrice.Piron@assemblee-nationale.fr
     first_name: "B\xE9atrice"
     gp: "Horizons & Ind\xE9pendants"
@@ -3926,6 +4362,7 @@ deputies:
   '7804':
     circo: '04'
     dep: '78'
+    dep_name: Yvelines
     email: Marie.Lebec@assemblee-nationale.fr
     first_name: Marie
     gp: "Ensemble pour la R\xE9publique"
@@ -3935,6 +4372,7 @@ deputies:
   '7805':
     circo: '05'
     dep: '78'
+    dep_name: Yvelines
     email: Yael.Braun-Pivet@assemblee-nationale.fr
     first_name: "Ya\xEBl"
     gp: "Ensemble pour la R\xE9publique"
@@ -3944,6 +4382,7 @@ deputies:
   '7806':
     circo: '06'
     dep: '78'
+    dep_name: Yvelines
     email: Natalia.Pouzyreff@assemblee-nationale.fr
     first_name: Natalia
     gp: "Ensemble pour la R\xE9publique"
@@ -3953,6 +4392,7 @@ deputies:
   '7807':
     circo: '07'
     dep: '78'
+    dep_name: Yvelines
     email: aurelien.rousseau@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
     gp: "Socialistes et apparent\xE9s"
@@ -3962,6 +4402,7 @@ deputies:
   '7808':
     circo: 08
     dep: '78'
+    dep_name: Yvelines
     email: benjamin.lucas@assemblee-nationale.fr
     first_name: Benjamin
     gp: "\xC9cologiste et Social"
@@ -3971,6 +4412,7 @@ deputies:
   '7809':
     circo: 09
     dep: '78'
+    dep_name: Yvelines
     email: dieynaba.diop@assemblee-nationale.fr
     first_name: Dieynaba
     gp: "Socialistes et apparent\xE9s"
@@ -3980,6 +4422,7 @@ deputies:
   '7810':
     circo: '10'
     dep: '78'
+    dep_name: Yvelines
     email: anne-sophie.ronceret@assemblee-nationale.fr
     first_name: Anne-Sophie
     gp: "Ensemble pour la R\xE9publique"
@@ -3989,6 +4432,7 @@ deputies:
   '7811':
     circo: '11'
     dep: '78'
+    dep_name: Yvelines
     email: laurent.mazaury@assemblee-nationale.fr
     first_name: Laurent
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -3998,6 +4442,7 @@ deputies:
   '7812':
     circo: '12'
     dep: '78'
+    dep_name: Yvelines
     email: karl.olive@assemblee-nationale.fr
     first_name: Karl
     gp: "Ensemble pour la R\xE9publique"
@@ -4007,6 +4452,7 @@ deputies:
   '7901':
     circo: '01'
     dep: '79'
+    dep_name: "Deux-S\xE8vres"
     email: bastien.marchive@assemblee-nationale.fr
     first_name: Bastien
     gp: "Ensemble pour la R\xE9publique"
@@ -4016,6 +4462,7 @@ deputies:
   '7902':
     circo: '02'
     dep: '79'
+    dep_name: "Deux-S\xE8vres"
     email: Delphine.Batho@assemblee-nationale.fr
     first_name: Delphine
     gp: "\xC9cologiste et Social"
@@ -4025,6 +4472,7 @@ deputies:
   '7903':
     circo: '03'
     dep: '79'
+    dep_name: "Deux-S\xE8vres"
     email: Jean-Marie.Fievet@assemblee-nationale.fr
     first_name: Jean-Marie
     gp: "Ensemble pour la R\xE9publique"
@@ -4034,6 +4482,7 @@ deputies:
   '8001':
     circo: '01'
     dep: '80'
+    dep_name: Somme
     email: Francois.Ruffin@assemblee-nationale.fr
     first_name: "Fran\xE7ois"
     gp: "\xC9cologiste et Social"
@@ -4043,6 +4492,7 @@ deputies:
   '8002':
     circo: '02'
     dep: '80'
+    dep_name: Somme
     email: zahia.hamdane@assemblee-nationale.fr
     first_name: Zahia
     gp: La France insoumise - Nouveau Front Populaire
@@ -4052,6 +4502,7 @@ deputies:
   '8003':
     circo: '03'
     dep: '80'
+    dep_name: Somme
     email: matthias.renault@assemblee-nationale.fr
     first_name: Matthias
     gp: Rassemblement National
@@ -4061,6 +4512,7 @@ deputies:
   '8004':
     circo: '04'
     dep: '80'
+    dep_name: Somme
     email: jean-philippe.tanguy@assemblee-nationale.fr
     first_name: Jean-Philippe
     gp: Rassemblement National
@@ -4070,6 +4522,7 @@ deputies:
   '8005':
     circo: '05'
     dep: '80'
+    dep_name: Somme
     email: yael.menache@assemblee-nationale.fr
     first_name: "Ya\xEBl"
     gp: Rassemblement National
@@ -4079,6 +4532,7 @@ deputies:
   '8101':
     circo: '01'
     dep: '81'
+    dep_name: Tarn
     email: philippe.bonnecarrere@assemblee-nationale.fr
     first_name: Philippe
     gp: Non inscrit
@@ -4088,6 +4542,7 @@ deputies:
   '8102':
     circo: '02'
     dep: '81'
+    dep_name: Tarn
     email: karen.erodi@assemblee-nationale.fr
     first_name: Karen
     gp: La France insoumise - Nouveau Front Populaire
@@ -4097,6 +4552,7 @@ deputies:
   '8103':
     circo: '03'
     dep: '81'
+    dep_name: Tarn
     email: Jean.Terlier@assemblee-nationale.fr
     first_name: Jean
     gp: "Ensemble pour la R\xE9publique"
@@ -4106,6 +4562,7 @@ deputies:
   '8201':
     circo: '01'
     dep: '82'
+    dep_name: Tarn-et-Garonne
     email: pierre-henri.carbonnel@assemblee-nationale.fr
     first_name: Pierre-Henri
     gp: "Union des droites pour la R\xE9publique"
@@ -4115,6 +4572,7 @@ deputies:
   '8202':
     circo: '02'
     dep: '82'
+    dep_name: Tarn-et-Garonne
     email: marine.hamelet@assemblee-nationale.fr
     first_name: Marine
     gp: Rassemblement National
@@ -4124,6 +4582,7 @@ deputies:
   '8301':
     circo: '01'
     dep: '83'
+    dep_name: Var
     email: yannick.chenevard@assemblee-nationale.fr
     first_name: Yannick
     gp: "Ensemble pour la R\xE9publique"
@@ -4133,6 +4592,7 @@ deputies:
   '8302':
     circo: '02'
     dep: '83'
+    dep_name: Var
     email: laure.lavalette@assemblee-nationale.fr
     first_name: Laure
     gp: Rassemblement National
@@ -4142,6 +4602,7 @@ deputies:
   '8303':
     circo: '03'
     dep: '83'
+    dep_name: Var
     email: stephane.rambaud@assemblee-nationale.fr
     first_name: "St\xE9phane"
     gp: Rassemblement National
@@ -4151,6 +4612,7 @@ deputies:
   '8304':
     circo: '04'
     dep: '83'
+    dep_name: Var
     email: philippe.lottiaux@assemblee-nationale.fr
     first_name: Philippe
     gp: Rassemblement National
@@ -4160,6 +4622,7 @@ deputies:
   '8305':
     circo: '05'
     dep: '83'
+    dep_name: Var
     email: julie.lechanteux@assemblee-nationale.fr
     first_name: Julie
     gp: Rassemblement National
@@ -4169,6 +4632,7 @@ deputies:
   '8306':
     circo: '06'
     dep: '83'
+    dep_name: Var
     email: frank.giletti@assemblee-nationale.fr
     first_name: Frank
     gp: Rassemblement National
@@ -4178,6 +4642,7 @@ deputies:
   '8307':
     circo: '07'
     dep: '83'
+    dep_name: Var
     email: frederic.boccaletti@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric"
     gp: Rassemblement National
@@ -4187,6 +4652,7 @@ deputies:
   '8308':
     circo: 08
     dep: '83'
+    dep_name: Var
     email: contact@philippe-schreck.fr
     first_name: Philippe
     gp: Rassemblement National
@@ -4196,6 +4662,7 @@ deputies:
   '8401':
     circo: '01'
     dep: '84'
+    dep_name: Vaucluse
     email: raphael.arnault@assemblee-nationale.fr
     first_name: "Rapha\xEBl"
     gp: La France insoumise - Nouveau Front Populaire
@@ -4205,6 +4672,7 @@ deputies:
   '8402':
     circo: '02'
     dep: '84'
+    dep_name: Vaucluse
     email: benedicte.auzanot@assemblee-nationale.fr
     first_name: "B\xE9n\xE9dicte"
     gp: Rassemblement National
@@ -4214,6 +4682,7 @@ deputies:
   '8403':
     circo: '03'
     dep: '84'
+    dep_name: Vaucluse
     email: herve.delepinau@assemblee-nationale.fr
     first_name: "Herv\xE9"
     gp: Rassemblement National
@@ -4223,6 +4692,7 @@ deputies:
   '8404':
     circo: '04'
     dep: '84'
+    dep_name: Vaucluse
     email: Marie-France.Lorho@assemblee-nationale.fr
     first_name: Marie-France
     gp: Rassemblement National
@@ -4232,6 +4702,7 @@ deputies:
   '8405':
     circo: '05'
     dep: '84'
+    dep_name: Vaucluse
     email: catherine.rimbert@assemblee-nationale.fr
     first_name: Catherine
     gp: Rassemblement National
@@ -4241,6 +4712,7 @@ deputies:
   '8501':
     circo: '01'
     dep: '85'
+    dep_name: "Vend\xE9e"
     email: Philippe.Latombe@assemblee-nationale.fr
     first_name: Philippe
     gp: "Les D\xE9mocrates"
@@ -4250,6 +4722,7 @@ deputies:
   '8502':
     circo: '02'
     dep: '85'
+    dep_name: "Vend\xE9e"
     email: beatrice.bellamy@assemblee-nationale.fr
     first_name: "B\xE9atrice"
     gp: "Horizons & Ind\xE9pendants"
@@ -4259,6 +4732,7 @@ deputies:
   '8503':
     circo: '03'
     dep: '85'
+    dep_name: "Vend\xE9e"
     email: Stephane.Buchou@assemblee-nationale.fr
     first_name: "St\xE9phane"
     gp: "Ensemble pour la R\xE9publique"
@@ -4268,6 +4742,7 @@ deputies:
   '8504':
     circo: '04'
     dep: '85'
+    dep_name: "Vend\xE9e"
     email: veronique.besse@assemblee-nationale.fr
     first_name: "V\xE9ronique"
     gp: Non inscrit
@@ -4277,6 +4752,7 @@ deputies:
   '8505':
     circo: '05'
     dep: '85'
+    dep_name: "Vend\xE9e"
     email: Pierre.Henriet@assemblee-nationale.fr
     first_name: Pierre
     gp: "Horizons & Ind\xE9pendants"
@@ -4286,6 +4762,7 @@ deputies:
   '8601':
     circo: '01'
     dep: '86'
+    dep_name: Vienne
     email: lisa.belluco@assemblee-nationale.fr
     first_name: Lisa
     gp: "\xC9cologiste et Social"
@@ -4295,6 +4772,7 @@ deputies:
   '8602':
     circo: '02'
     dep: '86'
+    dep_name: Vienne
     email: contact@sachahoulie.fr
     first_name: Sacha
     gp: "Socialistes et apparent\xE9s"
@@ -4304,6 +4782,7 @@ deputies:
   '8603':
     circo: '03'
     dep: '86'
+    dep_name: Vienne
     email: pascal.lecamp@civray.fr
     first_name: Pascal
     gp: "Les D\xE9mocrates"
@@ -4313,6 +4792,7 @@ deputies:
   '8604':
     circo: '04'
     dep: '86'
+    dep_name: Vienne
     email: Nicolas.Turquois@assemblee-nationale.fr
     first_name: Nicolas
     gp: "Les D\xE9mocrates"
@@ -4322,6 +4802,7 @@ deputies:
   '8701':
     circo: '01'
     dep: '87'
+    dep_name: Haute-Vienne
     email: damien.maudet@assemblee-nationale.fr
     first_name: Damien
     gp: La France insoumise - Nouveau Front Populaire
@@ -4331,6 +4812,7 @@ deputies:
   '8702':
     circo: '02'
     dep: '87'
+    dep_name: Haute-Vienne
     email: stephane.delautrette@assemblee-nationale.fr
     first_name: "St\xE9phane"
     gp: "Socialistes et apparent\xE9s"
@@ -4340,6 +4822,7 @@ deputies:
   '8703':
     circo: '03'
     dep: '87'
+    dep_name: Haute-Vienne
     email: manon.meunier@assemblee-nationale.fr
     first_name: Manon
     gp: La France insoumise - Nouveau Front Populaire
@@ -4349,6 +4832,7 @@ deputies:
   '8801':
     circo: '01'
     dep: '88'
+    dep_name: Vosges
     email: Stephane.Viry@assemblee-nationale.fr
     first_name: "St\xE9phane"
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -4358,6 +4842,7 @@ deputies:
   '8802':
     circo: '02'
     dep: '88'
+    dep_name: Vosges
     email: gaetan.dussausaye@assemblee-nationale.fr
     first_name: "Ga\xEBtan"
     gp: Rassemblement National
@@ -4367,6 +4852,7 @@ deputies:
   '8803':
     circo: '03'
     dep: '88'
+    dep_name: Vosges
     email: Christophe.Naegelen@assemblee-nationale.fr
     first_name: Christophe
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -4376,6 +4862,7 @@ deputies:
   '8804':
     circo: '04'
     dep: '88'
+    dep_name: Vosges
     email: sebastien.humbert@assemblee-nationale.fr
     first_name: "S\xE9bastien"
     gp: Rassemblement National
@@ -4385,6 +4872,7 @@ deputies:
   '8901':
     circo: '01'
     dep: '89'
+    dep_name: Yonne
     email: daniel.grenon@assemblee-nationale.fr
     first_name: Daniel
     gp: Non inscrit
@@ -4394,6 +4882,7 @@ deputies:
   '8902':
     circo: '02'
     dep: '89'
+    dep_name: Yonne
     email: sophie-laurence.roy@assemblee-nationale.fr
     first_name: Sophie-Laurence
     gp: Rassemblement National
@@ -4403,6 +4892,7 @@ deputies:
   '8903':
     circo: '03'
     dep: '89'
+    dep_name: Yonne
     email: julien.odoul@assemblee-nationale.fr
     first_name: Julien
     gp: Rassemblement National
@@ -4412,6 +4902,7 @@ deputies:
   '9001':
     circo: '01'
     dep: '90'
+    dep_name: Territoire de Belfort
     email: Ian.Boucard@assemblee-nationale.fr
     first_name: Ian
     gp: "Droite R\xE9publicaine"
@@ -4421,6 +4912,7 @@ deputies:
   '9002':
     circo: '02'
     dep: '90'
+    dep_name: Territoire de Belfort
     email: guillaume.bigot@assemblee-nationale.fr
     first_name: Guillaume
     gp: Rassemblement National
@@ -4430,6 +4922,7 @@ deputies:
   '9101':
     circo: '01'
     dep: '91'
+    dep_name: Essonne
     email: farida.amrani@assemblee-nationale.fr
     first_name: Farida
     gp: La France insoumise - Nouveau Front Populaire
@@ -4439,6 +4932,7 @@ deputies:
   '9102':
     circo: '02'
     dep: '91'
+    dep_name: Essonne
     email: nathalie.daconceicaocarvalho@assemblee-nationale.fr
     first_name: Nathalie
     gp: Rassemblement National
@@ -4448,6 +4942,7 @@ deputies:
   '9103':
     circo: '03'
     dep: '91'
+    dep_name: Essonne
     email: steevy.gustave@assemblee-nationale.fr
     first_name: Steevy
     gp: "\xC9cologiste et Social"
@@ -4457,6 +4952,7 @@ deputies:
   '9104':
     circo: '04'
     dep: '91'
+    dep_name: Essonne
     email: mprixain.perm@orange.fr
     first_name: Marie-Pierre
     gp: "Ensemble pour la R\xE9publique"
@@ -4466,6 +4962,7 @@ deputies:
   '9105':
     circo: '05'
     dep: '91'
+    dep_name: Essonne
     email: paul.midy@assemblee-nationale.fr
     first_name: Paul
     gp: "Ensemble pour la R\xE9publique"
@@ -4475,6 +4972,7 @@ deputies:
   '9106':
     circo: '06'
     dep: '91'
+    dep_name: Essonne
     email: jerome.guedj@assemblee-nationale.fr
     first_name: "J\xE9r\xF4me"
     gp: "Socialistes et apparent\xE9s"
@@ -4484,6 +4982,7 @@ deputies:
   '9107':
     circo: '07'
     dep: '91'
+    dep_name: Essonne
     email: claire.lejeune@assemblee-nationale.fr
     first_name: Claire
     gp: La France insoumise - Nouveau Front Populaire
@@ -4493,6 +4992,7 @@ deputies:
   '9108':
     circo: 08
     dep: '91'
+    dep_name: Essonne
     email: berenger.cernon@assemblee-nationale.fr
     first_name: "B\xE9renger"
     gp: La France insoumise - Nouveau Front Populaire
@@ -4502,6 +5002,7 @@ deputies:
   '9109':
     circo: 09
     dep: '91'
+    dep_name: Essonne
     email: julie.ozenne@assemblee-nationale.fr
     first_name: Julie
     gp: "\xC9cologiste et Social"
@@ -4511,6 +5012,7 @@ deputies:
   '9110':
     circo: '10'
     dep: '91'
+    dep_name: Essonne
     email: antoine.leaument@assemblee-nationale.fr
     first_name: Antoine
     gp: La France insoumise - Nouveau Front Populaire
@@ -4520,6 +5022,7 @@ deputies:
   '9201':
     circo: '01'
     dep: '92'
+    dep_name: Hauts-de-Seine
     email: Elsa.Faucillon@assemblee-nationale.fr
     first_name: Elsa
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -4529,6 +5032,7 @@ deputies:
   '9202':
     circo: '02'
     dep: '92'
+    dep_name: Hauts-de-Seine
     email: thomas.lam@assemblee-nationale.fr
     first_name: Thomas
     gp: "Horizons & Ind\xE9pendants"
@@ -4538,6 +5042,7 @@ deputies:
   '9203':
     circo: '03'
     dep: '92'
+    dep_name: Hauts-de-Seine
     email: philippe.juvin@assemblee-nationale.fr
     first_name: Philippe
     gp: "Droite R\xE9publicaine"
@@ -4547,6 +5052,7 @@ deputies:
   '9204':
     circo: '04'
     dep: '92'
+    dep_name: Hauts-de-Seine
     email: sabrina.sebaihi@assemblee-nationale.fr
     first_name: Sabrina
     gp: "\xC9cologiste et Social"
@@ -4556,6 +5062,7 @@ deputies:
   '9205':
     circo: '05'
     dep: '92'
+    dep_name: Hauts-de-Seine
     email: Celine.Calvez@assemblee-nationale.fr
     first_name: "C\xE9line"
     gp: "Ensemble pour la R\xE9publique"
@@ -4565,6 +5072,7 @@ deputies:
   '9206':
     circo: '06'
     dep: '92'
+    dep_name: Hauts-de-Seine
     email: Constance.LeGrip@assemblee-nationale.fr
     first_name: Constance
     gp: "Ensemble pour la R\xE9publique"
@@ -4574,6 +5082,7 @@ deputies:
   '9207':
     circo: '07'
     dep: '92'
+    dep_name: Hauts-de-Seine
     email: pierre.cazeneuve@assemblee-nationale.fr
     first_name: Pierre
     gp: "Ensemble pour la R\xE9publique"
@@ -4583,6 +5092,7 @@ deputies:
   '9208':
     circo: 08
     dep: '92'
+    dep_name: Hauts-de-Seine
     email: prisca.thevenot@assemblee-nationale.fr
     first_name: Prisca
     gp: "Ensemble pour la R\xE9publique"
@@ -4592,6 +5102,7 @@ deputies:
   '9209':
     circo: 09
     dep: '92'
+    dep_name: Hauts-de-Seine
     email: elisabeth.demaistre@assemblee-nationale.fr
     first_name: "\xC9lisabeth"
     gp: "Droite R\xE9publicaine"
@@ -4601,6 +5112,7 @@ deputies:
   '9210':
     circo: '10'
     dep: '92'
+    dep_name: Hauts-de-Seine
     email: gabriel.attal@assemblee-nationale.fr
     first_name: Gabriel
     gp: "Ensemble pour la R\xE9publique"
@@ -4610,6 +5122,7 @@ deputies:
   '9211':
     circo: '11'
     dep: '92'
+    dep_name: Hauts-de-Seine
     email: aurelien.saintoul@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
     gp: La France insoumise - Nouveau Front Populaire
@@ -4619,6 +5132,7 @@ deputies:
   '9212':
     circo: '12'
     dep: '92'
+    dep_name: Hauts-de-Seine
     email: jean-didier.berger@assemblee-nationale.fr
     first_name: Jean-Didier
     gp: "Droite R\xE9publicaine"
@@ -4628,6 +5142,7 @@ deputies:
   '9213':
     circo: '13'
     dep: '92'
+    dep_name: Hauts-de-Seine
     email: christophe.mongardien@assemblee-nationale.fr
     first_name: Christophe
     gp: "Ensemble pour la R\xE9publique"
@@ -4637,6 +5152,7 @@ deputies:
   '9301':
     circo: '01'
     dep: '93'
+    dep_name: Seine-Saint-Denis
     email: Eric.Coquerel@assemblee-nationale.fr
     first_name: "\xC9ric"
     gp: La France insoumise - Nouveau Front Populaire
@@ -4646,6 +5162,7 @@ deputies:
   '9302':
     circo: '02'
     dep: '93'
+    dep_name: Seine-Saint-Denis
     email: Stephane.Peu@assemblee-nationale.fr
     first_name: "St\xE9phane"
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -4655,6 +5172,7 @@ deputies:
   '9303':
     circo: '03'
     dep: '93'
+    dep_name: Seine-Saint-Denis
     email: thomas.portes@assemblee-nationale.fr
     first_name: Thomas
     gp: La France insoumise - Nouveau Front Populaire
@@ -4664,6 +5182,7 @@ deputies:
   '9304':
     circo: '04'
     dep: '93'
+    dep_name: Seine-Saint-Denis
     email: soumya.bourouaha@gmail.com
     first_name: Soumya
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -4673,6 +5192,7 @@ deputies:
   '9305':
     circo: '05'
     dep: '93'
+    dep_name: Seine-Saint-Denis
     email: aly.diouara@assemblee-nationale.fr
     first_name: Aly
     gp: La France insoumise - Nouveau Front Populaire
@@ -4682,6 +5202,7 @@ deputies:
   '9306':
     circo: '06'
     dep: '93'
+    dep_name: Seine-Saint-Denis
     email: Bastien.Lachaud@assemblee-nationale.fr
     first_name: Bastien
     gp: La France insoumise - Nouveau Front Populaire
@@ -4691,6 +5212,7 @@ deputies:
   '9307':
     circo: '07'
     dep: '93'
+    dep_name: Seine-Saint-Denis
     email: Alexis.Corbiere@assemblee-nationale.fr
     first_name: Alexis
     gp: "\xC9cologiste et Social"
@@ -4700,6 +5222,7 @@ deputies:
   '9308':
     circo: 08
     dep: '93'
+    dep_name: Seine-Saint-Denis
     email: fatiha.kelouahachi@assemblee-nationale.fr
     first_name: Fatiha
     gp: "Socialistes et apparent\xE9s"
@@ -4709,6 +5232,7 @@ deputies:
   '9309':
     circo: 09
     dep: '93'
+    dep_name: Seine-Saint-Denis
     email: aurelie.trouve@assemblee-nationale.fr
     first_name: "Aur\xE9lie"
     gp: La France insoumise - Nouveau Front Populaire
@@ -4718,6 +5242,7 @@ deputies:
   '9310':
     circo: '10'
     dep: '93'
+    dep_name: Seine-Saint-Denis
     email: nadege.abomangoli@assemblee-nationale.fr
     first_name: "Nad\xE8ge"
     gp: La France insoumise - Nouveau Front Populaire
@@ -4727,6 +5252,7 @@ deputies:
   '9311':
     circo: '11'
     dep: '93'
+    dep_name: Seine-Saint-Denis
     email: Clementine.Autain@assemblee-nationale.fr
     first_name: "Cl\xE9mentine"
     gp: "\xC9cologiste et Social"
@@ -4736,6 +5262,7 @@ deputies:
   '9312':
     circo: '12'
     dep: '93'
+    dep_name: Seine-Saint-Denis
     email: jerome.legavre@assemblee-nationale.fr
     first_name: "J\xE9r\xF4me"
     gp: La France insoumise - Nouveau Front Populaire
@@ -4745,6 +5272,7 @@ deputies:
   '9401':
     circo: '01'
     dep: '94'
+    dep_name: Val-de-Marne
     email: sylvain.berrios@assemblee-nationale.fr
     first_name: Sylvain
     gp: "Horizons & Ind\xE9pendants"
@@ -4754,6 +5282,7 @@ deputies:
   '9402':
     circo: '02'
     dep: '94'
+    dep_name: Val-de-Marne
     email: clemence.guette@assemblee-nationale.fr
     first_name: "Cl\xE9mence"
     gp: La France insoumise - Nouveau Front Populaire
@@ -4763,6 +5292,7 @@ deputies:
   '9403':
     circo: '03'
     dep: '94'
+    dep_name: Val-de-Marne
     email: louis.boyard@assemblee-nationale.fr
     first_name: Louis
     gp: La France insoumise - Nouveau Front Populaire
@@ -4772,6 +5302,7 @@ deputies:
   '9404':
     circo: '04'
     dep: '94'
+    dep_name: Val-de-Marne
     email: Maud.Petit@assemblee-nationale.fr
     first_name: Maud
     gp: "Les D\xE9mocrates"
@@ -4781,6 +5312,7 @@ deputies:
   '9405':
     circo: '05'
     dep: '94'
+    dep_name: Val-de-Marne
     email: sandrine.lalanne@assemblee-nationale.fr
     first_name: Sandrine
     gp: "Ensemble pour la R\xE9publique"
@@ -4790,6 +5322,7 @@ deputies:
   '9406':
     circo: '06'
     dep: '94'
+    dep_name: Val-de-Marne
     email: guillaume.gouffier-valente@assemblee-nationale.fr
     first_name: Guillaume
     gp: "Ensemble pour la R\xE9publique"
@@ -4799,6 +5332,7 @@ deputies:
   '9407':
     circo: '07'
     dep: '94'
+    dep_name: Val-de-Marne
     email: nicolas.tryzna@assemblee-nationale.fr
     first_name: Nicolas
     gp: "Droite R\xE9publicaine"
@@ -4808,6 +5342,7 @@ deputies:
   '9408':
     circo: 08
     dep: '94'
+    dep_name: Val-de-Marne
     email: Michel.Herbillon@assemblee-nationale.fr
     first_name: Michel
     gp: "Droite R\xE9publicaine"
@@ -4817,6 +5352,7 @@ deputies:
   '9409':
     circo: 09
     dep: '94'
+    dep_name: Val-de-Marne
     email: isabelle.santiago@assemblee-nationale.fr
     first_name: Isabelle
     gp: "Socialistes et apparent\xE9s"
@@ -4826,6 +5362,7 @@ deputies:
   '9410':
     circo: '10'
     dep: '94'
+    dep_name: Val-de-Marne
     email: Mathilde.Panot@assemblee-nationale.fr
     first_name: Mathilde
     gp: La France insoumise - Nouveau Front Populaire
@@ -4835,6 +5372,7 @@ deputies:
   '9411':
     circo: '11'
     dep: '94'
+    dep_name: Val-de-Marne
     email: sophie.taille-polian@assemblee-nationale.fr
     first_name: Sophie
     gp: "\xC9cologiste et Social"
@@ -4844,6 +5382,7 @@ deputies:
   '9501':
     circo: '01'
     dep: '95'
+    dep_name: Val-d'Oise
     email: anne.sicard@assemblee-nationale.fr
     first_name: Anne
     gp: Rassemblement National
@@ -4853,6 +5392,7 @@ deputies:
   '9502':
     circo: '02'
     dep: '95'
+    dep_name: Val-d'Oise
     email: ayda.hadizadeh@assemblee-nationale.fr
     first_name: Ayda
     gp: "Socialistes et apparent\xE9s"
@@ -4862,6 +5402,7 @@ deputies:
   '9503':
     circo: '03'
     dep: '95'
+    dep_name: Val-d'Oise
     email: emmanuel.maurel@assemblee-nationale.fr
     first_name: Emmanuel
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -4871,6 +5412,7 @@ deputies:
   '9504':
     circo: '04'
     dep: '95'
+    dep_name: Val-d'Oise
     email: benoit.blanchard@assemblee-nationale.fr
     first_name: "Beno\xEEt"
     gp: "Horizons & Ind\xE9pendants"
@@ -4880,6 +5422,7 @@ deputies:
   '9505':
     circo: '05'
     dep: '95'
+    dep_name: Val-d'Oise
     email: paul.vannier@assemblee-nationale.fr
     first_name: Paul
     gp: La France insoumise - Nouveau Front Populaire
@@ -4889,6 +5432,7 @@ deputies:
   '9506':
     circo: '06'
     dep: '95'
+    dep_name: Val-d'Oise
     email: gabrielle.cathala@assemblee-nationale.fr
     first_name: Gabrielle
     gp: La France insoumise - Nouveau Front Populaire
@@ -4898,6 +5442,7 @@ deputies:
   '9507':
     circo: '07'
     dep: '95'
+    dep_name: Val-d'Oise
     email: romain.eskenazi@assemblee-nationale.fr
     first_name: Romain
     gp: "Socialistes et apparent\xE9s"
@@ -4907,6 +5452,7 @@ deputies:
   '9508':
     circo: 08
     dep: '95'
+    dep_name: Val-d'Oise
     email: carlosmartens.bilongo@assemblee-nationale.fr
     first_name: Carlos Martens
     gp: La France insoumise - Nouveau Front Populaire
@@ -4916,6 +5462,7 @@ deputies:
   '9509':
     circo: 09
     dep: '95'
+    dep_name: Val-d'Oise
     email: arnaud.legall@assemblee-nationale.fr
     first_name: Arnaud
     gp: La France insoumise - Nouveau Front Populaire
@@ -4925,6 +5472,7 @@ deputies:
   '9510':
     circo: '10'
     dep: '95'
+    dep_name: Val-d'Oise
     email: Aurelien.Tache@assemblee-nationale.fr
     first_name: "Aur\xE9lien"
     gp: La France insoumise - Nouveau Front Populaire
@@ -4934,6 +5482,7 @@ deputies:
   '97101':
     circo: '01'
     dep: '971'
+    dep_name: Guadeloupe
     email: Olivier.Serva@assemblee-nationale.fr
     first_name: Olivier
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -4943,6 +5492,7 @@ deputies:
   '97102':
     circo: '02'
     dep: '971'
+    dep_name: Guadeloupe
     email: christian.baptiste@assemblee-nationale.fr
     first_name: Christian
     gp: "Socialistes et apparent\xE9s"
@@ -4952,6 +5502,7 @@ deputies:
   '97103':
     circo: '03'
     dep: '971'
+    dep_name: Guadeloupe
     email: Max.Mathiasin@assemblee-nationale.fr
     first_name: Max
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -4961,6 +5512,7 @@ deputies:
   '97104':
     circo: '04'
     dep: '971'
+    dep_name: Guadeloupe
     email: elie.califer@assemblee-nationale.fr
     first_name: Elie
     gp: "Socialistes et apparent\xE9s"
@@ -4970,6 +5522,7 @@ deputies:
   '97201':
     circo: '01'
     dep: '972'
+    dep_name: Martinique
     email: jiovanny.william@assemblee-nationale.fr
     first_name: Jiovanny
     gp: "Socialistes et apparent\xE9s"
@@ -4979,6 +5532,7 @@ deputies:
   '97202':
     circo: '02'
     dep: '972'
+    dep_name: Martinique
     email: marcellin.nadeau@assemblee-nationale.fr
     first_name: Marcellin
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -4988,6 +5542,7 @@ deputies:
   '97203':
     circo: '03'
     dep: '972'
+    dep_name: Martinique
     email: beatrice.bellay@assemblee-nationale.fr
     first_name: "B\xE9atrice"
     gp: "Socialistes et apparent\xE9s"
@@ -4997,6 +5552,7 @@ deputies:
   '97204':
     circo: '04'
     dep: '972'
+    dep_name: Martinique
     email: Jean-Philippe.Nilor@assemblee-nationale.fr
     first_name: Jean-Philippe
     gp: La France insoumise - Nouveau Front Populaire
@@ -5006,6 +5562,7 @@ deputies:
   '97301':
     circo: '01'
     dep: '973'
+    dep_name: Guyane
     email: jean-victor.castor@assemblee-nationale.fr
     first_name: Jean-Victor
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -5015,6 +5572,7 @@ deputies:
   '97302':
     circo: '02'
     dep: '973'
+    dep_name: Guyane
     email: davy.rimane@assemblee-nationale.fr
     first_name: Davy
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -5024,6 +5582,7 @@ deputies:
   '97401':
     circo: '01'
     dep: '974'
+    dep_name: "R\xE9union"
     email: philippe.naillet@assemblee-nationale.fr
     first_name: Philippe
     gp: "Socialistes et apparent\xE9s"
@@ -5033,6 +5592,7 @@ deputies:
   '97402':
     circo: '02'
     dep: '974'
+    dep_name: "R\xE9union"
     email: karine.lebon@assemblee-nationale.fr
     first_name: Karine
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -5042,6 +5602,7 @@ deputies:
   '97403':
     circo: '03'
     dep: '974'
+    dep_name: "R\xE9union"
     email: joseph.riviere@assemblee-nationale.fr
     first_name: Joseph
     gp: Rassemblement National
@@ -5051,6 +5612,7 @@ deputies:
   '97404':
     circo: '04'
     dep: '974'
+    dep_name: "R\xE9union"
     email: emeline.kbidi@assemblee-nationale.fr
     first_name: "\xC9meline"
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -5060,6 +5622,7 @@ deputies:
   '97405':
     circo: '05'
     dep: '974'
+    dep_name: "R\xE9union"
     email: Jean-Hugues.Ratenon@assemblee-nationale.fr
     first_name: Jean-Hugues
     gp: La France insoumise - Nouveau Front Populaire
@@ -5069,6 +5632,7 @@ deputies:
   '97406':
     circo: '06'
     dep: '974'
+    dep_name: "R\xE9union"
     email: frederic.maillot@assemblee-nationale.fr
     first_name: "Fr\xE9d\xE9ric"
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -5078,6 +5642,7 @@ deputies:
   '97407':
     circo: '07'
     dep: '974'
+    dep_name: "R\xE9union"
     email: perceval.gaillard@assemblee-nationale.fr
     first_name: Perceval
     gp: La France insoumise - Nouveau Front Populaire
@@ -5087,6 +5652,7 @@ deputies:
   '97501':
     circo: '01'
     dep: '975'
+    dep_name: Saint-Pierre-et-Miquelon
     email: stephane.lenormand@assemblee-nationale.fr
     first_name: "St\xE9phane"
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -5096,6 +5662,7 @@ deputies:
   '97601':
     circo: '01'
     dep: '976'
+    dep_name: Mayotte
     email: estelle.youssouffa@assemblee-nationale.fr
     first_name: Estelle
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -5105,6 +5672,7 @@ deputies:
   '97602':
     circo: '02'
     dep: '976'
+    dep_name: Mayotte
     email: anchya.bamana@assemblee-nationale.fr
     first_name: Anchya
     gp: Rassemblement National
@@ -5114,6 +5682,7 @@ deputies:
   '97701':
     circo: '01'
     dep: '977'
+    dep_name: "Saint-Barth\xE9lemy et Saint-Martin"
     email: frantz.gumbs@assemblee-nationale.fr
     first_name: Frantz
     gp: "Les D\xE9mocrates"
@@ -5123,6 +5692,7 @@ deputies:
   '98601':
     circo: '01'
     dep: '986'
+    dep_name: Wallis-et-Futuna
     email: mikaele.seo@assemblee-nationale.fr
     first_name: Mikaele
     gp: "Ensemble pour la R\xE9publique"
@@ -5132,6 +5702,7 @@ deputies:
   '98701':
     circo: '01'
     dep: '987'
+    dep_name: "Polyn\xE9sie Fran\xE7aise"
     email: moerani.frebault@assemblee-nationale.fr
     first_name: Moerani
     gp: "Ensemble pour la R\xE9publique"
@@ -5141,6 +5712,7 @@ deputies:
   '98702':
     circo: '02'
     dep: '987'
+    dep_name: "Polyn\xE9sie Fran\xE7aise"
     email: sanquern@yahoo.fr
     first_name: Nicole
     gp: "Libert\xE9s, Ind\xE9pendants, Outre-mer et Territoires"
@@ -5150,6 +5722,7 @@ deputies:
   '98703':
     circo: '03'
     dep: '987'
+    dep_name: "Polyn\xE9sie Fran\xE7aise"
     email: mereana.reidarbelot@assemblee-nationale.fr
     first_name: Mereana
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -5159,6 +5732,7 @@ deputies:
   '98801':
     circo: '01'
     dep: '988'
+    dep_name: "Nouvelle-Cal\xE9donie"
     email: nicolas.metzdorf@assemblee-nationale.fr
     first_name: Nicolas
     gp: "Ensemble pour la R\xE9publique"
@@ -5168,6 +5742,7 @@ deputies:
   '98802':
     circo: '02'
     dep: '988'
+    dep_name: "Nouvelle-Cal\xE9donie"
     email: emmanuel.tjibaou@assemblee-nationale.fr
     first_name: Emmanuel
     gp: "Gauche D\xE9mocrate et R\xE9publicaine"
@@ -5176,4 +5751,4 @@ deputies:
     ref: PA842299
 metadata:
   count: 575
-  last_updated: '2026-01-11T22:17:36.877999'
+  last_updated: '2026-01-11T23:13:18.630388'

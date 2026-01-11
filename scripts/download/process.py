@@ -26,6 +26,7 @@ class Deputy:
     first_name: str
     email: str
     dep: str
+    dep_name: str
     circo: str
     circo_code: str
     gp_abv: str
@@ -43,6 +44,7 @@ class Deputy:
         gp_abv: str = ""
         gp: str = ""
         dep: str = ""
+        dep_name: str = ""
         circo: str = ""
         circo_code: str = ""
         elec_found: bool = False
@@ -66,6 +68,7 @@ class Deputy:
 
         if elec:
             dep = elec["lieu"]["numDepartement"]
+            dep_name = elec["lieu"]["departement"]
             circo = elec["lieu"]["numCirco"]
 
             if len(circo) == 1:
@@ -98,6 +101,7 @@ class Deputy:
             first_name=first_name,
             email=email,
             dep=dep,
+            dep_name=dep_name,
             circo=circo,
             circo_code=circo_code,
             gp_abv=gp_abv,
@@ -113,6 +117,7 @@ class Deputy:
             "gp_abv": self.gp_abv,
             "gp": self.gp,
             "dep": self.dep,
+            "dep_name": self.dep_name,
             "circo": self.circo,
         }
 
