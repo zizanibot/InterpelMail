@@ -31,7 +31,7 @@ Il permet d'envoyer rapidement un email à ta.on député.e sur des sujets d'int
 - **Ton adresse sert uniquement à identifier ta circonscription** (traitement local dans ton navigateur, pas de stockage)
 - **Tes emails sont envoyés directement depuis ton client mail**, nous ne les voyons jamais
 
-## Sources de données
+## Sources des données
 
 Les informations sur les députés proviennent de sources publiques :
 
