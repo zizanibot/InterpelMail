@@ -17,7 +17,7 @@
         <select id="campaign">
             <option value="">-- Sélectionne une campagne --</option>
             {{ range $key, $campaign := .Site.Data.campaigns }}
-            <option value="{{ $key }}">{{ $campaign.title }} -- {{ $campaign.date }}</option>
+		<option value="{{ $key }}">{{ $campaign.title }} -- {{ $campaign.date }}</option>
             {{ end }}
         </select>
     </div>
@@ -34,19 +34,21 @@
 	<div class="tab-content active" id="address-form">
 	    <input type="text" id="address" placeholder="Entre ici l'adresse de ton domicile" maxlength="50">
 	    <div id="suggestions"></div> 
-	    <button id="find-deputy" type="button">Trouver ma.on député.e</button>
+	    <button class="find-deputy" id="find-deputy-address" type="button">Trouve ma.on député.e</button>
 	</div>
 
 	<div class="tab-content" id="subdivision">
-	    <select>
+	    <select id="deps-select">
 		<option>Sélectionne un département</option>
 	    </select>
+	    <button class="find-deputy" id="find-deputy-subdivision" type="button">Trouve les député.es</button>
 	</div>
 
 	<div class="tab-content" id="group">
-	    <select>
+	    <select id="groups-select">
 		<option>Sélectionne un groupe parlementaire</option>
 	    </select>
+	    <button class="find-deputy" id="find-deputy-group" type="button">Trouve les député.es</button>
 	</div>
     </div>
 

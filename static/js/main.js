@@ -18,6 +18,43 @@ document.addEventListener('DOMContentLoaded', async function() {
         alert('Erreur lors du chargement des données des circonscriptions');
     }
 
+    // construct additional maps for selection
+    const groups = {}
+    Object.values(window.siteData.deputies["deputies"]).forEach(dep => {
+	if (dep.gp_abv && !groups[dep.gp_abv]) {
+	    groups[dep.gp_abv] = dep.gp;
+	}
+    });
+
+    const groups_select = document.getElementById('groups-select');
+    Object.entries(groups)
+	.sort((a, b) => a[1].localeCompare(b[1]))
+	.forEach(([abv, name]) => {
+	    const option = document.createElement('option');
+	    option.value = abv;
+	    option.textContent = `${abv} - ${name}`;
+	    groups_select.appendChild(option);
+	}
+    );
+
+    const deps = {}
+    Object.values(window.siteData.deputies["deputies"]).forEach(dep => {
+	if (dep.dep && !deps[dep.dep]) {
+	    deps[dep.dep] = dep.dep_name;
+	}
+    });
+
+    const deps_select = document.getElementById('deps-select');
+    Object.entries(deps)
+	.sort((a, b) => a[1].localeCompare(b[1]))
+	.forEach(([num, name]) => {
+	    const option = document.createElement('option');
+	    option.value = num;
+	    option.textContent = `${name} - ${num}`;
+	    deps_select.appendChild(option);
+	}
+    );
+
     const suggestions = document.getElementById('suggestions');
 
     // Show campaign info when campaigns code selected
@@ -25,8 +62,19 @@ document.addEventListener('DOMContentLoaded', async function() {
 	setCampaign(this.value);
     });
 
+    // Show selection method
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+	btn.addEventListener('click', () => {
+	    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+	    btn.classList.add('active');
+
+	    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+	    document.getElementById(btn.dataset.tab).classList.add('active');
+	});
+    });
+
     // Show deputy info
-    document.getElementById('find-deputy').addEventListener('click', findDeputyFromAddress);
+    document.getElementById('find-deputy-address').addEventListener('click', findDeputyFromAddress);
     document.getElementById('address').addEventListener('input', function(e) {
 	
 	document.getElementById('deputy-info').style.display = 'none';

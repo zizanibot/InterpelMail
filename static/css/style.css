@@ -30,13 +30,13 @@ button:hover {
     background: #0052a3;
 }
 
-#find-deputy {
+.find-deputy {
     width: 100%;
     background: #28a745;
     margin-top: 5px;
 }
 
-#find-deputy:hover {
+.find-deputy:hover {
     background: #218838;
 }
 
