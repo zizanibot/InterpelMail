@@ -175,11 +175,11 @@ form button:hover {
   background: none;
   cursor: pointer;
   border-bottom: 3px solid transparent;
+  color: #0066cc;
 }
 
 .tab-btn.active {
   border-bottom-color: #0066cc;
-  color: #0066cc;
 }
 
 .tab-content {
