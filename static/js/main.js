@@ -64,8 +64,8 @@ document.addEventListener('DOMContentLoaded', async function() {
 
     // Show selection method
     document.querySelectorAll('.tab-btn').forEach(btn => {
-	resetData();
 	btn.addEventListener('click', () => {
+	    resetData();
 	    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
 	    btn.classList.add('active');
 
@@ -237,7 +237,7 @@ async function findDeputyFromAddress() {
             throw new Error(`Député.e non trouvé pour la circonscription ${circoCode}`);
         }
 
-        selectedDeputy = deputy;
+        selectedDeputies = [deputy];
         deputyInfo.innerHTML = `<strong>Ta.on député.e est :</strong> ${deputy.first_name} ${deputy.last_name} (${deputy.group_abv} - ${deputy.departement_num})`;
         deputyInfo.style.display = 'block';
         sendButton.style.display = 'block';
@@ -266,7 +266,10 @@ function findDeputiesFromSubdivision(depKey) {
     deputies.forEach(deputy => {
 	deputyInfo.innerHTML += `${deputy.first_name} ${deputy.last_name} (${deputy.group_abv} - ${deputy.departement_num})<br>`;
     });
+
+    selectedDeputies = deputies;
     deputyInfo.style.display = 'block';
+    sendButton.style.display = 'block';
 }
 
 function findDeputiesFromGroup(groupKey) {
@@ -287,7 +290,10 @@ function findDeputiesFromGroup(groupKey) {
     deputies.forEach(deputy => {
 	deputyInfo.innerHTML += `${deputy.first_name} ${deputy.last_name} (${deputy.group_abv} - ${deputy.departement_num})<br>`;
     });
+
+    selectedDeputies = deputies;
     deputyInfo.style.display = 'block';
+    sendButton.style.display = 'block';
 }
 
 function sendEmail() {
@@ -298,17 +304,18 @@ function sendEmail() {
         return;
     }
 
-    if (!selectedDeputy) {
-        alert('Veuillez d\'abord trouver votre député');
+    if (!selectedDeputies) {
+        alert('Veuillez d\'abord trouver au moins un.e député.e');
         return;
     }
 
     const campaign = window.siteData.campaigns[campaignKey];
+    const names = selectedDeputies.map(deputy => `${deputy.civ} ${deputy.first_name} ${deputy.last_name}`).join(', ');
     const body = campaign.body
-	.replace("[CIRCONSCRIPTION]", `la ${selectedDeputy.circonscription_name}`)
-	.replace("[DEPUTE]", `${selectedDeputy.civ} ${selectedDeputy.first_name} ${selectedDeputy.last_name}`);
+	.replace("[CIRCONSCRIPTION]", `la ${selectedDeputies[0].circonscription_name}`) // temp
+	.replace("[DEPUTE]", names);
 
-    const mailtoLink = `mailto:${selectedDeputy.email}?subject=${encodeURIComponent(campaign.subject)}&body=${encodeURIComponent(body)}`;
+    const mailtoLink = `mailto:${selectedDeputies.map(deputy => deputy.email).join(',')}?subject=${encodeURIComponent(campaign.subject)}&body=${encodeURIComponent(body)}`;
 
     window.location.href = mailtoLink;
 }
