@@ -26,7 +26,9 @@ async def update_acteur_organe(download_temp: Path, zip_temp: Path) -> None:
     # Download File to zip download folder
     zip_file_acteur_organe: Path = download_temp / "data_acteur_organe.zip"
     try:
-        await download_file_async(UPDATE_URL_DOWNLOAD_ACTEUR_ORGANE, zip_file_acteur_organe)
+        await download_file_async(
+            UPDATE_URL_DOWNLOAD_ACTEUR_ORGANE, zip_file_acteur_organe
+        )
     except Exception as e:
         show_error_on_exception("download failed", e)
         raise e
@@ -40,11 +42,11 @@ async def update_acteur_organe(download_temp: Path, zip_temp: Path) -> None:
     except Exception as e:
         show_error_on_exception("unzipping failed", e)
         raise e
-    
+
     temp_acteur: Path = zip_temp_acteur_organe / "json" / "acteur"
     temp_organe: Path = zip_temp_acteur_organe / "json" / "organe"
     try:
-        await process_file_async(temp_acteur, temp_organe, zip_temp_acteur_organe)
+        await process_file_async(temp_acteur, temp_organe)
     except Exception as e:
         show_error_on_exception("process failed", e)
         raise e
@@ -52,13 +54,16 @@ async def update_acteur_organe(download_temp: Path, zip_temp: Path) -> None:
 
 async def update_async() -> None:
     """
-    Update the data folder with fresh data from 
+    Update the data folder with fresh data from
     UPDATE_URL_DOWNLOAD_ACTEUR_ORGANE.
     """
 
     logger.info("=== Update starting ===")
 
-    with tempfile.TemporaryDirectory() as download_temp, tempfile.TemporaryDirectory() as zip_temp:
+    with (
+        tempfile.TemporaryDirectory() as download_temp,
+        tempfile.TemporaryDirectory() as zip_temp,
+    ):
         download_path: Path = Path(download_temp)
         zip_path: Path = Path(zip_temp)
         try:
