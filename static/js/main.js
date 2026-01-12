@@ -1,7 +1,8 @@
 let circonscriptionsData = null;
 
 let selectedAddress = null;
-let selectedDeputies = null;
+let selectedDeputies = [];
+let locationInformation = null;
 
 let suggestionsTimer = null;
 
@@ -104,6 +105,12 @@ function resetData() {
 	document.getElementById('send-email').style.display = 'none';
 	selectedDeputies = null;
 	selectedAddress = null;
+	locationInformation = null;
+
+	const deputy_filter = document.getElementById('deputy-filter');
+	while (deputy_filter.lastElementChild) {
+		deputy_filter.removeChild(deputy_filter.lastElementChild);
+	}
 
 }
 
@@ -184,7 +191,7 @@ function displayDeputies(deputies) {
 
 	deputyInfo.innerHTML = `<strong>Tes député.es sont :</strong><br>`
 	deputies.forEach(deputy => {
-		deputyInfo.innerHTML += `${deputy.first_name} ${deputy.last_name} (${deputy.group_abv} - ${deputy.departement_num})<br>`;
+		deputyInfo.innerHTML += `${deputy.first_name} ${deputy.last_name} (${deputy.group_abv} - ${deputy.departement_num} - ${deputy.circonscription_name})<br>`;
 	});
 
 	selectedDeputies = deputies;
@@ -231,6 +238,7 @@ async function findDeputyFromAddress() {
 			throw new Error(`Député.e non trouvé pour la circonscription ${circoCode}`);
 		}
 
+		locationInformation = `la ${deputy.circonscription_name}`;
 		displayDeputies([deputy]);
 	} catch (error) {
 		console.error('Error:', error);
@@ -250,7 +258,54 @@ function findDeputiesFromSubdivision(depKey) {
 		throw new Error(`Député.es non trouvé pour le département ${depKey}`);
 	}
 
+	let groups = {}
+	Object.values(deputies).forEach(deputy => {
+		if (deputy.group_abv && !groups[deputy.group_abv]) {
+			groups[deputy.group_abv] = deputy.group_name;
+		}
+	});
+
+	const deputy_filter = document.getElementById('deputy-filter');
+	while (deputy_filter.lastElementChild) {
+		deputy_filter.removeChild(deputy_filter.lastElementChild);
+	}
+	Object.entries(groups)
+		.sort((a, b) => a[1].localeCompare(b[1]))
+		.forEach(([abv, _]) => {
+			const label = document.createElement('label');
+			label.className = 'deputy-filter-element';
+			const input = document.createElement('input');
+			input.type = 'checkbox';
+			input.value = abv;
+			input.checked = "true";
+			input.addEventListener('change', function() {
+				if (this.checked) {
+					AddGroup(depKey, this.value);
+				} else {
+					RemoveGroup(this.value);
+				}
+			});
+			label.appendChild(input);
+			label.appendChild(document.createTextNode(abv));
+			label.style.textAlign = "center";
+			deputy_filter.appendChild(label);
+		}
+		);
+
+	locationInformation = deputies[0].departement_name;
 	displayDeputies(deputies);
+}
+
+function RemoveGroup(groupKey) {
+	const deputies = selectedDeputies.filter(deputy => deputy.group_abv != groupKey);
+	displayDeputies(deputies);
+}
+
+function AddGroup(depKey, groupKey) {
+	const newDeputies = Object.values(window.siteData.deputies["deputies"])
+		.filter(deputy => deputy.group_abv == groupKey && deputy.departement_num == depKey);
+
+	displayDeputies(selectedDeputies.concat(newDeputies));
 }
 
 function sendEmail() {
@@ -261,7 +316,7 @@ function sendEmail() {
 		return;
 	}
 
-	if (!selectedDeputies) {
+	if (selectedDeputies.length == 0) {
 		alert('Veuillez d\'abord trouver au moins un.e député.e');
 		return;
 	}
@@ -269,7 +324,7 @@ function sendEmail() {
 	const campaign = window.siteData.campaigns[campaignKey];
 	const names = selectedDeputies.map(deputy => `${deputy.civ} ${deputy.first_name} ${deputy.last_name}`).join(', ');
 	const body = campaign.body
-		.replace("[CIRCONSCRIPTION]", `la ${selectedDeputies[0].circonscription_name}`) // temp
+		.replace("[CIRCONSCRIPTION]", locationInformation) // temp
 		.replace("[DEPUTE]", names);
 
 	const mailtoLink = `mailto:${selectedDeputies.map(deputy => deputy.email).join(',')}?subject=${encodeURIComponent(campaign.subject)}&body=${encodeURIComponent(body)}`;

@@ -11,7 +11,8 @@ select, button {
     margin: 10px 0;
     font-size: 16px;
 }
-input {
+
+input, label {
     width: 100%; 
     margin: 10px 0;
     padding: 10px;
@@ -189,4 +190,8 @@ form button:hover {
 
 .tab-content.active {
   display: block;
+}
+
+#deputy-filter {
+	display: flex;
 }
