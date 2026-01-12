@@ -22,31 +22,36 @@ ELECTION = "\u00e9lections g\u00e9n\u00e9rales"
 @define
 class Deputy:
     ref: str
+    civ: str
     last_name: str
     first_name: str
     email: str
-    dep: str
-    dep_name: str
-    circo: str
-    circo_code: str
-    gp_abv: str
-    gp: str
+    departement_num: str
+    departement_name: str
+    circonscription_num: str
+    circonscription_name: str
+    circonscription_code: str
+    group_abv: str
+    group_name: str
 
     @classmethod
     async def from_json(cls, data: Any, organe_folder: Path) -> Self:
         ref: str = data["acteur"]["uid"]["#text"]
         last_name: str = data["acteur"]["etatCivil"]["ident"]["nom"]
+        civ: str = data["acteur"]["etatCivil"]["ident"]["civ"]
         first_name: str = data["acteur"]["etatCivil"]["ident"]["prenom"]
         mandats: List[Any] = data["acteur"]["mandats"]["mandat"]
 
         elec: Optional[Dict[str, Any]] = None
-        gp_ref: str = ""
-        gp_abv: str = ""
-        gp: str = ""
-        dep: str = ""
-        dep_name: str = ""
-        circo: str = ""
-        circo_code: str = ""
+        group_ref: str = ""
+        group_abv: str = ""
+        group_name: str = ""
+        circonscription_ref: str = ""
+        departement_num: str = ""
+        departement_name: str = ""
+        circonscription_num: str = ""
+        circonscription_name: str = ""
+        circonscription_code: str = ""
         elec_found: bool = False
 
         for mandat in mandats:
@@ -63,29 +68,44 @@ class Deputy:
                         and ELECTION == elec["causeMandat"].lower()
                     ):
                         elec_found = True
-            if not gp_ref and "typeOrgane" in mandat and "GP" == mandat["typeOrgane"]:
-                gp_ref = mandat["organes"]["organeRef"]
+            if (
+                not group_ref
+                and "typeOrgane" in mandat
+                and "GP" == mandat["typeOrgane"]
+            ):
+                group_ref = mandat["organes"]["organeRef"]
 
         if elec:
-            dep = elec["lieu"]["numDepartement"]
-            dep_name = elec["lieu"]["departement"]
-            circo = elec["lieu"]["numCirco"]
+            departement_num = elec["lieu"]["numDepartement"]
+            departement_name = elec["lieu"]["departement"]
+            circonscription_num = elec["lieu"]["numCirco"]
+            circonscription_ref = elec["refCirconscription"]
 
-            if len(circo) == 1:
-                circo = "0" + circo
-            circo_code = f"{dep}{circo}"
+            if len(circonscription_num) == 1:
+                circonscription_num = "0" + circonscription_num
+            circonscription_code = f"{departement_num}{circonscription_num}"
 
-        if gp_ref:
-            organe_file = organe_folder / f"{gp_ref}.json"
+        if circonscription_ref:
+            organe_file = organe_folder / f"{circonscription_ref}.json"
             try:
-                gp_data = await read_file(organe_file)
-                gp_abv = gp_data["organe"]["libelleAbrege"]
-                gp = gp_data["organe"]["libelle"]
+                circonscription_data = await read_file(organe_file)
+                circonscription_name = circonscription_data["organe"]["libelle"]
             except OSError:
-                logger.warning("Cannot find the organe file %s for %s", gp_ref, ref)
-                gp_ref = ""
-                gp_abv = ""
-                gp = ""
+                logger.warning(
+                    "Cannot find the organe file %s for %s", circonscription_ref, ref
+                )
+        else:
+            logger.warning("%s does not have any organe reference.", ref)
+
+        if group_ref:
+            organe_file = organe_folder / f"{group_ref}.json"
+            try:
+                group_data = await read_file(organe_file)
+                group_abv = group_data["organe"]["libelleAbrege"]
+                group_name = group_data["organe"]["libelle"]
+            except OSError:
+                logger.warning("Cannot find the organe file %s for %s", group_ref, ref)
+
         else:
             logger.warning("%s does not have any organe reference.", ref)
 
@@ -97,28 +117,33 @@ class Deputy:
 
         return cls(
             ref=ref,
+            civ=civ,
             last_name=last_name,
             first_name=first_name,
             email=email,
-            dep=dep,
-            dep_name=dep_name,
-            circo=circo,
-            circo_code=circo_code,
-            gp_abv=gp_abv,
-            gp=gp,
+            departement_num=departement_num,
+            departement_name=departement_name,
+            circonscription_num=circonscription_num,
+            circonscription_name=circonscription_name,
+            circonscription_code=circonscription_code,
+            group_abv=group_abv,
+            group_name=group_name,
         )
 
     def to_yaml_dict(self) -> Dict[str, Any]:
         return {
             "ref": self.ref,
+            "civ": self.civ,
             "last_name": self.last_name,
             "first_name": self.first_name,
             "email": self.email,
-            "gp_abv": self.gp_abv,
-            "gp": self.gp,
-            "dep": self.dep,
-            "dep_name": self.dep_name,
-            "circo": self.circo,
+            "departement_num": self.departement_num,
+            "departement_name": self.departement_name,
+            "circonscription_num": self.circonscription_num,
+            "circonscription_name": self.circonscription_name,
+            "circonscription_code": self.circonscription_code,
+            "group_abv": self.group_abv,
+            "group_name": self.group_name,
         }
 
 
@@ -129,7 +154,7 @@ async def process_file_async(acteur_folder: Path, organe_folder: Path) -> None:
         deputies.append(await Deputy.from_json(data, organe_folder))
 
     deputies_dict: Dict[str, Any] = {
-        deputy.circo_code: deputy.to_yaml_dict() for deputy in deputies
+        deputy.circonscription_code: deputy.to_yaml_dict() for deputy in deputies
     }
 
     output: Dict[str, Any] = {
