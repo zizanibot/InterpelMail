@@ -191,7 +191,7 @@ function displayDeputies(deputies) {
 
 	deputyInfo.innerHTML = `<strong>Tes député.es sont :</strong><br>`
 	deputies.forEach(deputy => {
-		deputyInfo.innerHTML += `${deputy.first_name} ${deputy.last_name} (${deputy.group_abv} - ${deputy.departement_num} - ${deputy.circonscription_name})<br>`;
+		deputyInfo.innerHTML += `${deputy.first_name} ${deputy.last_name} (${deputy.group_abv} - ${deputy.circonscription_name})<br>`;
 	});
 
 	selectedDeputies = deputies;
