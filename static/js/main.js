@@ -6,8 +6,7 @@ let selectedDeputies = null;
 let suggestionsTimer = null;
 
 const addressData = {};
-const groups = {};
-const deps = {};
+const departements = {};
 
 document.addEventListener('DOMContentLoaded', async function() {
 
@@ -21,31 +20,14 @@ document.addEventListener('DOMContentLoaded', async function() {
 	}
 
 	// construct additional maps for selection
-	Object.values(window.siteData.deputies["deputies"]).forEach(dep => {
-		if (dep.group_abv && !groups[dep.group_abv]) {
-			groups[dep.group_abv] = dep.group_name;
-		}
-	});
-
-	const groups_select = document.getElementById('groups-select');
-	Object.entries(groups)
-		.sort((a, b) => a[1].localeCompare(b[1]))
-		.forEach(([abv, name]) => {
-			const option = document.createElement('option');
-			option.value = abv;
-			option.textContent = `${abv} - ${name}`;
-			groups_select.appendChild(option);
-		}
-		);
-
-	Object.values(window.siteData.deputies["deputies"]).forEach(dep => {
-		if (dep.departement_num && !deps[dep.departement_num]) {
-			deps[dep.departement_num] = dep.departement_name;
+	Object.values(window.siteData.deputies["deputies"]).forEach(deputy => {
+		if (deputy.departement_num && !departements[deputy.departement_num]) {
+			departements[deputy.departement_num] = deputy.departement_name;
 		}
 	});
 
 	const deps_select = document.getElementById('deps-select');
-	Object.entries(deps)
+	Object.entries(departements)
 		.sort((a, b) => a[1].localeCompare(b[1]))
 		.forEach(([num, name]) => {
 			const option = document.createElement('option');
@@ -76,11 +58,7 @@ document.addEventListener('DOMContentLoaded', async function() {
 	document.getElementById('find-deputy-address').addEventListener('click', findDeputyFromAddress);
 	document.getElementById('find-deputy-subdivision').addEventListener('click', function() {
 		resetData();
-		findDeputiesFromSubdivision(document.getElementById('deps-select').value);
-	});
-	document.getElementById('find-deputy-group').addEventListener('click', function() {
-		resetData();
-		findDeputiesFromGroup(document.getElementById('groups-select').value);
+		findDeputiesFromSubdivision(deps_select.value);
 	});
 
 	document.getElementById('address').addEventListener('input', function(e) {
@@ -108,6 +86,7 @@ document.addEventListener('DOMContentLoaded', async function() {
 			}
 		}, 500);
 	});
+
 	// hide suggestions
 	document.addEventListener('click', (e) => {
 		if (!e.target.closest('address-form')) {
@@ -266,21 +245,6 @@ function findDeputiesFromSubdivision(depKey) {
 		return;
 	}
 	const deputies = Object.values(window.siteData.deputies["deputies"]).filter(deputy => deputy.departement_num == depKey);
-
-	if (!deputies) {
-		throw new Error(`Député.es non trouvé pour le département ${depKey}`);
-	}
-
-	displayDeputies(deputies);
-}
-
-function findDeputiesFromGroup(groupKey) {
-
-	if (!groupKey) {
-		alert('Veuillez sélectionner un groupe parlementaire valide.');
-		return;
-	}
-	const deputies = Object.values(window.siteData.deputies["deputies"]).filter(deputy => deputy.group_abv == groupKey);
 
 	if (!deputies) {
 		throw new Error(`Député.es non trouvé pour le département ${depKey}`);
