@@ -22,8 +22,8 @@ document.addEventListener('DOMContentLoaded', async function() {
 
     // construct additional maps for selection
     Object.values(window.siteData.deputies["deputies"]).forEach(dep => {
-	if (dep.gp_abv && !groups[dep.gp_abv]) {
-	    groups[dep.gp_abv] = dep.gp;
+	if (dep.group_abv && !groups[dep.group_abv]) {
+	    groups[dep.group_abv] = dep.group_name;
 	}
     });
 
@@ -39,8 +39,8 @@ document.addEventListener('DOMContentLoaded', async function() {
     );
 
     Object.values(window.siteData.deputies["deputies"]).forEach(dep => {
-	if (dep.dep && !deps[dep.dep]) {
-	    deps[dep.dep] = dep.dep_name;
+	if (dep.departement_num && !deps[dep.departement_num]) {
+	    deps[dep.departement_num] = dep.departement_name;
 	}
     });
 
@@ -238,7 +238,7 @@ async function findDeputyFromAddress() {
         }
 
         selectedDeputy = deputy;
-        deputyInfo.innerHTML = `<strong>Ta.on député.e est :</strong> ${deputy.first_name} ${deputy.last_name} (${deputy.gp_abv} - ${deputy.dep})`;
+        deputyInfo.innerHTML = `<strong>Ta.on député.e est :</strong> ${deputy.first_name} ${deputy.last_name} (${deputy.group_abv} - ${deputy.departement_num})`;
         deputyInfo.style.display = 'block';
         sendButton.style.display = 'block';
 
@@ -256,7 +256,7 @@ function findDeputiesFromSubdivision(depKey) {
         alert('Veuillez sélectionner un département valide.');
 	return;
     }
-    const deputies = Object.values(window.siteData.deputies["deputies"]).filter(deputy => deputy.dep == depKey);
+    const deputies = Object.values(window.siteData.deputies["deputies"]).filter(deputy => deputy.departement_num == depKey);
 
     if (!deputies) {
         throw new Error(`Député.es non trouvé pour le département ${depKey}`);
@@ -264,7 +264,7 @@ function findDeputiesFromSubdivision(depKey) {
 
     deputyInfo.innerHTML = `<strong>Tes député.es sont :</strong><br>`
     deputies.forEach(deputy => {
-	deputyInfo.innerHTML += `${deputy.first_name} ${deputy.last_name} (${deputy.gp_abv} - ${deputy.dep})<br>`;
+	deputyInfo.innerHTML += `${deputy.first_name} ${deputy.last_name} (${deputy.group_abv} - ${deputy.departement_num})<br>`;
     });
     deputyInfo.style.display = 'block';
 }
@@ -277,7 +277,7 @@ function findDeputiesFromGroup(groupKey) {
         alert('Veuillez sélectionner un groupe parlementaire valide.');
 	return;
     }
-    const deputies = Object.values(window.siteData.deputies["deputies"]).filter(deputy => deputy.gp_abv == groupKey);
+    const deputies = Object.values(window.siteData.deputies["deputies"]).filter(deputy => deputy.group_abv == groupKey);
 
     if (!deputies) {
         throw new Error(`Député.es non trouvé pour le département ${depKey}`);
@@ -285,7 +285,7 @@ function findDeputiesFromGroup(groupKey) {
 
     deputyInfo.innerHTML = `<strong>Tes député.es sont :</strong><br>`
     deputies.forEach(deputy => {
-	deputyInfo.innerHTML += `${deputy.first_name} ${deputy.last_name} (${deputy.gp_abv} - ${deputy.dep})<br>`;
+	deputyInfo.innerHTML += `${deputy.first_name} ${deputy.last_name} (${deputy.group_abv} - ${deputy.departement_num})<br>`;
     });
     deputyInfo.style.display = 'block';
 }
@@ -304,7 +304,11 @@ function sendEmail() {
     }
 
     const campaign = window.siteData.campaigns[campaignKey];
-    const mailtoLink = `mailto:${selectedDeputy.email}?subject=${encodeURIComponent(campaign.subject)}&body=${encodeURIComponent(campaign.body)}`;
+    const body = campaign.body
+	.replace("[CIRCONSCRIPTION]", `la ${selectedDeputy.circonscription_name}`)
+	.replace("[DEPUTE]", `${selectedDeputy.civ} ${selectedDeputy.first_name} ${selectedDeputy.last_name}`);
+
+    const mailtoLink = `mailto:${selectedDeputy.email}?subject=${encodeURIComponent(campaign.subject)}&body=${encodeURIComponent(body)}`;
 
     window.location.href = mailtoLink;
 }
