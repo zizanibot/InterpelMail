@@ -74,7 +74,8 @@ document.addEventListener('DOMContentLoaded', async function() {
 		}
 
 		suggestions.style.display = 'block';
-		suggestions.innerHTML = '<div class="loading">Recherche...</div>';
+		suggestions.className = 'loading';
+		suggestions.textContent = 'Recherche...';
 
 		suggestionsTimer = setTimeout(async () => {
 			try {
@@ -82,7 +83,9 @@ document.addEventListener('DOMContentLoaded', async function() {
 				const results = await findAddresses(searchedValue);
 				displaySuggestions(results, suggestions);
 			} catch (error) {
-				suggestions.innerHTML = '<div class="no-results">Erreur lors de la recherche d\'adresses</div>';
+				const no_result = document.createElement('div');
+				no_result.className = "no-results";
+				no_result.textContent = "Erreur lors de la recherche d'adresses";
 				console.error('Error:', error);
 			}
 		}, 500);
@@ -119,13 +122,15 @@ function setCampaign(campaignKey) {
 	const campaignInfo = document.getElementById('campaign-info');
 	const desc = document.getElementById('desc');
 
+	campaignInfo.textContent = "Interpelle tes élu·es:";
+
 	if (campaignKey) {
 		const campaign = window.siteData.campaigns[campaignKey];
-		campaignInfo.innerHTML = `<h1>Interpelle tes élu·es:<br>${campaign.title} -- ${campaign.subject}</h1>`;
-		desc.innerHTML = `${campaign.description}`;
+		campaignInfo.insertAdjacentElement("beforeend", document.createElement('br'));
+		campaignInfo.insertAdjacentText("beforeend", `${campaign.title} -- ${campaign.subject}`);
+		desc.textContent = campaign.description;
 		desc.style.display = 'block';
 	} else {
-		campaignInfo.innerHTML = `<h1>Interpelle tes élu·es:</h1>`;
 		desc.style.display = 'none';
 	}
 }
@@ -149,7 +154,10 @@ function displaySuggestions(results, suggestions) {
 
 	Object.keys(addressData).forEach(key => delete addressData[key]);
 	if (results.length == 0) {
-		suggestions.innerHTML = '<div class="no-results">Aucune adresse trouvée</div>';
+		const no_result = document.createElement('div');
+		no_result.className = "no-results";
+		no_result.textContent = "Aucune adresse trouvée";
+		suggestions.replaceChildren(no_result);
 		return;
 	}
 
@@ -160,10 +168,17 @@ function displaySuggestions(results, suggestions) {
 		}
 	});
 
-	suggestions.innerHTML = results.map(
-		(elt, index) => `
-<div class="suggestion-item" data-id="${index}">${elt.properties.label}</div>`
-	).join('');
+	suggestions.replaceChildren(
+		...results.map(
+			(elt, index) => {
+				const suggestion_item = document.createElement('div');
+				suggestion_item.className = "suggestion-item";
+				suggestion_item.dataset.id = index;
+				suggestion_item.textContent = elt.properties.label;
+				return suggestion_item;
+			}
+		)
+	);
 
 	document.querySelectorAll('.suggestion-item').forEach(elt => {
 		elt.addEventListener('click', () => {
@@ -189,9 +204,13 @@ function displayDeputies(deputies) {
 	const deputyInfo = document.getElementById('deputy-info');
 	const sendButton = document.getElementById('send-email');
 
-	deputyInfo.innerHTML = `<strong>Tes député.es sont :</strong><br>`
+	const strong = document.createElement('strong');
+	strong.textContent = "Tes député.es sont :";
+	deputyInfo.replaceChildren(strong);
+	deputyInfo.insertAdjacentElement("beforeend", document.createElement('br'));
 	deputies.forEach(deputy => {
-		deputyInfo.innerHTML += `${deputy.first_name} ${deputy.last_name} (${deputy.group_abv} - ${deputy.circonscription_name})<br>`;
+		deputyInfo.insertAdjacentText("beforeend", `${deputy.first_name} ${deputy.last_name} (${deputy.group_abv} - ${deputy.circonscription_name})`);
+		deputyInfo.insertAdjacentElement("beforeend", document.createElement('br'));
 	});
 
 	selectedDeputies = deputies;
