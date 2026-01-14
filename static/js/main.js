@@ -125,7 +125,7 @@ function setCampaign(campaignKey) {
 	if (campaignKey) {
 		const campaign = window.siteData.campaigns[campaignKey];
 		campaignInfo.textContent = `${campaign.title} -- ${campaign.subject}`;
-		desc.textContent = campaign.description;
+		desc.innerHTML = campaign.description;
 		desc.style.display = 'block';
 	} else {
 		desc.style.display = 'none';
