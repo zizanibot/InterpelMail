@@ -5,22 +5,22 @@ title: "À propos"
 ## Qu'est-ce qu'InterpelMail ?
 
 InterpelMail est un outil simple pour faciliter le contact entre citoyens et députés.
-Il permet d'envoyer rapidement un email à ta.on député.e sur des sujets d'intérêt public.
+Il permet d'envoyer rapidement un email votre député.e sur des sujets d'intérêt public.
 
 ## Comment ça marche ?
 
-1. Sélectionne une campagne qui te tient à coeur
-2. Entre ton adresse pour identifier ta.on député.e
-3. Personnalise le message proposé
-4. Envoye l'email via ton client mail habituel
+1. Sélectionnez une campagne qui vous tient à coeur
+2. Entrez votre adresse pour identifier votre député.e ou sélectionner un département
+3. Personnalisez le message proposé
+4. Envoyez l'email via votre client mail habituel
 
 ## Utilisation responsable
 
 **Important :** Cet outil est conçu pour faciliter l'engagement civique, pas pour harceler ou spammer les députés.
 
-- **Personnalise ton messages** : Les emails identiques en masse sont souvent ignorés ou filtrés
-- **Reste respectueux** : Exprime tes opinions de manière constructive
-- **Sois patient** : Les députés reçoivent beaucoup d'emails et ne peuvent pas répondre à tous.tes
+- **Personnalisez vos messages** : Les emails identiques en masse sont souvent ignorés ou filtrés
+- **Restez respectueux** : Exprimez vos opinions de manière constructive
+- **Soyez patients.es** : Les députés reçoivent beaucoup d'emails et ne peuvent pas répondre à tous.tes
 
 **Ne pas utiliser cet outil pour du cyberharcèlement ou des messages abusifs.**
 
@@ -28,8 +28,8 @@ Il permet d'envoyer rapidement un email à ta.on député.e sur des sujets d'int
 
 - **Aucune donnée personnelle n'est collectée ou stockée**
 - **Aucun cookie n'est utilisé**
-- **Ton adresse sert uniquement à identifier ta circonscription** (traitement local dans ton navigateur, pas de stockage)
-- **Tes emails sont envoyés directement depuis ton client mail**, nous ne les voyons jamais
+- **Votre adresse sert uniquement à identifier votre circonscription** (traitement local dans ton navigateur, pas de stockage)
+- **Vos emails sont envoyés directement depuis votre client mail**, nous ne les voyons jamais
 
 ## Sources des données
 
@@ -38,7 +38,7 @@ Les informations sur les députés proviennent de sources publiques :
 - **Députés et circonscriptions** : [data.assemblee-nationale.fr](https://data.assemblee-nationale.fr/acteurs/deputes-en-exercice)
 - **Géolocalisation** : [API Adresse](https://adresse.data.gouv.fr)
 
-Les données sont mises à jour mensuellement. Si tu constates une erreur, merci de [signaler le problème](https://github.com/zizanibot/InterpelMail/issues).
+Les données sont mises à jour mensuellement. Si vous constatez une erreur, merci de [signaler le problème](https://github.com/zizanibot/InterpelMail/issues).
 
 ## Open Source
 

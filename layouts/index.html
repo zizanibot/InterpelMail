@@ -11,11 +11,14 @@
 <body>
     {{ partial "nav.html" . }}
 
-    <h2 id="campaign-info">Interpelle tes élu·es:</h2>
+	<h2>Interpelez vos élu·es:
+		<div id="campaign-info">
+		</div>
+	</h2>
 
     <div>
         <select id="campaign">
-            <option value="">-- Sélectionne une campagne --</option>
+            <option value="">-- Sélectionnez une campagne --</option>
             {{ range $key, $campaign := .Site.Data.campaigns }}
 		<option value="{{ $key }}">{{ $campaign.title }} -- {{ $campaign.date }}</option>
             {{ end }}
@@ -24,23 +27,23 @@
 
     <!-- Tab Headers -->
     <div class="tab-headers">
-	<button class="tab-btn active" data-tab="address-form">Ta.on député.e</button>
+	<button class="tab-btn active" data-tab="address-form">Votre député.e</button>
 	<button class="tab-btn" data-tab="subdivision">Les député.es du département</button>
     </div>
 
     <!-- Tab Content -->
     <div class="tab-contents">
 	<div class="tab-content active" id="address-form">
-	    <input type="text" id="address" placeholder="Entre ici l'adresse de ton domicile" maxlength="50">
+	    <input type="text" id="address" placeholder="Entrez ici l'adresse de votre domicile" maxlength="50">
 	    <div id="suggestions"></div> 
-	    <button class="find-deputy" id="find-deputy-address" type="button">Trouve ma.on député.e</button>
+	    <button class="find-deputy" id="find-deputy-address" type="button">Trouvez votre député.e</button>
 	</div>
 
 	<div class="tab-content" id="subdivision">
 	    <select id="deps-select">
-		<option value="">Sélectionne un département</option>
+		<option value="">Sélectionnez un département</option>
 	    </select>
-	    <button class="find-deputy" id="find-deputy-subdivision" type="button">Trouve les député.es</button>
+	    <button class="find-deputy" id="find-deputy-subdivision" type="button">Trouvez les député.es</button>
 
 		<div id="deputy-filter"></div>
 	</div>

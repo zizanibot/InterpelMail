@@ -122,16 +122,14 @@ function setCampaign(campaignKey) {
 	const campaignInfo = document.getElementById('campaign-info');
 	const desc = document.getElementById('desc');
 
-	campaignInfo.textContent = "Interpelle tes élu·es:";
-
 	if (campaignKey) {
 		const campaign = window.siteData.campaigns[campaignKey];
-		campaignInfo.insertAdjacentElement("beforeend", document.createElement('br'));
-		campaignInfo.insertAdjacentText("beforeend", `${campaign.title} -- ${campaign.subject}`);
+		campaignInfo.textContent = `${campaign.title} -- ${campaign.subject}`;
 		desc.textContent = campaign.description;
 		desc.style.display = 'block';
 	} else {
 		desc.style.display = 'none';
+		campaignInfo.textContent = "";
 	}
 }
 
@@ -205,7 +203,7 @@ function displayDeputies(deputies) {
 	const sendButton = document.getElementById('send-email');
 
 	const strong = document.createElement('strong');
-	strong.textContent = "Tes député.es sont :";
+	strong.textContent = "Vos député.es sont :";
 	deputyInfo.replaceChildren(strong);
 	deputyInfo.insertAdjacentElement("beforeend", document.createElement('br'));
 	deputies.forEach(deputy => {
