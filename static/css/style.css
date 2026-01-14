@@ -22,23 +22,23 @@ input, label {
     font-size: 16px;
 }
 button {
-    background: #0066cc;
+    background: #009688;
     color: white;
     border: none;
     cursor: pointer;
 }
 button:hover {
-    background: #0052a3;
+    background: #0f877c;
 }
 
 .find-deputy {
     width: 100%;
-    background: #28a745;
+    background: #009688;
     margin-top: 5px;
 }
 
 .find-deputy:hover {
-    background: #218838;
+    background: #0f877c;
 }
 
 nav {
