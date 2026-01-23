@@ -1,4 +1,4 @@
-name: Update Deputies Data
+name: Update Elected Members Data
 
 on:
   schedule:
@@ -27,7 +27,7 @@ jobs:
         run: make -C .tmp install
 
       - name: Configure updater
-        run: echo "OUTPUT_FOLDER=data" > .tmp/.env
+        run: echo "OUTPUT_FOLDER=../data" > .tmp/.env
 
       - name: Update deputy data
         run: make -C .tmp run
