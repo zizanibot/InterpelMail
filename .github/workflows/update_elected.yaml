@@ -24,13 +24,13 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: make -C .tmp/UpdateElectedDB install
+        run: make -C .tmp install
 
       - name: Configure updater
-        run: echo "OUTPUT_FOLDER=data" > .tmp/UpdateElectedDB/.env
+        run: echo "OUTPUT_FOLDER=data" > .tmp/.env
 
       - name: Update deputy data
-        run: make -C .tmp/UpdateElectedDB run
+        run: make -C .tmp run
 
       - name: Commit changes
         run: |
