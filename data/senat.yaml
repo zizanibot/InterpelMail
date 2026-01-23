@@ -1,0 +1,4899 @@
+members:
+  01058X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Haute-Marne
+    departement_num: '52'
+    email: ''
+    first_name: Bruno
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Sido
+    ref: 01058X
+  04008A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Nord
+    departement_num: '59'
+    email: ''
+    first_name: Marc-Philippe
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Daubresse
+    ref: 04008A
+  04033B:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Vend\xE9e"
+    departement_num: '85'
+    email: ''
+    first_name: Bruno
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Retailleau
+    ref: 04033B
+  04042C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Val-de-Marne
+    departement_num: '94'
+    email: ''
+    first_name: Christian
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Cambon
+    ref: 04042C
+  04045F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Haut-Rhin
+    departement_num: '68'
+    email: ''
+    first_name: Patricia
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Schillinger
+    ref: 04045F
+  04047H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Rh\xF4ne"
+    departement_num: '69'
+    email: ''
+    first_name: "Fran\xE7ois-No\xEBl"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Buffet
+    ref: 04047H
+  04070G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Seine-Maritime
+    departement_num: '76'
+    email: ''
+    first_name: Catherine
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Morin-Desailly
+    ref: 04070G
+  04092N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Vaucluse
+    departement_num: '84'
+    email: ''
+    first_name: Alain
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Milon
+    ref: 04092N
+  05012A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Cher
+    departement_num: '18'
+    email: ''
+    first_name: "R\xE9my"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Pointereau
+    ref: 05012A
+  07004J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Orne
+    departement_num: '61'
+    email: ''
+    first_name: Nathalie
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Goulet
+    ref: 07004J
+  07029T:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Ardennes
+    departement_num: 08
+    email: ''
+    first_name: Marc
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: "Lam\xE9nie"
+    ref: 07029T
+  07033P:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Paris
+    departement_num: '75'
+    email: ''
+    first_name: Catherine
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Dumas
+    ref: 07033P
+  08009T:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Eure
+    departement_num: '27'
+    email: ''
+    first_name: "Herv\xE9"
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Maurey
+    ref: 08009T
+  08010L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Aisne
+    departement_num: '02'
+    email: ''
+    first_name: Antoine
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: "Lef\xE8vre"
+    ref: 08010L
+  08011M:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Eure-et-Loir
+    departement_num: '28'
+    email: ''
+    first_name: "Alb\xE9ric"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: de Montgolfier
+    ref: 08011M
+  08012N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Creuse
+    departement_num: '23'
+    email: ''
+    first_name: Jean-Jacques
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Lozach
+    ref: 08012N
+  08015R:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Charente-Maritime
+    departement_num: '17'
+    email: ''
+    first_name: Daniel
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Laurent
+    ref: 08015R
+  08018U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 2)"
+    departement_num: '997'
+    email: ''
+    first_name: "Christophe-Andr\xE9"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Frassa
+    ref: 08018U
+  08028W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Haute-Garonne
+    departement_num: '31'
+    email: ''
+    first_name: Alain
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Chatillon
+    ref: 08028W
+  08034U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Ille-et-Vilaine
+    departement_num: '35'
+    email: ''
+    first_name: Dominique
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: de Legge
+    ref: 08034U
+  08045X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Finist\xE8re"
+    departement_num: '29'
+    email: ''
+    first_name: Jean-Luc
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Fichet
+    ref: 08045X
+  08047A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Finist\xE8re"
+    departement_num: '29'
+    email: ''
+    first_name: Philippe
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Paul
+    ref: 08047A
+  08056B:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Ain
+    departement_num: '01'
+    email: ''
+    first_name: Sylvie
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Goy-Chavent
+    ref: 08056B
+  08060W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Charente
+    departement_num: '16'
+    email: ''
+    first_name: Nicole
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Bonnefoy
+    ref: 08060W
+  08061X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "C\xF4te-d'Or"
+    departement_num: '21'
+    email: ''
+    first_name: "Fran\xE7ois"
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Patriat
+    ref: 08061X
+  08069G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "C\xF4te-d'Or"
+    departement_num: '21'
+    email: ''
+    first_name: Alain
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Houpert
+    ref: 08069G
+  08073C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Guyane
+    departement_num: '973'
+    email: ''
+    first_name: Georges
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Patient
+    ref: 08073C
+  11027H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 1)"
+    departement_num: '998'
+    email: ''
+    first_name: "H\xE9l\xE8ne"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Conway-Mouret
+    ref: 11027H
+  11043H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Is\xE8re"
+    departement_num: '38'
+    email: ''
+    first_name: Michel
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Savin
+    ref: 11043H
+  11045K:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Val-de-Marne
+    departement_num: '94'
+    email: ''
+    first_name: Laurence
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Rossignol
+    ref: 11045K
+  11048N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Meurthe-et-Moselle
+    departement_num: '54'
+    email: ''
+    first_name: "Jean-Fran\xE7ois"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Husson
+    ref: 11048N
+  11053K:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Seine-Saint-Denis
+    departement_num: '93'
+    email: ''
+    first_name: Vincent
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Capo-Canellas
+    ref: 11053K
+  11056N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Loire
+    departement_num: '42'
+    email: ''
+    first_name: "C\xE9cile"
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Cukierman
+    ref: 11056N
+  11065P:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Loire-Atlantique
+    departement_num: '44'
+    email: ''
+    first_name: Ronan
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Dantec
+    ref: 11065P
+  11070L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Essonne
+    departement_num: '91'
+    email: ''
+    first_name: Vincent
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Delahaye
+    ref: 11070L
+  11072N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Mayotte
+    departement_num: '976'
+    email: ''
+    first_name: Thani
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Mohamed Soilihi
+    ref: 11072N
+  11074Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Seine-et-Marne
+    departement_num: '77'
+    email: ''
+    first_name: Vincent
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: "\xC9bl\xE9"
+    ref: 11074Q
+  11085T:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Hauts-de-Seine
+    departement_num: '92'
+    email: ''
+    first_name: "Herv\xE9"
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Marseille
+    ref: 11085T
+  11090Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Yvelines
+    departement_num: '78'
+    email: ''
+    first_name: Sophie
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Primas
+    ref: 11090Q
+  11110B:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Pyr\xE9n\xE9es-Atlantiques"
+    departement_num: '64'
+    email: ''
+    first_name: "Fr\xE9d\xE9rique"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Espagnac
+    ref: 11110B
+  11115U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Oise
+    departement_num: '60'
+    email: ''
+    first_name: "\xC9douard"
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Courtial
+    ref: 11115U
+  12016W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Guadeloupe
+    departement_num: '971'
+    email: ''
+    first_name: Victorin
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Lurel
+    ref: 12016W
+  12028B:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Bouches-du-Rh\xF4ne"
+    departement_num: '13'
+    email: ''
+    first_name: Marie-Arlette
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Carlotti
+    ref: 12028B
+  14001X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Seine-Maritime
+    departement_num: '76'
+    email: ''
+    first_name: Didier
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Marie
+    ref: 14001X
+  14021P:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Nord
+    departement_num: '59'
+    email: ''
+    first_name: Patrick
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Kanner
+    ref: 14021P
+  14026U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Aisne
+    departement_num: '02'
+    email: ''
+    first_name: Pascale
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Gruny
+    ref: 14026U
+  14030Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Vend\xE9e"
+    departement_num: '85'
+    email: ''
+    first_name: Annick
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Billon
+    ref: 14030Q
+  14031R:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Vend\xE9e"
+    departement_num: '85'
+    email: ''
+    first_name: Didier
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Mandelli
+    ref: 14031R
+  14033T:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Vosges
+    departement_num: '88'
+    email: ''
+    first_name: Daniel
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Gremillet
+    ref: 14033T
+  14037X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Yonne
+    departement_num: '89'
+    email: ''
+    first_name: Jean-Baptiste
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Lemoyne
+    ref: 14037X
+  14038Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Ain
+    departement_num: '01'
+    email: ''
+    first_name: Patrick
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Chaize
+    ref: 14038Y
+  14042U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Mayenne
+    departement_num: '53'
+    email: ''
+    first_name: "\xC9lisabeth"
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Doineau
+    ref: 14042U
+  14053L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Seine-Maritime
+    departement_num: '76'
+    email: ''
+    first_name: "Agn\xE8s"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Canayer
+    ref: 14053L
+  14055N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Bouches-du-Rh\xF4ne"
+    departement_num: '13'
+    email: ''
+    first_name: "St\xE9phane"
+    group_abv: NI
+    group_name: "R\xE9union administrative des S\xE9nateurs ne figurant sur la liste\
+      \ d'aucun groupe"
+    last_name: Ravier
+    ref: 14055N
+  14059S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Gard
+    departement_num: '30'
+    email: ''
+    first_name: Vivette
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Lopez
+    ref: 14059S
+  14069U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Tarn-et-Garonne
+    departement_num: '82'
+    email: ''
+    first_name: "Fran\xE7ois"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Bonhomme
+    ref: 14069U
+  14071N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Deux-S\xE8vres"
+    departement_num: '79'
+    email: ''
+    first_name: Philippe
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Mouiller
+    ref: 14071N
+  14073Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Bas-Rhin
+    departement_num: '67'
+    email: ''
+    first_name: Claude
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Kern
+    ref: 14073Q
+  14083S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Finist\xE8re"
+    departement_num: '29'
+    email: ''
+    first_name: Michel
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: "Can\xE9vet"
+    ref: 14083S
+  14097Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Aude
+    departement_num: '11'
+    email: ''
+    first_name: "Gis\xE8le"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Jourda
+    ref: 14097Y
+  14107H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Alpes de Haute-Provence
+    departement_num: '04'
+    email: ''
+    first_name: Jean-Yves
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Roux
+    ref: 14107H
+  14109K:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Dr\xF4me"
+    departement_num: '26'
+    email: ''
+    first_name: Marie-Pierre
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Monier
+    ref: 14109K
+  14111D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Aveyron
+    departement_num: '12'
+    email: ''
+    first_name: Alain
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Marc
+    ref: 14111D
+  14121F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Creuse
+    departement_num: '23'
+    email: ''
+    first_name: "\xC9ric"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Jeansannetas
+    ref: 14121F
+  14123H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Doubs
+    departement_num: '25'
+    email: ''
+    first_name: Jacques
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Grosperrin
+    ref: 14123H
+  14133K:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Calvados
+    departement_num: '14'
+    email: ''
+    first_name: Pascal
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Allizard
+    ref: 14133K
+  14147R:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Sa\xF4ne-et-Loire"
+    departement_num: '71'
+    email: ''
+    first_name: Marie
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Mercier
+    ref: 14147R
+  14169X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Sarthe
+    departement_num: '72'
+    email: ''
+    first_name: Louis-Jean
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: "de Nicola\xFF"
+    ref: 14169X
+  14173T:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Sarthe
+    departement_num: '72'
+    email: ''
+    first_name: Jean Pierre
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Vogel
+    ref: 14173T
+  14179A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Haute-Savoie
+    departement_num: '74'
+    email: ''
+    first_name: "Lo\xEFc"
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: "Herv\xE9"
+    ref: 14179A
+  14187A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Alpes-Maritimes
+    departement_num: '06'
+    email: ''
+    first_name: Dominique
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Estrosi Sassone
+    ref: 14187A
+  14189C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Hautes-Alpes
+    departement_num: '05'
+    email: ''
+    first_name: Jean-Michel
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Arnaud
+    ref: 14189C
+  14191V:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Corse-du-Sud
+    departement_num: 2A
+    email: ''
+    first_name: Jean-Jacques
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Panunzi
+    ref: 14191V
+  14193X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Territoire de Belfort
+    departement_num: '90'
+    email: ''
+    first_name: "C\xE9dric"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Perrin
+    ref: 14193X
+  14195A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Corr\xE8ze"
+    departement_num: '19'
+    email: ''
+    first_name: Daniel
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Chasseing
+    ref: 14195A
+  14205J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "C\xF4te-d'Or"
+    departement_num: '21'
+    email: ''
+    first_name: Anne-Catherine
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Loisier
+    ref: 14205J
+  14207L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "H\xE9rault"
+    departement_num: '34'
+    email: ''
+    first_name: Henri
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Cabanel
+    ref: 14207L
+  14211G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "H\xE9rault"
+    departement_num: '34'
+    email: ''
+    first_name: Jean-Pierre
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Grand
+    ref: 14211G
+  14213J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Charente-Maritime
+    departement_num: '17'
+    email: ''
+    first_name: Corinne
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Imbert
+    ref: 14213J
+  14215L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Rh\xF4ne"
+    departement_num: '69'
+    email: ''
+    first_name: Catherine
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Di Folco
+    ref: 14215L
+  14217N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Eure-et-Loir
+    departement_num: '28'
+    email: ''
+    first_name: Chantal
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Deseyne
+    ref: 14217N
+  14219Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Doubs
+    departement_num: '25'
+    email: ''
+    first_name: "Jean-Fran\xE7ois"
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Longeot
+    ref: 14219Q
+  14221J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Haute-Garonne
+    departement_num: '31'
+    email: ''
+    first_name: Pierre
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: "M\xE9devielle"
+    ref: 14221J
+  14223L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Haute-Garonne
+    departement_num: '31'
+    email: ''
+    first_name: Brigitte
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Micouleau
+    ref: 14223L
+  14225N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Haute-Garonne
+    departement_num: '31'
+    email: ''
+    first_name: Claude
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Raynal
+    ref: 14225N
+  14229S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Ille-et-Vilaine
+    departement_num: '35'
+    email: ''
+    first_name: Sylvie
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Robert
+    ref: 14229S
+  14237S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Haute-Savoie
+    departement_num: '74'
+    email: ''
+    first_name: Cyril
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Pellevat
+    ref: 14237S
+  14241N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Bouches-du-Rh\xF4ne"
+    departement_num: '13'
+    email: ''
+    first_name: Mireille
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Jouve
+    ref: 14241N
+  14249W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Eure
+    departement_num: '27'
+    email: ''
+    first_name: Nicole
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Duranton
+    ref: 14249W
+  14251Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Allier
+    departement_num: '03'
+    email: ''
+    first_name: Claude
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Malhuret
+    ref: 14251Q
+  14253S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Corr\xE8ze"
+    departement_num: '19'
+    email: ''
+    first_name: Claude
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Nougein
+    ref: 14253S
+  14255U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 2)"
+    departement_num: '997'
+    email: ''
+    first_name: Olivier
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Cadic
+    ref: 14255U
+  14257W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Gers
+    departement_num: '32'
+    email: ''
+    first_name: Franck
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: "Montaug\xE9"
+    ref: 14257W
+  14259Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Ard\xE8che"
+    departement_num: '07'
+    email: ''
+    first_name: Mathieu
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Darnaud
+    ref: 14259Y
+  14267Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Haute-Loire
+    departement_num: '43'
+    email: ''
+    first_name: Olivier
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Cigolotti
+    ref: 14267Y
+  14275Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Polyn\xE9sie fran\xE7aise"
+    departement_num: '987'
+    email: ''
+    first_name: Lana
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Tetuanui
+    ref: 14275Y
+  14281W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Calvados
+    departement_num: '14'
+    email: ''
+    first_name: Corinne
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: "F\xE9ret"
+    ref: 14281W
+  14327T:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Cantal
+    departement_num: '15'
+    email: ''
+    first_name: Bernard
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Delcros
+    ref: 14327T
+  14329V:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Seine-et-Marne
+    departement_num: '77'
+    email: ''
+    first_name: Anne
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: "Chain-Larch\xE9"
+    ref: 14329V
+  14331P:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Pas-de-Calais
+    departement_num: '62'
+    email: ''
+    first_name: "Jean-Fran\xE7ois"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Rapin
+    ref: 14331P
+  14355X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Indre
+    departement_num: '36'
+    email: ''
+    first_name: "Fr\xE9d\xE9rique"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Gerbaud
+    ref: 14355X
+  14357A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Seine-et-Marne
+    departement_num: '77'
+    email: ''
+    first_name: Pierre
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Cuypers
+    ref: 14357A
+  15197G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Nord
+    departement_num: '59'
+    email: ''
+    first_name: Franck
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Dhersin
+    ref: 15197G
+  17023S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Tarn
+    departement_num: '81'
+    email: ''
+    first_name: Philippe
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Folliot
+    ref: 17023S
+  17229F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Somme
+    departement_num: '80'
+    email: ''
+    first_name: "St\xE9phane"
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Demilly
+    ref: 17229F
+  17367Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Rh\xF4ne"
+    departement_num: '69'
+    email: ''
+    first_name: "\xC9tienne"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Blanc
+    ref: 17367Q
+  17737W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Bouches-du-Rh\xF4ne"
+    departement_num: '13'
+    email: ''
+    first_name: "Val\xE9rie"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Boyer
+    ref: 17737W
+  17779H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Landes
+    departement_num: '40'
+    email: ''
+    first_name: Monique
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Lubin
+    ref: 17779H
+  17965H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Haute-Garonne
+    departement_num: '31'
+    email: ''
+    first_name: "\xC9milienne"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Poumirol
+    ref: 17965H
+  18045D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Pas-de-Calais
+    departement_num: '62'
+    email: ''
+    first_name: Brigitte
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Bourguignon
+    ref: 18045D
+  18083K:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Mayenne
+    departement_num: '53'
+    email: ''
+    first_name: Guillaume
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Chevrollier
+    ref: 18083K
+  18193Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "C\xF4tes-d'Armor"
+    departement_num: '22'
+    email: ''
+    first_name: Annie
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Le Houerou
+    ref: 18193Q
+  18207D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Nord
+    departement_num: '59'
+    email: ''
+    first_name: Audrey
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Linkenheld
+    ref: 18207D
+  18231D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Seine-Saint-Denis
+    departement_num: '93'
+    email: ''
+    first_name: Corinne
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Narassiguin
+    ref: 18231D
+  18395Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Loire-Atlantique
+    departement_num: '44'
+    email: ''
+    first_name: Karine
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Daniel
+    ref: 18395Y
+  19057M:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 2)"
+    departement_num: '997'
+    email: ''
+    first_name: Samantha
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Cazebonne
+    ref: 19057M
+  19111A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Hauts-de-Seine
+    departement_num: '92'
+    email: ''
+    first_name: Isabelle
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Florennes
+    ref: 19111A
+  19251M:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Rh\xF4ne"
+    departement_num: '69'
+    email: ''
+    first_name: Gilbert-Luc
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Devinaz
+    ref: 19251M
+  19295A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Martinique
+    departement_num: '972'
+    email: ''
+    first_name: Catherine
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Conconne
+    ref: 19295A
+  19301E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Guadeloupe
+    departement_num: '971'
+    email: ''
+    first_name: Dominique
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: "Th\xE9ophile"
+    ref: 19301E
+  19331L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Mayotte
+    departement_num: '976'
+    email: ''
+    first_name: "Sa\xEFd"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Omar Oili
+    ref: 19331L
+  19335Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Moselle
+    departement_num: '57'
+    email: ''
+    first_name: Jean-Marie
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Mizzon
+    ref: 19335Q
+  19347U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Is\xE8re"
+    departement_num: '38'
+    email: ''
+    first_name: Guillaume
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Gontard
+    ref: 19347U
+  19349W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Is\xE8re"
+    departement_num: '38'
+    email: ''
+    first_name: Didier
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Rambaud
+    ref: 19349W
+  19367Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Lot-et-Garonne
+    departement_num: '47'
+    email: ''
+    first_name: Christine
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Bonfanti-Dossat
+    ref: 19367Y
+  19383Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Puy-de-D\xF4me"
+    departement_num: '63'
+    email: ''
+    first_name: Jean-Marc
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Boyer
+    ref: 19383Y
+  19387D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Puy-de-D\xF4me"
+    departement_num: '63'
+    email: ''
+    first_name: "\xC9ric"
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Gold
+    ref: 19387D
+  19399H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Essonne
+    departement_num: '91'
+    email: ''
+    first_name: Jean-Raymond
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Hugonet
+    ref: 19399H
+  19413M:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Loire
+    departement_num: '42'
+    email: ''
+    first_name: Jean-Claude
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Tissot
+    ref: 19413M
+  19421M:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Loiret
+    departement_num: '45'
+    email: ''
+    first_name: Hugues
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Saury
+    ref: 19421M
+  19447X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Morbihan
+    departement_num: '56'
+    email: ''
+    first_name: Muriel
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Jourda
+    ref: 19447X
+  19479G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Jura
+    departement_num: '39'
+    email: ''
+    first_name: Sylvie
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Vermeillet
+    ref: 19479G
+  19489J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Landes
+    departement_num: '40'
+    email: ''
+    first_name: "\xC9ric"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Kerrouche
+    ref: 19489J
+  19507S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Haute-Loire
+    departement_num: '43'
+    email: ''
+    first_name: Laurent
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Duplomb
+    ref: 19507S
+  19531S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Ni\xE8vre"
+    departement_num: '58'
+    email: ''
+    first_name: Patrice
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Joly
+    ref: 19531S
+  19533U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Maine-et-Loire
+    departement_num: '49'
+    email: ''
+    first_name: "St\xE9phane"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Piednoir
+    ref: 19533U
+  19545Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Maine-et-Loire
+    departement_num: '49'
+    email: ''
+    first_name: Emmanuel
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Capus
+    ref: 19545Y
+  19551W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Meurthe-et-Moselle
+    departement_num: '54'
+    email: ''
+    first_name: Olivier
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Jacquin
+    ref: 19551W
+  19553Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Meurthe-et-Moselle
+    departement_num: '54'
+    email: ''
+    first_name: "V\xE9ronique"
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Guillotin
+    ref: 19553Y
+  19563B:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Meuse
+    departement_num: '55'
+    email: ''
+    first_name: Franck
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Menonville
+    ref: 19563B
+  19565D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Nord
+    departement_num: '59'
+    email: ''
+    first_name: Michelle
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: "Gr\xE9aume"
+    ref: 19565D
+  19569H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Nord
+    departement_num: '59'
+    email: ''
+    first_name: Olivier
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Henno
+    ref: 19569H
+  19573D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Oise
+    departement_num: '60'
+    email: ''
+    first_name: Olivier
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Paccaud
+    ref: 19573D
+  19575F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Savoie
+    departement_num: '73'
+    email: ''
+    first_name: Martine
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Berthet
+    ref: 19575F
+  19585H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Nord
+    departement_num: '59'
+    email: ''
+    first_name: Dany
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Wattebled
+    ref: 19585H
+  19591F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Hauts-de-Seine
+    departement_num: '92'
+    email: ''
+    first_name: Xavier
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Iacovelli
+    ref: 19591F
+  19593H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Hauts-de-Seine
+    departement_num: '92'
+    email: ''
+    first_name: Pierre
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Ouzoulias
+    ref: 19593H
+  19611R:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Val-de-Marne
+    departement_num: '94'
+    email: ''
+    first_name: Laurent
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Lafon
+    ref: 19611R
+  19619A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Pyr\xE9n\xE9es-Atlantiques"
+    departement_num: '64'
+    email: ''
+    first_name: Denise
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: "Saint-P\xE9"
+    ref: 19619A
+  19621T:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Pyr\xE9n\xE9es-Atlantiques"
+    departement_num: '64'
+    email: ''
+    first_name: Max
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Brisson
+    ref: 19621T
+  19629C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Hautes-Pyr\xE9n\xE9es"
+    departement_num: '65'
+    email: ''
+    first_name: Maryse
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: "Carr\xE8re"
+    ref: 19629C
+  19631V:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Hautes-Pyr\xE9n\xE9es"
+    departement_num: '65'
+    email: ''
+    first_name: Viviane
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Artigalas
+    ref: 19631V
+  19647E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Paris
+    departement_num: '75'
+    email: ''
+    first_name: "R\xE9mi"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: "F\xE9raud"
+    ref: 19647E
+  19649G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Paris
+    departement_num: '75'
+    email: ''
+    first_name: Marie-Pierre
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: de La Gontrie
+    ref: 19649G
+  19657G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "La R\xE9union"
+    departement_num: '974'
+    email: ''
+    first_name: Viviane
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Malet
+    ref: 19657G
+  19667J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Val-d'Oise
+    departement_num: '95'
+    email: ''
+    first_name: Arnaud
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Bazin
+    ref: 19667J
+  19669L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Val-d'Oise
+    departement_num: '95'
+    email: ''
+    first_name: Rachid
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Temal
+    ref: 19669L
+  19673G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Val-d'Oise
+    departement_num: '95'
+    email: ''
+    first_name: Jacqueline
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Eustache-Brinio
+    ref: 19673G
+  19679N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Is\xE8re"
+    departement_num: '38'
+    email: ''
+    first_name: "Fr\xE9d\xE9rique"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Puissat
+    ref: 19679N
+  19681G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Pas-de-Calais
+    departement_num: '62'
+    email: ''
+    first_name: Jean-Pierre
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Corbisez
+    ref: 19681G
+  19683J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Paris
+    departement_num: '75'
+    email: ''
+    first_name: Bernard
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Jomier
+    ref: 19683J
+  19685L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Moselle
+    departement_num: '57'
+    email: ''
+    first_name: Christine
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Herzog
+    ref: 19685L
+  19687N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Val-de-Marne
+    departement_num: '94'
+    email: ''
+    first_name: Pascal
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Savoldelli
+    ref: 19687N
+  19691J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Essonne
+    departement_num: '91'
+    email: ''
+    first_name: Jocelyne
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Guidez
+    ref: 19691J
+  19693L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Essonne
+    departement_num: '91'
+    email: ''
+    first_name: Laure
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Darcos
+    ref: 19693L
+  19695N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Seine-Saint-Denis
+    departement_num: '93'
+    email: ''
+    first_name: Fabien
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Gay
+    ref: 19695N
+  19697Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Yvelines
+    departement_num: '78'
+    email: ''
+    first_name: Martin
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: "L\xE9vrier"
+    ref: 19697Q
+  19699S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Yvelines
+    departement_num: '78'
+    email: ''
+    first_name: Michel
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Laugier
+    ref: 19699S
+  19701S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Yvelines
+    departement_num: '78'
+    email: ''
+    first_name: Marta
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: de Cidrac
+    ref: 19701S
+  19703U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Pyr\xE9n\xE9es-Orientales"
+    departement_num: '66'
+    email: ''
+    first_name: Jean
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Sol
+    ref: 19703U
+  19705W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 1)"
+    departement_num: '998'
+    email: ''
+    first_name: "\xC9velyne"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Renaud-Garabedian
+    ref: 19705W
+  19709B:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 1)"
+    departement_num: '998'
+    email: ''
+    first_name: Ronan
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Le Gleut
+    ref: 19709B
+  19711U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Hauts-de-Seine
+    departement_num: '92'
+    email: ''
+    first_name: Christine
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Lavarde
+    ref: 19711U
+  19713W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Ni\xE8vre"
+    departement_num: '58'
+    email: ''
+    first_name: Nadia
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Sollogoub
+    ref: 19713W
+  19719D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Gironde
+    departement_num: '33'
+    email: ''
+    first_name: Nathalie
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Delattre
+    ref: 19719D
+  19721W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Gironde
+    departement_num: '33'
+    email: ''
+    first_name: Alain
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Cazabonne
+    ref: 19721W
+  19723Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Gironde
+    departement_num: '33'
+    email: ''
+    first_name: Florence
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Lassarade
+    ref: 19723Y
+  19725B:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Gironde
+    departement_num: '33'
+    email: ''
+    first_name: Laurence
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Harribey
+    ref: 19725B
+  19729F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Alpes-Maritimes
+    departement_num: '06'
+    email: ''
+    first_name: Henri
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Leroy
+    ref: 19729F
+  19735D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Calvados
+    departement_num: '14'
+    email: ''
+    first_name: Sonia
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: "de La Prov\xF4t\xE9"
+    ref: 19735D
+  19745F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Aube
+    departement_num: '10'
+    email: ''
+    first_name: "\xC9velyne"
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Perrot
+    ref: 19745F
+  19749K:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Yonne
+    departement_num: '89'
+    email: ''
+    first_name: Dominique
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: "V\xE9rien"
+    ref: 19749K
+  19758L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Seine-Maritime
+    departement_num: '76'
+    email: ''
+    first_name: "C\xE9line"
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Brulin
+    ref: 19758L
+  19760E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Pas-de-Calais
+    departement_num: '62'
+    email: ''
+    first_name: Cathy
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Apourceau-Poly
+    ref: 19760E
+  19768N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Haute-Savoie
+    departement_num: '74'
+    email: ''
+    first_name: Sylviane
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: "No\xEBl"
+    ref: 19768N
+  19782L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Dr\xF4me"
+    departement_num: '26'
+    email: ''
+    first_name: Bernard
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Buis
+    ref: 19782L
+  19798U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Cher
+    departement_num: '18'
+    email: ''
+    first_name: Marie-Pierre
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Richer
+    ref: 19798U
+  19820Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Gironde
+    departement_num: '33'
+    email: ''
+    first_name: "Herv\xE9"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: "Gill\xE9"
+    ref: 19820Y
+  19826F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Seine-Maritime
+    departement_num: '76'
+    email: ''
+    first_name: Pascal
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Martin
+    ref: 19826F
+  19866P:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Loz\xE8re"
+    departement_num: '48'
+    email: ''
+    first_name: "Guyl\xE8ne"
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Pantel
+    ref: 19866P
+  19954N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Moselle
+    departement_num: '57'
+    email: ''
+    first_name: Catherine
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Belrhiti
+    ref: 19954N
+  20016T:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Iles Wallis et Futuna
+    departement_num: '986'
+    email: ''
+    first_name: Mikaele
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Kulimoetoke
+    ref: 20016T
+  20018V:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Ari\xE8ge"
+    departement_num: 09
+    email: ''
+    first_name: Jean-Jacques
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Michau
+    ref: 20018V
+  20020P:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Allier
+    departement_num: '03'
+    email: ''
+    first_name: Bruno
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Rojouan
+    ref: 20020P
+  20022R:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Indre
+    departement_num: '36'
+    email: ''
+    first_name: Nadine
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Bellurot
+    ref: 20022R
+  20024T:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Vienne
+    departement_num: '86'
+    email: ''
+    first_name: Bruno
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Belin
+    ref: 20024T
+  20026V:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Ard\xE8che"
+    departement_num: '07'
+    email: ''
+    first_name: Anne
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Ventalon
+    ref: 20026V
+  20028X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Dordogne
+    departement_num: '24'
+    email: ''
+    first_name: Serge
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: "M\xE9rillou"
+    ref: 20028X
+  20030R:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Aude
+    departement_num: '11'
+    email: ''
+    first_name: Sebastien
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Pla
+    ref: 20030R
+  20032T:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Aveyron
+    departement_num: '12'
+    email: ''
+    first_name: Jean-Claude
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Anglars
+    ref: 20032T
+  20034V:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Saint-Barth\xE9lemy"
+    departement_num: '977'
+    email: ''
+    first_name: Micheline
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Jacques
+    ref: 20034V
+  20036X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Haute-Corse
+    departement_num: 2B
+    email: ''
+    first_name: Paul Toussaint
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Parigi
+    ref: 20036X
+  20038A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Deux-S\xE8vres"
+    departement_num: '79'
+    email: ''
+    first_name: Gilbert
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Favreau
+    ref: 20038A
+  20040T:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Gers
+    departement_num: '32'
+    email: ''
+    first_name: Alain
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Duffourg
+    ref: 20040T
+  20042V:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Charente
+    departement_num: '16'
+    email: ''
+    first_name: "Fran\xE7ois"
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Bonneau
+    ref: 20042V
+  20044X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Cantal
+    departement_num: '15'
+    email: ''
+    first_name: "St\xE9phane"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Sautarel
+    ref: 20044X
+  20046A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Dordogne
+    departement_num: '24'
+    email: ''
+    first_name: Marie-Claude
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Varaillas
+    ref: 20046A
+  20048C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Vosges
+    departement_num: '88'
+    email: ''
+    first_name: Jean
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Hingray
+    ref: 20048C
+  20050V:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Aube
+    departement_num: '10'
+    email: ''
+    first_name: Vanina
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Paoli-Gagin
+    ref: 20050V
+  20052X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Tarn-et-Garonne
+    departement_num: '82'
+    email: ''
+    first_name: Pierre-Antoine
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Levi
+    ref: 20052X
+  20054A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Haute-Sa\xF4ne"
+    departement_num: '70'
+    email: ''
+    first_name: Olivier
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Rietmann
+    ref: 20054A
+  20056C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Ardennes
+    departement_num: 08
+    email: ''
+    first_name: Else
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Joseph
+    ref: 20056C
+  20058E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Savoie
+    departement_num: '73'
+    email: ''
+    first_name: "C\xE9dric"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Vial
+    ref: 20058E
+  20060X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Somme
+    departement_num: '80'
+    email: ''
+    first_name: "R\xE9mi"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Cardon
+    ref: 20060X
+  20062A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Somme
+    departement_num: '80'
+    email: ''
+    first_name: Laurent
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Somon
+    ref: 20062A
+  20064C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Charente-Maritime
+    departement_num: '17'
+    email: ''
+    first_name: "Micka\xEBl"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Vallet
+    ref: 20064C
+  20066E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Doubs
+    departement_num: '25'
+    email: ''
+    first_name: Annick
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Jacquemet
+    ref: 20066E
+  20068G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Eure-et-Loir
+    departement_num: '28'
+    email: ''
+    first_name: Daniel
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Gueret
+    ref: 20068G
+  20070A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Sarthe
+    departement_num: '72'
+    email: ''
+    first_name: Thierry
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Cozic
+    ref: 20070A
+  20072C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Var
+    departement_num: '83'
+    email: ''
+    first_name: "Andr\xE9"
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Guiol
+    ref: 20072C
+  20074E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Var
+    departement_num: '83'
+    email: ''
+    first_name: "Fran\xE7oise"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Dumont
+    ref: 20074E
+  20076G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Var
+    departement_num: '83'
+    email: ''
+    first_name: Jean
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Bacci
+    ref: 20076G
+  20078J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Var
+    departement_num: '83'
+    email: ''
+    first_name: Michel
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Bonnus
+    ref: 20078J
+  20080C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Haute-Vienne
+    departement_num: '87'
+    email: ''
+    first_name: Isabelle
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Briquet
+    ref: 20080C
+  20082E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Haute-Vienne
+    departement_num: '87'
+    email: ''
+    first_name: Christian
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Redon-Sarrazy
+    ref: 20082E
+  20084G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Vaucluse
+    departement_num: '84'
+    email: ''
+    first_name: Lucien
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Stanzione
+    ref: 20084G
+  20086J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Vaucluse
+    departement_num: '84'
+    email: ''
+    first_name: Jean-Baptiste
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Blanc
+    ref: 20086J
+  20088L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Gard
+    departement_num: '30'
+    email: ''
+    first_name: Denis
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Bouad
+    ref: 20088L
+  20090E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Gard
+    departement_num: '30'
+    email: ''
+    first_name: Laurent
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Burgoa
+    ref: 20090E
+  20092G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Ille-et-Vilaine
+    departement_num: '35'
+    email: ''
+    first_name: Daniel
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Salmon
+    ref: 20092G
+  20094J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Ain
+    departement_num: '01'
+    email: ''
+    first_name: Florence
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Blatrix Contat
+    ref: 20094J
+  20096L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Bas-Rhin
+    departement_num: '67'
+    email: ''
+    first_name: Laurence
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Muller-Bronn
+    ref: 20096L
+  20098N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Bas-Rhin
+    departement_num: '67'
+    email: ''
+    first_name: Elsa
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Schalck
+    ref: 20098N
+  20100N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Bas-Rhin
+    departement_num: '67'
+    email: ''
+    first_name: Jacques
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Fernique
+    ref: 20100N
+  20102Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "C\xF4tes-d'Armor"
+    departement_num: '22'
+    email: ''
+    first_name: "G\xE9rard"
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Lahellec
+    ref: 20102Q
+  20104S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "C\xF4tes-d'Armor"
+    departement_num: '22'
+    email: ''
+    first_name: Alain
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Cadec
+    ref: 20104S
+  20106U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Finist\xE8re"
+    departement_num: '29'
+    email: ''
+    first_name: "Nad\xE8ge"
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Havet
+    ref: 20106U
+  20108W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Bouches-du-Rh\xF4ne"
+    departement_num: '13'
+    email: ''
+    first_name: "St\xE9phane"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Le Rudulier
+    ref: 20108W
+  20110Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Bouches-du-Rh\xF4ne"
+    departement_num: '13'
+    email: ''
+    first_name: Guy
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Benarroche
+    ref: 20110Q
+  20112S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Bouches-du-Rh\xF4ne"
+    departement_num: '13'
+    email: ''
+    first_name: "J\xE9r\xE9my"
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Bacchi
+    ref: 20112S
+  20114U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "H\xE9rault"
+    departement_num: '34'
+    email: ''
+    first_name: Hussein
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Bourgi
+    ref: 20114U
+  20116W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "H\xE9rault"
+    departement_num: '34'
+    email: ''
+    first_name: Christian
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Bilhac
+    ref: 20116W
+  20118Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Eure
+    departement_num: '27'
+    email: ''
+    first_name: Kristina
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Pluchet
+    ref: 20118Y
+  20120S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Sa\xF4ne-et-Loire"
+    departement_num: '71'
+    email: ''
+    first_name: Fabien
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Genet
+    ref: 20120S
+  20122U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Aisne
+    departement_num: '02'
+    email: ''
+    first_name: Pierre-Jean
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Verzelen
+    ref: 20122U
+  20124W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Haut-Rhin
+    departement_num: '68'
+    email: ''
+    first_name: Sabine
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Drexler
+    ref: 20124W
+  20126Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Haut-Rhin
+    departement_num: '68'
+    email: ''
+    first_name: Christian
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Klinger
+    ref: 20126Y
+  20128B:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Haut-Rhin
+    departement_num: '68'
+    email: ''
+    first_name: Ludovic
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Haye
+    ref: 20128B
+  20130U:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Rh\xF4ne"
+    departement_num: '69'
+    email: ''
+    first_name: Raymonde
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Poncet Monge
+    ref: 20130U
+  20132W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Rh\xF4ne"
+    departement_num: '69'
+    email: ''
+    first_name: Bernard
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Fialaire
+    ref: 20132W
+  20134Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Rh\xF4ne"
+    departement_num: '69'
+    email: ''
+    first_name: Thomas
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Dossus
+    ref: 20134Y
+  20138D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Alpes-Maritimes
+    departement_num: '06'
+    email: ''
+    first_name: Alexandra
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Borchio Fontimp
+    ref: 20138D
+  20140W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Alpes-Maritimes
+    departement_num: '06'
+    email: ''
+    first_name: Patricia
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Demas
+    ref: 20140W
+  20142Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Gironde
+    departement_num: '33'
+    email: ''
+    first_name: Monique
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: de Marco
+    ref: 20142Y
+  20144B:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Seine-Maritime
+    departement_num: '76'
+    email: ''
+    first_name: Patrick
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Chauvet
+    ref: 20144B
+  20146D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Guyane
+    departement_num: '973'
+    email: ''
+    first_name: Marie-Laure
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Phinera-Horth
+    ref: 20146D
+  20148F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Saint-Martin
+    departement_num: '978'
+    email: ''
+    first_name: Annick
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Petrus
+    ref: 20148F
+  20150Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Polyn\xE9sie fran\xE7aise"
+    departement_num: '987'
+    email: ''
+    first_name: Teva
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Rohfritsch
+    ref: 20150Y
+  20172F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Loire-Atlantique
+    departement_num: '44'
+    email: ''
+    first_name: Laurence
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Garnier
+    ref: 20172F
+  20180F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Manche
+    departement_num: '50'
+    email: ''
+    first_name: "B\xE9atrice"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Gosselin
+    ref: 20180F
+  20248J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Bouches-du-Rh\xF4ne"
+    departement_num: '13'
+    email: ''
+    first_name: Brigitte
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: "Dev\xE9sa"
+    ref: 20248J
+  20252E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Seine-Saint-Denis
+    departement_num: '93'
+    email: ''
+    first_name: Thierry
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Meignen
+    ref: 20252E
+  20264J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 2)"
+    departement_num: '997'
+    email: ''
+    first_name: Yan
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Chantrel
+    ref: 20264J
+  20266L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 2)"
+    departement_num: '997'
+    email: ''
+    first_name: "M\xE9lanie"
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Vogel
+    ref: 20266L
+  20286Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Pas-de-Calais
+    departement_num: '62'
+    email: ''
+    first_name: Amel
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Gacquerre
+    ref: 20286Q
+  21029D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Nouvelle-Cal\xE9donie"
+    departement_num: '988'
+    email: ''
+    first_name: Georges
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Naturel
+    ref: 21029D
+  21030V:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Nouvelle-Cal\xE9donie"
+    departement_num: '988'
+    email: ''
+    first_name: Robert Wienie
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Xowie
+    ref: 21030V
+  21031W:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Lot
+    departement_num: '46'
+    email: ''
+    first_name: Jean-Marc
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Vayssouze-Faure
+    ref: 21031W
+  21032X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Saint-Pierre-et-Miquelon
+    departement_num: '975'
+    email: ''
+    first_name: Annick
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Girardin
+    ref: 21032X
+  21033Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "La R\xE9union"
+    departement_num: '974'
+    email: ''
+    first_name: "St\xE9phane"
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Fouassin
+    ref: 21033Y
+  21034A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "La R\xE9union"
+    departement_num: '974'
+    email: ''
+    first_name: Evelyne
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: "Corbi\xE8re Naminzo"
+    ref: 21034A
+  21035B:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "La R\xE9union"
+    departement_num: '974'
+    email: ''
+    first_name: Audrey
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: "B\xE9lim"
+    ref: 21035B
+  21036C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 1)"
+    departement_num: '998'
+    email: ''
+    first_name: Jean-Luc
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Ruelle
+    ref: 21036C
+  21037D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 1)"
+    departement_num: '998'
+    email: ''
+    first_name: Mathilde
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Ollivier
+    ref: 21037D
+  21038E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 1)"
+    departement_num: '998'
+    email: ''
+    first_name: Olivia
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Richard
+    ref: 21038E
+  21039F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Haute-Marne
+    departement_num: '52'
+    email: ''
+    first_name: Anne-Marie
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: "N\xE9d\xE9lec"
+    ref: 21039F
+  21040X:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Lot-et-Garonne
+    departement_num: '47'
+    email: ''
+    first_name: Michel
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Masset
+    ref: 21040X
+  21041Y:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Lot
+    departement_num: '46'
+    email: ''
+    first_name: "Rapha\xEBl"
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Daubet
+    ref: 21041Y
+  21042A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Meuse
+    departement_num: '55'
+    email: ''
+    first_name: Jocelyne
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Antoine
+    ref: 21042A
+  21043B:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Orne
+    departement_num: '61'
+    email: ''
+    first_name: Olivier
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Bitz
+    ref: 21043B
+  21044C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Pyr\xE9n\xE9es-Orientales"
+    departement_num: '66'
+    email: ''
+    first_name: Lauriane
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Josende
+    ref: 21044C
+  21045D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Puy-de-D\xF4me"
+    departement_num: '63'
+    email: ''
+    first_name: Marion
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: "Canal\xE8s"
+    ref: 21045D
+  21046E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Maine-et-Loire
+    departement_num: '49'
+    email: ''
+    first_name: Corinne
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Bourcier
+    ref: 21046E
+  21047F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Jura
+    departement_num: '39'
+    email: ''
+    first_name: "Cl\xE9ment"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Pernot
+    ref: 21047F
+  21048G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Maine-et-Loire
+    departement_num: '49'
+    email: ''
+    first_name: "Gr\xE9gory"
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Blanc
+    ref: 21048G
+  21049H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Meurthe-et-Moselle
+    departement_num: '54'
+    email: ''
+    first_name: Silvana
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Silvani
+    ref: 21049H
+  21050A:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Morbihan
+    departement_num: '56'
+    email: ''
+    first_name: Yves
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Bleunven
+    ref: 21050A
+  21051B:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Morbihan
+    departement_num: '56'
+    email: ''
+    first_name: Simon
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Uzenat
+    ref: 21051B
+  21052C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Loir-et-Cher
+    departement_num: '41'
+    email: ''
+    first_name: Jean-Luc
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Brault
+    ref: 21052C
+  21053D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Loir-et-Cher
+    departement_num: '41'
+    email: ''
+    first_name: Bernard
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Pillefer
+    ref: 21053D
+  21054E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Indre-et-Loire
+    departement_num: '37'
+    email: ''
+    first_name: Vincent
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Louault
+    ref: 21054E
+  21055F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Indre-et-Loire
+    departement_num: '37'
+    email: ''
+    first_name: "Jean-G\xE9rard"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Paumier
+    ref: 21055F
+  21056G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Indre-et-Loire
+    departement_num: '37'
+    email: ''
+    first_name: Pierre-Alain
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Roiron
+    ref: 21056G
+  21057H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Loiret
+    departement_num: '45'
+    email: ''
+    first_name: Christophe
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Chaillou
+    ref: 21057H
+  21058J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Loiret
+    departement_num: '45'
+    email: ''
+    first_name: Pauline
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Martin
+    ref: 21058J
+  21059K:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Essonne
+    departement_num: '91'
+    email: ''
+    first_name: David
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Ros
+    ref: 21059K
+  21060C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Oise
+    departement_num: '60'
+    email: ''
+    first_name: Alexandre
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Ouizille
+    ref: 21060C
+  21061D:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Oise
+    departement_num: '60'
+    email: ''
+    first_name: Sylvie
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Valente Le Hir
+    ref: 21061D
+  21062E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Manche
+    departement_num: '50'
+    email: ''
+    first_name: "S\xE9bastien"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Fagnen
+    ref: 21062E
+  21063F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Marne
+    departement_num: '51'
+    email: ''
+    first_name: Christian
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Bruyen
+    ref: 21063F
+  21064G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Marne
+    departement_num: '51'
+    email: ''
+    first_name: Anne-Sophie
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Romagny
+    ref: 21064G
+  21065H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Marne
+    departement_num: '51'
+    email: ''
+    first_name: "C\xE9dric"
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Chevalier
+    ref: 21065H
+  21066J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Loire-Atlantique
+    departement_num: '44'
+    email: ''
+    first_name: Philippe
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Grosvalet
+    ref: 21066J
+  21067K:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Pas-de-Calais
+    departement_num: '62'
+    email: ''
+    first_name: "J\xE9r\xF4me"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Darras
+    ref: 21067K
+  21068L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Loire
+    departement_num: '42'
+    email: ''
+    first_name: "Herv\xE9"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Reynaud
+    ref: 21068L
+  21069M:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Pas-de-Calais
+    departement_num: '62'
+    email: ''
+    first_name: Christopher
+    group_abv: NI
+    group_name: "R\xE9union administrative des S\xE9nateurs ne figurant sur la liste\
+      \ d'aucun groupe"
+    last_name: Szczurek
+    ref: 21069M
+  21070E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Loire
+    departement_num: '42'
+    email: ''
+    first_name: Pierre Jean
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Rochette
+    ref: 21070E
+  21071F:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Hauts-de-Seine
+    departement_num: '92'
+    email: ''
+    first_name: Marie-Do
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Aeschlimann
+    ref: 21071F
+  21072G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Val-de-Marne
+    departement_num: '94'
+    email: ''
+    first_name: Marie-Carole
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Ciuntu
+    ref: 21072G
+  21073H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Val-de-Marne
+    departement_num: '94'
+    email: ''
+    first_name: Akli
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Mellouli
+    ref: 21073H
+  21074J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Seine-et-Marne
+    departement_num: '77'
+    email: ''
+    first_name: Aymeric
+    group_abv: NI
+    group_name: "R\xE9union administrative des S\xE9nateurs ne figurant sur la liste\
+      \ d'aucun groupe"
+    last_name: Durox
+    ref: 21074J
+  21075K:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Seine-et-Marne
+    departement_num: '77'
+    email: ''
+    first_name: Marianne
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: "Margat\xE9"
+    ref: 21075K
+  21076L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Seine-et-Marne
+    departement_num: '77'
+    email: ''
+    first_name: Louis
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Vogel
+    ref: 21076L
+  21077M:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Seine-Saint-Denis
+    departement_num: '93'
+    email: ''
+    first_name: Adel
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Ziane
+    ref: 21077M
+  21078N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Seine-Saint-Denis
+    departement_num: '93'
+    email: ''
+    first_name: Ahmed
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Laouedj
+    ref: 21078N
+  21079P:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Yvelines
+    departement_num: '78'
+    email: ''
+    first_name: Ghislaine
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: "Sen\xE9e"
+    ref: 21079P
+  21080G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Is\xE8re"
+    departement_num: '38'
+    email: ''
+    first_name: Damien
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Michallet
+    ref: 21080G
+  21081H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Moselle
+    departement_num: '57'
+    email: ''
+    first_name: "Khalif\xE9"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: "Khalif\xE9"
+    ref: 21081H
+  21082J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Moselle
+    departement_num: '57'
+    email: ''
+    first_name: "Micha\xEBl"
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Weber
+    ref: 21082J
+  21083K:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Nord
+    departement_num: '59'
+    email: ''
+    first_name: Guislain
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Cambier
+    ref: 21083K
+  21084L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Val-d'Oise
+    departement_num: '95'
+    email: ''
+    first_name: Pierre
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Barros
+    ref: 21084L
+  21085M:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Nord
+    departement_num: '59'
+    email: ''
+    first_name: Joshua
+    group_abv: NI
+    group_name: "R\xE9union administrative des S\xE9nateurs ne figurant sur la liste\
+      \ d'aucun groupe"
+    last_name: Hochart
+    ref: 21085M
+  21086N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Val-d'Oise
+    departement_num: '95'
+    email: ''
+    first_name: Daniel
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Fargeot
+    ref: 21086N
+  21087P:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Nord
+    departement_num: '59'
+    email: ''
+    first_name: Marie-Claude
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: Lermytte
+    ref: 21087P
+  21088Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Paris
+    departement_num: '75'
+    email: ''
+    first_name: Ian
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Brossat
+    ref: 21088Q
+  21089R:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Paris
+    departement_num: '75'
+    email: ''
+    first_name: Colombe
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Brossel
+    ref: 21089R
+  21090J:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Paris
+    departement_num: '75'
+    email: ''
+    first_name: Marie-Claire
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: "Carr\xE8re-G\xE9e"
+    ref: 21090J
+  21091K:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Paris
+    departement_num: '75'
+    email: ''
+    first_name: "Agn\xE8s"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Evren
+    ref: 21091K
+  21092L:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Paris
+    departement_num: '75'
+    email: ''
+    first_name: Antoinette
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Guhl
+    ref: 21092L
+  21093M:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Paris
+    departement_num: '75'
+    email: ''
+    first_name: Yannick
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Jadot
+    ref: 21093M
+  21094N:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Paris
+    departement_num: '75'
+    email: ''
+    first_name: Anne
+    group_abv: GEST
+    group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
+    last_name: Souyris
+    ref: 21094N
+  21095P:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Paris
+    departement_num: '75'
+    email: ''
+    first_name: Francis
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Szpiner
+    ref: 21095P
+  21096Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Martinique
+    departement_num: '972'
+    email: ''
+    first_name: "Fr\xE9d\xE9ric"
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Buval
+    ref: 21096Q
+  21097R:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Guadeloupe
+    departement_num: '971'
+    email: ''
+    first_name: Solanges
+    group_abv: LREM
+    group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
+      pendants"
+    last_name: Nadille
+    ref: 21097R
+  21125C:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Vienne
+    departement_num: '86'
+    email: ''
+    first_name: Marie-Jeanne
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Bellamy
+    ref: 21125C
+  21404G:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 2)"
+    departement_num: '997'
+    email: ''
+    first_name: Sophie
+    group_abv: RDSE
+    group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
+    last_name: Briante Guillemont
+    ref: 21404G
+  21415K:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Tarn
+    departement_num: '81'
+    email: ''
+    first_name: Marie-Lise
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Housseau
+    ref: 21415K
+  21421H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Ille-et-Vilaine
+    departement_num: '35'
+    email: ''
+    first_name: Anne-Sophie
+    group_abv: UC
+    group_name: Groupe Union Centriste
+    last_name: Patru
+    ref: 21421H
+  21460Q:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Nord
+    departement_num: '59'
+    email: ''
+    first_name: Alexandre
+    group_abv: CRC
+    group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
+    last_name: Basquin
+    ref: 21460Q
+  21470S:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Alpes-Maritimes
+    departement_num: '06'
+    email: ''
+    first_name: Jean-Marc
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Delia
+    ref: 21470S
+  21486B:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Manche
+    departement_num: '50'
+    email: ''
+    first_name: David
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Margueritte
+    ref: 21486B
+  21510H:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Bas-Rhin
+    departement_num: '67'
+    email: ''
+    first_name: Marc
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: "S\xE9n\xE9"
+    ref: 21510H
+  21512K:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Sa\xF4ne-et-Loire"
+    departement_num: '71'
+    email: ''
+    first_name: Paulette
+    group_abv: SOC
+    group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
+    last_name: Matray
+    ref: 21512K
+  21514M:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: Loire-Atlantique
+    departement_num: '44'
+    email: ''
+    first_name: Marie-Pierre
+    group_abv: RTLI
+    group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
+    last_name: "Bessin-Gu\xE9rin"
+    ref: 21514M
+  21534R:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: Mme
+    country: France
+    departement_name: "Dr\xF4me"
+    departement_num: '26'
+    email: ''
+    first_name: Marie-Pierre
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Mouton
+    ref: 21534R
+  86034E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Yvelines
+    departement_num: '78'
+    email: ''
+    first_name: "G\xE9rard"
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Larcher
+    ref: 86034E
+  95041E:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: "Haute-Sa\xF4ne"
+    departement_num: '70'
+    email: ''
+    first_name: Alain
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Joyandet
+    ref: 95041E
+  99004R:
+    circonscription_code: ''
+    circonscription_name: ''
+    circonscription_num: ''
+    civ: M.
+    country: France
+    departement_name: Hauts-de-Seine
+    departement_num: '92'
+    email: ''
+    first_name: Roger
+    group_abv: UMP
+    group_name: "Groupe Les R\xE9publicains"
+    last_name: Karoutchi
+    ref: 99004R
+metadata:
+  count: 348
+  last_updated: '2026-01-23T00:58:23.108647'

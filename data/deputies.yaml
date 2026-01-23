@@ -4,6 +4,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Ain"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Ain
     departement_num: '01'
     email: Xavier.Breton@assemblee-nationale.fr
@@ -17,6 +18,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Ain"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Ain
     departement_num: '01'
     email: romain.daubie@assemblee-nationale.fr
@@ -30,6 +32,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Ain"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Ain
     departement_num: '01'
     email: Olga.Givernet@assemblee-nationale.fr
@@ -43,6 +46,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de l'Ain"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Ain
     departement_num: '01'
     email: jerome.buisson@assemblee-nationale.fr
@@ -56,6 +60,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de l'Ain"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Ain
     departement_num: '01'
     email: marc.chavent@assemblee-nationale.fr
@@ -69,6 +74,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Aisne"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Aisne
     departement_num: '02'
     email: nicolas.dragon@assemblee-nationale.fr
@@ -82,6 +88,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Aisne"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Aisne
     departement_num: '02'
     email: Julien.Dive@assemblee-nationale.fr
@@ -95,6 +102,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Aisne"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Aisne
     departement_num: '02'
     email: eddy.casterman@assemblee-nationale.fr
@@ -108,6 +116,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de l'Aisne"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Aisne
     departement_num: '02'
     email: jose.beaurain@assemblee-nationale.fr
@@ -121,6 +130,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de l'Aisne"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Aisne
     departement_num: '02'
     email: jocelyn.dessigny@assemblee-nationale.fr
@@ -134,6 +144,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Allier"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Allier
     departement_num: '03'
     email: yannick.monnet@assemblee-nationale.fr
@@ -147,6 +158,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Allier"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Allier
     departement_num: '03'
     email: jorysb.rn03@gmail.com
@@ -160,6 +172,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Allier"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Allier
     departement_num: '03'
     email: nicolas.ray@assemblee-nationale.fr
@@ -173,6 +186,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des Alpes-de-Haute-Provence"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Alpes-de-Haute-Provence
     departement_num: '04'
     email: christian.girard@assemblee-nationale.fr
@@ -186,6 +200,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des Alpes-de-Haute-Provence"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Alpes-de-Haute-Provence
     departement_num: '04'
     email: sophie.vaginay@assemblee-nationale.fr
@@ -199,6 +214,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des Hautes-Alpes"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Hautes-Alpes
     departement_num: '05'
     email: marie-jose.allemand@assemblee-nationale.fr
@@ -212,6 +228,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des Hautes-Alpes"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Hautes-Alpes
     departement_num: '05'
     email: valerie.rossi@assemblee-nationale.fr
@@ -225,6 +242,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des Alpes-Maritimes"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
     email: Eric.Ciotti@assemblee-nationale.fr
@@ -238,6 +256,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des Alpes-Maritimes"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
     email: lionel.tivoli@assemblee-nationale.fr
@@ -251,6 +270,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription des Alpes-Maritimes"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
     email: bernard.chaix@assemblee-nationale.fr
@@ -264,6 +284,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription des Alpes-Maritimes"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
     email: alexandra.masson@assemblee-nationale.fr
@@ -277,6 +298,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription des Alpes-Maritimes"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
     email: christelle.dintorni@assemblee-nationale.fr
@@ -290,6 +312,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription des Alpes-Maritimes"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
     email: bryan.masson@assemblee-nationale.fr
@@ -303,6 +326,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription des Alpes-Maritimes"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
     email: Eric.Pauget@assemblee-nationale.fr
@@ -316,6 +340,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription des Alpes-Maritimes"
     circonscription_num: 08
     civ: Mme
+    country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
     email: alexandra.martin@assemblee-nationale.fr
@@ -329,6 +354,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription des Alpes-Maritimes"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
     email: Michele.Tabarot@assemblee-nationale.fr
@@ -342,6 +368,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Ard\xE8che"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "Ard\xE8che"
     departement_num: '07'
     email: Herve.Saulignac@assemblee-nationale.fr
@@ -355,6 +382,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Ard\xE8che"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: "Ard\xE8che"
     departement_num: '07'
     email: vincenttrebuchet.ardeche@gmail.com
@@ -368,6 +396,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Ard\xE8che"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: "Ard\xE8che"
     departement_num: '07'
     email: Fabrice.Brun@assemblee-nationale.fr
@@ -381,6 +410,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des Ardennes"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Ardennes
     departement_num: 08
     email: lionel.vuibert@assemblee-nationale.fr
@@ -394,6 +424,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des Ardennes"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Ardennes
     departement_num: 08
     email: Pierre.Cordier@assemblee-nationale.fr
@@ -407,6 +438,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription des Ardennes"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Ardennes
     departement_num: 08
     email: Jean-Luc.Warsmann@assemblee-nationale.fr
@@ -420,6 +452,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Ari\xE8ge"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: "Ari\xE8ge"
     departement_num: 09
     email: martine.froger@assemblee-nationale.fr
@@ -433,6 +466,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Ari\xE8ge"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: "Ari\xE8ge"
     departement_num: 09
     email: audrey.abadie@assemblee-nationale.fr
@@ -447,6 +481,7 @@ deputies:
       \ de France"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France"
     departement_num: 099
     email: christopher.weissberg@assemblee-nationale.fr
@@ -461,6 +496,7 @@ deputies:
       \ de France"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France"
     departement_num: 099
     email: benoit.larrouquis@assemblee-nationale.fr
@@ -475,6 +511,7 @@ deputies:
       \ de France"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France"
     departement_num: 099
     email: vincent.caure@assemblee-nationale.fr
@@ -489,6 +526,7 @@ deputies:
       \ de France"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France"
     departement_num: 099
     email: Pieyre-Alexandre.Anglade@assemblee-nationale.fr
@@ -503,6 +541,7 @@ deputies:
       \ de France"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France"
     departement_num: 099
     email: nathalie.coggia@assemblee-nationale.fr
@@ -517,6 +556,7 @@ deputies:
       \ de France"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France"
     departement_num: 099
     email: marc.ferracci@assemblee-nationale.fr
@@ -531,6 +571,7 @@ deputies:
       \ de France"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France"
     departement_num: 099
     email: Frederic.Petit@assemblee-nationale.fr
@@ -545,6 +586,7 @@ deputies:
       \ de France"
     circonscription_num: 08
     civ: Mme
+    country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France"
     departement_num: 099
     email: caroline.yadan@assemblee-nationale.fr
@@ -559,6 +601,7 @@ deputies:
       \ de France"
     circonscription_num: 09
     civ: M.
+    country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France"
     departement_num: 099
     email: karim.bencheikh@assemblee-nationale.fr
@@ -573,6 +616,7 @@ deputies:
       \ de France"
     circonscription_num: '10'
     civ: Mme
+    country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France"
     departement_num: 099
     email: amelia.lakrafi@assemblee-nationale.fr
@@ -587,6 +631,7 @@ deputies:
       \ de France"
     circonscription_num: '11'
     civ: Mme
+    country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France"
     departement_num: 099
     email: Anne.Genetet@assemblee-nationale.fr
@@ -600,6 +645,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Aube"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Aube
     departement_num: '10'
     email: jordan.guitton@assemblee-nationale.fr
@@ -613,6 +659,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Aube"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Aube
     departement_num: '10'
     email: Valerie.Bazin-Malgras@assemblee-nationale.fr
@@ -626,6 +673,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Aube"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Aube
     departement_num: '10'
     email: angelique.ranc@assemblee-nationale.fr
@@ -639,6 +687,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Aude"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Aude
     departement_num: '11'
     email: christophe.barthes@assemblee-nationale.fr
@@ -652,6 +701,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Aude"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Aude
     departement_num: '11'
     email: frederic.falcon@assemblee-nationale.fr
@@ -665,6 +715,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Aude"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Aude
     departement_num: '11'
     email: julien.rancoule@assemblee-nationale.fr
@@ -678,6 +729,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Aveyron"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Aveyron
     departement_num: '12'
     email: Stephane.Mazars@assemblee-nationale.fr
@@ -691,6 +743,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Aveyron"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Aveyron
     departement_num: '12'
     email: laurent.alexandre@assemblee-nationale.fr
@@ -704,6 +757,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Aveyron"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Aveyron
     departement_num: '12'
     email: jean-francois.rousset@assemblee-nationale.fr
@@ -717,6 +771,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: monique.griseti@assemblee-nationale.fr
@@ -730,6 +785,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: laurent.lhardit@assemblee-nationale.fr
@@ -743,6 +799,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: gisele.lelouis@assemblee-nationale.fr
@@ -756,6 +813,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: contact@manuelbompard.fr
@@ -769,6 +827,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: hendrik.davi@assemblee-nationale.fr
@@ -782,6 +841,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: olivier.fayssat@assemblee-nationale.fr
@@ -795,6 +855,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: sebastien.delogu@assemblee-nationale.fr
@@ -808,6 +869,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: romain.tonussi@assemblee-nationale.fr
@@ -821,6 +883,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: joelle.melin@assemblee-nationale.fr
@@ -834,6 +897,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '10'
     civ: M.
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: jo.allauch@gmail.com
@@ -847,6 +911,7 @@ deputies:
     circonscription_name: "11\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '11'
     civ: M.
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: marc.pena@assemblee-nationale.fr
@@ -860,6 +925,7 @@ deputies:
     circonscription_name: "12\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '12'
     civ: M.
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: franck.allisio@assemblee-nationale.fr
@@ -873,6 +939,7 @@ deputies:
     circonscription_name: "13\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '13'
     civ: M.
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: emmanuel.fouquart@assemblee-nationale.fr
@@ -886,6 +953,7 @@ deputies:
     circonscription_name: "14\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '14'
     civ: M.
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: gerault.verny@assemblee-nationale.fr
@@ -899,6 +967,7 @@ deputies:
     circonscription_name: "15\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '15'
     civ: M.
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: romain.baubry@assemblee-nationale.fr
@@ -912,6 +981,7 @@ deputies:
     circonscription_name: "16\xE8me circonscription des Bouches-du-Rh\xF4ne"
     circonscription_num: '16'
     civ: M.
+    country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
     email: emmanuel.tache@assemblee-nationale.fr
@@ -925,6 +995,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Calvados"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Calvados
     departement_num: '14'
     email: jbruneau14@gmail.com
@@ -938,6 +1009,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Calvados"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Calvados
     departement_num: '14'
     email: arthur.delaporte@assemblee-nationale.fr
@@ -951,6 +1023,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Calvados"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Calvados
     departement_num: '14'
     email: jeremie.patrier-leitus@assemblee-nationale.fr
@@ -964,6 +1037,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Calvados"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Calvados
     departement_num: '14'
     email: Christophe.Blanchet@assemblee-nationale.fr
@@ -977,6 +1051,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Calvados"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Calvados
     departement_num: '14'
     email: Bertrand.Bouyx@assemblee-nationale.fr
@@ -990,6 +1065,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Calvados"
     circonscription_num: '06'
     civ: Mme
+    country: France
     departement_name: Calvados
     departement_num: '14'
     email: elisabeth.borne@assemblee-nationale.fr
@@ -1003,6 +1079,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Cantal"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Cantal
     departement_num: '15'
     email: Vincent.Descoeur@assemblee-nationale.fr
@@ -1016,6 +1093,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Cantal"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Cantal
     departement_num: '15'
     email: Jean-Yves.Bony@assemblee-nationale.fr
@@ -1029,6 +1107,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Charente"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Charente
     departement_num: '16'
     email: rene.pilato@assemblee-nationale.fr
@@ -1042,6 +1121,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Charente"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Charente
     departement_num: '16'
     email: Sandra.Marsaud@assemblee-nationale.fr
@@ -1055,6 +1135,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Charente"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Charente
     departement_num: '16'
     email: caroline.colombier@assemblee-nationale.fr
@@ -1068,6 +1149,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Charente-Maritime"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Charente-Maritime
     departement_num: '17'
     email: Olivier.Falorni@assemblee-nationale.fr
@@ -1081,6 +1163,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Charente-Maritime"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Charente-Maritime
     departement_num: '17'
     email: benoit.biteau@assemblee-nationale.fr
@@ -1094,6 +1177,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Charente-Maritime"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Charente-Maritime
     departement_num: '17'
     email: fabrice.barusseau@assemblee-nationale.fr
@@ -1107,6 +1191,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Charente-Maritime"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Charente-Maritime
     departement_num: '17'
     email: markowsky.pascal@gmail.com
@@ -1120,6 +1205,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la Charente-Maritime"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Charente-Maritime
     departement_num: '17'
     email: christophe.plassard@assemblee-nationale.fr
@@ -1133,6 +1219,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Cher"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Cher
     departement_num: '18'
     email: Francois.Cormier-Bouligeon@assemblee-nationale.fr
@@ -1146,6 +1233,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Cher"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Cher
     departement_num: '18'
     email: nicolas.sansu@assemblee-nationale.fr
@@ -1159,6 +1247,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Cher"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Cher
     departement_num: '18'
     email: Loic.Kervran@assemblee-nationale.fr
@@ -1172,6 +1261,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Corr\xE8ze"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "Corr\xE8ze"
     departement_num: '19'
     email: francois.hollande@assemblee-nationale.fr
@@ -1185,6 +1275,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Corr\xE8ze"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: "Corr\xE8ze"
     departement_num: '19'
     email: Frederique.Meunier@assemblee-nationale.fr
@@ -1198,6 +1289,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la C\xF4te-d'Or"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: "C\xF4te-d'Or"
     departement_num: '21'
     email: oceane.godard@assemblee-nationale.fr
@@ -1211,6 +1303,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la C\xF4te-d'Or"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: "C\xF4te-d'Or"
     departement_num: '21'
     email: catherine.hervieu@assemblee-nationale.fr
@@ -1224,6 +1317,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la C\xF4te-d'Or"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: "C\xF4te-d'Or"
     departement_num: '21'
     email: pierre.pribetich@assemblee-nationale.fr
@@ -1237,6 +1331,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la C\xF4te-d'Or"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: "C\xF4te-d'Or"
     departement_num: '21'
     email: hubert.brigand@assemblee-nationale.fr
@@ -1250,6 +1345,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la C\xF4te-d'Or"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: "C\xF4te-d'Or"
     departement_num: '21'
     email: lioret.r@gmail.com
@@ -1263,6 +1359,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des C\xF4tes-d'Armor"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "C\xF4tes-d'Armor"
     departement_num: '22'
     email: mickael.cosson@assemblee-nationale.fr
@@ -1276,6 +1373,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des C\xF4tes-d'Armor"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: "C\xF4tes-d'Armor"
     departement_num: '22'
     email: herve.berville@assemblee-nationale.fr
@@ -1289,6 +1387,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription des C\xF4tes-d'Armor"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: "C\xF4tes-d'Armor"
     departement_num: '22'
     email: corentin.lefur@assemblee-nationale.fr
@@ -1302,6 +1401,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription des C\xF4tes-d'Armor"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: "C\xF4tes-d'Armor"
     departement_num: '22'
     email: murielle.lepvraud@assemblee-nationale.fr
@@ -1315,6 +1415,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription des C\xF4tes-d'Armor"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: "C\xF4tes-d'Armor"
     departement_num: '22'
     email: Eric.Bothorel@assemblee-nationale.fr
@@ -1328,6 +1429,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Creuse"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Creuse
     departement_num: '23'
     email: bartolome.lenoir@assemblee-nationale.fr
@@ -1341,6 +1443,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Dordogne"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Dordogne
     departement_num: '24'
     email: nadine.lechon@assemblee-nationale.fr
@@ -1354,6 +1457,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Dordogne"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Dordogne
     departement_num: '24'
     email: serge.muller@assemblee-nationale.fr
@@ -1367,6 +1471,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Dordogne"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Dordogne
     departement_num: '24'
     email: florence.joubert@assemblee-nationale.fr
@@ -1380,6 +1485,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Dordogne"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Dordogne
     departement_num: '24'
     email: sebastien.peytavie@assemblee-nationale.fr
@@ -1393,6 +1499,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Doubs"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Doubs
     departement_num: '25'
     email: laurent.croizier@assemblee-nationale.fr
@@ -1406,6 +1513,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Doubs"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Doubs
     departement_num: '25'
     email: dominique.voynet@assemblee-nationale.fr
@@ -1419,6 +1527,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Doubs"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Doubs
     departement_num: '25'
     email: matthieu.bloch@assemblee-nationale.fr
@@ -1432,6 +1541,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Doubs"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Doubs
     departement_num: '25'
     email: geraldine.grangier@assemblee-nationale.fr
@@ -1445,6 +1555,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Doubs"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Doubs
     departement_num: '25'
     email: eric.liegeon@assemblee-nationale.fr
@@ -1458,6 +1569,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Dr\xF4me"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "Dr\xF4me"
     departement_num: '26'
     email: paul.christophle@assemblee-nationale.fr
@@ -1471,6 +1583,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Dr\xF4me"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: "Dr\xF4me"
     departement_num: '26'
     email: lisette.pollet@assemblee-nationale.fr
@@ -1484,6 +1597,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Dr\xF4me"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: "Dr\xF4me"
     departement_num: '26'
     email: contact@mariepochon.fr
@@ -1497,6 +1611,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Dr\xF4me"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: "Dr\xF4me"
     departement_num: '26'
     email: thibaut.monnier@assemblee-nationale.fr
@@ -1510,6 +1625,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Eure"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Eure
     departement_num: '27'
     email: christine.loir@assemblee-nationale.fr
@@ -1523,6 +1639,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Eure"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Eure
     departement_num: '27'
     email: katiana.levavasseur@assemblee-nationale.fr
@@ -1536,6 +1653,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Eure"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Eure
     departement_num: '27'
     email: kevin.mauvieux@assemblee-nationale.fr
@@ -1549,6 +1667,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de l'Eure"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Eure
     departement_num: '27'
     email: philippe.brun@assemblee-nationale.fr
@@ -1562,6 +1681,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de l'Eure"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Eure
     departement_num: '27'
     email: timothee.houssin@assemblee-nationale.fr
@@ -1575,6 +1695,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Eure-et-Loir"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Eure-et-Loir
     departement_num: '28'
     email: contact@guillaumekasbarian.fr
@@ -1588,6 +1709,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Eure-et-Loir"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Eure-et-Loir
     departement_num: '28'
     email: christelle.minard@assemblee-nationale.fr
@@ -1601,6 +1723,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Eure-et-Loir"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Eure-et-Loir
     departement_num: '28'
     email: harold.huwart@assemblee-nationale.fr
@@ -1614,6 +1737,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de l'Eure-et-Loir"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Eure-et-Loir
     departement_num: '28'
     email: Philippe.Vigier@assemblee-nationale.fr
@@ -1627,6 +1751,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Finist\xE8re"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: "Finist\xE8re"
     departement_num: '29'
     email: Annaig.LeMeur@assemblee-nationale.fr
@@ -1640,6 +1765,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Finist\xE8re"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: "Finist\xE8re"
     departement_num: '29'
     email: pierre-yves.cadalen@assemblee-nationale.fr
@@ -1653,6 +1779,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Finist\xE8re"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: "Finist\xE8re"
     departement_num: '29'
     email: Didier.LeGac@assemblee-nationale.fr
@@ -1666,6 +1793,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Finist\xE8re"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: "Finist\xE8re"
     departement_num: '29'
     email: Sandrine.LeFeur@assemblee-nationale.fr
@@ -1679,6 +1807,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Finist\xE8re"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: "Finist\xE8re"
     departement_num: '29'
     email: Graziella.Melchior@assemblee-nationale.fr
@@ -1692,6 +1821,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Finist\xE8re"
     circonscription_num: '06'
     civ: Mme
+    country: France
     departement_name: "Finist\xE8re"
     departement_num: '29'
     email: melanie.thomin@assemblee-nationale.fr
@@ -1705,6 +1835,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription du Finist\xE8re"
     circonscription_num: '07'
     civ: Mme
+    country: France
     departement_name: "Finist\xE8re"
     departement_num: '29'
     email: Liliana.Tanguy@assemblee-nationale.fr
@@ -1718,6 +1849,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription du Finist\xE8re"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: "Finist\xE8re"
     departement_num: '29'
     email: Erwan.Balanant@assemblee-nationale.fr
@@ -1731,6 +1863,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Corse-du-Sud"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Corse-du-Sud
     departement_num: 2A
     email: laurent.marcangeli@assemblee-nationale.fr
@@ -1744,6 +1877,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Corse-du-Sud"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Corse-du-Sud
     departement_num: 2A
     email: Paul-Andre.Colombani@assemblee-nationale.fr
@@ -1757,6 +1891,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Haute-Corse"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Haute-Corse
     departement_num: 2B
     email: Michel.Castellani@assemblee-nationale.fr
@@ -1770,6 +1905,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Haute-Corse"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Haute-Corse
     departement_num: 2B
     email: francois-xavier.ceccoli@assemblee-nationale.fr
@@ -1783,6 +1919,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Gard"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Gard
     departement_num: '30'
     email: contact@yoanngillet.fr
@@ -1796,6 +1933,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Gard"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Gard
     departement_num: '30'
     email: nicolas.meizonnet@assemblee-nationale.fr
@@ -1809,6 +1947,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Gard"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Gard
     departement_num: '30'
     email: pascale.bordes@assemblee-nationale.fr
@@ -1822,6 +1961,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Gard"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Gard
     departement_num: '30'
     email: pierre.meurin@assemblee-nationale.fr
@@ -1835,6 +1975,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Gard"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Gard
     departement_num: '30'
     email: alexandre.allegret-pilot@assemblee-nationale.fr
@@ -1848,6 +1989,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Gard"
     circonscription_num: '06'
     civ: Mme
+    country: France
     departement_name: Gard
     departement_num: '30'
     email: sylvie.josserand@assemblee-nationale.fr
@@ -1861,6 +2003,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Haute-Garonne"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Haute-Garonne
     departement_num: '31'
     email: hadrien.clouet@assemblee-nationale.fr
@@ -1874,6 +2017,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Haute-Garonne"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Haute-Garonne
     departement_num: '31'
     email: anne.stambach-terrenoir@assemblee-nationale.fr
@@ -1887,6 +2031,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Haute-Garonne"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Haute-Garonne
     departement_num: '31'
     email: Corinne.Vignon@assemblee-nationale.fr
@@ -1900,6 +2045,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Haute-Garonne"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Haute-Garonne
     departement_num: '31'
     email: francois.piquemal@assemblee-nationale.fr
@@ -1913,6 +2059,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la Haute-Garonne"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Haute-Garonne
     departement_num: '31'
     email: Jean-Francois.Portarrieu@assemblee-nationale.fr
@@ -1926,6 +2073,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de la Haute-Garonne"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Haute-Garonne
     departement_num: '31'
     email: arnaud.simion@assemblee-nationale.fr
@@ -1939,6 +2087,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de la Haute-Garonne"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Haute-Garonne
     departement_num: '31'
     email: christophe.bex@assemblee-nationale.fr
@@ -1952,6 +2101,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription de la Haute-Garonne"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Haute-Garonne
     departement_num: '31'
     email: Joel.Aviragnet@assemblee-nationale.fr
@@ -1965,6 +2115,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription de la Haute-Garonne"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Haute-Garonne
     departement_num: '31'
     email: christine.arrighi@assemblee-nationale.fr
@@ -1978,6 +2129,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription de la Haute-Garonne"
     circonscription_num: '10'
     civ: M.
+    country: France
     departement_name: Haute-Garonne
     departement_num: '31'
     email: jacques.oberti@assemblee-nationale.fr
@@ -1991,6 +2143,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Gers"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Gers
     departement_num: '32'
     email: Jean-Rene.Cazeneuve@assemblee-nationale.fr
@@ -2004,6 +2157,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Gers"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Gers
     departement_num: '32'
     email: davidtaupiac.permanence@gmail.com
@@ -2017,6 +2171,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Gironde"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Gironde
     departement_num: '33'
     email: thomas.cazenave@assemblee-nationale.fr
@@ -2030,6 +2185,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Gironde"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Gironde
     departement_num: '33'
     email: nicolas.thierry@assemblee-nationale.fr
@@ -2043,6 +2199,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Gironde"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Gironde
     departement_num: '33'
     email: Loic.Prudhomme@assemblee-nationale.fr
@@ -2056,6 +2213,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Gironde"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Gironde
     departement_num: '33'
     email: Alain.David@assemblee-nationale.fr
@@ -2069,6 +2227,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la Gironde"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: Gironde
     departement_num: '33'
     email: pascale.got@assemblee-nationale.fr
@@ -2082,6 +2241,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de la Gironde"
     circonscription_num: '06'
     civ: Mme
+    country: France
     departement_name: Gironde
     departement_num: '33'
     email: marie.recalde@assemblee-nationale.fr
@@ -2095,6 +2255,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de la Gironde"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Gironde
     departement_num: '33'
     email: sebastien.saint-pasteur@assemblee-nationale.fr
@@ -2108,6 +2269,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription de la Gironde"
     circonscription_num: 08
     civ: Mme
+    country: France
     departement_name: Gironde
     departement_num: '33'
     email: Sophie.Panonacle@assemblee-nationale.fr
@@ -2121,6 +2283,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription de la Gironde"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Gironde
     departement_num: '33'
     email: Sophie.Mette@assemblee-nationale.fr
@@ -2134,6 +2297,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription de la Gironde"
     circonscription_num: '10'
     civ: M.
+    country: France
     departement_name: Gironde
     departement_num: '33'
     email: Florent.Boudie@assemblee-nationale.fr
@@ -2147,6 +2311,7 @@ deputies:
     circonscription_name: "11\xE8me circonscription de la Gironde"
     circonscription_num: '11'
     civ: Mme
+    country: France
     departement_name: Gironde
     departement_num: '33'
     email: edwige.diaz@assemblee-nationale.fr
@@ -2160,6 +2325,7 @@ deputies:
     circonscription_name: "12\xE8me circonscription de la Gironde"
     circonscription_num: '12'
     civ: Mme
+    country: France
     departement_name: Gironde
     departement_num: '33'
     email: mathilde.feld@assemblee-nationale.fr
@@ -2173,6 +2339,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'H\xE9rault"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
     email: jean-louis.roumegas@assemblee-nationale.fr
@@ -2186,6 +2353,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'H\xE9rault"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
     email: nathalie.oziol@assemblee-nationale.fr
@@ -2199,6 +2367,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'H\xE9rault"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
     email: fannydombrecoste2024@gmail.com
@@ -2212,6 +2381,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de l'H\xE9rault"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
     email: manon.bouquin@assemblee-nationale.fr
@@ -2225,6 +2395,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de l'H\xE9rault"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
     email: stephanie.galzy@assemblee-nationale.fr
@@ -2238,6 +2409,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de l'H\xE9rault"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
     email: julien.gabarron@assemblee-nationale.fr
@@ -2251,6 +2423,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de l'H\xE9rault"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
     email: aurelien.lopezliguori@assemblee-nationale.fr
@@ -2264,6 +2437,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription de l'H\xE9rault"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
     email: sylvain.carriere@assemblee-nationale.fr
@@ -2277,6 +2451,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription de l'H\xE9rault"
     circonscription_num: 09
     civ: M.
+    country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
     email: charles.alloncle@assemblee-nationale.fr
@@ -2290,6 +2465,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Ille-et-Vilaine"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Ille-et-Vilaine
     departement_num: '35'
     email: marie.mesmeur@assemblee-nationale.fr
@@ -2303,6 +2479,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Ille-et-Vilaine"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Ille-et-Vilaine
     departement_num: '35'
     email: tristan.lahais@assemblee-nationale.fr
@@ -2316,6 +2493,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Ille-et-Vilaine"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Ille-et-Vilaine
     departement_num: '35'
     email: claudia.rouaux@assemblee-nationale.fr
@@ -2329,6 +2507,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de l'Ille-et-Vilaine"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Ille-et-Vilaine
     departement_num: '35'
     email: mathilde.hignet@assemblee-nationale.fr
@@ -2342,6 +2521,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de l'Ille-et-Vilaine"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: Ille-et-Vilaine
     departement_num: '35'
     email: Christine.lenabour@assemblee-nationale.fr
@@ -2355,6 +2535,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de l'Ille-et-Vilaine"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Ille-et-Vilaine
     departement_num: '35'
     email: Thierry.Benoit@assemblee-nationale.fr
@@ -2368,6 +2549,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de l'Ille-et-Vilaine"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Ille-et-Vilaine
     departement_num: '35'
     email: jean-luc.bourgeaux@assemblee-nationale.fr
@@ -2381,6 +2563,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription de l'Ille-et-Vilaine"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Ille-et-Vilaine
     departement_num: '35'
     email: mickael.bouloux@assemblee-nationale.fr
@@ -2394,6 +2577,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Indre"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Indre
     departement_num: '36'
     email: Francois.Jolivet@assemblee-nationale.fr
@@ -2407,6 +2591,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Indre"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Indre
     departement_num: '36'
     email: alix.fruchon@assemblee-nationale.fr
@@ -2420,6 +2605,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Indre-et-Loire"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Indre-et-Loire
     departement_num: '37'
     email: charles.fournier@assemblee-nationale.fr
@@ -2433,6 +2619,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Indre-et-Loire"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Indre-et-Loire
     departement_num: '37'
     email: Daniel.Labaronne@assemblee-nationale.fr
@@ -2446,6 +2633,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Indre-et-Loire"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Indre-et-Loire
     departement_num: '37'
     email: henri.alfandari@assemblee-nationale.fr
@@ -2459,6 +2647,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de l'Indre-et-Loire"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Indre-et-Loire
     departement_num: '37'
     email: laurent.baumel@assemblee-nationale.fr
@@ -2472,6 +2661,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de l'Indre-et-Loire"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: Indre-et-Loire
     departement_num: '37'
     email: Sabine.Thillaye@assemblee-nationale.fr
@@ -2485,6 +2675,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Is\xE8re"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
     email: camille.galliard-minier@assemblee-nationale.fr
@@ -2498,6 +2689,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Is\xE8re"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
     email: cyrielle.chatelain@assemblee-nationale.fr
@@ -2511,6 +2703,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Is\xE8re"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
     email: elisa.martin@assemblee-nationale.fr
@@ -2524,6 +2717,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de l'Is\xE8re"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
     email: Marie-Noelle.Battistel@assemblee-nationale.fr
@@ -2537,6 +2731,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de l'Is\xE8re"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
     email: jeremie.iordanoff@assemblee-nationale.fr
@@ -2550,6 +2745,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de l'Is\xE8re"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
     email: alexis.jolly@assemblee-nationale.fr
@@ -2563,6 +2759,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de l'Is\xE8re"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
     email: yannick.neuder@assemblee-nationale.fr
@@ -2576,6 +2773,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription de l'Is\xE8re"
     circonscription_num: 08
     civ: Mme
+    country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
     email: hanane.mansouri@assemblee-nationale.fr
@@ -2589,6 +2787,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription de l'Is\xE8re"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
     email: sandrine.nosbe@assemblee-nationale.fr
@@ -2602,6 +2801,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription de l'Is\xE8re"
     circonscription_num: '10'
     civ: M.
+    country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
     email: thierry.perez@assemblee-nationale.fr
@@ -2615,6 +2815,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Jura"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Jura
     departement_num: '39'
     email: Danielle.Brulebois@assemblee-nationale.fr
@@ -2628,6 +2829,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Jura"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Jura
     departement_num: '39'
     email: marie-christine.dalloz390@orange.fr
@@ -2641,6 +2843,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Jura"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Jura
     departement_num: '39'
     email: justine.gruet@assemblee-nationale.fr
@@ -2654,6 +2857,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des Landes"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Landes
     departement_num: '40'
     email: genevieve.darrieussecq@assemblee-nationale.fr
@@ -2667,6 +2871,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des Landes"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Landes
     departement_num: '40'
     email: Lionel.Causse@assemblee-nationale.fr
@@ -2680,6 +2885,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription des Landes"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Landes
     departement_num: '40'
     email: Boris.Vallaud@assemblee-nationale.fr
@@ -2693,6 +2899,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Loir-et-Cher"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Loir-et-Cher
     departement_num: '41'
     email: marc.fesneau@assemblee-nationale.fr
@@ -2706,6 +2913,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Loir-et-Cher"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Loir-et-Cher
     departement_num: '41'
     email: roger.chudeau@assemblee-nationale.fr
@@ -2719,6 +2927,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Loir-et-Cher"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Loir-et-Cher
     departement_num: '41'
     email: christophe.marion@assemblee-nationale.fr
@@ -2732,6 +2941,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Loire"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Loire
     departement_num: '42'
     email: pierrick.courbon@assemblee-nationale.fr
@@ -2745,6 +2955,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Loire"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Loire
     departement_num: '42'
     email: andree.taurinya@assemblee-nationale.fr
@@ -2758,6 +2969,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Loire"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Loire
     departement_num: '42'
     email: emmanuel.mandon@assemblee-nationale.fr
@@ -2771,6 +2983,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Loire"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Loire
     departement_num: '42'
     email: deputee@bonnetsylvie.fr
@@ -2784,6 +2997,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la Loire"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Loire
     departement_num: '42'
     email: contact@antoinevermorel.fr
@@ -2797,6 +3011,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de la Loire"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Loire
     departement_num: '42'
     email: taite.bonnefoy.assemblee@gmail.com
@@ -2810,6 +3025,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Haute-Loire"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Haute-Loire
     departement_num: '43'
     email: laurent.wauquiez@assemblee-nationale.fr
@@ -2823,6 +3039,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Haute-Loire"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Haute-Loire
     departement_num: '43'
     email: Jean-Pierre.Vigier@assemblee-nationale.fr
@@ -2836,6 +3053,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Loire-Atlantique"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
     email: karim.benbrahim@assemblee-nationale.fr
@@ -2849,6 +3067,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Loire-Atlantique"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
     email: andy.kerbrat@assemblee-nationale.fr
@@ -2862,6 +3081,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Loire-Atlantique"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
     email: segolene.amiot@assemblee-nationale.fr
@@ -2875,6 +3095,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Loire-Atlantique"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
     email: julie.laernoes@assemblee-nationale.fr
@@ -2888,6 +3109,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la Loire-Atlantique"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
     email: fabrice.roussel@assemblee-nationale.fr
@@ -2901,6 +3123,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de la Loire-Atlantique"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
     email: jean-claude.raux@assemblee-nationale.fr
@@ -2914,6 +3137,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de la Loire-Atlantique"
     circonscription_num: '07'
     civ: Mme
+    country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
     email: Sandrine.Josso@assemblee-nationale.fr
@@ -2927,6 +3151,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription de la Loire-Atlantique"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
     email: matthias.tavel@assemblee-nationale.fr
@@ -2940,6 +3165,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription de la Loire-Atlantique"
     circonscription_num: 09
     civ: M.
+    country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
     email: jean-michel.brard@assemblee-nationale.fr
@@ -2953,6 +3179,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription de la Loire-Atlantique"
     circonscription_num: '10'
     civ: Mme
+    country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
     email: Sophie.Errante@assemblee-nationale.fr
@@ -2966,6 +3193,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Loiret"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Loiret
     departement_num: '45'
     email: emmanuel.duplessy@assemblee-nationale.fr
@@ -2979,6 +3207,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Loiret"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Loiret
     departement_num: '45'
     email: constance.depelichy@assemblee-nationale.fr
@@ -2992,6 +3221,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Loiret"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Loiret
     departement_num: '45'
     email: thomas.menage@assemblee-nationale.fr
@@ -3005,6 +3235,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Loiret"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Loiret
     departement_num: '45'
     email: anthony.brosse@assemblee-nationale.fr
@@ -3018,6 +3249,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Loiret"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Loiret
     departement_num: '45'
     email: Richard.Ramos@assemblee-nationale.fr
@@ -3031,6 +3263,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Lot"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Lot
     departement_num: '46'
     email: Aurelien.Pradie@assemblee-nationale.fr
@@ -3044,6 +3277,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Lot"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Lot
     departement_num: '46'
     email: christophe.proenca@assemblee-nationale.fr
@@ -3057,6 +3291,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Lot-et-Garonne"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Lot-et-Garonne
     departement_num: '47'
     email: Michel.Lauzzana@assemblee-nationale.fr
@@ -3070,6 +3305,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Lot-et-Garonne"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Lot-et-Garonne
     departement_num: '47'
     email: helene.laporte@assemblee-nationale.fr
@@ -3083,6 +3319,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Lot-et-Garonne"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Lot-et-Garonne
     departement_num: '47'
     email: guillaume.lepers@assemblee-nationale.fr
@@ -3096,6 +3333,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Loz\xE8re"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: "Loz\xE8re"
     departement_num: '48'
     email: sophie.pantel@assemblee-nationale.fr
@@ -3109,6 +3347,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Maine-et-Loire"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Maine-et-Loire
     departement_num: '49'
     email: francois.gernigon@assemblee-nationale.fr
@@ -3122,6 +3361,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Maine-et-Loire"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Maine-et-Loire
     departement_num: '49'
     email: Stella.Dupont@assemblee-nationale.fr
@@ -3135,6 +3375,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Maine-et-Loire"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Maine-et-Loire
     departement_num: '49'
     email: contact@annelaureblin.fr
@@ -3148,6 +3389,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Maine-et-Loire"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Maine-et-Loire
     departement_num: '49'
     email: Laetitia.Saint-Paul@assemblee-nationale.fr
@@ -3161,6 +3403,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Maine-et-Loire"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Maine-et-Loire
     departement_num: '49'
     email: Denis.Masseglia@assemblee-nationale.fr
@@ -3174,6 +3417,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Maine-et-Loire"
     circonscription_num: '06'
     civ: Mme
+    country: France
     departement_name: Maine-et-Loire
     departement_num: '49'
     email: Nicole.Dubre-Chirat@assemblee-nationale.fr
@@ -3187,6 +3431,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription du Maine-et-Loire"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Maine-et-Loire
     departement_num: '49'
     email: Philippe.Bolo@assemblee-nationale.fr
@@ -3200,6 +3445,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Manche"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Manche
     departement_num: '50'
     email: philippegosselin50@orange.fr
@@ -3213,6 +3459,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Manche"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Manche
     departement_num: '50'
     email: Bertrand.Sorre@assemblee-nationale.fr
@@ -3226,6 +3473,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Manche"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Manche
     departement_num: '50'
     email: Stephane.Travert@assemblee-nationale.fr
@@ -3239,6 +3487,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Manche"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Manche
     departement_num: '50'
     email: anna.pic@assemblee-nationale.fr
@@ -3252,6 +3501,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Marne"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Marne
     departement_num: '51'
     email: xavier.albertini@assemblee-nationale.fr
@@ -3265,6 +3515,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Marne"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Marne
     departement_num: '51'
     email: laure.miller@assemblee-nationale.fr
@@ -3278,6 +3529,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Marne"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Marne
     departement_num: '51'
     email: maxime.michelet@assemblee-nationale.fr
@@ -3291,6 +3543,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Marne"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Marne
     departement_num: '51'
     email: Lise.Magnier@assemblee-nationale.fr
@@ -3304,6 +3557,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la Marne"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Marne
     departement_num: '51'
     email: Charles.deCourson@assemblee-nationale.fr
@@ -3317,6 +3571,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Haute-Marne"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Haute-Marne
     departement_num: '52'
     email: christophe.bentz@assemblee-nationale.fr
@@ -3330,6 +3585,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Haute-Marne"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Haute-Marne
     departement_num: '52'
     email: laurence.robert-dehault@assemblee-nationale.fr
@@ -3343,6 +3599,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Mayenne"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Mayenne
     departement_num: '53'
     email: Guillaume.Garot@assemblee-nationale.fr
@@ -3356,6 +3613,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Mayenne"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Mayenne
     departement_num: '53'
     email: Geraldine.Bannier@assemblee-nationale.fr
@@ -3369,6 +3627,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Mayenne"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Mayenne
     departement_num: '53'
     email: Yannick.Favennec@assemblee-nationale.fr
@@ -3382,6 +3641,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de Meurthe-et-Moselle"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Meurthe-et-Moselle
     departement_num: '54'
     email: estelle.mercier@assemblee-nationale.fr
@@ -3395,6 +3655,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de Meurthe-et-Moselle"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Meurthe-et-Moselle
     departement_num: '54'
     email: stephane.hablot@assemblee-nationale.fr
@@ -3408,6 +3669,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de Meurthe-et-Moselle"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Meurthe-et-Moselle
     departement_num: '54'
     email: frederic.weber@assemblee-nationale.fr
@@ -3421,6 +3683,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de Meurthe-et-Moselle"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Meurthe-et-Moselle
     departement_num: '54'
     email: permanence.bazin@gmail.com
@@ -3434,6 +3697,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de Meurthe-et-Moselle"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Meurthe-et-Moselle
     departement_num: '54'
     email: Dominique.Potier@assemblee-nationale.fr
@@ -3447,6 +3711,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de Meurthe-et-Moselle"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Meurthe-et-Moselle
     departement_num: '54'
     email: anthony.boulogne@assemblee-nationale.fr
@@ -3460,6 +3725,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Meuse"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Meuse
     departement_num: '55'
     email: mamblard.servicepresse@gmail.com
@@ -3473,6 +3739,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Meuse"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Meuse
     departement_num: '55'
     email: florence.goulet@assemblee-nationale.fr
@@ -3486,6 +3753,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Morbihan"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Morbihan
     departement_num: '56'
     email: michel.criaud@assemblee-nationale.fr
@@ -3499,6 +3767,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Morbihan"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Morbihan
     departement_num: '56'
     email: Jimmy.Pahun@assemblee-nationale.fr
@@ -3512,6 +3781,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Morbihan"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Morbihan
     departement_num: '56'
     email: Nicole.LePeih@assemblee-nationale.fr
@@ -3525,6 +3795,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Morbihan"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Morbihan
     departement_num: '56'
     email: Paul.Molac@assemblee-nationale.fr
@@ -3538,6 +3809,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Morbihan"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Morbihan
     departement_num: '56'
     email: damien.girard@assemblee-nationale.fr
@@ -3551,6 +3823,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Morbihan"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Morbihan
     departement_num: '56'
     email: Jean-Michel.Jacques@assemblee-nationale.fr
@@ -3564,6 +3837,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Moselle"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Moselle
     departement_num: '57'
     email: Belkhir.Belhaddad@assemblee-nationale.fr
@@ -3577,6 +3851,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Moselle"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Moselle
     departement_num: '57'
     email: Ludovic.Mendes@assemblee-nationale.fr
@@ -3590,6 +3865,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Moselle"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Moselle
     departement_num: '57'
     email: nathalie.colin-oesterle@assemblee-nationale.fr
@@ -3603,6 +3879,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Moselle"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Moselle
     departement_num: '57'
     email: Fabien.DiFilippo@assemblee-nationale.fr
@@ -3616,6 +3893,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la Moselle"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Moselle
     departement_num: '57'
     email: pascal.jenft@assemblee-nationale.fr
@@ -3629,6 +3907,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de la Moselle"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Moselle
     departement_num: '57'
     email: kevin.pfeffer@assemblee-nationale.fr
@@ -3642,6 +3921,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de la Moselle"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Moselle
     departement_num: '57'
     email: alexandre.loubet@assemblee-nationale.fr
@@ -3655,6 +3935,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription de la Moselle"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Moselle
     departement_num: '57'
     email: laurent.jacobelli@assemblee-nationale.fr
@@ -3668,6 +3949,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription de la Moselle"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Moselle
     departement_num: '57'
     email: Isabelle.Rauch@assemblee-nationale.fr
@@ -3681,6 +3963,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Ni\xE8vre"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: "Ni\xE8vre"
     departement_num: '58'
     email: Perrine.Goulet@assemblee-nationale.fr
@@ -3694,6 +3977,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Ni\xE8vre"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: "Ni\xE8vre"
     departement_num: '58'
     email: julien.guibert@assemblee-nationale.fr
@@ -3707,6 +3991,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Nord"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: aurelien.lecoq@assemblee-nationale.fr
@@ -3720,6 +4005,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Nord"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: Ugo.Bernalicis@assemblee-nationale.fr
@@ -3733,6 +4019,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Nord"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: sandra.delannoy@assemblee-nationale.fr
@@ -3746,6 +4033,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Nord"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: Brigitte.Liso@assemblee-nationale.fr
@@ -3759,6 +4047,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Nord"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: sebastien.huyghe@assemblee-nationale.fr
@@ -3772,6 +4061,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Nord"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: jean.moulliere@assemblee-nationale.fr
@@ -3785,6 +4075,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription du Nord"
     circonscription_num: '07'
     civ: Mme
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: felicie.gerard@assemblee-nationale.fr
@@ -3798,6 +4089,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription du Nord"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: david.guiraud@assemblee-nationale.fr
@@ -3811,6 +4103,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription du Nord"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: violette.spillebout@assemblee-nationale.fr
@@ -3824,6 +4117,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription du Nord"
     circonscription_num: '10'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: Vincent.Ledoux@assemblee-nationale.fr
@@ -3837,6 +4131,7 @@ deputies:
     circonscription_name: "11\xE8me circonscription du Nord"
     circonscription_num: '11'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: rvicot.depute5911@gmail.com
@@ -3850,6 +4145,7 @@ deputies:
     circonscription_name: "12\xE8me circonscription du Nord"
     circonscription_num: '12'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: michael.taverne@assemblee-nationale.fr
@@ -3863,6 +4159,7 @@ deputies:
     circonscription_name: "13\xE8me circonscription du Nord"
     circonscription_num: '13'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: julien.gokel@assemblee-nationale.fr
@@ -3876,6 +4173,7 @@ deputies:
     circonscription_name: "14\xE8me circonscription du Nord"
     circonscription_num: '14'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: Paul.Christophe@assemblee-nationale.fr
@@ -3889,6 +4187,7 @@ deputies:
     circonscription_name: "15\xE8me circonscription du Nord"
     circonscription_num: '15'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: jean-pierre.bataille@assemblee-nationale.fr
@@ -3902,6 +4201,7 @@ deputies:
     circonscription_name: "16\xE8me circonscription du Nord"
     circonscription_num: '16'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: matthieu.marchio@assemblee-nationale.fr
@@ -3915,6 +4215,7 @@ deputies:
     circonscription_name: "17\xE8me circonscription du Nord"
     circonscription_num: '17'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: thierry.tesson.59@gmail.com
@@ -3928,6 +4229,7 @@ deputies:
     circonscription_name: "18\xE8me circonscription du Nord"
     circonscription_num: '18'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: alexandre.dufosset@assemblee-nationale.fr
@@ -3941,6 +4243,7 @@ deputies:
     circonscription_name: "19\xE8me circonscription du Nord"
     circonscription_num: '19'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: Sebastien.Chenu@assemblee-nationale.fr
@@ -3954,6 +4257,7 @@ deputies:
     circonscription_name: "20\xE8me circonscription du Nord"
     circonscription_num: '20'
     civ: M.
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: guillaume.florquin@assemblee-nationale.fr
@@ -3967,6 +4271,7 @@ deputies:
     circonscription_name: "21\xE8me circonscription du Nord"
     circonscription_num: '21'
     civ: Mme
+    country: France
     departement_name: Nord
     departement_num: '59'
     email: cabinet@valerieletard.org
@@ -3980,6 +4285,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Oise"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Oise
     departement_num: '60'
     email: claire.marais-beuil@assemblee-nationale.fr
@@ -3993,6 +4299,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Oise"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Oise
     departement_num: '60'
     email: permanence.ballard@gmail.com
@@ -4006,6 +4313,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Oise"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Oise
     departement_num: '60'
     email: permanence.sabatou@gmail.com
@@ -4019,6 +4327,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de l'Oise"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Oise
     departement_num: '60'
     email: Eric.Woerth@assemblee-nationale.fr
@@ -4032,6 +4341,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de l'Oise"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Oise
     departement_num: '60'
     email: fredericpierre.vos@assemblee-nationale.fr
@@ -4045,6 +4355,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de l'Oise"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Oise
     departement_num: '60'
     email: michel.guiniot@assemblee-nationale.fr
@@ -4058,6 +4369,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de l'Oise"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Oise
     departement_num: '60'
     email: david.magnier@assemblee-nationale.fr
@@ -4071,6 +4383,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Orne"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Orne
     departement_num: '61'
     email: chantal.jourdan@assemblee-nationale.fr
@@ -4084,6 +4397,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Orne"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Orne
     departement_num: '61'
     email: Veronique.Louwagie@assemblee-nationale.fr
@@ -4097,6 +4411,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Orne"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Orne
     departement_num: '61'
     email: Jerome.Nury@assemblee-nationale.fr
@@ -4110,6 +4425,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Pas-de-Calais"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
     email: emmanuel.blairy@assemblee-nationale.fr
@@ -4123,6 +4439,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Pas-de-Calais"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
     email: agnes.pannier-runacher@assemblee-nationale.fr
@@ -4136,6 +4453,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Pas-de-Calais"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
     email: bruno.clavet@assemblee-nationale.fr
@@ -4149,6 +4467,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Pas-de-Calais"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
     email: philippe.fait@assemblee-nationale.fr
@@ -4162,6 +4481,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Pas-de-Calais"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
     email: antoine.golliot@assemblee-nationale.fr
@@ -4175,6 +4495,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Pas-de-Calais"
     circonscription_num: '06'
     civ: Mme
+    country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
     email: christine.engrand@assemblee-nationale.fr
@@ -4188,6 +4509,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription du Pas-de-Calais"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
     email: marc.defleurian@assemblee-nationale.fr
@@ -4201,6 +4523,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription du Pas-de-Calais"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
     email: auguste.evrard@assemblee-nationale.fr
@@ -4214,6 +4537,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription du Pas-de-Calais"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
     email: caroline.parmentier@assemblee-nationale.fr
@@ -4227,6 +4551,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription du Pas-de-Calais"
     circonscription_num: '10'
     civ: M.
+    country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
     email: thierry.frappe@assemblee-nationale.fr
@@ -4240,6 +4565,7 @@ deputies:
     circonscription_name: "11\xE8me circonscription du Pas-de-Calais"
     circonscription_num: '11'
     civ: Mme
+    country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
     email: Marine.LePen@assemblee-nationale.fr
@@ -4253,6 +4579,7 @@ deputies:
     circonscription_name: "12\xE8me circonscription du Pas-de-Calais"
     circonscription_num: '12'
     civ: M.
+    country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
     email: Bruno.Bilde@assemblee-nationale.fr
@@ -4266,6 +4593,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Puy-de-D\xF4me"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: "Puy-de-D\xF4me"
     departement_num: '63'
     email: marianne.maximi@assemblee-nationale.fr
@@ -4279,6 +4607,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Puy-de-D\xF4me"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: "Puy-de-D\xF4me"
     departement_num: '63'
     email: cpbdeputee@gmail.com
@@ -4292,6 +4621,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Puy-de-D\xF4me"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: "Puy-de-D\xF4me"
     departement_num: '63'
     email: nicolas.bonnet@assemblee-nationale.fr
@@ -4305,6 +4635,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Puy-de-D\xF4me"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: "Puy-de-D\xF4me"
     departement_num: '63'
     email: delphine.lingemann@assemblee-nationale.fr
@@ -4318,6 +4649,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Puy-de-D\xF4me"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: "Puy-de-D\xF4me"
     departement_num: '63'
     email: julien.brugerolles@assemblee-nationale.fr
@@ -4331,6 +4663,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des Pyr\xE9n\xE9es-Atlantiques"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: "Pyr\xE9n\xE9es-Atlantiques"
     departement_num: '64'
     email: Josy.Poueyto@assemblee-nationale.fr
@@ -4344,6 +4677,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des Pyr\xE9n\xE9es-Atlantiques"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: "Pyr\xE9n\xE9es-Atlantiques"
     departement_num: '64'
     email: Jean-Paul.Mattei@assemblee-nationale.fr
@@ -4357,6 +4691,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription des Pyr\xE9n\xE9es-Atlantiques"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: "Pyr\xE9n\xE9es-Atlantiques"
     departement_num: '64'
     email: David.Habib@assemblee-nationale.fr
@@ -4370,6 +4705,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription des Pyr\xE9n\xE9es-Atlantiques"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: "Pyr\xE9n\xE9es-Atlantiques"
     departement_num: '64'
     email: inaki.echaniz@assemblee-nationale.fr
@@ -4383,6 +4719,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription des Pyr\xE9n\xE9es-Atlantiques"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: "Pyr\xE9n\xE9es-Atlantiques"
     departement_num: '64'
     email: colette.capdevielle@assemblee-nationale.fr
@@ -4396,6 +4733,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription des Pyr\xE9n\xE9es-Atlantiques"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: "Pyr\xE9n\xE9es-Atlantiques"
     departement_num: '64'
     email: peio.dufau@assemblee-nationale.fr
@@ -4409,6 +4747,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des Hautes-Pyr\xE9n\xE9es"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: "Hautes-Pyr\xE9n\xE9es"
     departement_num: '65'
     email: sylvie.ferrer@assemblee-nationale.fr
@@ -4422,6 +4761,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des Hautes-Pyr\xE9n\xE9es"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: "Hautes-Pyr\xE9n\xE9es"
     departement_num: '65'
     email: permanencedenisfegne@gmail.com
@@ -4435,6 +4775,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des Pyr\xE9n\xE9es-Orientales"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: "Pyr\xE9n\xE9es-Orientales"
     departement_num: '66'
     email: sophie.blanc@assemblee-nationale.fr
@@ -4448,6 +4789,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des Pyr\xE9n\xE9es-Orientales"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: "Pyr\xE9n\xE9es-Orientales"
     departement_num: '66'
     email: anais.sabatini@assemblee-nationale.fr
@@ -4461,6 +4803,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription des Pyr\xE9n\xE9es-Orientales"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: "Pyr\xE9n\xE9es-Orientales"
     departement_num: '66'
     email: sandrine.dogor-such@assemblee-nationale.fr
@@ -4474,6 +4817,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription des Pyr\xE9n\xE9es-Orientales"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: "Pyr\xE9n\xE9es-Orientales"
     departement_num: '66'
     email: michele.martinez@assemblee-nationale.fr
@@ -4487,6 +4831,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Bas-Rhin"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Bas-Rhin
     departement_num: '67'
     email: sandra.regol@assemblee-nationale.fr
@@ -4500,6 +4845,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Bas-Rhin"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Bas-Rhin
     departement_num: '67'
     email: emmanuel.fernandes@assemblee-nationale.fr
@@ -4513,6 +4859,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Bas-Rhin"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Bas-Rhin
     departement_num: '67'
     email: thierry.sother@assemblee-nationale.fr
@@ -4526,6 +4873,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Bas-Rhin"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Bas-Rhin
     departement_num: '67'
     email: francoise.buffet@assemblee-nationale.fr
@@ -4539,6 +4887,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Bas-Rhin"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Bas-Rhin
     departement_num: '67'
     email: charles.sitzenstuhl@assemblee-nationale.fr
@@ -4552,6 +4901,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Bas-Rhin"
     circonscription_num: '06'
     civ: Mme
+    country: France
     departement_name: Bas-Rhin
     departement_num: '67'
     email: louise.morel@assemblee-nationale.fr
@@ -4565,6 +4915,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription du Bas-Rhin"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Bas-Rhin
     departement_num: '67'
     email: Patrick.Hetzel@assemblee-nationale.fr
@@ -4578,6 +4929,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription du Bas-Rhin"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Bas-Rhin
     departement_num: '67'
     email: theo.bernhardt@assemblee-nationale.fr
@@ -4591,6 +4943,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription du Bas-Rhin"
     circonscription_num: 09
     civ: M.
+    country: France
     departement_name: Bas-Rhin
     departement_num: '67'
     email: Vincent.Thiebaut@assemblee-nationale.fr
@@ -4604,6 +4957,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Haut-Rhin"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Haut-Rhin
     departement_num: '68'
     email: brigitte.klinkert@assemblee-nationale.fr
@@ -4617,6 +4971,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Haut-Rhin"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Haut-Rhin
     departement_num: '68'
     email: hubert.ott@assemblee-nationale.fr
@@ -4630,6 +4985,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Haut-Rhin"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Haut-Rhin
     departement_num: '68'
     email: didier.lemaire@assemblee-nationale.fr
@@ -4643,6 +4999,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Haut-Rhin"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Haut-Rhin
     departement_num: '68'
     email: Raphael.Schellenberger@assemblee-nationale.fr
@@ -4656,6 +5013,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Haut-Rhin"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Haut-Rhin
     departement_num: '68'
     email: olivier.becht@assemblee-nationale.fr
@@ -4669,6 +5027,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Haut-Rhin"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Haut-Rhin
     departement_num: '68'
     email: Bruno.Fuchs@assemblee-nationale.fr
@@ -4682,6 +5041,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Rh\xF4ne"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: anais.belouassa@assemblee-nationale.fr
@@ -4695,6 +5055,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Rh\xF4ne"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: boris.tavernier@assemblee-nationale.fr
@@ -4708,6 +5069,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Rh\xF4ne"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: marie-charlotte.garin@assemblee-nationale.fr
@@ -4721,6 +5083,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Rh\xF4ne"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: sandrine.runel@mairie-lyon.fr
@@ -4734,6 +5097,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Rh\xF4ne"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: Blandine.Brocard@assemblee-nationale.fr
@@ -4747,6 +5111,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Rh\xF4ne"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: gabriel.amard@assemblee-nationale.fr
@@ -4760,6 +5125,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription du Rh\xF4ne"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: abdelkader.lahmar@assemblee-nationale.fr
@@ -4773,6 +5139,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription du Rh\xF4ne"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: jonathan.gery@assemblee-nationale.fr
@@ -4786,6 +5153,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription du Rh\xF4ne"
     circonscription_num: 09
     civ: M.
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: contact@alexandreportier.fr
@@ -4799,6 +5167,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription du Rh\xF4ne"
     circonscription_num: '10'
     civ: M.
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: Thomas.Gassilloud@assemblee-nationale.fr
@@ -4812,6 +5181,7 @@ deputies:
     circonscription_name: "11\xE8me circonscription du Rh\xF4ne"
     circonscription_num: '11'
     civ: M.
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: Jean-Luc.Fugit@assemblee-nationale.fr
@@ -4825,6 +5195,7 @@ deputies:
     circonscription_name: "12\xE8me circonscription du Rh\xF4ne"
     circonscription_num: '12'
     civ: M.
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: Cyrille.Isaac-Sibille@assemblee-nationale.fr
@@ -4838,6 +5209,7 @@ deputies:
     circonscription_name: "13\xE8me circonscription du Rh\xF4ne"
     circonscription_num: '13'
     civ: Mme
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: tiffany.joncour@assemblee-nationale.fr
@@ -4851,6 +5223,7 @@ deputies:
     circonscription_name: "14\xE8me circonscription du Rh\xF4ne"
     circonscription_num: '14'
     civ: M.
+    country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
     email: idir.boumertit@assemblee-nationale.fr
@@ -4864,6 +5237,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Haute-Sa\xF4ne"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "Haute-Sa\xF4ne"
     departement_num: '70'
     email: antoine.villedieu@assemblee-nationale.fr
@@ -4877,6 +5251,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Haute-Sa\xF4ne"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: "Haute-Sa\xF4ne"
     departement_num: '70'
     email: emeric.salmon@assemblee-nationale.fr
@@ -4890,6 +5265,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Sa\xF4ne-et-Loire"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "Sa\xF4ne-et-Loire"
     departement_num: '71'
     email: Benjamin.Dirx@assemblee-nationale.fr
@@ -4903,6 +5279,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Sa\xF4ne-et-Loire"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: "Sa\xF4ne-et-Loire"
     departement_num: '71'
     email: jcorneloup2circo71@outlook.fr
@@ -4916,6 +5293,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Sa\xF4ne-et-Loire"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: "Sa\xF4ne-et-Loire"
     departement_num: '71'
     email: aurelien.dutremble@assemblee-nationale.fr
@@ -4929,6 +5307,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Sa\xF4ne-et-Loire"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: "Sa\xF4ne-et-Loire"
     departement_num: '71'
     email: eric.michoux@assemblee-nationale.fr
@@ -4942,6 +5321,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la Sa\xF4ne-et-Loire"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: "Sa\xF4ne-et-Loire"
     departement_num: '71'
     email: lionel.duparay@assemblee-nationale.fr
@@ -4955,6 +5335,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Sarthe"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Sarthe
     departement_num: '72'
     email: cabinet.juliedelpech@gmail.com
@@ -4968,6 +5349,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Sarthe"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Sarthe
     departement_num: '72'
     email: Marietta.Karamanli@assemblee-nationale.fr
@@ -4981,6 +5363,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Sarthe"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Sarthe
     departement_num: '72'
     email: eric.martineau@assemblee-nationale.fr
@@ -4994,6 +5377,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Sarthe"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Sarthe
     departement_num: '72'
     email: elise.leboucher@assemblee-nationale.fr
@@ -5007,6 +5391,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la Sarthe"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Sarthe
     departement_num: '72'
     email: jcgrelier.depute@gmail.com
@@ -5020,6 +5405,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Savoie"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Savoie
     departement_num: '73'
     email: didier.padey@assemblee-nationale.fr
@@ -5033,6 +5419,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Savoie"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Savoie
     departement_num: '73'
     email: Vincent.Rolland@assemblee-nationale.fr
@@ -5046,6 +5433,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Savoie"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Savoie
     departement_num: '73'
     email: Emilie.Bonnivard@assemblee-nationale.fr
@@ -5059,6 +5447,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Savoie"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Savoie
     departement_num: '73'
     email: jean-francois.coulomme@assemblee-nationale.fr
@@ -5072,6 +5461,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Haute-Savoie"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Haute-Savoie
     departement_num: '74'
     email: Veronique.Riotton@assemblee-nationale.fr
@@ -5085,6 +5475,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Haute-Savoie"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Haute-Savoie
     departement_num: '74'
     email: antoine.armand@assemblee-nationale.fr
@@ -5098,6 +5489,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Haute-Savoie"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Haute-Savoie
     departement_num: '74'
     email: Virginie.Duby-Muller@assemblee-nationale.fr
@@ -5111,6 +5503,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la Haute-Savoie"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: Haute-Savoie
     departement_num: '74'
     email: anne-cecile.violland@assemblee-nationale.fr
@@ -5124,6 +5517,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de la Haute-Savoie"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Haute-Savoie
     departement_num: '74'
     email: Xavier.Roseren@assemblee-nationale.fr
@@ -5137,6 +5531,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de Paris"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: Sylvain.Maillard@assemblee-nationale.fr
@@ -5150,6 +5545,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de Paris"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: michel.barnier@assemblee-nationale.fr
@@ -5163,6 +5559,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de Paris"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: lea.balage@assemblee-nationale.fr
@@ -5176,6 +5573,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de Paris"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: astrid.panosyan-bouvet@assemblee-nationale.fr
@@ -5189,6 +5587,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de Paris"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: pouria.amirshahi@assemblee-nationale.fr
@@ -5202,6 +5601,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de Paris"
     circonscription_num: '06'
     civ: Mme
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: sophia.chikirou@assemblee-nationale.fr
@@ -5215,6 +5615,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de Paris"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: emmanuel.gregoire@assemblee-nationale.fr
@@ -5228,6 +5629,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription de Paris"
     circonscription_num: 08
     civ: Mme
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: eva.sas@assemblee-nationale.fr
@@ -5241,6 +5643,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription de Paris"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: sandrine.rousseau@assemblee-nationale.fr
@@ -5254,6 +5657,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription de Paris"
     circonscription_num: '10'
     civ: M.
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: rodrigo.arenas@assemblee-nationale.fr
@@ -5267,6 +5671,7 @@ deputies:
     circonscription_name: "11\xE8me circonscription de Paris"
     circonscription_num: '11'
     civ: Mme
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: celine.hervieu@assemblee-nationale.fr
@@ -5280,6 +5685,7 @@ deputies:
     circonscription_name: "12\xE8me circonscription de Paris"
     circonscription_num: '12'
     civ: Mme
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: oliviagregoire2017@gmail.com
@@ -5293,6 +5699,7 @@ deputies:
     circonscription_name: "13\xE8me circonscription de Paris"
     circonscription_num: '13'
     civ: Mme
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: catherine.ibled@assemblee-nationale.fr
@@ -5306,6 +5713,7 @@ deputies:
     circonscription_name: "14\xE8me circonscription de Paris"
     circonscription_num: '14'
     civ: Mme
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: josephine.missoffe@assemblee-nationale.fr
@@ -5319,6 +5727,7 @@ deputies:
     circonscription_name: "15\xE8me circonscription de Paris"
     circonscription_num: '15'
     civ: Mme
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: danielle.simonnet@assemblee-nationale.fr
@@ -5332,6 +5741,7 @@ deputies:
     circonscription_name: "16\xE8me circonscription de Paris"
     circonscription_num: '16'
     civ: Mme
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: sarah.legrain@assemblee-nationale.fr
@@ -5345,6 +5755,7 @@ deputies:
     circonscription_name: "17\xE8me circonscription de Paris"
     circonscription_num: '17'
     civ: Mme
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: Daniele.Obono@assemblee-nationale.fr
@@ -5358,6 +5769,7 @@ deputies:
     circonscription_name: "18\xE8me circonscription de Paris"
     circonscription_num: '18'
     civ: M.
+    country: France
     departement_name: Paris
     departement_num: '75'
     email: aymeric.caron@assemblee-nationale.fr
@@ -5371,6 +5783,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de Seine-Maritime"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Seine-Maritime
     departement_num: '76'
     email: florence.herouin-leautey@assemblee-nationale.fr
@@ -5384,6 +5797,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de Seine-Maritime"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Seine-Maritime
     departement_num: '76'
     email: Annie.Vidal@assemblee-nationale.fr
@@ -5397,6 +5811,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de Seine-Maritime"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Seine-Maritime
     departement_num: '76'
     email: edouard.benard@assemblee-nationale.fr
@@ -5410,6 +5825,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de Seine-Maritime"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Seine-Maritime
     departement_num: '76'
     email: alma.dufour@assemblee-nationale.fr
@@ -5423,6 +5839,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de Seine-Maritime"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Seine-Maritime
     departement_num: '76'
     email: gerard.leseul@assemblee-nationale.fr
@@ -5436,6 +5853,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de Seine-Maritime"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Seine-Maritime
     departement_num: '76'
     email: patrice.martin@assemblee-nationale.fr
@@ -5449,6 +5867,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de Seine-Maritime"
     circonscription_num: '07'
     civ: Mme
+    country: France
     departement_name: Seine-Maritime
     departement_num: '76'
     email: Agnes.FirminLeBodo@assemblee-nationale.fr
@@ -5462,6 +5881,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription de Seine-Maritime"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Seine-Maritime
     departement_num: '76'
     email: Jean-Paul.Lecoq@assemblee-nationale.fr
@@ -5475,6 +5895,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription de Seine-Maritime"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Seine-Maritime
     departement_num: '76'
     email: marieagnes.poussier-winsback@assemblee-nationale.fr
@@ -5488,6 +5909,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription de Seine-Maritime"
     circonscription_num: '10'
     civ: M.
+    country: France
     departement_name: Seine-Maritime
     departement_num: '76'
     email: robert.lebourgeois@assemblee-nationale.fr
@@ -5501,6 +5923,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de Seine-et-Marne"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
     email: arnaud.saint-martin@assemblee-nationale.fr
@@ -5514,6 +5937,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de Seine-et-Marne"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
     email: frederic.valletoux@assemblee-nationale.fr
@@ -5527,6 +5951,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de Seine-et-Marne"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
     email: Jean-Louis.Thieriot@assemblee-nationale.fr
@@ -5540,6 +5965,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de Seine-et-Marne"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
     email: julien.limongi@assemblee-nationale.fr
@@ -5553,6 +5979,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de Seine-et-Marne"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
     email: franck.riester@assemblee-nationale.fr
@@ -5566,6 +5993,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de Seine-et-Marne"
     circonscription_num: '06'
     civ: Mme
+    country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
     email: beatrice.roullaud@assemblee-nationale.fr
@@ -5579,6 +6007,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de Seine-et-Marne"
     circonscription_num: '07'
     civ: Mme
+    country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
     email: ersilia.soudais@assemblee-nationale.fr
@@ -5592,6 +6021,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription de Seine-et-Marne"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
     email: arnaud.bonnet@assemblee-nationale.fr
@@ -5605,6 +6035,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription de Seine-et-Marne"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
     email: celine.thiebault-martinez@assemblee-nationale.fr
@@ -5618,6 +6049,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription de Seine-et-Marne"
     circonscription_num: '10'
     civ: M.
+    country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
     email: maxime.laisney@assemblee-nationale.fr
@@ -5631,6 +6063,7 @@ deputies:
     circonscription_name: "11\xE8me circonscription de Seine-et-Marne"
     circonscription_num: '11'
     civ: M.
+    country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
     email: Olivier.Faure@assemblee-nationale.fr
@@ -5644,6 +6077,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des Yvelines"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Yvelines
     departement_num: '78'
     email: charles.rodwell@assemblee-nationale.fr
@@ -5657,6 +6091,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des Yvelines"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Yvelines
     departement_num: '78'
     email: anne.bergantz@assemblee-nationale.fr
@@ -5670,6 +6105,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription des Yvelines"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Yvelines
     departement_num: '78'
     email: Beatrice.Piron@assemblee-nationale.fr
@@ -5683,6 +6119,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription des Yvelines"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Yvelines
     departement_num: '78'
     email: Marie.Lebec@assemblee-nationale.fr
@@ -5696,6 +6133,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription des Yvelines"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: Yvelines
     departement_num: '78'
     email: Yael.Braun-Pivet@assemblee-nationale.fr
@@ -5709,6 +6147,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription des Yvelines"
     circonscription_num: '06'
     civ: Mme
+    country: France
     departement_name: Yvelines
     departement_num: '78'
     email: Natalia.Pouzyreff@assemblee-nationale.fr
@@ -5722,6 +6161,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription des Yvelines"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Yvelines
     departement_num: '78'
     email: aurelien.rousseau@assemblee-nationale.fr
@@ -5735,6 +6175,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription des Yvelines"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Yvelines
     departement_num: '78'
     email: benjamin.lucas@assemblee-nationale.fr
@@ -5748,6 +6189,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription des Yvelines"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Yvelines
     departement_num: '78'
     email: dieynaba.diop@assemblee-nationale.fr
@@ -5761,6 +6203,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription des Yvelines"
     circonscription_num: '10'
     civ: Mme
+    country: France
     departement_name: Yvelines
     departement_num: '78'
     email: anne-sophie.ronceret@assemblee-nationale.fr
@@ -5774,6 +6217,7 @@ deputies:
     circonscription_name: "11\xE8me circonscription des Yvelines"
     circonscription_num: '11'
     civ: M.
+    country: France
     departement_name: Yvelines
     departement_num: '78'
     email: laurent.mazaury@assemblee-nationale.fr
@@ -5787,6 +6231,7 @@ deputies:
     circonscription_name: "12\xE8me circonscription des Yvelines"
     circonscription_num: '12'
     civ: M.
+    country: France
     departement_name: Yvelines
     departement_num: '78'
     email: karl.olive@assemblee-nationale.fr
@@ -5800,6 +6245,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des Deux-S\xE8vres"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "Deux-S\xE8vres"
     departement_num: '79'
     email: bastien.marchive@assemblee-nationale.fr
@@ -5813,6 +6259,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des Deux-S\xE8vres"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: "Deux-S\xE8vres"
     departement_num: '79'
     email: Delphine.Batho@assemblee-nationale.fr
@@ -5826,6 +6273,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription des Deux-S\xE8vres"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: "Deux-S\xE8vres"
     departement_num: '79'
     email: Jean-Marie.Fievet@assemblee-nationale.fr
@@ -5839,6 +6287,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Somme"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Somme
     departement_num: '80'
     email: Francois.Ruffin@assemblee-nationale.fr
@@ -5852,6 +6301,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Somme"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Somme
     departement_num: '80'
     email: zahia.hamdane@assemblee-nationale.fr
@@ -5865,6 +6315,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Somme"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Somme
     departement_num: '80'
     email: matthias.renault@assemblee-nationale.fr
@@ -5878,6 +6329,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Somme"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Somme
     departement_num: '80'
     email: jean-philippe.tanguy@assemblee-nationale.fr
@@ -5891,6 +6343,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la Somme"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: Somme
     departement_num: '80'
     email: yael.menache@assemblee-nationale.fr
@@ -5904,6 +6357,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Tarn"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Tarn
     departement_num: '81'
     email: philippe.bonnecarrere@assemblee-nationale.fr
@@ -5917,6 +6371,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Tarn"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Tarn
     departement_num: '81'
     email: karen.erodi@assemblee-nationale.fr
@@ -5930,6 +6385,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Tarn"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Tarn
     departement_num: '81'
     email: Jean.Terlier@assemblee-nationale.fr
@@ -5943,6 +6399,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Tarn-et-Garonne"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Tarn-et-Garonne
     departement_num: '82'
     email: pierre-henri.carbonnel@assemblee-nationale.fr
@@ -5956,6 +6413,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Tarn-et-Garonne"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Tarn-et-Garonne
     departement_num: '82'
     email: marine.hamelet@assemblee-nationale.fr
@@ -5969,6 +6427,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Var"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Var
     departement_num: '83'
     email: yannick.chenevard@assemblee-nationale.fr
@@ -5982,6 +6441,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Var"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Var
     departement_num: '83'
     email: laure.lavalette@assemblee-nationale.fr
@@ -5995,6 +6455,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Var"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Var
     departement_num: '83'
     email: stephane.rambaud@assemblee-nationale.fr
@@ -6008,6 +6469,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Var"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Var
     departement_num: '83'
     email: philippe.lottiaux@assemblee-nationale.fr
@@ -6021,6 +6483,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Var"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: Var
     departement_num: '83'
     email: julie.lechanteux@assemblee-nationale.fr
@@ -6034,6 +6497,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Var"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Var
     departement_num: '83'
     email: frank.giletti@assemblee-nationale.fr
@@ -6047,6 +6511,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription du Var"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Var
     departement_num: '83'
     email: frederic.boccaletti@assemblee-nationale.fr
@@ -6060,6 +6525,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription du Var"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Var
     departement_num: '83'
     email: contact@philippe-schreck.fr
@@ -6073,6 +6539,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de Vaucluse"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Vaucluse
     departement_num: '84'
     email: raphael.arnault@assemblee-nationale.fr
@@ -6086,6 +6553,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de Vaucluse"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Vaucluse
     departement_num: '84'
     email: benedicte.auzanot@assemblee-nationale.fr
@@ -6099,6 +6567,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de Vaucluse"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Vaucluse
     departement_num: '84'
     email: herve.delepinau@assemblee-nationale.fr
@@ -6112,6 +6581,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de Vaucluse"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Vaucluse
     departement_num: '84'
     email: Marie-France.Lorho@assemblee-nationale.fr
@@ -6125,6 +6595,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de Vaucluse"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: Vaucluse
     departement_num: '84'
     email: catherine.rimbert@assemblee-nationale.fr
@@ -6138,6 +6609,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Vend\xE9e"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "Vend\xE9e"
     departement_num: '85'
     email: Philippe.Latombe@assemblee-nationale.fr
@@ -6151,6 +6623,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Vend\xE9e"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: "Vend\xE9e"
     departement_num: '85'
     email: beatrice.bellamy@assemblee-nationale.fr
@@ -6164,6 +6637,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Vend\xE9e"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: "Vend\xE9e"
     departement_num: '85'
     email: Stephane.Buchou@assemblee-nationale.fr
@@ -6177,6 +6651,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Vend\xE9e"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: "Vend\xE9e"
     departement_num: '85'
     email: veronique.besse@assemblee-nationale.fr
@@ -6190,6 +6665,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la Vend\xE9e"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: "Vend\xE9e"
     departement_num: '85'
     email: Pierre.Henriet@assemblee-nationale.fr
@@ -6203,6 +6679,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Vienne"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Vienne
     departement_num: '86'
     email: lisa.belluco@assemblee-nationale.fr
@@ -6216,6 +6693,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Vienne"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Vienne
     departement_num: '86'
     email: contact@sachahoulie.fr
@@ -6229,6 +6707,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Vienne"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Vienne
     departement_num: '86'
     email: pascal.lecamp@civray.fr
@@ -6242,6 +6721,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Vienne"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Vienne
     departement_num: '86'
     email: Nicolas.Turquois@assemblee-nationale.fr
@@ -6255,6 +6735,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Haute-Vienne"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Haute-Vienne
     departement_num: '87'
     email: damien.maudet@assemblee-nationale.fr
@@ -6268,6 +6749,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Haute-Vienne"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Haute-Vienne
     departement_num: '87'
     email: stephane.delautrette@assemblee-nationale.fr
@@ -6281,6 +6763,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Haute-Vienne"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Haute-Vienne
     departement_num: '87'
     email: manon.meunier@assemblee-nationale.fr
@@ -6294,6 +6777,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des Vosges"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Vosges
     departement_num: '88'
     email: Stephane.Viry@assemblee-nationale.fr
@@ -6307,6 +6791,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des Vosges"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Vosges
     departement_num: '88'
     email: gaetan.dussausaye@assemblee-nationale.fr
@@ -6320,6 +6805,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription des Vosges"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Vosges
     departement_num: '88'
     email: Christophe.Naegelen@assemblee-nationale.fr
@@ -6333,6 +6819,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription des Vosges"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Vosges
     departement_num: '88'
     email: sebastien.humbert@assemblee-nationale.fr
@@ -6346,6 +6833,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Yonne"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Yonne
     departement_num: '89'
     email: daniel.grenon@assemblee-nationale.fr
@@ -6359,6 +6847,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Yonne"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Yonne
     departement_num: '89'
     email: sophie-laurence.roy@assemblee-nationale.fr
@@ -6372,6 +6861,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Yonne"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Yonne
     departement_num: '89'
     email: julien.odoul@assemblee-nationale.fr
@@ -6385,6 +6875,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Territoire de Belfort"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Territoire de Belfort
     departement_num: '90'
     email: Ian.Boucard@assemblee-nationale.fr
@@ -6398,6 +6889,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Territoire de Belfort"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Territoire de Belfort
     departement_num: '90'
     email: guillaume.bigot@assemblee-nationale.fr
@@ -6411,6 +6903,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de l'Essonne"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Essonne
     departement_num: '91'
     email: farida.amrani@assemblee-nationale.fr
@@ -6424,6 +6917,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de l'Essonne"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Essonne
     departement_num: '91'
     email: nathalie.daconceicaocarvalho@assemblee-nationale.fr
@@ -6437,6 +6931,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de l'Essonne"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Essonne
     departement_num: '91'
     email: steevy.gustave@assemblee-nationale.fr
@@ -6450,6 +6945,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de l'Essonne"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Essonne
     departement_num: '91'
     email: mprixain.perm@orange.fr
@@ -6463,6 +6959,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de l'Essonne"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Essonne
     departement_num: '91'
     email: paul.midy@assemblee-nationale.fr
@@ -6476,6 +6973,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de l'Essonne"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Essonne
     departement_num: '91'
     email: jerome.guedj@assemblee-nationale.fr
@@ -6489,6 +6987,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de l'Essonne"
     circonscription_num: '07'
     civ: Mme
+    country: France
     departement_name: Essonne
     departement_num: '91'
     email: claire.lejeune@assemblee-nationale.fr
@@ -6502,6 +7001,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription de l'Essonne"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Essonne
     departement_num: '91'
     email: berenger.cernon@assemblee-nationale.fr
@@ -6515,6 +7015,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription de l'Essonne"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Essonne
     departement_num: '91'
     email: julie.ozenne@assemblee-nationale.fr
@@ -6528,6 +7029,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription de l'Essonne"
     circonscription_num: '10'
     civ: M.
+    country: France
     departement_name: Essonne
     departement_num: '91'
     email: antoine.leaument@assemblee-nationale.fr
@@ -6541,6 +7043,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription des Hauts-de-Seine"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
     email: Elsa.Faucillon@assemblee-nationale.fr
@@ -6554,6 +7057,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription des Hauts-de-Seine"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
     email: thomas.lam@assemblee-nationale.fr
@@ -6567,6 +7071,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription des Hauts-de-Seine"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
     email: philippe.juvin@assemblee-nationale.fr
@@ -6580,6 +7085,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription des Hauts-de-Seine"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
     email: sabrina.sebaihi@assemblee-nationale.fr
@@ -6593,6 +7099,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription des Hauts-de-Seine"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
     email: Celine.Calvez@assemblee-nationale.fr
@@ -6606,6 +7113,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription des Hauts-de-Seine"
     circonscription_num: '06'
     civ: Mme
+    country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
     email: Constance.LeGrip@assemblee-nationale.fr
@@ -6619,6 +7127,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription des Hauts-de-Seine"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
     email: pierre.cazeneuve@assemblee-nationale.fr
@@ -6632,6 +7141,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription des Hauts-de-Seine"
     circonscription_num: 08
     civ: Mme
+    country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
     email: prisca.thevenot@assemblee-nationale.fr
@@ -6645,6 +7155,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription des Hauts-de-Seine"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
     email: elisabeth.demaistre@assemblee-nationale.fr
@@ -6658,6 +7169,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription des Hauts-de-Seine"
     circonscription_num: '10'
     civ: M.
+    country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
     email: gabriel.attal@assemblee-nationale.fr
@@ -6671,6 +7183,7 @@ deputies:
     circonscription_name: "11\xE8me circonscription des Hauts-de-Seine"
     circonscription_num: '11'
     civ: M.
+    country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
     email: aurelien.saintoul@assemblee-nationale.fr
@@ -6684,6 +7197,7 @@ deputies:
     circonscription_name: "12\xE8me circonscription des Hauts-de-Seine"
     circonscription_num: '12'
     civ: M.
+    country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
     email: jean-didier.berger@assemblee-nationale.fr
@@ -6697,6 +7211,7 @@ deputies:
     circonscription_name: "13\xE8me circonscription des Hauts-de-Seine"
     circonscription_num: '13'
     civ: M.
+    country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
     email: christophe.mongardien@assemblee-nationale.fr
@@ -6710,6 +7225,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de Seine-Saint-Denis"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
     email: Eric.Coquerel@assemblee-nationale.fr
@@ -6723,6 +7239,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de Seine-Saint-Denis"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
     email: Stephane.Peu@assemblee-nationale.fr
@@ -6736,6 +7253,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de Seine-Saint-Denis"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
     email: thomas.portes@assemblee-nationale.fr
@@ -6749,6 +7267,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de Seine-Saint-Denis"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
     email: soumya.bourouaha@gmail.com
@@ -6762,6 +7281,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de Seine-Saint-Denis"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
     email: aly.diouara@assemblee-nationale.fr
@@ -6775,6 +7295,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de Seine-Saint-Denis"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
     email: Bastien.Lachaud@assemblee-nationale.fr
@@ -6788,6 +7309,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de Seine-Saint-Denis"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
     email: Alexis.Corbiere@assemblee-nationale.fr
@@ -6801,6 +7323,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription de Seine-Saint-Denis"
     circonscription_num: 08
     civ: Mme
+    country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
     email: fatiha.kelouahachi@assemblee-nationale.fr
@@ -6814,6 +7337,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription de Seine-Saint-Denis"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
     email: aurelie.trouve@assemblee-nationale.fr
@@ -6827,6 +7351,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription de Seine-Saint-Denis"
     circonscription_num: '10'
     civ: Mme
+    country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
     email: nadege.abomangoli@assemblee-nationale.fr
@@ -6840,6 +7365,7 @@ deputies:
     circonscription_name: "11\xE8me circonscription de Seine-Saint-Denis"
     circonscription_num: '11'
     civ: Mme
+    country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
     email: Clementine.Autain@assemblee-nationale.fr
@@ -6853,6 +7379,7 @@ deputies:
     circonscription_name: "12\xE8me circonscription de Seine-Saint-Denis"
     circonscription_num: '12'
     civ: M.
+    country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
     email: jerome.legavre@assemblee-nationale.fr
@@ -6866,6 +7393,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Val-de-Marne"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Val-de-Marne
     departement_num: '94'
     email: sylvain.berrios@assemblee-nationale.fr
@@ -6879,6 +7407,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Val-de-Marne"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Val-de-Marne
     departement_num: '94'
     email: clemence.guette@assemblee-nationale.fr
@@ -6892,6 +7421,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Val-de-Marne"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Val-de-Marne
     departement_num: '94'
     email: louis.boyard@assemblee-nationale.fr
@@ -6905,6 +7435,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Val-de-Marne"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: Val-de-Marne
     departement_num: '94'
     email: Maud.Petit@assemblee-nationale.fr
@@ -6918,6 +7449,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Val-de-Marne"
     circonscription_num: '05'
     civ: Mme
+    country: France
     departement_name: Val-de-Marne
     departement_num: '94'
     email: sandrine.lalanne@assemblee-nationale.fr
@@ -6931,6 +7463,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Val-de-Marne"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: Val-de-Marne
     departement_num: '94'
     email: guillaume.gouffier-valente@assemblee-nationale.fr
@@ -6944,6 +7477,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription du Val-de-Marne"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Val-de-Marne
     departement_num: '94'
     email: nicolas.tryzna@assemblee-nationale.fr
@@ -6957,6 +7491,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription du Val-de-Marne"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Val-de-Marne
     departement_num: '94'
     email: Michel.Herbillon@assemblee-nationale.fr
@@ -6970,6 +7505,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription du Val-de-Marne"
     circonscription_num: 09
     civ: Mme
+    country: France
     departement_name: Val-de-Marne
     departement_num: '94'
     email: isabelle.santiago@assemblee-nationale.fr
@@ -6983,6 +7519,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription du Val-de-Marne"
     circonscription_num: '10'
     civ: Mme
+    country: France
     departement_name: Val-de-Marne
     departement_num: '94'
     email: Mathilde.Panot@assemblee-nationale.fr
@@ -6996,6 +7533,7 @@ deputies:
     circonscription_name: "11\xE8me circonscription du Val-de-Marne"
     circonscription_num: '11'
     civ: Mme
+    country: France
     departement_name: Val-de-Marne
     departement_num: '94'
     email: sophie.taille-polian@assemblee-nationale.fr
@@ -7009,6 +7547,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription du Val-d'Oise"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Val-d'Oise
     departement_num: '95'
     email: anne.sicard@assemblee-nationale.fr
@@ -7022,6 +7561,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription du Val-d'Oise"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Val-d'Oise
     departement_num: '95'
     email: ayda.hadizadeh@assemblee-nationale.fr
@@ -7035,6 +7575,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription du Val-d'Oise"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Val-d'Oise
     departement_num: '95'
     email: emmanuel.maurel@assemblee-nationale.fr
@@ -7048,6 +7589,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription du Val-d'Oise"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Val-d'Oise
     departement_num: '95'
     email: benoit.blanchard@assemblee-nationale.fr
@@ -7061,6 +7603,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription du Val-d'Oise"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: Val-d'Oise
     departement_num: '95'
     email: paul.vannier@assemblee-nationale.fr
@@ -7074,6 +7617,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription du Val-d'Oise"
     circonscription_num: '06'
     civ: Mme
+    country: France
     departement_name: Val-d'Oise
     departement_num: '95'
     email: gabrielle.cathala@assemblee-nationale.fr
@@ -7087,6 +7631,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription du Val-d'Oise"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: Val-d'Oise
     departement_num: '95'
     email: romain.eskenazi@assemblee-nationale.fr
@@ -7100,6 +7645,7 @@ deputies:
     circonscription_name: "8\xE8me circonscription du Val-d'Oise"
     circonscription_num: 08
     civ: M.
+    country: France
     departement_name: Val-d'Oise
     departement_num: '95'
     email: carlosmartens.bilongo@assemblee-nationale.fr
@@ -7113,6 +7659,7 @@ deputies:
     circonscription_name: "9\xE8me circonscription du Val-d'Oise"
     circonscription_num: 09
     civ: M.
+    country: France
     departement_name: Val-d'Oise
     departement_num: '95'
     email: arnaud.legall@assemblee-nationale.fr
@@ -7126,6 +7673,7 @@ deputies:
     circonscription_name: "10\xE8me circonscription du Val-d'Oise"
     circonscription_num: '10'
     civ: M.
+    country: France
     departement_name: Val-d'Oise
     departement_num: '95'
     email: Aurelien.Tache@assemblee-nationale.fr
@@ -7139,6 +7687,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Guadeloupe"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Guadeloupe
     departement_num: '971'
     email: Olivier.Serva@assemblee-nationale.fr
@@ -7152,6 +7701,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Guadeloupe"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Guadeloupe
     departement_num: '971'
     email: christian.baptiste@assemblee-nationale.fr
@@ -7165,6 +7715,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Guadeloupe"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: Guadeloupe
     departement_num: '971'
     email: Max.Mathiasin@assemblee-nationale.fr
@@ -7178,6 +7729,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Guadeloupe"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Guadeloupe
     departement_num: '971'
     email: elie.califer@assemblee-nationale.fr
@@ -7191,6 +7743,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Martinique"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Martinique
     departement_num: '972'
     email: jiovanny.william@assemblee-nationale.fr
@@ -7204,6 +7757,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Martinique"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Martinique
     departement_num: '972'
     email: marcellin.nadeau@assemblee-nationale.fr
@@ -7217,6 +7771,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la Martinique"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: Martinique
     departement_num: '972'
     email: beatrice.bellay@assemblee-nationale.fr
@@ -7230,6 +7785,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la Martinique"
     circonscription_num: '04'
     civ: M.
+    country: France
     departement_name: Martinique
     departement_num: '972'
     email: Jean-Philippe.Nilor@assemblee-nationale.fr
@@ -7243,6 +7799,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la Guyane"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Guyane
     departement_num: '973'
     email: jean-victor.castor@assemblee-nationale.fr
@@ -7256,6 +7813,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la Guyane"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: Guyane
     departement_num: '973'
     email: davy.rimane@assemblee-nationale.fr
@@ -7269,6 +7827,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de la R\xE9union"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "R\xE9union"
     departement_num: '974'
     email: philippe.naillet@assemblee-nationale.fr
@@ -7282,6 +7841,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de la R\xE9union"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: "R\xE9union"
     departement_num: '974'
     email: karine.lebon@assemblee-nationale.fr
@@ -7295,6 +7855,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de la R\xE9union"
     circonscription_num: '03'
     civ: M.
+    country: France
     departement_name: "R\xE9union"
     departement_num: '974'
     email: joseph.riviere@assemblee-nationale.fr
@@ -7308,6 +7869,7 @@ deputies:
     circonscription_name: "4\xE8me circonscription de la R\xE9union"
     circonscription_num: '04'
     civ: Mme
+    country: France
     departement_name: "R\xE9union"
     departement_num: '974'
     email: emeline.kbidi@assemblee-nationale.fr
@@ -7321,6 +7883,7 @@ deputies:
     circonscription_name: "5\xE8me circonscription de la R\xE9union"
     circonscription_num: '05'
     civ: M.
+    country: France
     departement_name: "R\xE9union"
     departement_num: '974'
     email: Jean-Hugues.Ratenon@assemblee-nationale.fr
@@ -7334,6 +7897,7 @@ deputies:
     circonscription_name: "6\xE8me circonscription de la R\xE9union"
     circonscription_num: '06'
     civ: M.
+    country: France
     departement_name: "R\xE9union"
     departement_num: '974'
     email: frederic.maillot@assemblee-nationale.fr
@@ -7347,6 +7911,7 @@ deputies:
     circonscription_name: "7\xE8me circonscription de la R\xE9union"
     circonscription_num: '07'
     civ: M.
+    country: France
     departement_name: "R\xE9union"
     departement_num: '974'
     email: perceval.gaillard@assemblee-nationale.fr
@@ -7360,6 +7925,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de Saint-Pierre-et-Miquelon"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Saint-Pierre-et-Miquelon
     departement_num: '975'
     email: stephane.lenormand@assemblee-nationale.fr
@@ -7373,6 +7939,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de Mayotte"
     circonscription_num: '01'
     civ: Mme
+    country: France
     departement_name: Mayotte
     departement_num: '976'
     email: estelle.youssouffa@assemblee-nationale.fr
@@ -7386,6 +7953,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de Mayotte"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: Mayotte
     departement_num: '976'
     email: anchya.bamana@assemblee-nationale.fr
@@ -7399,6 +7967,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de Saint-Barth\xE9l\xE9my et Saint-Martin"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "Saint-Barth\xE9lemy et Saint-Martin"
     departement_num: '977'
     email: frantz.gumbs@assemblee-nationale.fr
@@ -7412,6 +7981,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de Wallis-et-Futuna"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: Wallis-et-Futuna
     departement_num: '986'
     email: mikaele.seo@assemblee-nationale.fr
@@ -7425,6 +7995,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de Polyn\xE9sie-Fran\xE7aise"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "Polyn\xE9sie Fran\xE7aise"
     departement_num: '987'
     email: moerani.frebault@assemblee-nationale.fr
@@ -7438,6 +8009,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de Polyn\xE9sie-Fran\xE7aise"
     circonscription_num: '02'
     civ: Mme
+    country: France
     departement_name: "Polyn\xE9sie Fran\xE7aise"
     departement_num: '987'
     email: sanquern@yahoo.fr
@@ -7451,6 +8023,7 @@ deputies:
     circonscription_name: "3\xE8me circonscription de Polyn\xE9sie-Fran\xE7aise"
     circonscription_num: '03'
     civ: Mme
+    country: France
     departement_name: "Polyn\xE9sie Fran\xE7aise"
     departement_num: '987'
     email: mereana.reidarbelot@assemblee-nationale.fr
@@ -7464,6 +8037,7 @@ deputies:
     circonscription_name: "1\xE8re circonscription de Nouvelle-Cal\xE9donie"
     circonscription_num: '01'
     civ: M.
+    country: France
     departement_name: "Nouvelle-Cal\xE9donie"
     departement_num: '988'
     email: nicolas.metzdorf@assemblee-nationale.fr
@@ -7477,6 +8051,7 @@ deputies:
     circonscription_name: "2\xE8me circonscription de Nouvelle-Cal\xE9donie"
     circonscription_num: '02'
     civ: M.
+    country: France
     departement_name: "Nouvelle-Cal\xE9donie"
     departement_num: '988'
     email: emmanuel.tjibaou@assemblee-nationale.fr
@@ -7487,4 +8062,4 @@ deputies:
     ref: PA842299
 metadata:
   count: 575
-  last_updated: '2026-01-12T02:05:26.248464'
+  last_updated: '2026-01-23T00:58:20.903964'
