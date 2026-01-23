@@ -1,4 +1,4 @@
-deputies:
+members:
   '101039':
     circonscription_code: ''
     circonscription_name: ''
@@ -10432,4 +10432,4 @@ deputies:
     ref: '99945'
 metadata:
   count: 735
-  last_updated: '2026-01-23T00:58:24.290096'
+  last_updated: '2026-01-23T11:08:37.887007'

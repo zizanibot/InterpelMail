@@ -1,4 +1,4 @@
-deputies:
+members:
   '0101':
     circonscription_code: '0101'
     circonscription_name: "1\xE8re circonscription de l'Ain"
@@ -8062,4 +8062,4 @@ deputies:
     ref: PA842299
 metadata:
   count: 575
-  last_updated: '2026-01-23T00:58:20.903964'
+  last_updated: '2026-01-23T11:08:33.711978'
