@@ -9,22 +9,33 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
-      - uses: actions/setup-python@v4
+      - name: Checkout main repo
+        uses: actions/checkout@v4
+
+      - name: Checkout yaml-updater tool
+        uses: actions/checkout@v4
+        with:
+          repository: capsaicine-dev/UpdateElectedDB
+          path: .tmp
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+
       - name: Install dependencies
-        run: make install
-      
+        run: make -C .tmp/UpdateElectedDB install
+
+      - name: Configure updater
+        run: echo "OUTPUT_FOLDER=data" > .tmp/UpdateElectedDB/.env
+
       - name: Update deputy data
-        run: make run
-      
+        run: make -C .tmp/UpdateElectedDB run
+
       - name: Commit changes
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add data/deputies.yaml
+          git add data/
           git diff --staged --quiet || git commit -m "Update deputies data"
           git push
