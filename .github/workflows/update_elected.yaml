@@ -18,6 +18,13 @@ jobs:
           repository: capsaicine-dev/UpdateElectedDB
           path: .tmp
 
+      - name: Setup PostgreSQL
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y postgresql postgresql-client
+          sudo service postgresql start
+          sudo -u postgres psql -c "ALTER USER postgres postgres 'postgres';"
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -27,7 +34,9 @@ jobs:
         run: make -C .tmp install
 
       - name: Configure updater
-        run: echo "OUTPUT_FOLDER=../data" > .tmp/.env
+        run: |
+          echo "OUTPUT_FOLDER=../data" > .tmp/.env
+          echo "POSTGRES_PASSWORD=postgres" >> .tmp/.env
 
       - name: Update deputy data
         run: make -C .tmp run
