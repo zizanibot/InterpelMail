@@ -1,37 +1,47 @@
 let circonscriptionsData = null;
 
 let selectedAddress = null;
-let selectedDeputies = [];
+let selectedElectedKey = null;
+let selectedElected = [];
 let locationInformation = null;
+let institutionInformation = null;
 
 let suggestionsTimer = null;
 
+const electedType = {}
 const addressData = {};
-const departements = {};
+let departements = null;
 
-document.addEventListener('DOMContentLoaded', async function() {
+document.addEventListener("DOMContentLoaded", async function() {
 
 	try {
-		const response = await fetch('geojson/circonscriptions-legislatives-p20.geojson');
+		const response = await fetch("geojson/circonscriptions-legislatives-p20.geojson");
 		circonscriptionsData = await response.json();
-		console.log('Circonscriptions loaded:', circonscriptionsData.features.length);
+		console.log("Circonscriptions loaded:", circonscriptionsData.features.length);
 	} catch (error) {
-		console.error('Error loading circonscriptions:', error);
-		alert('Erreur lors du chargement des données des circonscriptions');
+		console.error("Error loading circonscriptions:", error);
+		alert("Erreur lors du chargement des données des circonscriptions");
 	}
 
+	const departementsUnsorted = new Map();
 	// construct additional maps for selection
-	Object.values(window.siteData.deputies["deputies"]).forEach(deputy => {
-		if (deputy.departement_num && !departements[deputy.departement_num]) {
-			departements[deputy.departement_num] = deputy.departement_name;
+	Object.values(window.siteData.deputies).forEach(deputy => {
+		if (deputy.departement_num && !departementsUnsorted.get(deputy.departement_num)) {
+			departementsUnsorted.set(deputy.departement_num, deputy.departement_name);
 		}
 	});
+	// sort it
+	departements = new Map([...departementsUnsorted].sort((a, b) => a[1].localeCompare(b[1])));
 
-	const deps_select = document.getElementById('deps-select');
-	Object.entries(departements)
-		.sort((a, b) => a[1].localeCompare(b[1]))
-		.forEach(([num, name]) => {
-			const option = document.createElement('option');
+	electedType["deputies"] = window.siteData.deputies;
+	electedType["senators"] = window.siteData.senators;
+	electedType["europals"] = window.siteData.europals;
+	selectedElectedKey = "deputies";
+
+	const deps_select = document.getElementById("deps-select");
+	departements
+		.forEach((name, num, _) => {
+			const option = document.createElement("option");
 			option.value = num;
 			option.textContent = `${name} - ${num}`;
 			deps_select.appendChild(option);
@@ -39,96 +49,106 @@ document.addEventListener('DOMContentLoaded', async function() {
 		);
 
 	// Show campaign info when campaigns code selected
-	document.getElementById('campaign').addEventListener('change', function() {
+	document.getElementById("campaign").addEventListener("change", function() {
 		setCampaign(this.value);
 	});
 
 	// Show selection method
-	document.querySelectorAll('.tab-btn').forEach(btn => {
-		btn.addEventListener('click', () => {
-			resetData();
-			document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-			btn.classList.add('active');
+	document.querySelectorAll(".tab-headers").forEach(header => {
+		const children = header.children;
+		for (var i = 0; i < children.length; i++) {
+			const btn = children[i];
+			btn.addEventListener("click", () => {
+				resetData();
+				[...children].forEach(b => b.classList.remove("active"));
+				btn.classList.add("active");
 
-			document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
-			document.getElementById(btn.dataset.tab).classList.add('active');
-		});
+				const content = document.getElementById(btn.dataset.tab);
+				if (content) {
+					document.querySelectorAll(".tab-content").forEach(c => c.classList.remove("active"));
+					content.classList.add("active");
+				}
+
+				if (btn.dataset.value) {
+					selectedElectedKey = btn.dataset.value;
+				}
+			});
+		}
 	});
 
-	// Show deputy info
-	document.getElementById('find-deputy-address').addEventListener('click', findDeputyFromAddress);
-	document.getElementById('find-deputy-subdivision').addEventListener('click', function() {
+	// Show elected info
+	document.getElementById("find-elected-address").addEventListener("click", findElectedFromAddress);
+	document.getElementById("find-elected-subdivision").addEventListener("click", function() {
 		resetData();
-		findDeputiesFromSubdivision(deps_select.value);
+		findElectedFromSubdivision(deps_select.value);
 	});
 
-	document.getElementById('address').addEventListener('input', function(e) {
+	document.getElementById("address").addEventListener("input", function(e) {
 
-		const suggestions = document.getElementById('suggestions');
+		const suggestions = document.getElementById("suggestions");
 		resetData();
 		clearTimeout(suggestionsTimer);
 
 		if (e.target.value.length < 5) {
-			suggestions.style.display = 'none';
+			suggestions.style.display = "none";
 			return;
 		}
 
-		suggestions.style.display = 'block';
-		suggestions.className = 'loading';
-		suggestions.textContent = 'Recherche...';
+		suggestions.style.display = "block";
+		suggestions.className = "loading";
+		suggestions.textContent = "Recherche...";
 
 		suggestionsTimer = setTimeout(async () => {
 			try {
-				const searchedValue = document.getElementById('address').value.trim();
+				const searchedValue = document.getElementById("address").value.trim();
 				const results = await findAddresses(searchedValue);
 				displaySuggestions(results, suggestions);
 			} catch (error) {
-				const no_result = document.createElement('div');
+				const no_result = document.createElement("div");
 				no_result.className = "no-results";
 				no_result.textContent = "Erreur lors de la recherche d'adresses";
-				console.error('Error:', error);
+				console.error("Error:", error);
 			}
 		}, 500);
 	});
 
 	// hide suggestions
-	document.addEventListener('click', (e) => {
-		if (!e.target.closest('address-form')) {
-			suggestions.style.display = 'none';
+	document.addEventListener("click", (e) => {
+		if (!e.target.closest("address-form")) {
+			document.getElementById("suggestions").style.display = "none";
 		}
 	});
 
 	// Send email
-	document.getElementById('send-email').addEventListener('click', sendEmail);
+	document.getElementById("send-email").addEventListener("click", sendEmail);
 });
 
 function resetData() {
 
-	document.getElementById('deputy-info').style.display = 'none';
-	document.getElementById('send-email').style.display = 'none';
-	selectedDeputies = null;
-	selectedAddress = null;
+	document.getElementById("elected-info").style.display = "none";
+	document.getElementById("send-email").style.display = "none";
+	selectedElected = null;
 	locationInformation = null;
 
-	const deputy_filter = document.getElementById('deputy-filter');
-	while (deputy_filter.lastElementChild) {
-		deputy_filter.removeChild(deputy_filter.lastElementChild);
+	const elected_filter = document.getElementById("elected-filter");
+	while (elected_filter.lastElementChild) {
+		elected_filter.removeChild(elected_filter.lastElementChild);
 	}
 
 }
 
 function setCampaign(campaignKey) {
 
-	const campaignInfo = document.getElementById('campaign-info');
-	const desc = document.getElementById('desc');
+	const campaignInfo = document.getElementById("campaign-info");
+	const desc = document.getElementById("desc");
 
 	if (campaignKey) {
 		const campaign = window.siteData.campaigns[campaignKey];
 		campaignInfo.textContent = `${campaign.title} -- ${campaign.subject}`;
 		desc.innerHTML = campaign.description;
-		desc.style.display = 'block';
+		desc.style.display = "block";
 	} else {
-		desc.style.display = 'none';
+		desc.style.display = "none";
 		campaignInfo.textContent = "";
 	}
 }
@@ -136,15 +156,13 @@ function setCampaign(campaignKey) {
 async function findAddresses(input) {
 
 	try {
-		const geocodeUrl = `https://api-adresse.data.gouv.fr/search/?q=${encodeURIComponent(input)}&limit=5`;
+		const geocodeUrl = `https://data.geopf.fr/geocodage/search/?q=${encodeURIComponent(input)}&limit=5`;
 		const geocodeResponse = await fetch(geocodeUrl);
 		const geocodeData = await geocodeResponse.json();
 
-		console.log(geocodeData);
-
 		return geocodeData.features;
 	} catch (error) {
-		console.error('Error:', error);
+		console.error("Error:", error);
 	}
 }
 
@@ -152,7 +170,7 @@ function displaySuggestions(results, suggestions) {
 
 	Object.keys(addressData).forEach(key => delete addressData[key]);
 	if (results.length == 0) {
-		const no_result = document.createElement('div');
+		const no_result = document.createElement("div");
 		no_result.className = "no-results";
 		no_result.textContent = "Aucune adresse trouvée";
 		suggestions.replaceChildren(no_result);
@@ -169,7 +187,7 @@ function displaySuggestions(results, suggestions) {
 	suggestions.replaceChildren(
 		...results.map(
 			(elt, index) => {
-				const suggestion_item = document.createElement('div');
+				const suggestion_item = document.createElement("div");
 				suggestion_item.className = "suggestion-item";
 				suggestion_item.dataset.id = index;
 				suggestion_item.textContent = elt.properties.label;
@@ -178,8 +196,8 @@ function displaySuggestions(results, suggestions) {
 		)
 	);
 
-	document.querySelectorAll('.suggestion-item').forEach(elt => {
-		elt.addEventListener('click', () => {
+	document.querySelectorAll(".suggestion-item").forEach(elt => {
+		elt.addEventListener("click", () => {
 			selectAddress(elt.dataset.id);
 		});
 	});
@@ -192,110 +210,172 @@ function selectAddress(id) {
 	if (!selectedAddress) {
 		return;
 	}
-	const input = document.getElementById('address');
+	const input = document.getElementById("address");
 	input.value = selectedAddress.address;
-	document.getElementById('suggestions').style.display = 'none';
+	document.getElementById("suggestions").style.display = "none";
 }
 
-function displayDeputies(deputies) {
+function displayElected(electeds) {
 
-	const deputyInfo = document.getElementById('deputy-info');
-	const sendButton = document.getElementById('send-email');
+	const electedInfo = document.getElementById("elected-info");
+	const sendButton = document.getElementById("send-email");
 
-	const strong = document.createElement('strong');
-	strong.textContent = "Vos député.es sont :";
-	deputyInfo.replaceChildren(strong);
-	deputyInfo.insertAdjacentElement("beforeend", document.createElement('br'));
-	deputies.forEach(deputy => {
-		deputyInfo.insertAdjacentText("beforeend", `${deputy.first_name} ${deputy.last_name} (${deputy.group_abv} - ${deputy.circonscription_name})`);
-		deputyInfo.insertAdjacentElement("beforeend", document.createElement('br'));
+	const strong = document.createElement("strong");
+
+	let stringBuilder = "";
+	if (electeds.length == 1) {
+		stringBuilder += "Votre élu.e est :";
+
+	} else {
+		stringBuilder += "Vos élu.es sont :"
+	}
+	strong.textContent = stringBuilder;
+	electedInfo.replaceChildren(strong);
+	electedInfo.insertAdjacentElement("beforeend", document.createElement("br"));
+	electeds.forEach(elected => {
+		electedInfo.insertAdjacentText("beforeend", `${elected.first_name} ${elected.last_name} (`);
+		electedInfo.insertAdjacentElement("beforeend", createTooltipForGroup(elected.group_abv, elected.group_name));
+		electedInfo.insertAdjacentText("beforeend", ")");
+		electedInfo.insertAdjacentElement("beforeend", document.createElement("br"));
 	});
 
-	selectedDeputies = deputies;
-	deputyInfo.style.display = 'block';
-	sendButton.style.display = 'block';
+	selectedElected = electeds;
+	electedInfo.style.display = "block";
+	sendButton.style.display = "block";
 }
 
-async function findDeputyFromAddress() {
+async function findElectedFromAddress() {
 
 	if (!selectedAddress) {
-		alert('Veuillez sélectionner une adresse valide.');
+		alert("Veuillez sélectionner une adresse valide.");
 		return;
 	}
 
 	if (!circonscriptionsData) {
-		alert('Les données des circonscriptions ne sont pas encore chargées');
+		alert("Les données des circonscriptions ne sont pas encore chargées");
 		return;
 	}
 
 	try {
-
+		console.log(selectedAddress);
 		const coordinates = selectedAddress.coord;
-		console.log('Coordinates [lon, lat] found:', coordinates);
+		console.log("Coordinates [lon, lat] found:", coordinates);
 
 		const point = turf.point(coordinates);
-		let foundCirco = null;
+		let foundDivision = null;
 
 		for (const feature of circonscriptionsData.features) {
 			if (turf.booleanPointInPolygon(point, feature)) {
-				foundCirco = feature;
+				foundDivision = feature;
 				break;
 			}
 		}
 
-		if (!foundCirco) {
-			throw new Error('Circonscription non trouvée pour cette adresse');
-		}
-		const circoCode = foundCirco.properties.codeCirconscription;
-		console.log('Circo found:', circoCode);
-
-		const deputy = window.siteData.deputies["deputies"][circoCode];
-
-		if (!deputy) {
-			throw new Error(`Député.e non trouvé pour la circonscription ${circoCode}`);
+		if (!foundDivision) {
+			throw new Error("Division administrative non trouvée pour cette adresse");
 		}
 
-		locationInformation = `la ${deputy.circonscription_name}`;
-		displayDeputies([deputy]);
+		let code = null;
+		let electeds = null;
+		const allElecteds = electedType[selectedElectedKey];
+
+		switch (selectedElectedKey) {
+			case "deputies":
+				code = foundDivision.properties.codeCirconscription;
+				electeds = [allElecteds[code]];
+				if (!electeds || electeds.length == 0) {
+					throw new Error(`Député.e non trouvé.e pour la circonscription ${code}`);
+				}
+				locationInformation = `la ${electeds[0].circonscription_name}`;
+				institutionInformation = "l'assemblée nationale";
+				break;
+			case "senators":
+				code = foundDivision.properties.codeDepartement;
+				electeds = Object.values(allElecteds).filter(elected => elected.departement_num == code);
+				if (!electeds || electeds.length == 0) {
+					throw new Error(`Sénateur.rices non trouvé.es pour le département ${code}`);
+				}
+				locationInformation = electeds[0].departement_name;
+				institutionInformation = "le sénat";
+				break;
+			case "europals":
+				break;
+
+			default:
+				throw new Error(`Invalid key ${selectedElectedKey}`);
+		}
+
+		if (electeds.length > 1) createGroupFilterForDepartement(electeds, code);
+		displayElected(electeds);
 	} catch (error) {
-		console.error('Error:', error);
+		console.error("Error:", error);
 		alert(`Erreur: ${error.message}`);
 	}
 }
 
-function findDeputiesFromSubdivision(depKey) {
+function findElectedFromSubdivision(depKey) {
 
 	if (!depKey) {
-		alert('Veuillez sélectionner un département valide.');
+		alert("Veuillez sélectionner un département valide.");
 		return;
 	}
-	const deputies = Object.values(window.siteData.deputies["deputies"]).filter(deputy => deputy.departement_num == depKey);
+	const allElecteds = electedType[selectedElectedKey];
+	const electeds = Object.values(allElecteds).filter(elected => elected.departement_num == depKey);
 
-	if (!deputies) {
-		throw new Error(`Député.es non trouvé pour le département ${depKey}`);
+	if (!electeds || electeds.length == 0) {
+		throw new Error(`Elu.es non trouvé pour le département ${depKey}`);
 	}
 
-	let groups = {}
-	Object.values(deputies).forEach(deputy => {
-		if (deputy.group_abv && !groups[deputy.group_abv]) {
-			groups[deputy.group_abv] = deputy.group_name;
+	locationInformation = electeds[0].departement_name;
+
+	switch (selectedElectedKey) {
+		case "deputies":
+			institutionInformation = "l'assemblée nationale";
+			break;
+		case "senators":
+			institutionInformation = "le sénat";
+			break;
+		case "europals":
+			break;
+
+		default:
+			throw new Error(`Invalid key ${selectedElectedKey}`);
+	}
+
+	if (electeds.length > 1) createGroupFilterForDepartement(electeds, depKey);
+	displayElected(electeds);
+}
+
+function createGroupFilterForDepartement(electeds, depKey) {
+	// find all groups
+	const groups = new Map();
+	Object.values(electeds).forEach(elected => {
+		if (elected.group_abv && !groups.get(elected.group_abv)) {
+			groups.set(elected.group_abv, elected.group_name);
 		}
 	});
 
-	const deputy_filter = document.getElementById('deputy-filter');
-	while (deputy_filter.lastElementChild) {
-		deputy_filter.removeChild(deputy_filter.lastElementChild);
+	// clean old filters
+	const electedFilter = document.getElementById("elected-filter");
+	while (electedFilter.lastElementChild) {
+		electedFilter.removeChild(electedFilter.lastElementChild);
 	}
-	Object.entries(groups)
-		.sort((a, b) => a[1].localeCompare(b[1]))
-		.forEach(([abv, _]) => {
-			const label = document.createElement('label');
-			label.className = 'deputy-filter-element';
-			const input = document.createElement('input');
-			input.type = 'checkbox';
+
+	// no filter if no group or only one
+	if (groups.size <= 1) {
+		return;
+	}
+
+	// for each group create a filter
+	groups
+		.forEach((name, abv, _) => {
+			const label = document.createElement("label");
+			label.className = "elected-filter-element";
+			const input = document.createElement("input");
+			input.type = "checkbox";
 			input.value = abv;
 			input.checked = "true";
-			input.addEventListener('change', function() {
+			input.addEventListener("change", function() {
 				if (this.checked) {
 					AddGroup(depKey, this.value);
 				} else {
@@ -303,48 +383,62 @@ function findDeputiesFromSubdivision(depKey) {
 				}
 			});
 			label.appendChild(input);
-			label.appendChild(document.createTextNode(abv));
+			label.appendChild(createTooltipForGroup(abv, name));
 			label.style.textAlign = "center";
-			deputy_filter.appendChild(label);
+			electedFilter.appendChild(label);
 		}
 		);
+}
 
-	locationInformation = deputies[0].departement_name;
-	displayDeputies(deputies);
+function createTooltipForGroup(groupAbv, groupName) {
+	const textWitTooltip = document.createElement("div");
+	textWitTooltip.className = "tooltip";
+	const toolTipText = document.createElement("span");
+	toolTipText.className = "tooltiptext";
+
+	toolTipText.appendChild(document.createTextNode(groupName));
+	textWitTooltip.appendChild(document.createTextNode(groupAbv));
+	textWitTooltip.appendChild(toolTipText);
+
+	return textWitTooltip;
 }
 
 function RemoveGroup(groupKey) {
-	const deputies = selectedDeputies.filter(deputy => deputy.group_abv != groupKey);
-	displayDeputies(deputies);
+	const electeds = selectedElected.filter(elected => elected.group_abv != groupKey);
+	displayElected(electeds);
 }
 
 function AddGroup(depKey, groupKey) {
-	const newDeputies = Object.values(window.siteData.deputies["deputies"])
-		.filter(deputy => deputy.group_abv == groupKey && deputy.departement_num == depKey);
+	const allElecteds = electedType[selectedElectedKey];
+	const newElecteds = Object.values(allElecteds)
+		.filter(elected => elected.group_abv == groupKey && elected.departement_num == depKey);
 
-	displayDeputies(selectedDeputies.concat(newDeputies));
+	displayElected(selectedElected.concat(newElecteds));
 }
 
 function sendEmail() {
-	const campaignKey = document.getElementById('campaign').value;
+	const campaignKey = document.getElementById("campaign").value;
 
 	if (!campaignKey) {
-		alert('Veuillez sélectionner une campagne');
+		alert("Veuillez sélectionner une campagne");
 		return;
 	}
 
-	if (selectedDeputies.length == 0) {
-		alert('Veuillez d\'abord trouver au moins un.e député.e');
+	if (selectedElected.length == 0) {
+		alert("Veuillez d\"abord trouver au moins un.e élu.e");
 		return;
 	}
 
 	const campaign = window.siteData.campaigns[campaignKey];
-	const names = selectedDeputies.map(deputy => `${deputy.civ} ${deputy.first_name} ${deputy.last_name}`).join(', ');
+	const names = selectedElected.map(elected => `${elected.civ} ${elected.first_name} ${elected.last_name}`).join(", ");
 	const body = campaign.body
 		.replace("[CIRCONSCRIPTION]", locationInformation) // temp
-		.replace("[DEPUTE]", names);
+		.replace("[ELU]", names)
+		.replace("[INSTITUTION]", institutionInformation);
 
-	const mailtoLink = `mailto:${selectedDeputies.map(deputy => deputy.email).join(',')}?subject=${encodeURIComponent(campaign.subject)}&body=${encodeURIComponent(body)}`;
+	const mailtoLink = `mailto:${selectedElected
+		.map(elected => elected.email)
+		.join(",")}?subject=${encodeURIComponent(campaign.subject)}&body=${encodeURIComponent(body)}`;
 
 	window.location.href = mailtoLink;
 }

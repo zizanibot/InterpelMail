@@ -25,39 +25,48 @@
         </select>
     </div>
 
+	<!-- Tab Headers -->
+    <div class="tab-headers">
+		<button class="tab-btn active" data-value="deputies">Député.es</button>
+		<button class="tab-btn" data-value="senators">Sénateur.rices</button>
+    </div>
+
     <!-- Tab Headers -->
     <div class="tab-headers">
-	<button class="tab-btn active" data-tab="address-form">Votre député.e</button>
-	<button class="tab-btn" data-tab="subdivision">Les député.es du département</button>
+		<button class="tab-btn active" data-tab="address-form">Vos élu.es</button>
+		<button class="tab-btn" data-tab="subdivision">Les élu.es du département</button>
     </div>
 
     <!-- Tab Content -->
     <div class="tab-contents">
-	<div class="tab-content active" id="address-form">
-	    <input type="text" id="address" placeholder="Entrez ici l'adresse de votre domicile" maxlength="50">
-	    <div id="suggestions"></div> 
-	    <button class="find-deputy" id="find-deputy-address" type="button">Trouvez votre député.e</button>
-	</div>
+		<div class="tab-content active" id="address-form">
+	    	<input type="text" id="address" placeholder="Entrez ici l'adresse de votre domicile" maxlength="50">
+	    	<div id="suggestions"></div> 
+	    	<button class="find-elected" id="find-elected-address" type="button">Trouvez vos élu.es</button>
+		</div>
 
-	<div class="tab-content" id="subdivision">
-	    <select id="deps-select">
-		<option value="">Sélectionnez un département</option>
-	    </select>
-	    <button class="find-deputy" id="find-deputy-subdivision" type="button">Trouvez les député.es</button>
-
-		<div id="deputy-filter"></div>
-	</div>
-
+		<div class="tab-content" id="subdivision">
+	    	<select id="deps-select">
+				<option value="">Sélectionnez un département</option>
+	    	</select>
+	    	<button class="find-elected" id="find-elected-subdivision" type="button">Trouvez les élu.es</button>
+		</div>
     </div>
-
-    <div id="deputy-info"></div>
+	
+	<div id="elected-filter"></div>
+	<div id="elected-info"></div>
     <button id="send-email" style="display:none;">Interpeler !</button>
     <div id="desc"></div>
 
     <script>
+        deputies = {{ .Site.Data.deputies | jsonify | safeJS }};
+        senators = {{ .Site.Data.senat | jsonify | safeJS }};
+        europals = {{ .Site.Data.europarl | jsonify | safeJS }};
         window.siteData = {
             campaigns: {{ .Site.Data.campaigns | jsonify | safeJS }},
-            deputies: {{ .Site.Data.deputies | jsonify | safeJS }}
+			deputies: deputies["members"],
+			senators: senators["members"],
+			europals: europals["members"],
         };
     </script>
 
