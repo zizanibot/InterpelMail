@@ -7,7 +7,7 @@ members:
     country: France
     departement_name: Haute-Marne
     departement_num: '52'
-    email: ''
+    email: b.sido@senat.fr
     first_name: Bruno
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -21,7 +21,7 @@ members:
     country: France
     departement_name: Nord
     departement_num: '59'
-    email: ''
+    email: mp.daubresse@senat.fr
     first_name: Marc-Philippe
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -35,7 +35,7 @@ members:
     country: France
     departement_name: "Vend\xE9e"
     departement_num: '85'
-    email: ''
+    email: b.retailleau@senat.fr
     first_name: Bruno
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -49,7 +49,7 @@ members:
     country: France
     departement_name: Val-de-Marne
     departement_num: '94'
-    email: ''
+    email: c.cambon@senat.fr
     first_name: Christian
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -63,7 +63,7 @@ members:
     country: France
     departement_name: Haut-Rhin
     departement_num: '68'
-    email: ''
+    email: p.schillinger@senat.fr
     first_name: Patricia
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -78,7 +78,7 @@ members:
     country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
-    email: ''
+    email: fn.buffet@senat.fr
     first_name: "Fran\xE7ois-No\xEBl"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -92,7 +92,7 @@ members:
     country: France
     departement_name: Seine-Maritime
     departement_num: '76'
-    email: ''
+    email: c.morin-desailly@senat.fr
     first_name: Catherine
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -106,7 +106,7 @@ members:
     country: France
     departement_name: Vaucluse
     departement_num: '84'
-    email: ''
+    email: a.milon@senat.fr
     first_name: Alain
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -120,7 +120,7 @@ members:
     country: France
     departement_name: Cher
     departement_num: '18'
-    email: ''
+    email: r.pointereau@senat.fr
     first_name: "R\xE9my"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -134,7 +134,7 @@ members:
     country: France
     departement_name: Orne
     departement_num: '61'
-    email: ''
+    email: n.goulet@senat.fr
     first_name: Nathalie
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -148,7 +148,7 @@ members:
     country: France
     departement_name: Ardennes
     departement_num: 08
-    email: ''
+    email: m.lamenie@senat.fr
     first_name: Marc
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -162,7 +162,7 @@ members:
     country: France
     departement_name: Paris
     departement_num: '75'
-    email: ''
+    email: c.dumas@senat.fr
     first_name: Catherine
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -176,7 +176,7 @@ members:
     country: France
     departement_name: Eure
     departement_num: '27'
-    email: ''
+    email: h.maurey@senat.fr
     first_name: "Herv\xE9"
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -190,7 +190,7 @@ members:
     country: France
     departement_name: Aisne
     departement_num: '02'
-    email: ''
+    email: a.lefevre@senat.fr
     first_name: Antoine
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -204,7 +204,7 @@ members:
     country: France
     departement_name: Eure-et-Loir
     departement_num: '28'
-    email: ''
+    email: a.de-montgolfier@senat.fr
     first_name: "Alb\xE9ric"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -218,7 +218,7 @@ members:
     country: France
     departement_name: Creuse
     departement_num: '23'
-    email: ''
+    email: jjlozach@jjlozach.fr
     first_name: Jean-Jacques
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -232,7 +232,7 @@ members:
     country: France
     departement_name: Charente-Maritime
     departement_num: '17'
-    email: ''
+    email: cab.daniel.laurent@orange.fr
     first_name: Daniel
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -246,7 +246,7 @@ members:
     country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 2)"
     departement_num: '997'
-    email: ''
+    email: c.frassa@senat.fr
     first_name: "Christophe-Andr\xE9"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -260,7 +260,7 @@ members:
     country: France
     departement_name: Haute-Garonne
     departement_num: '31'
-    email: ''
+    email: a.chatillon@senat.fr
     first_name: Alain
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -274,7 +274,7 @@ members:
     country: France
     departement_name: Ille-et-Vilaine
     departement_num: '35'
-    email: ''
+    email: d.de-legge@senat.fr
     first_name: Dominique
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -288,7 +288,7 @@ members:
     country: France
     departement_name: "Finist\xE8re"
     departement_num: '29'
-    email: ''
+    email: jl.fichet@senat.fr
     first_name: Jean-Luc
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -302,7 +302,7 @@ members:
     country: France
     departement_name: "Finist\xE8re"
     departement_num: '29'
-    email: ''
+    email: p.paul@senat.fr
     first_name: Philippe
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -316,7 +316,7 @@ members:
     country: France
     departement_name: Ain
     departement_num: '01'
-    email: ''
+    email: s.goy-chavent@senat.fr
     first_name: Sylvie
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -330,7 +330,7 @@ members:
     country: France
     departement_name: Charente
     departement_num: '16'
-    email: ''
+    email: n.bonnefoy@senat.fr
     first_name: Nicole
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -344,7 +344,7 @@ members:
     country: France
     departement_name: "C\xF4te-d'Or"
     departement_num: '21'
-    email: ''
+    email: f.patriat@senat.fr
     first_name: "Fran\xE7ois"
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -359,7 +359,7 @@ members:
     country: France
     departement_name: "C\xF4te-d'Or"
     departement_num: '21'
-    email: ''
+    email: a.houpert@senat.fr
     first_name: Alain
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -373,7 +373,7 @@ members:
     country: France
     departement_name: Guyane
     departement_num: '973'
-    email: ''
+    email: g.patient@senat.fr
     first_name: Georges
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -388,7 +388,7 @@ members:
     country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 1)"
     departement_num: '998'
-    email: ''
+    email: h.conway-mouret@senat.fr
     first_name: "H\xE9l\xE8ne"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -402,7 +402,7 @@ members:
     country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
-    email: ''
+    email: m.savin@senat.fr
     first_name: Michel
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -416,7 +416,7 @@ members:
     country: France
     departement_name: Val-de-Marne
     departement_num: '94'
-    email: ''
+    email: l.rossignol@senat.fr
     first_name: Laurence
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -430,7 +430,7 @@ members:
     country: France
     departement_name: Meurthe-et-Moselle
     departement_num: '54'
-    email: ''
+    email: jf.husson@senat.fr
     first_name: "Jean-Fran\xE7ois"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -444,7 +444,7 @@ members:
     country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
-    email: ''
+    email: v.capo-canellas@senat.fr
     first_name: Vincent
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -458,7 +458,7 @@ members:
     country: France
     departement_name: Loire
     departement_num: '42'
-    email: ''
+    email: c.cukierman@senat.fr
     first_name: "C\xE9cile"
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -472,7 +472,7 @@ members:
     country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
-    email: ''
+    email: r.dantec@senat.fr
     first_name: Ronan
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -486,7 +486,7 @@ members:
     country: France
     departement_name: Essonne
     departement_num: '91'
-    email: ''
+    email: v.delahaye@senat.fr
     first_name: Vincent
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -500,7 +500,7 @@ members:
     country: France
     departement_name: Mayotte
     departement_num: '976'
-    email: ''
+    email: t.mohamed-soilihi@senat.fr
     first_name: Thani
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -515,7 +515,7 @@ members:
     country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
-    email: ''
+    email: v.eble@senat.fr
     first_name: Vincent
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -529,7 +529,7 @@ members:
     country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
-    email: ''
+    email: h.marseille@senat.fr
     first_name: "Herv\xE9"
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -543,7 +543,7 @@ members:
     country: France
     departement_name: Yvelines
     departement_num: '78'
-    email: ''
+    email: s.primas@senat.fr
     first_name: Sophie
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -557,7 +557,7 @@ members:
     country: France
     departement_name: "Pyr\xE9n\xE9es-Atlantiques"
     departement_num: '64'
-    email: ''
+    email: f.espagnac@senat.fr
     first_name: "Fr\xE9d\xE9rique"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -571,7 +571,7 @@ members:
     country: France
     departement_name: Oise
     departement_num: '60'
-    email: ''
+    email: e.courtial@senat.fr
     first_name: "\xC9douard"
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -585,7 +585,7 @@ members:
     country: France
     departement_name: Guadeloupe
     departement_num: '971'
-    email: ''
+    email: v.lurel@senat.fr
     first_name: Victorin
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -599,7 +599,7 @@ members:
     country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
-    email: ''
+    email: ma.carlotti@senat.fr
     first_name: Marie-Arlette
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -613,7 +613,7 @@ members:
     country: France
     departement_name: Seine-Maritime
     departement_num: '76'
-    email: ''
+    email: d.marie@senat.fr
     first_name: Didier
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -627,7 +627,7 @@ members:
     country: France
     departement_name: Nord
     departement_num: '59'
-    email: ''
+    email: p.kanner@senat.fr
     first_name: Patrick
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -641,7 +641,7 @@ members:
     country: France
     departement_name: Aisne
     departement_num: '02'
-    email: ''
+    email: p.gruny@senat.fr
     first_name: Pascale
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -655,7 +655,7 @@ members:
     country: France
     departement_name: "Vend\xE9e"
     departement_num: '85'
-    email: ''
+    email: a.billon@senat.fr
     first_name: Annick
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -669,7 +669,7 @@ members:
     country: France
     departement_name: "Vend\xE9e"
     departement_num: '85'
-    email: ''
+    email: d.mandelli@senat.fr
     first_name: Didier
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -683,7 +683,7 @@ members:
     country: France
     departement_name: Vosges
     departement_num: '88'
-    email: ''
+    email: d.gremillet@senat.fr
     first_name: Daniel
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -697,7 +697,7 @@ members:
     country: France
     departement_name: Yonne
     departement_num: '89'
-    email: ''
+    email: jb.lemoyne@senat.fr
     first_name: Jean-Baptiste
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -712,7 +712,7 @@ members:
     country: France
     departement_name: Ain
     departement_num: '01'
-    email: ''
+    email: p.chaize@senat.fr
     first_name: Patrick
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -726,7 +726,7 @@ members:
     country: France
     departement_name: Mayenne
     departement_num: '53'
-    email: ''
+    email: e.doineau@senat.fr
     first_name: "\xC9lisabeth"
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -740,7 +740,7 @@ members:
     country: France
     departement_name: Seine-Maritime
     departement_num: '76'
-    email: ''
+    email: a.canayer@senat.fr
     first_name: "Agn\xE8s"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -754,7 +754,7 @@ members:
     country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
-    email: ''
+    email: s.ravier@senat.fr
     first_name: "St\xE9phane"
     group_abv: NI
     group_name: "R\xE9union administrative des S\xE9nateurs ne figurant sur la liste\
@@ -769,7 +769,7 @@ members:
     country: France
     departement_name: Gard
     departement_num: '30'
-    email: ''
+    email: v.lopez@senat.fr
     first_name: Vivette
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -783,7 +783,7 @@ members:
     country: France
     departement_name: Tarn-et-Garonne
     departement_num: '82'
-    email: ''
+    email: f.bonhomme@senat.fr
     first_name: "Fran\xE7ois"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -797,7 +797,7 @@ members:
     country: France
     departement_name: "Deux-S\xE8vres"
     departement_num: '79'
-    email: ''
+    email: p.mouiller@senat.fr
     first_name: Philippe
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -811,7 +811,7 @@ members:
     country: France
     departement_name: Bas-Rhin
     departement_num: '67'
-    email: ''
+    email: c.kern@senat.fr
     first_name: Claude
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -825,7 +825,7 @@ members:
     country: France
     departement_name: "Finist\xE8re"
     departement_num: '29'
-    email: ''
+    email: m.canevet@senat.fr
     first_name: Michel
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -839,7 +839,7 @@ members:
     country: France
     departement_name: Aude
     departement_num: '11'
-    email: ''
+    email: g.jourda@senat.fr
     first_name: "Gis\xE8le"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -853,7 +853,7 @@ members:
     country: France
     departement_name: Alpes de Haute-Provence
     departement_num: '04'
-    email: ''
+    email: jy.roux@senat.fr
     first_name: Jean-Yves
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -867,7 +867,7 @@ members:
     country: France
     departement_name: "Dr\xF4me"
     departement_num: '26'
-    email: ''
+    email: mp.monier@senat.fr
     first_name: Marie-Pierre
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -881,7 +881,7 @@ members:
     country: France
     departement_name: Aveyron
     departement_num: '12'
-    email: ''
+    email: a.marc@senat.fr
     first_name: Alain
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -895,7 +895,7 @@ members:
     country: France
     departement_name: Creuse
     departement_num: '23'
-    email: ''
+    email: e.jeansannetas@senat.fr
     first_name: "\xC9ric"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -909,7 +909,7 @@ members:
     country: France
     departement_name: Doubs
     departement_num: '25'
-    email: ''
+    email: j.grosperrin@senat.fr
     first_name: Jacques
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -923,7 +923,7 @@ members:
     country: France
     departement_name: Calvados
     departement_num: '14'
-    email: ''
+    email: p.allizard@senat.fr
     first_name: Pascal
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -937,7 +937,7 @@ members:
     country: France
     departement_name: "Sa\xF4ne-et-Loire"
     departement_num: '71'
-    email: ''
+    email: marie.mercier@senat.fr
     first_name: Marie
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -951,7 +951,7 @@ members:
     country: France
     departement_name: Sarthe
     departement_num: '72'
-    email: ''
+    email: lj.de-nicolay@senat.fr
     first_name: Louis-Jean
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -965,7 +965,7 @@ members:
     country: France
     departement_name: Sarthe
     departement_num: '72'
-    email: ''
+    email: jp.vogel@senat.fr
     first_name: Jean Pierre
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -979,7 +979,7 @@ members:
     country: France
     departement_name: Haute-Savoie
     departement_num: '74'
-    email: ''
+    email: l.herve@senat.fr
     first_name: "Lo\xEFc"
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -993,7 +993,7 @@ members:
     country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
-    email: ''
+    email: d.estrosi-sassone@senat.fr
     first_name: Dominique
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1007,7 +1007,7 @@ members:
     country: France
     departement_name: Hautes-Alpes
     departement_num: '05'
-    email: ''
+    email: jm.arnaud@senat.fr
     first_name: Jean-Michel
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1021,7 +1021,7 @@ members:
     country: France
     departement_name: Corse-du-Sud
     departement_num: 2A
-    email: ''
+    email: jj.panunzi@senat.fr
     first_name: Jean-Jacques
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1035,7 +1035,7 @@ members:
     country: France
     departement_name: Territoire de Belfort
     departement_num: '90'
-    email: ''
+    email: cedric.perrin@senat.fr
     first_name: "C\xE9dric"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1049,7 +1049,7 @@ members:
     country: France
     departement_name: "Corr\xE8ze"
     departement_num: '19'
-    email: ''
+    email: d.chasseing@senat.fr
     first_name: Daniel
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -1063,7 +1063,7 @@ members:
     country: France
     departement_name: "C\xF4te-d'Or"
     departement_num: '21'
-    email: ''
+    email: ac.loisier@senat.fr
     first_name: Anne-Catherine
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1077,7 +1077,7 @@ members:
     country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
-    email: ''
+    email: h.cabanel@senat.fr
     first_name: Henri
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -1091,7 +1091,7 @@ members:
     country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
-    email: ''
+    email: jp.grand@senat.fr
     first_name: Jean-Pierre
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -1105,7 +1105,7 @@ members:
     country: France
     departement_name: Charente-Maritime
     departement_num: '17'
-    email: ''
+    email: c.imbert@senat.fr
     first_name: Corinne
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1119,7 +1119,7 @@ members:
     country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
-    email: ''
+    email: c.di-folco@senat.fr
     first_name: Catherine
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1133,7 +1133,7 @@ members:
     country: France
     departement_name: Eure-et-Loir
     departement_num: '28'
-    email: ''
+    email: c.deseyne@senat.fr
     first_name: Chantal
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1147,7 +1147,7 @@ members:
     country: France
     departement_name: Doubs
     departement_num: '25'
-    email: ''
+    email: jf.longeot@senat.fr
     first_name: "Jean-Fran\xE7ois"
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1161,7 +1161,7 @@ members:
     country: France
     departement_name: Haute-Garonne
     departement_num: '31'
-    email: ''
+    email: p.medevielle@senat.fr
     first_name: Pierre
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -1175,7 +1175,7 @@ members:
     country: France
     departement_name: Haute-Garonne
     departement_num: '31'
-    email: ''
+    email: b.micouleau@senat.fr
     first_name: Brigitte
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1189,7 +1189,7 @@ members:
     country: France
     departement_name: Haute-Garonne
     departement_num: '31'
-    email: ''
+    email: c.raynal@senat.fr
     first_name: Claude
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1203,7 +1203,7 @@ members:
     country: France
     departement_name: Ille-et-Vilaine
     departement_num: '35'
-    email: ''
+    email: s.robert@senat.fr
     first_name: Sylvie
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1217,7 +1217,7 @@ members:
     country: France
     departement_name: Haute-Savoie
     departement_num: '74'
-    email: ''
+    email: c.pellevat@senat.fr
     first_name: Cyril
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -1231,7 +1231,7 @@ members:
     country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
-    email: ''
+    email: m.jouve@senat.fr
     first_name: Mireille
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -1245,7 +1245,7 @@ members:
     country: France
     departement_name: Eure
     departement_num: '27'
-    email: ''
+    email: n.duranton@senat.fr
     first_name: Nicole
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -1260,7 +1260,7 @@ members:
     country: France
     departement_name: Allier
     departement_num: '03'
-    email: ''
+    email: c.malhuret@senat.fr
     first_name: Claude
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -1274,7 +1274,7 @@ members:
     country: France
     departement_name: "Corr\xE8ze"
     departement_num: '19'
-    email: ''
+    email: c.nougein@senat.fr
     first_name: Claude
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1288,7 +1288,7 @@ members:
     country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 2)"
     departement_num: '997'
-    email: ''
+    email: o.cadic@senat.fr
     first_name: Olivier
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1302,7 +1302,7 @@ members:
     country: France
     departement_name: Gers
     departement_num: '32'
-    email: ''
+    email: f.montauge@senat.fr
     first_name: Franck
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1316,7 +1316,7 @@ members:
     country: France
     departement_name: "Ard\xE8che"
     departement_num: '07'
-    email: ''
+    email: m.darnaud@senat.fr
     first_name: Mathieu
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1330,7 +1330,7 @@ members:
     country: France
     departement_name: Haute-Loire
     departement_num: '43'
-    email: ''
+    email: o.cigolotti@senat.fr
     first_name: Olivier
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1344,7 +1344,7 @@ members:
     country: France
     departement_name: "Polyn\xE9sie fran\xE7aise"
     departement_num: '987'
-    email: ''
+    email: l.tetuanui@senat.fr
     first_name: Lana
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1358,7 +1358,7 @@ members:
     country: France
     departement_name: Calvados
     departement_num: '14'
-    email: ''
+    email: c.feret@senat.fr
     first_name: Corinne
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1372,7 +1372,7 @@ members:
     country: France
     departement_name: Cantal
     departement_num: '15'
-    email: ''
+    email: b.delcros@senat.fr
     first_name: Bernard
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1386,7 +1386,7 @@ members:
     country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
-    email: ''
+    email: a.chain-larche@senat.fr
     first_name: Anne
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1400,7 +1400,7 @@ members:
     country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
-    email: ''
+    email: jf.rapin@senat.fr
     first_name: "Jean-Fran\xE7ois"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1414,7 +1414,7 @@ members:
     country: France
     departement_name: Indre
     departement_num: '36'
-    email: ''
+    email: f.gerbaud@senat.fr
     first_name: "Fr\xE9d\xE9rique"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1428,7 +1428,7 @@ members:
     country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
-    email: ''
+    email: null
     first_name: Pierre
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1442,7 +1442,7 @@ members:
     country: France
     departement_name: Nord
     departement_num: '59'
-    email: ''
+    email: f.dhersin@senat.fr
     first_name: Franck
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1456,7 +1456,7 @@ members:
     country: France
     departement_name: Tarn
     departement_num: '81'
-    email: ''
+    email: p.folliot@senat.fr
     first_name: Philippe
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1470,7 +1470,7 @@ members:
     country: France
     departement_name: Somme
     departement_num: '80'
-    email: ''
+    email: s.demilly@senat.fr
     first_name: "St\xE9phane"
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1484,7 +1484,7 @@ members:
     country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
-    email: ''
+    email: e.blanc@senat.fr
     first_name: "\xC9tienne"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1498,7 +1498,7 @@ members:
     country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
-    email: ''
+    email: v.boyer@senat.fr
     first_name: "Val\xE9rie"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1512,7 +1512,7 @@ members:
     country: France
     departement_name: Landes
     departement_num: '40'
-    email: ''
+    email: m.lubin@senat.fr
     first_name: Monique
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1526,7 +1526,7 @@ members:
     country: France
     departement_name: Haute-Garonne
     departement_num: '31'
-    email: ''
+    email: e.poumirol@senat.fr
     first_name: "\xC9milienne"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1540,7 +1540,7 @@ members:
     country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
-    email: ''
+    email: b.bourguignon@senat.fr
     first_name: Brigitte
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1554,7 +1554,7 @@ members:
     country: France
     departement_name: Mayenne
     departement_num: '53'
-    email: ''
+    email: g.chevrollier@senat.fr
     first_name: Guillaume
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1568,7 +1568,7 @@ members:
     country: France
     departement_name: "C\xF4tes-d'Armor"
     departement_num: '22'
-    email: ''
+    email: a.le-houerou@senat.fr
     first_name: Annie
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1582,7 +1582,7 @@ members:
     country: France
     departement_name: Nord
     departement_num: '59'
-    email: ''
+    email: a.linkenheld@senat.fr
     first_name: Audrey
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1596,7 +1596,7 @@ members:
     country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
-    email: ''
+    email: null
     first_name: Corinne
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1610,7 +1610,7 @@ members:
     country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
-    email: ''
+    email: k.daniel@senat.fr
     first_name: Karine
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1624,7 +1624,7 @@ members:
     country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 2)"
     departement_num: '997'
-    email: ''
+    email: s.cazebonne@senat.fr
     first_name: Samantha
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -1639,7 +1639,7 @@ members:
     country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
-    email: ''
+    email: i.florennes@senat.fr
     first_name: Isabelle
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1653,7 +1653,7 @@ members:
     country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
-    email: ''
+    email: null
     first_name: Gilbert-Luc
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1667,7 +1667,7 @@ members:
     country: France
     departement_name: Martinique
     departement_num: '972'
-    email: ''
+    email: c.conconne@senat.fr
     first_name: Catherine
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1681,7 +1681,7 @@ members:
     country: France
     departement_name: Guadeloupe
     departement_num: '971'
-    email: ''
+    email: d.theophile@senat.fr
     first_name: Dominique
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -1696,7 +1696,7 @@ members:
     country: France
     departement_name: Mayotte
     departement_num: '976'
-    email: ''
+    email: s.omar-oili@senat.fr
     first_name: "Sa\xEFd"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1710,7 +1710,7 @@ members:
     country: France
     departement_name: Moselle
     departement_num: '57'
-    email: ''
+    email: jm.mizzon@senat.fr
     first_name: Jean-Marie
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1724,7 +1724,7 @@ members:
     country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
-    email: ''
+    email: g.gontard@senat.fr
     first_name: Guillaume
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -1738,7 +1738,7 @@ members:
     country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
-    email: ''
+    email: d.rambaud@senat.fr
     first_name: Didier
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -1753,7 +1753,7 @@ members:
     country: France
     departement_name: Lot-et-Garonne
     departement_num: '47'
-    email: ''
+    email: c.bonfanti-dossat@senat.fr
     first_name: Christine
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1767,7 +1767,7 @@ members:
     country: France
     departement_name: "Puy-de-D\xF4me"
     departement_num: '63'
-    email: ''
+    email: jm.boyer@senat.fr
     first_name: Jean-Marc
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1781,7 +1781,7 @@ members:
     country: France
     departement_name: "Puy-de-D\xF4me"
     departement_num: '63'
-    email: ''
+    email: e.gold@senat.fr
     first_name: "\xC9ric"
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -1795,7 +1795,7 @@ members:
     country: France
     departement_name: Essonne
     departement_num: '91'
-    email: ''
+    email: jr.hugonet@senat.fr
     first_name: Jean-Raymond
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1809,7 +1809,7 @@ members:
     country: France
     departement_name: Loire
     departement_num: '42'
-    email: ''
+    email: jc.tissot@senat.fr
     first_name: Jean-Claude
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1823,7 +1823,7 @@ members:
     country: France
     departement_name: Loiret
     departement_num: '45'
-    email: ''
+    email: h.saury@senat.fr
     first_name: Hugues
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1837,7 +1837,7 @@ members:
     country: France
     departement_name: Morbihan
     departement_num: '56'
-    email: ''
+    email: m.jourda@senat.fr
     first_name: Muriel
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1851,7 +1851,7 @@ members:
     country: France
     departement_name: Jura
     departement_num: '39'
-    email: ''
+    email: s.vermeillet@senat.fr
     first_name: Sylvie
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1865,7 +1865,7 @@ members:
     country: France
     departement_name: Landes
     departement_num: '40'
-    email: ''
+    email: e.kerrouche@senat.fr
     first_name: "\xC9ric"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1879,7 +1879,7 @@ members:
     country: France
     departement_name: Haute-Loire
     departement_num: '43'
-    email: ''
+    email: l.duplomb@senat.fr
     first_name: Laurent
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1893,7 +1893,7 @@ members:
     country: France
     departement_name: "Ni\xE8vre"
     departement_num: '58'
-    email: ''
+    email: p.joly@senat.fr
     first_name: Patrice
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1907,7 +1907,7 @@ members:
     country: France
     departement_name: Maine-et-Loire
     departement_num: '49'
-    email: ''
+    email: s.piednoir@senat.fr
     first_name: "St\xE9phane"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -1921,7 +1921,7 @@ members:
     country: France
     departement_name: Maine-et-Loire
     departement_num: '49'
-    email: ''
+    email: e.capus@senat.fr
     first_name: Emmanuel
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -1935,7 +1935,7 @@ members:
     country: France
     departement_name: Meurthe-et-Moselle
     departement_num: '54'
-    email: ''
+    email: o.jacquin@senat.fr
     first_name: Olivier
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -1949,7 +1949,7 @@ members:
     country: France
     departement_name: Meurthe-et-Moselle
     departement_num: '54'
-    email: ''
+    email: v.guillotin@senat.fr
     first_name: "V\xE9ronique"
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -1963,7 +1963,7 @@ members:
     country: France
     departement_name: Meuse
     departement_num: '55'
-    email: ''
+    email: f.menonville@senat.fr
     first_name: Franck
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -1977,7 +1977,7 @@ members:
     country: France
     departement_name: Nord
     departement_num: '59'
-    email: ''
+    email: m.greaume@senat.fr
     first_name: Michelle
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -1991,7 +1991,7 @@ members:
     country: France
     departement_name: Nord
     departement_num: '59'
-    email: ''
+    email: o.henno@senat.fr
     first_name: Olivier
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2005,7 +2005,7 @@ members:
     country: France
     departement_name: Oise
     departement_num: '60'
-    email: ''
+    email: o.paccaud@senat.fr
     first_name: Olivier
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2019,7 +2019,7 @@ members:
     country: France
     departement_name: Savoie
     departement_num: '73'
-    email: ''
+    email: m.berthet@senat.fr
     first_name: Martine
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2033,7 +2033,7 @@ members:
     country: France
     departement_name: Nord
     departement_num: '59'
-    email: ''
+    email: d.wattebled@senat.fr
     first_name: Dany
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -2047,7 +2047,7 @@ members:
     country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
-    email: ''
+    email: x.iacovelli@senat.fr
     first_name: Xavier
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -2062,7 +2062,7 @@ members:
     country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
-    email: ''
+    email: p.ouzoulias@senat.fr
     first_name: Pierre
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -2076,7 +2076,7 @@ members:
     country: France
     departement_name: Val-de-Marne
     departement_num: '94'
-    email: ''
+    email: l.lafon@senat.fr
     first_name: Laurent
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2090,7 +2090,7 @@ members:
     country: France
     departement_name: "Pyr\xE9n\xE9es-Atlantiques"
     departement_num: '64'
-    email: ''
+    email: d.saint-pe@senat.fr
     first_name: Denise
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2104,7 +2104,7 @@ members:
     country: France
     departement_name: "Pyr\xE9n\xE9es-Atlantiques"
     departement_num: '64'
-    email: ''
+    email: m.brisson@senat.fr
     first_name: Max
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2118,7 +2118,7 @@ members:
     country: France
     departement_name: "Hautes-Pyr\xE9n\xE9es"
     departement_num: '65'
-    email: ''
+    email: m.carrere@senat.fr
     first_name: Maryse
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -2132,7 +2132,7 @@ members:
     country: France
     departement_name: "Hautes-Pyr\xE9n\xE9es"
     departement_num: '65'
-    email: ''
+    email: v.artigalas@senat.fr
     first_name: Viviane
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -2146,7 +2146,7 @@ members:
     country: France
     departement_name: Paris
     departement_num: '75'
-    email: ''
+    email: r.feraud@senat.fr
     first_name: "R\xE9mi"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -2160,7 +2160,7 @@ members:
     country: France
     departement_name: Paris
     departement_num: '75'
-    email: ''
+    email: null
     first_name: Marie-Pierre
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -2174,7 +2174,7 @@ members:
     country: France
     departement_name: "La R\xE9union"
     departement_num: '974'
-    email: ''
+    email: v.malet@senat.fr
     first_name: Viviane
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2188,7 +2188,7 @@ members:
     country: France
     departement_name: Val-d'Oise
     departement_num: '95'
-    email: ''
+    email: a.bazin@senat.fr
     first_name: Arnaud
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2202,7 +2202,7 @@ members:
     country: France
     departement_name: Val-d'Oise
     departement_num: '95'
-    email: ''
+    email: r.temal@senat.fr
     first_name: Rachid
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -2216,7 +2216,7 @@ members:
     country: France
     departement_name: Val-d'Oise
     departement_num: '95'
-    email: ''
+    email: j.eustache-brinio@senat.fr
     first_name: Jacqueline
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2230,7 +2230,7 @@ members:
     country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
-    email: ''
+    email: f.puissat@senat.fr
     first_name: "Fr\xE9d\xE9rique"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2244,7 +2244,7 @@ members:
     country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
-    email: ''
+    email: jp.corbisez@senat.fr
     first_name: Jean-Pierre
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -2258,7 +2258,7 @@ members:
     country: France
     departement_name: Paris
     departement_num: '75'
-    email: ''
+    email: b.jomier@senat.fr
     first_name: Bernard
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -2272,7 +2272,7 @@ members:
     country: France
     departement_name: Moselle
     departement_num: '57'
-    email: ''
+    email: c.herzog@senat.fr
     first_name: Christine
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2286,7 +2286,7 @@ members:
     country: France
     departement_name: Val-de-Marne
     departement_num: '94'
-    email: ''
+    email: p.savoldelli@senat.fr
     first_name: Pascal
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -2300,7 +2300,7 @@ members:
     country: France
     departement_name: Essonne
     departement_num: '91'
-    email: ''
+    email: j.guidez@senat.fr
     first_name: Jocelyne
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2314,7 +2314,7 @@ members:
     country: France
     departement_name: Essonne
     departement_num: '91'
-    email: ''
+    email: l.darcos@senat.fr
     first_name: Laure
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -2328,7 +2328,7 @@ members:
     country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
-    email: ''
+    email: f.gay@senat.fr
     first_name: Fabien
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -2342,7 +2342,7 @@ members:
     country: France
     departement_name: Yvelines
     departement_num: '78'
-    email: ''
+    email: m.levrier@senat.fr
     first_name: Martin
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -2357,7 +2357,7 @@ members:
     country: France
     departement_name: Yvelines
     departement_num: '78'
-    email: ''
+    email: m.laugier@senat.fr
     first_name: Michel
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2371,7 +2371,7 @@ members:
     country: France
     departement_name: Yvelines
     departement_num: '78'
-    email: ''
+    email: m.de-cidrac@senat.fr
     first_name: Marta
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2385,7 +2385,7 @@ members:
     country: France
     departement_name: "Pyr\xE9n\xE9es-Orientales"
     departement_num: '66'
-    email: ''
+    email: j.sol@senat.fr
     first_name: Jean
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2399,7 +2399,7 @@ members:
     country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 1)"
     departement_num: '998'
-    email: ''
+    email: e.renaud-garabedian@senat.fr
     first_name: "\xC9velyne"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2413,7 +2413,7 @@ members:
     country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 1)"
     departement_num: '998'
-    email: ''
+    email: r.le-gleut@senat.fr
     first_name: Ronan
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2427,7 +2427,7 @@ members:
     country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
-    email: ''
+    email: c.lavarde@senat.fr
     first_name: Christine
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2441,7 +2441,7 @@ members:
     country: France
     departement_name: "Ni\xE8vre"
     departement_num: '58'
-    email: ''
+    email: n.sollogoub@senat.fr
     first_name: Nadia
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2455,7 +2455,7 @@ members:
     country: France
     departement_name: Gironde
     departement_num: '33'
-    email: ''
+    email: n.delattre@senat.fr
     first_name: Nathalie
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -2469,7 +2469,7 @@ members:
     country: France
     departement_name: Gironde
     departement_num: '33'
-    email: ''
+    email: a.cazabonne@senat.fr
     first_name: Alain
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2483,7 +2483,7 @@ members:
     country: France
     departement_name: Gironde
     departement_num: '33'
-    email: ''
+    email: f.lassarade@senat.fr
     first_name: Florence
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2497,7 +2497,7 @@ members:
     country: France
     departement_name: Gironde
     departement_num: '33'
-    email: ''
+    email: l.harribey@senat.fr
     first_name: Laurence
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -2511,7 +2511,7 @@ members:
     country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
-    email: ''
+    email: h.leroy@senat.fr
     first_name: Henri
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2525,7 +2525,7 @@ members:
     country: France
     departement_name: Calvados
     departement_num: '14'
-    email: ''
+    email: s.delaprovote@senat.fr
     first_name: Sonia
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2539,7 +2539,7 @@ members:
     country: France
     departement_name: Aube
     departement_num: '10'
-    email: ''
+    email: null
     first_name: "\xC9velyne"
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2553,7 +2553,7 @@ members:
     country: France
     departement_name: Yonne
     departement_num: '89'
-    email: ''
+    email: d.verien@senat.fr
     first_name: Dominique
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2567,7 +2567,7 @@ members:
     country: France
     departement_name: Seine-Maritime
     departement_num: '76'
-    email: ''
+    email: c.brulin@senat.fr
     first_name: "C\xE9line"
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -2581,7 +2581,7 @@ members:
     country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
-    email: ''
+    email: c.apourceau-poly@senat.fr
     first_name: Cathy
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -2595,7 +2595,7 @@ members:
     country: France
     departement_name: Haute-Savoie
     departement_num: '74'
-    email: ''
+    email: s.noel@senat.fr
     first_name: Sylviane
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2609,7 +2609,7 @@ members:
     country: France
     departement_name: "Dr\xF4me"
     departement_num: '26'
-    email: ''
+    email: b.buis@senat.fr
     first_name: Bernard
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -2624,7 +2624,7 @@ members:
     country: France
     departement_name: Cher
     departement_num: '18'
-    email: ''
+    email: mp.richer@senat.fr
     first_name: Marie-Pierre
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2638,7 +2638,7 @@ members:
     country: France
     departement_name: Gironde
     departement_num: '33'
-    email: ''
+    email: h.gille@senat.fr
     first_name: "Herv\xE9"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -2652,7 +2652,7 @@ members:
     country: France
     departement_name: Seine-Maritime
     departement_num: '76'
-    email: ''
+    email: p.martin@senat.fr
     first_name: Pascal
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2666,7 +2666,7 @@ members:
     country: France
     departement_name: "Loz\xE8re"
     departement_num: '48'
-    email: ''
+    email: g.pantel@senat.fr
     first_name: "Guyl\xE8ne"
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -2680,7 +2680,7 @@ members:
     country: France
     departement_name: Moselle
     departement_num: '57'
-    email: ''
+    email: c.belrhiti@senat.fr
     first_name: Catherine
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2694,7 +2694,7 @@ members:
     country: France
     departement_name: Iles Wallis et Futuna
     departement_num: '986'
-    email: ''
+    email: m.kulimoetoke@senat.fr
     first_name: Mikaele
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -2709,7 +2709,7 @@ members:
     country: France
     departement_name: "Ari\xE8ge"
     departement_num: 09
-    email: ''
+    email: jj.michau@senat.fr
     first_name: Jean-Jacques
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -2723,7 +2723,7 @@ members:
     country: France
     departement_name: Allier
     departement_num: '03'
-    email: ''
+    email: b.rojouan@senat.fr
     first_name: Bruno
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2737,7 +2737,7 @@ members:
     country: France
     departement_name: Indre
     departement_num: '36'
-    email: ''
+    email: n.bellurot@senat.fr
     first_name: Nadine
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2751,7 +2751,7 @@ members:
     country: France
     departement_name: Vienne
     departement_num: '86'
-    email: ''
+    email: b.belin@senat.fr
     first_name: Bruno
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2765,7 +2765,7 @@ members:
     country: France
     departement_name: "Ard\xE8che"
     departement_num: '07'
-    email: ''
+    email: a.ventalon@senat.fr
     first_name: Anne
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2779,7 +2779,7 @@ members:
     country: France
     departement_name: Dordogne
     departement_num: '24'
-    email: ''
+    email: s.merillou@senat.fr
     first_name: Serge
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -2793,7 +2793,7 @@ members:
     country: France
     departement_name: Aude
     departement_num: '11'
-    email: ''
+    email: s.pla@senat.fr
     first_name: Sebastien
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -2807,7 +2807,7 @@ members:
     country: France
     departement_name: Aveyron
     departement_num: '12'
-    email: ''
+    email: jc.anglars@senat.fr
     first_name: Jean-Claude
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2821,7 +2821,7 @@ members:
     country: France
     departement_name: "Saint-Barth\xE9lemy"
     departement_num: '977'
-    email: ''
+    email: m.jacques@senat.fr
     first_name: Micheline
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2835,7 +2835,7 @@ members:
     country: France
     departement_name: Haute-Corse
     departement_num: 2B
-    email: ''
+    email: pt.parigi@senat.fr
     first_name: Paul Toussaint
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2849,7 +2849,7 @@ members:
     country: France
     departement_name: "Deux-S\xE8vres"
     departement_num: '79'
-    email: ''
+    email: g.favreau@senat.fr
     first_name: Gilbert
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2863,7 +2863,7 @@ members:
     country: France
     departement_name: Gers
     departement_num: '32'
-    email: ''
+    email: a.duffourg@senat.fr
     first_name: Alain
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2877,7 +2877,7 @@ members:
     country: France
     departement_name: Charente
     departement_num: '16'
-    email: ''
+    email: f.bonneau@senat.fr
     first_name: "Fran\xE7ois"
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2891,7 +2891,7 @@ members:
     country: France
     departement_name: Cantal
     departement_num: '15'
-    email: ''
+    email: s.sautarel@senat.fr
     first_name: "St\xE9phane"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2905,7 +2905,7 @@ members:
     country: France
     departement_name: Dordogne
     departement_num: '24'
-    email: ''
+    email: mc.varaillas@senat.fr
     first_name: Marie-Claude
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -2919,7 +2919,7 @@ members:
     country: France
     departement_name: Vosges
     departement_num: '88'
-    email: ''
+    email: j.hingray@senat.fr
     first_name: Jean
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2933,7 +2933,7 @@ members:
     country: France
     departement_name: Aube
     departement_num: '10'
-    email: ''
+    email: v.paoli-gagin@senat.fr
     first_name: Vanina
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -2947,7 +2947,7 @@ members:
     country: France
     departement_name: Tarn-et-Garonne
     departement_num: '82'
-    email: ''
+    email: pa.levi@senat.fr
     first_name: Pierre-Antoine
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -2961,7 +2961,7 @@ members:
     country: France
     departement_name: "Haute-Sa\xF4ne"
     departement_num: '70'
-    email: ''
+    email: o.rietmann@senat.fr
     first_name: Olivier
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2975,7 +2975,7 @@ members:
     country: France
     departement_name: Ardennes
     departement_num: 08
-    email: ''
+    email: e.joseph@senat.fr
     first_name: Else
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -2989,7 +2989,7 @@ members:
     country: France
     departement_name: Savoie
     departement_num: '73'
-    email: ''
+    email: c.vial@senat.fr
     first_name: "C\xE9dric"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3003,7 +3003,7 @@ members:
     country: France
     departement_name: Somme
     departement_num: '80'
-    email: ''
+    email: r.cardon@senat.fr
     first_name: "R\xE9mi"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -3017,7 +3017,7 @@ members:
     country: France
     departement_name: Somme
     departement_num: '80'
-    email: ''
+    email: l.somon@senat.fr
     first_name: Laurent
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3031,7 +3031,7 @@ members:
     country: France
     departement_name: Charente-Maritime
     departement_num: '17'
-    email: ''
+    email: m.vallet@senat.fr
     first_name: "Micka\xEBl"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -3045,7 +3045,7 @@ members:
     country: France
     departement_name: Doubs
     departement_num: '25'
-    email: ''
+    email: a.jacquemet@senat.fr
     first_name: Annick
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -3059,7 +3059,7 @@ members:
     country: France
     departement_name: Eure-et-Loir
     departement_num: '28'
-    email: ''
+    email: d.gueret@senat.fr
     first_name: Daniel
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3073,7 +3073,7 @@ members:
     country: France
     departement_name: Sarthe
     departement_num: '72'
-    email: ''
+    email: t.cozic@senat.fr
     first_name: Thierry
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -3087,7 +3087,7 @@ members:
     country: France
     departement_name: Var
     departement_num: '83'
-    email: ''
+    email: a.guiol@senat.fr
     first_name: "Andr\xE9"
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -3101,7 +3101,7 @@ members:
     country: France
     departement_name: Var
     departement_num: '83'
-    email: ''
+    email: f.dumont@senat.fr
     first_name: "Fran\xE7oise"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3115,7 +3115,7 @@ members:
     country: France
     departement_name: Var
     departement_num: '83'
-    email: ''
+    email: j.bacci@senat.fr
     first_name: Jean
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3129,7 +3129,7 @@ members:
     country: France
     departement_name: Var
     departement_num: '83'
-    email: ''
+    email: m.bonnus@senat.fr
     first_name: Michel
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3143,7 +3143,7 @@ members:
     country: France
     departement_name: Haute-Vienne
     departement_num: '87'
-    email: ''
+    email: i.briquet@senat.fr
     first_name: Isabelle
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -3157,7 +3157,7 @@ members:
     country: France
     departement_name: Haute-Vienne
     departement_num: '87'
-    email: ''
+    email: c.redon-sarrazy@senat.fr
     first_name: Christian
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -3171,7 +3171,7 @@ members:
     country: France
     departement_name: Vaucluse
     departement_num: '84'
-    email: ''
+    email: l.stanzione@senat.fr
     first_name: Lucien
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -3185,7 +3185,7 @@ members:
     country: France
     departement_name: Vaucluse
     departement_num: '84'
-    email: ''
+    email: senateurjbblanc@gmail.com
     first_name: Jean-Baptiste
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3199,7 +3199,7 @@ members:
     country: France
     departement_name: Gard
     departement_num: '30'
-    email: ''
+    email: d.bouad@senat.fr
     first_name: Denis
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -3213,7 +3213,7 @@ members:
     country: France
     departement_name: Gard
     departement_num: '30'
-    email: ''
+    email: l.burgoa@senat.fr
     first_name: Laurent
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3227,7 +3227,7 @@ members:
     country: France
     departement_name: Ille-et-Vilaine
     departement_num: '35'
-    email: ''
+    email: d.salmon@senat.fr
     first_name: Daniel
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -3241,7 +3241,7 @@ members:
     country: France
     departement_name: Ain
     departement_num: '01'
-    email: ''
+    email: f.blatrix-contat@senat.fr
     first_name: Florence
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -3255,7 +3255,7 @@ members:
     country: France
     departement_name: Bas-Rhin
     departement_num: '67'
-    email: ''
+    email: l.muller-bronn@senat.fr
     first_name: Laurence
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3269,7 +3269,7 @@ members:
     country: France
     departement_name: Bas-Rhin
     departement_num: '67'
-    email: ''
+    email: e.schalck@senat.fr
     first_name: Elsa
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3283,7 +3283,7 @@ members:
     country: France
     departement_name: Bas-Rhin
     departement_num: '67'
-    email: ''
+    email: j.fernique@senat.fr
     first_name: Jacques
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -3297,7 +3297,7 @@ members:
     country: France
     departement_name: "C\xF4tes-d'Armor"
     departement_num: '22'
-    email: ''
+    email: g.lahellec@senat.fr
     first_name: "G\xE9rard"
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -3311,7 +3311,7 @@ members:
     country: France
     departement_name: "C\xF4tes-d'Armor"
     departement_num: '22'
-    email: ''
+    email: a.cadec@senat.fr
     first_name: Alain
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3325,7 +3325,7 @@ members:
     country: France
     departement_name: "Finist\xE8re"
     departement_num: '29'
-    email: ''
+    email: n.havet@senat.fr
     first_name: "Nad\xE8ge"
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -3340,7 +3340,7 @@ members:
     country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
-    email: ''
+    email: s.le-rudulier@senat.fr
     first_name: "St\xE9phane"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3354,7 +3354,7 @@ members:
     country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
-    email: ''
+    email: g.benarroche@senat.fr
     first_name: Guy
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -3368,7 +3368,7 @@ members:
     country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
-    email: ''
+    email: j.bacchi@senat.fr
     first_name: "J\xE9r\xE9my"
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -3382,7 +3382,7 @@ members:
     country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
-    email: ''
+    email: h.bourgi@senat.fr
     first_name: Hussein
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -3396,7 +3396,7 @@ members:
     country: France
     departement_name: "H\xE9rault"
     departement_num: '34'
-    email: ''
+    email: c.bilhac@senat.fr
     first_name: Christian
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -3410,7 +3410,7 @@ members:
     country: France
     departement_name: Eure
     departement_num: '27'
-    email: ''
+    email: k.pluchet@senat.fr
     first_name: Kristina
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3424,7 +3424,7 @@ members:
     country: France
     departement_name: "Sa\xF4ne-et-Loire"
     departement_num: '71'
-    email: ''
+    email: f.genet@senat.fr
     first_name: Fabien
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3438,7 +3438,7 @@ members:
     country: France
     departement_name: Aisne
     departement_num: '02'
-    email: ''
+    email: pj.verzelen@senat.fr
     first_name: Pierre-Jean
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -3452,7 +3452,7 @@ members:
     country: France
     departement_name: Haut-Rhin
     departement_num: '68'
-    email: ''
+    email: s.drexler@senat.fr
     first_name: Sabine
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3466,7 +3466,7 @@ members:
     country: France
     departement_name: Haut-Rhin
     departement_num: '68'
-    email: ''
+    email: c.klinger@senat.fr
     first_name: Christian
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3480,7 +3480,7 @@ members:
     country: France
     departement_name: Haut-Rhin
     departement_num: '68'
-    email: ''
+    email: l.haye@senat.fr
     first_name: Ludovic
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -3494,7 +3494,7 @@ members:
     country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
-    email: ''
+    email: r.poncet@senat.fr
     first_name: Raymonde
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -3508,7 +3508,7 @@ members:
     country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
-    email: ''
+    email: b.fialaire@senat.fr
     first_name: Bernard
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -3522,7 +3522,7 @@ members:
     country: France
     departement_name: "Rh\xF4ne"
     departement_num: '69'
-    email: ''
+    email: t.dossus@senat.fr
     first_name: Thomas
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -3536,7 +3536,7 @@ members:
     country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
-    email: ''
+    email: a.borchio-fontimp@senat.fr
     first_name: Alexandra
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3550,7 +3550,7 @@ members:
     country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
-    email: ''
+    email: p.demas@senat.fr
     first_name: Patricia
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3564,7 +3564,7 @@ members:
     country: France
     departement_name: Gironde
     departement_num: '33'
-    email: ''
+    email: m.de-marco@senat.fr
     first_name: Monique
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -3578,7 +3578,7 @@ members:
     country: France
     departement_name: Seine-Maritime
     departement_num: '76'
-    email: ''
+    email: p.chauvet@senat.fr
     first_name: Patrick
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -3592,7 +3592,7 @@ members:
     country: France
     departement_name: Guyane
     departement_num: '973'
-    email: ''
+    email: ml.phinera-horth@senat.fr
     first_name: Marie-Laure
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -3607,7 +3607,7 @@ members:
     country: France
     departement_name: Saint-Martin
     departement_num: '978'
-    email: ''
+    email: a.petrus@senat.fr
     first_name: Annick
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3621,7 +3621,7 @@ members:
     country: France
     departement_name: "Polyn\xE9sie fran\xE7aise"
     departement_num: '987'
-    email: ''
+    email: t.rohfritsch@senat.fr
     first_name: Teva
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -3636,7 +3636,7 @@ members:
     country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
-    email: ''
+    email: l.garnier@senat.fr
     first_name: Laurence
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3650,7 +3650,7 @@ members:
     country: France
     departement_name: Manche
     departement_num: '50'
-    email: ''
+    email: b.gosselin@senat.fr
     first_name: "B\xE9atrice"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3664,7 +3664,7 @@ members:
     country: France
     departement_name: "Bouches-du-Rh\xF4ne"
     departement_num: '13'
-    email: ''
+    email: b.devesa@senat.fr
     first_name: Brigitte
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -3678,7 +3678,7 @@ members:
     country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
-    email: ''
+    email: null
     first_name: Thierry
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3692,7 +3692,7 @@ members:
     country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 2)"
     departement_num: '997'
-    email: ''
+    email: y.chantrel@senat.fr
     first_name: Yan
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -3706,7 +3706,7 @@ members:
     country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 2)"
     departement_num: '997'
-    email: ''
+    email: m.vogel@senat.fr
     first_name: "M\xE9lanie"
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -3720,7 +3720,7 @@ members:
     country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
-    email: ''
+    email: a.gacquerre@senat.fr
     first_name: Amel
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -3734,7 +3734,7 @@ members:
     country: France
     departement_name: "Nouvelle-Cal\xE9donie"
     departement_num: '988'
-    email: ''
+    email: g.naturel@senat.fr
     first_name: Georges
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3748,7 +3748,7 @@ members:
     country: France
     departement_name: "Nouvelle-Cal\xE9donie"
     departement_num: '988'
-    email: ''
+    email: rw.xowie@senat.fr
     first_name: Robert Wienie
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -3762,7 +3762,7 @@ members:
     country: France
     departement_name: Lot
     departement_num: '46'
-    email: ''
+    email: jm.vayssouze-faure@senat.fr
     first_name: Jean-Marc
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -3776,7 +3776,7 @@ members:
     country: France
     departement_name: Saint-Pierre-et-Miquelon
     departement_num: '975'
-    email: ''
+    email: a.girardin@senat.fr
     first_name: Annick
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -3790,7 +3790,7 @@ members:
     country: France
     departement_name: "La R\xE9union"
     departement_num: '974'
-    email: ''
+    email: s.fouassin@senat.fr
     first_name: "St\xE9phane"
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -3805,7 +3805,7 @@ members:
     country: France
     departement_name: "La R\xE9union"
     departement_num: '974'
-    email: ''
+    email: e.corbiere-naminzo@senat.fr
     first_name: Evelyne
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -3819,7 +3819,7 @@ members:
     country: France
     departement_name: "La R\xE9union"
     departement_num: '974'
-    email: ''
+    email: a.belim@senat.fr
     first_name: Audrey
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -3833,7 +3833,7 @@ members:
     country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 1)"
     departement_num: '998'
-    email: ''
+    email: jl.ruelle@senat.fr
     first_name: Jean-Luc
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3847,7 +3847,7 @@ members:
     country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 1)"
     departement_num: '998'
-    email: ''
+    email: m.ollivier@senat.fr
     first_name: Mathilde
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -3861,7 +3861,7 @@ members:
     country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 1)"
     departement_num: '998'
-    email: ''
+    email: o.richard@senat.fr
     first_name: Olivia
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -3875,7 +3875,7 @@ members:
     country: France
     departement_name: Haute-Marne
     departement_num: '52'
-    email: ''
+    email: am.nedelec@senat.fr
     first_name: Anne-Marie
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3889,7 +3889,7 @@ members:
     country: France
     departement_name: Lot-et-Garonne
     departement_num: '47'
-    email: ''
+    email: m.masset@senat.fr
     first_name: Michel
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -3903,7 +3903,7 @@ members:
     country: France
     departement_name: Lot
     departement_num: '46'
-    email: ''
+    email: r.daubet@senat.fr
     first_name: "Rapha\xEBl"
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -3917,7 +3917,7 @@ members:
     country: France
     departement_name: Meuse
     departement_num: '55'
-    email: ''
+    email: j.antoine@senat.fr
     first_name: Jocelyne
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -3931,7 +3931,7 @@ members:
     country: France
     departement_name: Orne
     departement_num: '61'
-    email: ''
+    email: null
     first_name: Olivier
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -3945,7 +3945,7 @@ members:
     country: France
     departement_name: "Pyr\xE9n\xE9es-Orientales"
     departement_num: '66'
-    email: ''
+    email: l.josende@senat.fr
     first_name: Lauriane
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -3959,7 +3959,7 @@ members:
     country: France
     departement_name: "Puy-de-D\xF4me"
     departement_num: '63'
-    email: ''
+    email: m.canales@senat.fr
     first_name: Marion
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -3973,7 +3973,7 @@ members:
     country: France
     departement_name: Maine-et-Loire
     departement_num: '49'
-    email: ''
+    email: c.bourcier@senat.fr
     first_name: Corinne
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -3987,7 +3987,7 @@ members:
     country: France
     departement_name: Jura
     departement_num: '39'
-    email: ''
+    email: c.pernot@senat.fr
     first_name: "Cl\xE9ment"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4001,7 +4001,7 @@ members:
     country: France
     departement_name: Maine-et-Loire
     departement_num: '49'
-    email: ''
+    email: g.blanc@senat.fr
     first_name: "Gr\xE9gory"
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -4015,7 +4015,7 @@ members:
     country: France
     departement_name: Meurthe-et-Moselle
     departement_num: '54'
-    email: ''
+    email: s.silvani@senat.fr
     first_name: Silvana
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -4029,7 +4029,7 @@ members:
     country: France
     departement_name: Morbihan
     departement_num: '56'
-    email: ''
+    email: y.bleunven@senat.fr
     first_name: Yves
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -4043,7 +4043,7 @@ members:
     country: France
     departement_name: Morbihan
     departement_num: '56'
-    email: ''
+    email: s.uzenat@senat.fr
     first_name: Simon
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -4057,7 +4057,7 @@ members:
     country: France
     departement_name: Loir-et-Cher
     departement_num: '41'
-    email: ''
+    email: jl.brault@senat.fr
     first_name: Jean-Luc
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -4071,7 +4071,7 @@ members:
     country: France
     departement_name: Loir-et-Cher
     departement_num: '41'
-    email: ''
+    email: b.pillefer@senat.fr
     first_name: Bernard
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -4085,7 +4085,7 @@ members:
     country: France
     departement_name: Indre-et-Loire
     departement_num: '37'
-    email: ''
+    email: v.louault@senat.fr
     first_name: Vincent
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -4099,7 +4099,7 @@ members:
     country: France
     departement_name: Indre-et-Loire
     departement_num: '37'
-    email: ''
+    email: null
     first_name: "Jean-G\xE9rard"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4113,7 +4113,7 @@ members:
     country: France
     departement_name: Indre-et-Loire
     departement_num: '37'
-    email: ''
+    email: pa.roiron@senat.fr
     first_name: Pierre-Alain
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -4127,7 +4127,7 @@ members:
     country: France
     departement_name: Loiret
     departement_num: '45'
-    email: ''
+    email: c.chaillou@senat.fr
     first_name: Christophe
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -4141,7 +4141,7 @@ members:
     country: France
     departement_name: Loiret
     departement_num: '45'
-    email: ''
+    email: pauline.martin@senat.fr
     first_name: Pauline
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4155,7 +4155,7 @@ members:
     country: France
     departement_name: Essonne
     departement_num: '91'
-    email: ''
+    email: d.ros@senat.fr
     first_name: David
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -4169,7 +4169,7 @@ members:
     country: France
     departement_name: Oise
     departement_num: '60'
-    email: ''
+    email: a.ouizille@senat.fr
     first_name: Alexandre
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -4183,7 +4183,7 @@ members:
     country: France
     departement_name: Oise
     departement_num: '60'
-    email: ''
+    email: null
     first_name: Sylvie
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4197,7 +4197,7 @@ members:
     country: France
     departement_name: Manche
     departement_num: '50'
-    email: ''
+    email: s.fagnen@senat.fr
     first_name: "S\xE9bastien"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -4211,7 +4211,7 @@ members:
     country: France
     departement_name: Marne
     departement_num: '51'
-    email: ''
+    email: c.bruyen@senat.fr
     first_name: Christian
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4225,7 +4225,7 @@ members:
     country: France
     departement_name: Marne
     departement_num: '51'
-    email: ''
+    email: as.romagny@senat.fr
     first_name: Anne-Sophie
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -4239,7 +4239,7 @@ members:
     country: France
     departement_name: Marne
     departement_num: '51'
-    email: ''
+    email: c.chevalier@senat.fr
     first_name: "C\xE9dric"
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -4253,7 +4253,7 @@ members:
     country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
-    email: ''
+    email: p.grosvalet@senat.fr
     first_name: Philippe
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -4267,7 +4267,7 @@ members:
     country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
-    email: ''
+    email: j.darras@senat.fr
     first_name: "J\xE9r\xF4me"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -4281,7 +4281,7 @@ members:
     country: France
     departement_name: Loire
     departement_num: '42'
-    email: ''
+    email: h.reynaud@senat.fr
     first_name: "Herv\xE9"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4295,7 +4295,7 @@ members:
     country: France
     departement_name: Pas-de-Calais
     departement_num: '62'
-    email: ''
+    email: c.szczurek@senat.fr
     first_name: Christopher
     group_abv: NI
     group_name: "R\xE9union administrative des S\xE9nateurs ne figurant sur la liste\
@@ -4310,7 +4310,7 @@ members:
     country: France
     departement_name: Loire
     departement_num: '42'
-    email: ''
+    email: pj.rochette@senat.fr
     first_name: Pierre Jean
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -4324,7 +4324,7 @@ members:
     country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
-    email: ''
+    email: md.aeschlimann@senat.fr
     first_name: Marie-Do
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4338,7 +4338,7 @@ members:
     country: France
     departement_name: Val-de-Marne
     departement_num: '94'
-    email: ''
+    email: mc.ciuntu@senat.fr
     first_name: Marie-Carole
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4352,7 +4352,7 @@ members:
     country: France
     departement_name: Val-de-Marne
     departement_num: '94'
-    email: ''
+    email: a.mellouli@senat.fr
     first_name: Akli
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -4366,7 +4366,7 @@ members:
     country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
-    email: ''
+    email: a.durox@senat.fr
     first_name: Aymeric
     group_abv: NI
     group_name: "R\xE9union administrative des S\xE9nateurs ne figurant sur la liste\
@@ -4381,7 +4381,7 @@ members:
     country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
-    email: ''
+    email: m.margate@senat.fr
     first_name: Marianne
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -4395,7 +4395,7 @@ members:
     country: France
     departement_name: Seine-et-Marne
     departement_num: '77'
-    email: ''
+    email: l.vogel@senat.fr
     first_name: Louis
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -4409,7 +4409,7 @@ members:
     country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
-    email: ''
+    email: null
     first_name: Adel
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -4423,7 +4423,7 @@ members:
     country: France
     departement_name: Seine-Saint-Denis
     departement_num: '93'
-    email: ''
+    email: a.laouedj@senat.fr
     first_name: Ahmed
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -4437,7 +4437,7 @@ members:
     country: France
     departement_name: Yvelines
     departement_num: '78'
-    email: ''
+    email: g.senee@senat.fr
     first_name: Ghislaine
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -4451,7 +4451,7 @@ members:
     country: France
     departement_name: "Is\xE8re"
     departement_num: '38'
-    email: ''
+    email: d.michallet@senat.fr
     first_name: Damien
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4465,7 +4465,7 @@ members:
     country: France
     departement_name: Moselle
     departement_num: '57'
-    email: ''
+    email: k.khalife@senat.fr
     first_name: "Khalif\xE9"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4479,7 +4479,7 @@ members:
     country: France
     departement_name: Moselle
     departement_num: '57'
-    email: ''
+    email: m.weber@senat.fr
     first_name: "Micha\xEBl"
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -4493,7 +4493,7 @@ members:
     country: France
     departement_name: Nord
     departement_num: '59'
-    email: ''
+    email: g.cambier@senat.fr
     first_name: Guislain
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -4507,7 +4507,7 @@ members:
     country: France
     departement_name: Val-d'Oise
     departement_num: '95'
-    email: ''
+    email: p.barros@senat.fr
     first_name: Pierre
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -4521,7 +4521,7 @@ members:
     country: France
     departement_name: Nord
     departement_num: '59'
-    email: ''
+    email: null
     first_name: Joshua
     group_abv: NI
     group_name: "R\xE9union administrative des S\xE9nateurs ne figurant sur la liste\
@@ -4536,7 +4536,7 @@ members:
     country: France
     departement_name: Val-d'Oise
     departement_num: '95'
-    email: ''
+    email: d.fargeot@senat.fr
     first_name: Daniel
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -4550,7 +4550,7 @@ members:
     country: France
     departement_name: Nord
     departement_num: '59'
-    email: ''
+    email: mc.lermytte@senat.fr
     first_name: Marie-Claude
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -4564,7 +4564,7 @@ members:
     country: France
     departement_name: Paris
     departement_num: '75'
-    email: ''
+    email: null
     first_name: Ian
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -4578,7 +4578,7 @@ members:
     country: France
     departement_name: Paris
     departement_num: '75'
-    email: ''
+    email: null
     first_name: Colombe
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -4592,7 +4592,7 @@ members:
     country: France
     departement_name: Paris
     departement_num: '75'
-    email: ''
+    email: mc.carrere-gee@senat.fr
     first_name: Marie-Claire
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4606,7 +4606,7 @@ members:
     country: France
     departement_name: Paris
     departement_num: '75'
-    email: ''
+    email: a.evren@senat.fr
     first_name: "Agn\xE8s"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4620,7 +4620,7 @@ members:
     country: France
     departement_name: Paris
     departement_num: '75'
-    email: ''
+    email: null
     first_name: Antoinette
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -4634,7 +4634,7 @@ members:
     country: France
     departement_name: Paris
     departement_num: '75'
-    email: ''
+    email: y.jadot@senat.fr
     first_name: Yannick
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -4648,7 +4648,7 @@ members:
     country: France
     departement_name: Paris
     departement_num: '75'
-    email: ''
+    email: a.souyris@senat.fr
     first_name: Anne
     group_abv: GEST
     group_name: "Groupe \xC9cologiste - Solidarit\xE9 et Territoires"
@@ -4662,7 +4662,7 @@ members:
     country: France
     departement_name: Paris
     departement_num: '75'
-    email: ''
+    email: f.szpiner@senat.fr
     first_name: Francis
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4676,7 +4676,7 @@ members:
     country: France
     departement_name: Martinique
     departement_num: '972'
-    email: ''
+    email: null
     first_name: "Fr\xE9d\xE9ric"
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -4691,7 +4691,7 @@ members:
     country: France
     departement_name: Guadeloupe
     departement_num: '971'
-    email: ''
+    email: s.nadille@senat.fr
     first_name: Solanges
     group_abv: LREM
     group_name: "Groupe Rassemblement des d\xE9mocrates, progressistes et ind\xE9\
@@ -4706,7 +4706,7 @@ members:
     country: France
     departement_name: Vienne
     departement_num: '86'
-    email: ''
+    email: mj.bellamy@senat.fr
     first_name: Marie-Jeanne
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4720,7 +4720,7 @@ members:
     country: France
     departement_name: "Fran\xE7ais \xE9tablis hors de France (S\xE9rie 2)"
     departement_num: '997'
-    email: ''
+    email: s.briante-guillemont@senat.fr
     first_name: Sophie
     group_abv: RDSE
     group_name: "Groupe du Rassemblement D\xE9mocratique et Social Europ\xE9en"
@@ -4734,7 +4734,7 @@ members:
     country: France
     departement_name: Tarn
     departement_num: '81'
-    email: ''
+    email: ml.housseau@senat.fr
     first_name: Marie-Lise
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -4748,7 +4748,7 @@ members:
     country: France
     departement_name: Ille-et-Vilaine
     departement_num: '35'
-    email: ''
+    email: as.patru@senat.fr
     first_name: Anne-Sophie
     group_abv: UC
     group_name: Groupe Union Centriste
@@ -4762,7 +4762,7 @@ members:
     country: France
     departement_name: Nord
     departement_num: '59'
-    email: ''
+    email: a.basquin@senat.fr
     first_name: Alexandre
     group_abv: CRC
     group_name: "Groupe Communiste R\xE9publicain Citoyen et \xC9cologiste - Kanaky"
@@ -4776,7 +4776,7 @@ members:
     country: France
     departement_name: Alpes-Maritimes
     departement_num: '06'
-    email: ''
+    email: jm.delia@senat.fr
     first_name: Jean-Marc
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4790,7 +4790,7 @@ members:
     country: France
     departement_name: Manche
     departement_num: '50'
-    email: ''
+    email: d.margueritte@senat.fr
     first_name: David
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4804,7 +4804,7 @@ members:
     country: France
     departement_name: Bas-Rhin
     departement_num: '67'
-    email: ''
+    email: m.sene@senat.fr
     first_name: Marc
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4818,7 +4818,7 @@ members:
     country: France
     departement_name: "Sa\xF4ne-et-Loire"
     departement_num: '71'
-    email: ''
+    email: p.matray@senat.fr
     first_name: Paulette
     group_abv: SOC
     group_name: "Groupe Socialiste, \xC9cologiste et R\xE9publicain"
@@ -4832,7 +4832,7 @@ members:
     country: France
     departement_name: Loire-Atlantique
     departement_num: '44'
-    email: ''
+    email: mp.bessin-guerin@senat.fr
     first_name: Marie-Pierre
     group_abv: RTLI
     group_name: "Groupe Les Ind\xE9pendants - R\xE9publique et Territoires"
@@ -4846,7 +4846,7 @@ members:
     country: France
     departement_name: "Dr\xF4me"
     departement_num: '26'
-    email: ''
+    email: mp.mouton@senat.fr
     first_name: Marie-Pierre
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4860,7 +4860,7 @@ members:
     country: France
     departement_name: Yvelines
     departement_num: '78'
-    email: ''
+    email: g.larcher@senat.fr
     first_name: "G\xE9rard"
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4874,7 +4874,7 @@ members:
     country: France
     departement_name: "Haute-Sa\xF4ne"
     departement_num: '70'
-    email: ''
+    email: a.joyandet@senat.fr
     first_name: Alain
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4888,7 +4888,7 @@ members:
     country: France
     departement_name: Hauts-de-Seine
     departement_num: '92'
-    email: ''
+    email: r.karoutchi@senat.fr
     first_name: Roger
     group_abv: UMP
     group_name: "Groupe Les R\xE9publicains"
@@ -4896,4 +4896,4 @@ members:
     ref: 99004R
 metadata:
   count: 348
-  last_updated: '2026-01-23T11:08:36.334801'
+  last_updated: '2026-02-04T00:29:08.165383'
