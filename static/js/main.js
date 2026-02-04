@@ -10,7 +10,7 @@ let suggestionsTimer = null;
 
 const electedType = {}
 const addressData = {};
-let departements = null;
+const departements = new Map();
 
 document.addEventListener("DOMContentLoaded", async function() {
 
@@ -23,30 +23,13 @@ document.addEventListener("DOMContentLoaded", async function() {
 		alert("Erreur lors du chargement des données des circonscriptions");
 	}
 
-	const departementsUnsorted = new Map();
 	// construct additional maps for selection
-	Object.values(window.siteData.deputies).forEach(deputy => {
-		if (deputy.departement_num && !departementsUnsorted.get(deputy.departement_num)) {
-			departementsUnsorted.set(deputy.departement_num, deputy.departement_name);
-		}
-	});
-	// sort it
-	departements = new Map([...departementsUnsorted].sort((a, b) => a[1].localeCompare(b[1])));
-
+	setDepartementsMap();
+	setDepartementsSelect("deputies");
 	electedType["deputies"] = window.siteData.deputies;
 	electedType["senators"] = window.siteData.senators;
 	electedType["europals"] = window.siteData.europals;
 	selectedElectedKey = "deputies";
-
-	const deps_select = document.getElementById("deps-select");
-	departements
-		.forEach((name, num, _) => {
-			const option = document.createElement("option");
-			option.value = num;
-			option.textContent = `${name} - ${num}`;
-			deps_select.appendChild(option);
-		}
-		);
 
 	// Show campaign info when campaigns code selected
 	document.getElementById("campaign").addEventListener("change", function() {
@@ -71,6 +54,7 @@ document.addEventListener("DOMContentLoaded", async function() {
 
 				if (btn.dataset.value) {
 					selectedElectedKey = btn.dataset.value;
+					setDepartementsSelect(selectedElectedKey);
 				}
 			});
 		}
@@ -80,7 +64,7 @@ document.addEventListener("DOMContentLoaded", async function() {
 	document.getElementById("find-elected-address").addEventListener("click", findElectedFromAddress);
 	document.getElementById("find-elected-subdivision").addEventListener("click", function() {
 		resetData();
-		findElectedFromSubdivision(deps_select.value);
+		findElectedFromSubdivision(document.getElementById("deps-select").value);
 	});
 
 	document.getElementById("address").addEventListener("input", function(e) {
@@ -122,6 +106,44 @@ document.addEventListener("DOMContentLoaded", async function() {
 	// Send email
 	document.getElementById("send-email").addEventListener("click", sendEmail);
 });
+
+function setDepartementsMap() {
+	const departementsUnsortedDeputies = new Map();
+	Object.values(window.siteData.deputies).forEach(deputy => {
+		if (deputy.departement_num && !departementsUnsortedDeputies.get(deputy.departement_num)) {
+			departementsUnsortedDeputies.set(deputy.departement_num, deputy.departement_name);
+		}
+	});
+
+	const departementsUnsortedSenators = new Map();
+	Object.values(window.siteData.senators).forEach(senator => {
+		if (senator.departement_num && !departementsUnsortedSenators.get(senator.departement_num)) {
+			departementsUnsortedSenators.set(senator.departement_num, senator.departement_name);
+		}
+	});
+	departements.set("deputies", new Map([...departementsUnsortedDeputies].sort((a, b) => a[1].localeCompare(b[1]))));
+	departements.set("senators", new Map([...departementsUnsortedSenators].sort((a, b) => a[1].localeCompare(b[1]))));
+}
+
+function setDepartementsSelect(key) {
+	const deps_select = document.getElementById("deps-select");
+	const oldValue = deps_select.value;
+	while (deps_select.lastElementChild) {
+		deps_select.removeChild(deps_select.lastElementChild);
+	}
+	departements
+		.get(key)
+		.forEach((name, num, _) => {
+			const option = document.createElement("option");
+			option.value = num;
+			option.textContent = `${name} - ${num}`;
+			deps_select.appendChild(option);
+		}
+		);
+	if (departements.get(key).has(oldValue)) {
+		deps_select.value = oldValue;
+	}
+}
 
 function resetData() {
 
@@ -235,7 +257,13 @@ function displayElected(electeds) {
 	electeds.forEach(elected => {
 		electedInfo.insertAdjacentText("beforeend", `${elected.first_name} ${elected.last_name} (`);
 		electedInfo.insertAdjacentElement("beforeend", createTooltipForGroup(elected.group_abv, elected.group_name));
-		electedInfo.insertAdjacentText("beforeend", ")");
+		electedInfo.insertAdjacentText("beforeend", ") ");
+		if (!elected.email) {
+			const italicInfo = document.createElement("span");
+			italicInfo.className = "italic";
+			italicInfo.appendChild(document.createTextNode("Adresse e-mail inconnue"));
+			electedInfo.insertAdjacentElement("beforeend", italicInfo);
+		}
 		electedInfo.insertAdjacentElement("beforeend", document.createElement("br"));
 	});
 
@@ -420,23 +448,30 @@ function sendEmail() {
 	const campaignKey = document.getElementById("campaign").value;
 
 	if (!campaignKey) {
-		alert("Veuillez sélectionner une campagne");
+		alert("Veuillez sélectionner une campagne.");
 		return;
 	}
 
 	if (selectedElected.length == 0) {
-		alert("Veuillez d\"abord trouver au moins un.e élu.e");
+		alert("Veuillez sélectionner au moins un.e élu.e.");
+		return;
+	}
+
+	const selectedElectedWithMail = selectedElected.filter(elected => elected.email);
+	if (selectedElectedWithMail.length == 0) {
+		alert("Veuillez sélectionner au moins un.e élu.e ayant une adresse e-mail connue");
 		return;
 	}
 
 	const campaign = window.siteData.campaigns[campaignKey];
-	const names = selectedElected.map(elected => `${elected.civ} ${elected.first_name} ${elected.last_name}`).join(", ");
+	console.log(selectedElectedWithMail);
+	const names = selectedElectedWithMail.map(elected => `${elected.civ} ${elected.first_name} ${elected.last_name}`).join(", ");
 	const body = campaign.body
 		.replace("[CIRCONSCRIPTION]", locationInformation) // temp
 		.replace("[ELU]", names)
 		.replace("[INSTITUTION]", institutionInformation);
 
-	const mailtoLink = `mailto:${selectedElected
+	const mailtoLink = `mailto:${selectedElectedWithMail
 		.map(elected => elected.email)
 		.join(",")}?subject=${encodeURIComponent(campaign.subject)}&body=${encodeURIComponent(body)}`;
 

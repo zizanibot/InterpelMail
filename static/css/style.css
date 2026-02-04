@@ -232,3 +232,7 @@ form button:hover {
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+.italic {
+	font-style: italic;
+}
